@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:57:36.988+01:00</Created>
+        <LastChange>2020-01-30T16:16:06.385+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488431" pageNr="16" tsid="23093256" status="GT" userId="408" imgUrl="https://files.transkribus.eu/Get?id=CJJRVRFVJNZPRGIVPKMYQGVS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SGYVXIECNWMSVZDCUBMZHYXP" imageId="8769122"/>
+    </Metadata>
+    <Page imageFilename="15.jpg" imageWidth="7216" imageHeight="5412">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454313233" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 7216,0 7216,5412 0,5412"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

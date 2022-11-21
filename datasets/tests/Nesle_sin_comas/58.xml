@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:58:38.298+01:00</Created>
+        <LastChange>2020-11-19T19:49:53.785+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488475" pageNr="59" tsid="49296812" status="IN_PROGRESS" userId="52517" imgUrl="https://files.transkribus.eu/Get?id=DTTMLIOQHXJIDJQCBBXOWKFQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QDGUHKVTEREJWOMULTQKEMVB" imageId="8769166"/>
+    </Metadata>
+    <Page imageFilename="58.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454374911" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="632,632 632,3162 2578,3162 2578,632"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1471,812 1975,824 1985,572 1481,553 1471,812"/>
+                <Baseline points="1486,708 1968,716"/>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="681,944 1715,927 2226,972 2479,924 2480,844 835,857 728,791 683,802 681,944"/>
+                <Baseline points="694,896 2466,934"/>
+                <TextEquiv conf="0.6164713">
+                    <Unicode>Jehant et a ses hoirs contre toutes genz ; et se il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="694,1086 967,1123 1752,1082 2534,1113 2589,1095 2591,973 2516,943 2437,1015 2124,953 1954,1002 1710,930 1594,987 1430,930 1323,988 1255,939 1151,985 991,935 696,977 694,1086"/>
+                <Baseline points="706,1052 2578,1084"/>
+                <TextEquiv conf="0.50192285">
+                    <Unicode>defailloit del garantir Ancous de Alerey se est estaubliz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="659,1268 1235,1235 1724,1286 1847,1243 2376,1305 2547,1256 2549,1133 2166,1174 2073,1120 1804,1153 1711,1095 1585,1166 1401,1123 951,1162 661,1126 659,1268"/>
+                <Baseline points="672,1212 2536,1238"/>
+                <TextEquiv conf="0.83373934">
+                    <Unicode>per devant nos pleges et detres an la main au dit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="677,1397 1127,1394 1315,1460 1414,1414 1475,1447 1850,1406 2540,1425 2541,1316 2211,1346 1938,1296 1846,1328 1166,1279 1029,1316 678,1267 677,1397"/>
+                <Baseline points="688,1368 2528,1390"/>
+                <TextEquiv conf="0.6063313">
+                    <Unicode>Jehant ou a ses hoirs de trente livres de tornois</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="659,1569 966,1532 1504,1593 1616,1545 2384,1587 2504,1575 2506,1457 2183,1484 2078,1433 1978,1469 1418,1422 1309,1458 1072,1397 967,1452 782,1397 661,1418 659,1569"/>
+                <Baseline points="672,1518 2492,1542"/>
+                <TextEquiv conf="0.6946512">
+                    <Unicode>por lou defaut de la dite garantie ; et les porroit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="666,1737 862,1691 1088,1731 1918,1704 2383,1759 2483,1721 2485,1636 2353,1594 2070,1638 1632,1588 986,1604 768,1541 669,1584 666,1737"/>
+                <Baseline points="680,1670 2472,1700"/>
+                <TextEquiv conf="0.69462895">
+                    <Unicode>lever li diz Jehanz ou sui hoir del dit Ancous ou de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="651,1867 847,1837 1200,1891 1405,1853 1963,1914 2116,1874 2493,1897 2494,1798 2266,1755 2193,1794 2087,1758 1870,1783 1635,1724 1465,1767 1202,1728 979,1784 787,1730 652,1752 651,1867"/>
+                <Baseline points="664,1824 2482,1854"/>
+                <TextEquiv conf="0.7524867">
+                    <Unicode>ses hoirs por lou dit defaut ; et toutes ces dites</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="653,2047 880,1998 1139,2050 1956,2053 2021,2016 2211,2058 2426,2029 2517,2081 2562,2077 2564,1933 2408,1961 2218,1917 2147,1953 2059,1885 1982,1943 1832,1897 1306,1938 1227,1878 1052,1921 706,1886 656,1889 653,2047"/>
+                <Baseline points="666,1966 2550,2012"/>
+                <TextEquiv conf="0.6301285">
+                    <Unicode>choses li diz Guillermins et li diz Ancous ont promis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="647,2153 2373,2206 2503,2192 2505,2100 2166,2102 1995,2041 1855,2087 1471,2081 1267,2019 1101,2088 944,2037 701,2055 649,2068 647,2153"/>
+                <Baseline points="660,2124 2492,2172"/>
+                <TextEquiv conf="0.5974731">
+                    <Unicode>a tenir li diz Guillermins per son seirement dessus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="658,2310 1786,2329 1896,2381 2111,2341 2481,2365 2517,2225 1361,2244 935,2232 858,2185 660,2216 658,2310"/>
+                <Baseline points="670,2284 2502,2320"/>
+                <TextEquiv conf="0.4932636">
+                    <Unicode>dit et li diz Ancous an bone foi senz aler ne faire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="648,2478 920,2459 1130,2519 1223,2475 1427,2520 2156,2495 2242,2540 2547,2510 2551,2371 1444,2400 1090,2360 987,2402 757,2361 650,2391 648,2478"/>
+                <Baseline points="660,2440 2536,2486"/>
+                <TextEquiv conf="0.41290283">
+                    <Unicode>a aler ancontre per aux ne per autrui ; et ont quit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="642,2628 822,2669 1046,2619 1221,2665 2350,2671 2504,2652 2507,2558 1754,2512 1642,2563 1447,2519 646,2527 642,2628"/>
+                <Baseline points="656,2590 2492,2636"/>
+                <TextEquiv conf="0.60495555">
+                    <Unicode>tées toutes barres per quoi il porroient aler ou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="625,2766 1059,2823 1529,2791 1886,2839 2469,2830 2487,2698 2402,2679 2313,2736 1999,2682 1153,2694 1043,2641 737,2706 627,2674 625,2766"/>
+                <Baseline points="636,2752 2472,2792"/>
+                <TextEquiv conf="0.49465203">
+                    <Unicode>faire a aler ancontre ces dites choses ; et se il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="640,2954 787,2929 1096,3012 1359,2952 1485,2991 1538,2956 1820,3003 1900,2967 2466,2995 2491,2908 2140,2900 2033,2855 1975,2898 1781,2851 1325,2869 985,2802 887,2849 643,2834 640,2954"/>
+                <Baseline points="652,2910 2478,2960"/>
+                <TextEquiv conf="0.68190783">
+                    <Unicode>aloient ou faisoient a aler ancontre il nos ont</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="619,3136 1285,3157 1617,3117 2249,3161 2460,3141 2462,3072 2263,3024 2181,3071 2050,3025 1941,3062 1737,3012 1613,3065 883,2957 623,3002 619,3136"/>
+                <Baseline points="632,3078 2448,3124"/>
+                <TextEquiv conf="0.5534436">
+                    <Unicode>donei pooir de aux contreindre as dessus dites</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2956,559 2956,3169 4816,3169 4816,559"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="2967,800 4675,838 4795,824 4797,734 4327,696 4026,742 3398,682 3263,738 3099,661 2970,670 2967,800"/>
+                <Baseline points="2980,770 4784,798"/>
+                <TextEquiv conf="0.6594471">
+                    <Unicode>choses tenir et de aux gaigier senz plait senz fuyte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:1;}">
+                <Coords points="2970,961 4049,937 4676,979 4796,971 4796,881 3262,884 3175,809 2996,799 2970,961"/>
+                <Baseline points="2982,926 4784,930"/>
+                <TextEquiv conf="0.6000813">
+                    <Unicode>senz asloigne ausic cum de chose que ait estei jugié</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:2;}">
+                <Coords points="2974,1101 3500,1121 3835,1078 3931,1116 4753,1121 4800,1107 4801,1034 4381,1034 4186,957 2992,957 2974,1101"/>
+                <Baseline points="2986,1082 4788,1080"/>
+                <TextEquiv conf="0.7071847">
+                    <Unicode>per nos an nostre cort . Et que ce soit plus ferme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:3;}">
+                <Coords points="2966,1260 3381,1239 3503,1275 3654,1234 4356,1283 4632,1238 4768,1274 4790,1121 3586,1102 3454,1181 3310,1194 3193,1127 2983,1121 2966,1260"/>
+                <Baseline points="2978,1234 4778,1236"/>
+                <TextEquiv>
+                    <Unicode>chose et plus estauble per la requeste del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:4;}">
+                <Coords points="2977,1412 3056,1450 3127,1408 3783,1399 4741,1430 4764,1270 4253,1262 4172,1301 3786,1260 3706,1295 3077,1245 2978,1261 2977,1412"/>
+                <Baseline points="2988,1386 4752,1390"/>
+                <TextEquiv conf="0.7255413">
+                    <Unicode>dit Guillermin et del dit Ancous nos avons mis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:5;}">
+                <Coords points="2956,1559 3471,1585 3967,1537 4091,1583 4205,1549 4732,1578 4775,1562 4777,1416 2990,1423 2956,1559"/>
+                <Baseline points="2968,1538 4764,1548"/>
+                <TextEquiv conf="0.7286344">
+                    <Unicode>nostre seaul an cels presentes letres . Ce fu fait</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:6;}">
+                <Coords points="2976,1729 3212,1735 3283,1693 3445,1753 4079,1721 4248,1773 4430,1699 4522,1749 4783,1746 4784,1663 4098,1662 3910,1578 3067,1567 2977,1595 2976,1729"/>
+                <Baseline points="2988,1696 4772,1702"/>
+                <TextEquiv conf="0.5151136">
+                    <Unicode>an l’an nostre Signour m . cc . sexante et trois</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:7;}">
+                <Coords points="4784,1912 2966,1895 2960,1759 4777,1766 4784,1912"/>
+                <Baseline points="2984,1852 4766,1848"/>
+                <TextEquiv>
+                    <Unicode>el mois de marz .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:8;}">
+                <Coords points="3491,2041 4158,2028 4192,1901 3492,1883 3491,2041"/>
+                <Baseline points="3504,2006 4180,2016"/>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:9;}">
+                <Coords points="2997,2358 3358,2331 3840,2379 3909,2328 4090,2360 4211,2323 4755,2364 4828,2337 4830,2165 4251,2277 4139,2207 3882,2264 3698,2229 3344,2261 3040,2081 3000,2094 2997,2358"/>
+                <Baseline points="3010,2312 4816,2328"/>
+                <TextEquiv conf="0.44893318">
+                    <Unicode>A touz cels qui cels presentes letres verront nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:10;}">
+                <Coords points="2943,2549 3363,2497 3593,2544 4183,2519 4326,2565 4459,2522 4567,2556 4652,2503 4824,2540 4825,2446 3707,2455 3534,2357 3225,2359 3171,2403 2945,2367 2943,2549"/>
+                <Baseline points="2956,2482 4812,2496"/>
+                <TextEquiv conf="0.51194113">
+                    <Unicode>Jehant doiens de Saint Vynemer faisons a savoir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:11;}">
+                <Coords points="2976,2672 3128,2632 3355,2697 3542,2637 3852,2705 4249,2669 4502,2725 4786,2659 4788,2525 4300,2573 4218,2525 3631,2553 3123,2498 2978,2562 2976,2672"/>
+                <Baseline points="2988,2646 4774,2656"/>
+                <TextEquiv conf="0.7852273">
+                    <Unicode>que Guillermins de Ruygney escuiers filz mon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:12;}">
+                <Coords points="2966,2847 3437,2840 3513,2800 3618,2860 3772,2810 3866,2849 3932,2816 3993,2855 4612,2859 4797,2814 4798,2701 4624,2673 4531,2724 4291,2733 4209,2687 4041,2721 3627,2665 3198,2708 2967,2663 2966,2847"/>
+                <Baseline points="2978,2800 4784,2808"/>
+                <TextEquiv conf="0.5203222">
+                    <Unicode>signour Guillaume de Ruygney at reconehu per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:13;}">
+                <Coords points="2968,2972 3521,3014 4012,2987 4103,3030 4446,2967 4617,3025 4825,2965 4825,2892 4442,2837 3939,2888 3801,2832 3706,2881 3572,2833 3096,2820 2969,2847 2968,2972"/>
+                <Baseline points="2980,2956 4812,2978"/>
+                <TextEquiv conf="0.70381504">
+                    <Unicode>devant nos de sa bone voluntei que il at vendu a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:14;}">
+                <Coords points="2950,3200 3384,3202 3466,3157 3963,3236 4270,3165 4731,3198 4802,3166 4802,3017 4548,2986 4437,3031 4291,2995 4086,3031 3909,2988 3836,3033 3615,2990 3504,3042 3271,2985 2979,2995 2950,3200"/>
+                <Baseline points="2962,3138 4790,3134"/>
+                <TextEquiv conf="0.47536218">
+                    <Unicode>Jehant signour de Neelles escuyer lou quart</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>choses tenir et de aux gaigier senz plait senz fuyte,&#13;
+senz asloigne ausic cum de chose que ait estei jugié&#13;
+per nos an nostre cort . Et que ce soit plus ferme&#13;
+chose et plus estauble per la requeste del&#13;
+dit Guillermin et del dit Ancous nos avons mis&#13;
+nostre seaul an cels presentes letres . Ce fu fait&#13;
+an l’an nostre Signour m . cc . sexante et trois,&#13;
+el mois de marz.&#13;
+&#13;
+A touz cels qui cels presentes letres verront nos,&#13;
+Jehant doiens de Saint Vynemer faisons a savoir&#13;
+que Guillermins de Ruygney escuiers filz mon&#13;
+signour Guillaume de Ruygney at reconehu per&#13;
+devant nos de sa bone voluntei que il at vendu a&#13;
+Jehant signour de Neelles escuyer lou quart</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:2;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

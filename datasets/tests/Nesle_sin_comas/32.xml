@@ -1,0 +1,280 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:58:01.596+01:00</Created>
+        <LastChange>2020-02-04T18:03:05.533+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488449" pageNr="33" tsid="23373802" status="IN_PROGRESS" userId="52231" imgUrl="https://files.transkribus.eu/Get?id=MJTSSYNVALSLPHVFUXEVUPAF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YAPRZPEPZGRYHNCKVYBTKZOS" imageId="8769140"/>
+    </Metadata>
+    <Page imageFilename="32.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454332605" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="4" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="676,895 676,3224 2630,3224 2630,895"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="722,997 1455,984 1747,1042 2297,1013 2554,1059 2598,1035 2600,772 2513,759 2281,912 2209,865 2010,917 1777,859 1133,919 834,868 723,896 722,997"/>
+                <Baseline points="734,972 2586,976"/>
+                <TextEquiv conf="0.48391223">
+                    <Unicode>dum suorum si forte contingerit eis evenire in villa de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="731,1147 2587,1191 2629,1078 2030,1021 1759,1075 1533,1031 1419,1082 1099,1022 732,1045 731,1147"/>
+                <Baseline points="744,1120 2616,1144"/>
+                <TextEquiv conf="0.60435337">
+                    <Unicode>Vilebarney ; teneor vero et promisi eisdem ea que ex</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="712,1303 1111,1336 1341,1295 1490,1340 2019,1295 2370,1345 2643,1319 2644,1237 2054,1161 1817,1214 1292,1169 973,1214 870,1169 712,1216 712,1303"/>
+                <Baseline points="724,1280 2630,1302"/>
+                <TextEquiv conf="0.6480286">
+                    <Unicode>cambiavi eis in dicta villa contra omnes bona fide</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="710,1494 828,1450 1322,1481 1588,1435 2205,1477 2270,1521 2581,1492 2628,1401 1986,1371 1907,1322 1586,1370 890,1337 711,1366 710,1494"/>
+                <Baseline points="722,1438 2614,1444"/>
+                <TextEquiv conf="0.56894106">
+                    <Unicode>garantire ; et sciendum est quod neque ego neque heredes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="706,1632 1176,1589 2386,1638 2604,1607 2605,1525 2140,1500 1961,1546 1535,1485 1387,1544 1241,1472 1141,1531 867,1465 707,1518 706,1632"/>
+                <Baseline points="718,1592 2592,1598"/>
+                <TextEquiv conf="0.44092673">
+                    <Unicode>mei homines illos de Colonmerio qui sunt de excam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="714,1756 854,1745 971,1807 1290,1755 1678,1759 1796,1814 2370,1772 2592,1822 2611,1637 2022,1659 1859,1607 1641,1687 1513,1639 1257,1678 778,1646 715,1662 714,1756"/>
+                <Baseline points="726,1748 2596,1762"/>
+                <TextEquiv conf="0.55555207">
+                    <Unicode>bio neque heredes ipsorum neque alios homines neque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="694,1940 981,1961 1314,1910 2302,1973 2549,1951 2551,1818 2044,1856 1671,1773 1007,1833 697,1778 694,1940"/>
+                <Baseline points="708,1888 2536,1922"/>
+                <TextEquiv conf="0.50902104">
+                    <Unicode>heredes ipsorum quos dicti Andreas et Matheus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="687,2063 1215,2046 1472,2093 1767,2056 2521,2114 2640,2100 2641,2013 2392,1954 1489,1999 1389,1941 958,2002 750,1934 690,1940 687,2063"/>
+                <Baseline points="700,2030 2628,2076"/>
+                <TextEquiv conf="0.4810904">
+                    <Unicode>fratres in dominio suo tenebant in dicta villa tem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="684,2235 2391,2270 2567,2233 2568,2154 700,2122 684,2235"/>
+                <Baseline points="696,2196 2556,2224"/>
+                <TextEquiv conf="0.40412125">
+                    <Unicode>pore excambii super nos in aliquo loco possumus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="682,2377 1423,2356 1490,2396 2567,2428 2570,2290 2348,2310 2284,2270 2058,2321 1560,2248 1388,2303 1230,2254 1017,2302 827,2245 684,2295 682,2377"/>
+                <Baseline points="696,2338 2556,2370"/>
+                <TextEquiv conf="0.35265043">
+                    <Unicode>nec debemus de cetero retinere ; et maxime in ea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="687,2523 1212,2577 1434,2530 1564,2576 2625,2587 2641,2467 2461,2425 2371,2467 1628,2475 1335,2420 1211,2476 940,2375 814,2436 689,2420 687,2523"/>
+                <Baseline points="700,2510 2628,2534"/>
+                <TextEquiv conf="0.46484676">
+                    <Unicode>dem villa non possumus nec debemus aliquid habere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="697,2688 931,2750 1372,2685 2563,2750 2586,2627 2306,2568 1930,2628 1783,2579 1684,2619 1448,2572 1337,2622 1004,2577 717,2613 697,2688"/>
+                <Baseline points="710,2672 2574,2676"/>
+                <TextEquiv conf="0.4069836">
+                    <Unicode>nec reclamare nisi forte de novo a dominis dic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="692,2870 1460,2841 1852,2890 2183,2857 2269,2901 2576,2880 2577,2800 2346,2758 1781,2802 1389,2727 1118,2790 694,2743 692,2870"/>
+                <Baseline points="706,2838 2564,2852"/>
+                <TextEquiv conf="0.36331484">
+                    <Unicode>te ville acquisierimus . Sciendum est preterea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="680,3035 1026,3000 1538,3063 1855,3021 2390,3060 2552,3037 2554,2909 2404,2957 2166,2899 1615,2966 1551,2921 1116,2942 1040,2890 780,2885 682,2917 680,3035"/>
+                <Baseline points="692,2994 2540,3020"/>
+                <TextEquiv conf="0.51924604">
+                    <Unicode>quod sepedictus Andreas dominus de Neelles illud quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="663,3206 1859,3189 1984,3244 2233,3181 2321,3245 2413,3197 2507,3227 2508,3131 2236,3092 2108,3129 1884,3064 1787,3109 1624,3076 1230,3130 1062,3063 955,3120 763,3080 663,3120 663,3206"/>
+                <Baseline points="676,3166 2496,3188"/>
+                <TextEquiv conf="0.44001487">
+                    <Unicode>sibi excambiavi in sepedicta villa et in finagio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dum suorum si forte contingerit eis evenire in villa de&#13;
+Vilebarney ; teneor vero et promisi eisdem ea que ex&#13;
+cambiavi eis in dicta villa contra omnes bona fide&#13;
+garantire ; et sciendum est quod neque ego neque heredes&#13;
+mei homines illos de Colonmerio qui sunt de excam&#13;
+bio neque heredes ipsorum neque alios homines neque&#13;
+heredes ipsorum quos dicti Andreas et Matheus&#13;
+fratres in dominio suo tenebant in dicta villa tem&#13;
+pore excambii super nos in aliquo loco possumus&#13;
+nec debemus de cetero retinere ; et maxime in ea&#13;
+dem villa non possumus nec debemus aliquid habere&#13;
+nec reclamare nisi forte de novo a dominis dic&#13;
+te ville acquisierimus . Sciendum est preterea&#13;
+quod sepedictus Andreas dominus de Neelles illud quod&#13;
+sibi excambiavi in sepedicta villa et in finagio</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2768,2292 2768,2442 2828,2442 2828,2292"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="2808,1852 2808,2018 3276,2004 3272,1836"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:3;}">
+            <Coords points="2910,657 2910,3234 4864,3234 4864,657"/>
+            <TextLine id="r4l3" custom="readingOrder {index:0;}">
+                <Coords points="2958,1019 3495,1059 3841,1027 3987,1074 4345,1020 4573,1088 4814,1052 4816,953 3149,888 2960,930 2958,1019"/>
+                <Baseline points="2970,990 4802,1016"/>
+                <TextEquiv conf="0.44421682">
+                    <Unicode>ejusdem de me tenebit in feodum ligium et dictus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:1;}">
+                <Coords points="2966,1181 4403,1223 4554,1179 4777,1232 4876,1227 4880,1085 4019,1060 3905,1103 3518,1043 3413,1093 2970,1047 2966,1181"/>
+                <Baseline points="2980,1136 4864,1188"/>
+                <TextEquiv conf="0.37466943">
+                    <Unicode>Matheus frater suus partem suam de ipso Andrea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:2;}">
+                <Coords points="2975,1334 3424,1340 3523,1392 4056,1330 4238,1385 4691,1398 4863,1384 4868,1225 4671,1281 4369,1210 4035,1255 3047,1194 2979,1221 2975,1334"/>
+                <Baseline points="2988,1294 4852,1354"/>
+                <TextEquiv conf="0.5118171">
+                    <Unicode>similiter in feodum ligium tenebit . Et ut hoc ra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:3;}">
+                <Coords points="2959,1501 4380,1483 4468,1538 4801,1508 4835,1422 3796,1372 3735,1412 3396,1357 3077,1407 3010,1374 2961,1395 2959,1501"/>
+                <Baseline points="2972,1448 4820,1492"/>
+                <TextEquiv conf="0.1980107">
+                    <Unicode>tum et futurum in posterum habeatur presentes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:4;}">
+                <Coords points="2954,1631 3267,1675 3393,1627 4206,1642 4721,1698 4828,1654 4831,1534 3729,1522 3658,1564 3420,1500 2957,1501 2954,1631"/>
+                <Baseline points="2968,1582 4816,1630"/>
+                <TextEquiv conf="0.7480813">
+                    <Unicode>litteras sigilli mei munimine roboravi . Actum anno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:5;}">
+                <Coords points="2940,1795 4847,1814 4870,1718 4543,1671 4002,1703 3938,1660 3587,1717 3497,1665 3210,1657 2941,1703 2940,1795"/>
+                <Baseline points="2952,1764 4856,1794"/>
+                <TextEquiv conf="0.19025822">
+                    <Unicode>gratie mo cco quadragesimo secundo prima die mensis aprilis .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l11" custom="readingOrder {index:6;}">
+                <Coords points="3327,2023 3951,2021 3953,1855 3329,1850 3327,2023"/>
+                <Baseline points="3340,2012 3940,2018"/>
+            </TextLine>
+            <TextLine id="r4l13" custom="readingOrder {index:7;}">
+                <Coords points="2871,2267 3239,2242 3404,2313 3794,2251 4444,2316 4780,2267 4781,2185 4454,2147 4355,2187 4225,2138 4155,2180 4052,2120 3843,2182 3728,2143 3600,2174 3392,2096 3289,2164 3111,2124 3272,1825 2861,1813 2871,2267"/>
+                <Baseline points="2892,2215 4768,2258"/>
+                <TextEquiv conf="0.5528676">
+                    <Unicode>Nos Hugues dux de Borgoigne faizons</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l14" custom="readingOrder {index:8;}">
+                <Coords points="2931,2414 4219,2414 4375,2454 4547,2412 4649,2465 4829,2428 4830,2358 4530,2296 4392,2338 4260,2294 4141,2350 3997,2288 3760,2319 3554,2276 3249,2337 2956,2265 2931,2414"/>
+                <Baseline points="2944,2374 4818,2412"/>
+                <TextEquiv conf="0.7479328">
+                    <Unicode>savoir a touz cels qui verront cels presentes letres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l15" custom="readingOrder {index:9;}">
+                <Coords points="2911,2574 3420,2566 3544,2615 3770,2552 3964,2610 4635,2574 4757,2618 4828,2588 4831,2466 4697,2528 4592,2465 4302,2473 4132,2418 3978,2420 3890,2488 3266,2425 3120,2487 2914,2454 2911,2574"/>
+                <Baseline points="2924,2528 4816,2570"/>
+                <TextEquiv conf="0.5862689">
+                    <Unicode>que cum discorde fust antre les hommes de l’aschenge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l16" custom="readingOrder {index:10;}">
+                <Coords points="2938,2710 4039,2757 4653,2722 4767,2773 4847,2763 4849,2679 4571,2616 4285,2672 4221,2612 4136,2663 3817,2660 3696,2608 3350,2641 3142,2570 2940,2625 2938,2710"/>
+                <Baseline points="2952,2674 4836,2722"/>
+                <TextEquiv conf="0.5954562">
+                    <Unicode>de Colonmiers qui furent nostre honme de une part</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l17" custom="readingOrder {index:11;}">
+                <Coords points="2935,2873 3012,2903 3201,2852 3407,2913 3502,2866 3566,2903 4404,2878 4760,2943 4799,2847 4634,2787 3932,2821 3711,2745 3170,2808 3060,2739 2937,2762 2935,2873"/>
+                <Baseline points="2948,2842 4786,2888"/>
+                <TextEquiv conf="0.7176787">
+                    <Unicode>et Jehant signor de Neelles de autre part ces dites</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l18" custom="readingOrder {index:12;}">
+                <Coords points="2896,3074 2996,3033 3687,3074 3965,3025 4285,3089 4654,3054 4830,3103 4832,2987 4494,2986 4408,2917 4314,2966 3959,2939 3872,2978 3533,2912 3346,2967 3125,2922 2898,2939 2896,3074"/>
+                <Baseline points="2910,3008 4818,3044"/>
+                <TextEquiv conf="0.8168151">
+                    <Unicode>parties ont conehu per devant nos que il ont accor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l19" custom="readingOrder {index:13;}">
+                <Coords points="2908,3215 4280,3253 4818,3219 4818,3127 4387,3092 4239,3134 4088,3071 3478,3138 3287,3087 2928,3092 2908,3215"/>
+                <Baseline points="2920,3178 4806,3198"/>
+                <TextEquiv conf="0.47591427">
+                    <Unicode>dei et pacefié antre aux an tel meniere que de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ejusdem de me tenebit in feodum ligium et dictus&#13;
+Matheus frater suus partem suam de ipso Andrea&#13;
+similiter in feodum ligium tenebit . Et ut hoc ra&#13;
+tum et futurum in posterum habeatur presentes&#13;
+litteras sigilli mei munimine roboravi . Actum anno&#13;
+gratie mo cco quadragesimo secundo prima die mensis aprilis.&#13;
+&#13;
+Nos Hugues dux de Borgoigne faizons&#13;
+savoir a touz cels qui verront cels presentes letres&#13;
+que cum discorde fust antre les hommes de l’aschenge&#13;
+de Colonmiers qui furent nostre honme de une part,&#13;
+et Jehant signor de Neelles de autre part ces dites&#13;
+parties ont conehu per devant nos que il ont accor&#13;
+dei et pacefié antre aux an tel meniere que de</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:4;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:59:32.808+01:00</Created>
+        <LastChange>2020-02-05T17:29:32.940+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488513" pageNr="93" tsid="23434992" status="IN_PROGRESS" userId="52231" imgUrl="https://files.transkribus.eu/Get?id=LDATRJGFFYANNZBHBCEBURMV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YMYPGVWIVLJCYORMODRMEMIU" imageId="8769200"/>
+    </Metadata>
+    <Page imageFilename="92.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454428084" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="796,762 796,3184 2758,3184 2758,762"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="784,866 1026,879 1218,855 1378,875 1414,856 1516,883 1715,864 1744,886 1800,859 1887,879 1909,860 2273,858 2331,880 2395,856 2533,859 2579,893 2671,874 2672,765 2434,737 2283,773 2232,744 2002,734 1946,770 1774,735 1713,772 1364,737 1174,770 917,738 784,762 784,866"/>
+                <Baseline points="796,826 2660,842"/>
+                <TextEquiv conf="0.6337387">
+                    <Unicode>de la voie de Colomiers et dous jornex qui furent Guillaume selonc leu champ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="791,1020 832,998 878,1024 956,997 1021,1022 1206,994 1276,994 1317,1023 1531,994 1630,1020 1752,993 2116,997 2137,1019 2237,997 2307,1019 2331,997 2526,1018 2567,1001 2615,1042 2652,1037 2651,882 2610,870 2504,912 2302,871 2013,905 1936,876 1846,913 1778,882 1589,906 1509,875 1467,909 1412,887 1269,922 1203,878 1101,898 1062,871 939,920 791,894 791,1020"/>
+                <Baseline points="802,976 2640,976"/>
+                <TextEquiv conf="0.41300383">
+                    <Unicode>au Boitous et un jornel qui fu Hebert leu Gifart qui sit a la voie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="790,1173 1106,1158 1287,1183 1368,1143 1511,1168 1749,1140 1877,1161 2045,1143 2137,1175 2205,1144 2355,1171 2515,1143 2627,1173 2628,1050 2533,1042 2489,1070 2325,1001 2290,1033 2137,1068 1965,1023 1856,1064 1737,1026 1385,1063 1259,1028 1172,1056 968,1053 823,1005 791,1020 790,1173"/>
+                <Baseline points="802,1116 2614,1124"/>
+                <TextEquiv conf="0.2665062">
+                    <Unicode>de Sauvise et leu champ des Broieres ; en fié et en chasemant que ce diz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="785,1296 1324,1302 1377,1331 1523,1296 1634,1316 1797,1295 1957,1323 2039,1299 2282,1320 2476,1297 2522,1331 2556,1305 2626,1330 2653,1315 2654,1174 2571,1220 2472,1224 2334,1216 2188,1164 2006,1224 1895,1184 1817,1220 1744,1195 1506,1208 1429,1164 1400,1188 1305,1166 1150,1213 1108,1184 1043,1222 985,1195 854,1202 810,1167 786,1172 785,1296"/>
+                <Baseline points="798,1276 2642,1284"/>
+                <TextEquiv conf="0.5265414">
+                    <Unicode>Gautiers et cele dite Roigne tanront deu dit Jehan et de ses hoirs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="803,1454 917,1454 949,1481 1014,1447 1140,1445 1199,1472 1267,1448 1548,1466 1621,1444 2142,1446 2259,1468 2441,1445 2589,1467 2647,1455 2647,1341 2587,1358 2458,1333 2247,1366 2140,1332 1905,1380 1771,1367 1701,1326 1631,1371 1577,1354 1536,1378 1337,1351 1308,1370 1267,1341 1187,1377 1029,1372 981,1347 908,1381 866,1357 803,1366 803,1454"/>
+                <Baseline points="816,1418 2634,1426"/>
+                <TextEquiv conf="0.48821473">
+                    <Unicode>tant commil viveront ; et ha doné en fié au dist Gautiers et a la dite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="807,1603 887,1623 1057,1580 1335,1611 1571,1588 1821,1609 1949,1588 1983,1617 2274,1621 2330,1590 2624,1606 2641,1509 2571,1526 2348,1483 2282,1522 2171,1482 2098,1508 2035,1481 1950,1525 1901,1493 1763,1514 1700,1489 1622,1535 1588,1506 1525,1527 1474,1493 1435,1510 1331,1485 1290,1511 1200,1484 1118,1515 807,1518 807,1603"/>
+                <Baseline points="820,1560 2628,1566"/>
+                <TextEquiv conf="0.46483123">
+                    <Unicode>Roigne et a lor bestes a huser de touz les husaiges que li homme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="791,1751 842,1780 920,1760 1000,1799 1114,1755 1192,1791 1235,1757 1381,1779 1529,1757 1735,1776 1793,1754 1963,1780 2271,1758 2351,1785 2502,1760 2579,1779 2638,1755 2676,1779 2676,1663 2509,1685 2395,1649 2295,1678 2201,1625 2123,1654 1922,1647 1849,1679 1793,1654 1677,1691 1519,1648 1269,1672 1194,1646 1136,1682 791,1678 791,1751"/>
+                <Baseline points="804,1728 2664,1730"/>
+                <TextEquiv conf="0.604872">
+                    <Unicode>au dit Jehan husent et huseront en la dite vile et ou finaige en bois</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="793,1904 844,1931 1006,1912 1074,1951 1183,1915 1249,1952 1373,1906 1560,1904 1761,1944 1880,1905 2050,1927 2212,1906 2239,1928 2278,1906 2508,1904 2581,1924 2656,1985 2656,1813 2455,1788 2370,1831 2266,1838 2118,1811 2045,1833 1950,1796 1870,1815 1832,1791 1732,1822 1659,1798 1535,1822 1475,1797 1451,1819 1363,1804 1283,1843 1203,1843 1155,1806 1096,1833 1058,1798 793,1839 793,1904"/>
+                <Baseline points="804,1880 2644,1894"/>
+                <TextEquiv conf="0.7238809">
+                    <Unicode>en plain et en pastures en tel maniere que ce diz Gautiers et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="794,2059 966,2058 1063,2095 1129,2059 1408,2080 1510,2063 1544,2083 1641,2054 1813,2055 1883,2082 1981,2054 2131,2055 2179,2082 2262,2055 2493,2059 2669,2097 2685,1985 2493,1948 2415,1971 2340,1944 2195,1975 2078,1945 1848,1973 1777,1929 1719,1975 1658,1958 1622,1977 1586,1952 1510,1974 1421,1942 1336,1975 1054,1986 998,1956 841,1946 795,1955 794,2059"/>
+                <Baseline points="806,2032 2672,2050"/>
+                <TextEquiv conf="0.6155962">
+                    <Unicode>la dite Roigne ne puent huser des bois ne des husaiges de la ville</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="789,2221 1085,2201 1190,2252 1243,2250 1289,2208 1384,2208 1427,2235 1537,2203 2005,2229 2075,2205 2223,2231 2369,2204 2451,2224 2490,2202 2631,2238 2645,2095 2575,2131 2526,2114 2502,2136 2434,2102 2303,2137 2187,2096 2039,2122 1794,2084 1745,2111 1687,2094 1658,2118 1519,2123 1381,2092 1219,2129 1160,2104 1015,2124 881,2097 789,2110 789,2221"/>
+                <Baseline points="802,2184 2634,2184"/>
+                <TextEquiv conf="0.532648">
+                    <Unicode>ne dou finaige sen la ville non et ou finaige tant commil viveront ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="789,2367 1112,2382 1214,2358 1301,2395 1464,2356 1587,2381 1641,2354 1730,2378 1820,2354 2041,2377 2114,2357 2645,2368 2677,2366 2677,2288 2568,2261 2441,2283 2393,2254 2342,2280 2296,2251 2235,2277 1978,2250 1794,2282 1735,2260 1665,2276 1590,2240 1396,2286 1287,2261 1238,2295 862,2258 789,2282 789,2367"/>
+                <Baseline points="802,2334 2664,2336"/>
+                <TextEquiv conf="0.5156116">
+                    <Unicode>en tel maniere que toutes ces chouses desux dites aprés la vie dou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="799,2533 852,2550 1010,2511 1155,2536 1238,2512 1328,2537 1427,2513 1476,2542 1524,2518 1599,2542 1684,2508 2153,2512 2247,2520 2301,2554 2407,2513 2437,2532 2667,2521 2667,2409 2500,2438 2456,2411 2323,2428 2279,2410 2245,2435 2015,2422 1886,2443 1835,2417 1687,2436 1554,2406 1510,2445 1430,2408 1330,2437 1153,2415 1107,2446 799,2387 799,2533"/>
+                <Baseline points="810,2492 2654,2500"/>
+                <TextEquiv conf="0.661839">
+                    <Unicode>dit Gautier et de la dite Roigne remanront au dit Jehan et a ses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="813,2706 937,2670 1117,2691 1270,2669 1401,2694 1546,2678 1604,2715 1869,2670 2092,2690 2172,2668 2294,2696 2507,2667 2587,2702 2689,2683 2690,2566 2636,2583 2583,2549 2515,2553 2430,2587 2355,2572 2292,2594 2226,2557 2182,2579 2132,2561 2032,2600 1967,2566 1697,2564 1573,2593 1435,2563 1408,2588 1297,2575 1190,2601 1100,2567 1047,2596 998,2566 923,2585 853,2568 814,2575 813,2706"/>
+                <Baseline points="826,2650 2678,2656"/>
+                <TextEquiv conf="0.6169853">
+                    <Unicode>hoirs a tenir perdurablement . Ne li hoir de ce devant dit Gautier ne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="810,2825 1002,2852 1099,2827 1211,2865 1344,2822 1638,2854 1730,2817 1859,2857 1980,2827 2041,2851 2155,2850 2191,2825 2414,2847 2647,2816 2646,2739 2547,2752 2372,2717 2316,2741 2272,2710 2214,2747 2096,2753 1950,2735 1909,2757 1855,2726 1754,2758 1707,2730 1572,2755 1418,2727 1261,2758 1205,2739 1033,2752 989,2726 810,2742 810,2825"/>
+                <Baseline points="822,2804 2634,2800"/>
+                <TextEquiv conf="0.8190744">
+                    <Unicode>de la dite Roigne ne porront rien demander ne reclamer en ces</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="806,3024 987,2987 1094,3013 1152,2989 1247,3039 1550,2985 1662,3012 1788,2980 2048,3021 2101,2982 2155,3003 2176,2981 2480,2978 2720,3007 2771,2978 2771,2890 2725,2907 2567,2866 2462,2910 2414,2879 2310,2903 2268,2877 2135,2877 2026,2914 1861,2888 1662,2900 1470,2862 1346,2903 973,2873 878,2907 805,2895 806,3024"/>
+                <Baseline points="818,2966 2758,2966"/>
+                <TextEquiv conf="0.5906129">
+                    <Unicode>devant dites chouses aprés li devant diz Gautiers et la dite Roigne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="809,3192 989,3164 1027,3191 1256,3139 1294,3170 1384,3144 1445,3181 1692,3148 1865,3173 1899,3147 2010,3142 2088,3167 2209,3148 2258,3190 2379,3151 2568,3186 2636,3150 2692,3160 2692,3097 2576,3060 2292,3076 2139,3048 2093,3075 1994,3074 1882,3047 1741,3075 1676,3048 1642,3068 1542,3048 1319,3066 1283,3042 1084,3038 1021,3062 941,3040 844,3078 810,3066 809,3192"/>
+                <Baseline points="822,3134 2680,3148"/>
+                <TextEquiv conf="0.53499347">
+                    <Unicode>ne tanront riens ne averont en la dite ville de Noeles et ou finaige ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2952,608 2952,2839 4818,2839 4818,608"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="4654,729 4789,705 4781,545 4646,564 4654,729"/>
+                <Baseline points="4664,682 4776,674"/>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="2958,868 3067,896 3198,888 3237,861 3334,894 3399,871 3545,904 3572,880 3608,899 4220,896 4319,830 4438,843 4612,813 4814,842 4813,731 4507,721 4466,741 4424,722 4383,751 4231,767 4170,729 4058,759 3905,726 3818,771 3680,745 3590,785 3505,742 3382,777 3187,745 3030,773 2991,746 2957,751 2958,868"/>
+                <Baseline points="2970,824 4802,806"/>
+                <TextEquiv conf="0.4978664">
+                    <Unicode>et il huseront des chouses et des husaiges de la dite ville et dou finaige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="2947,1027 3095,1002 3229,1035 3682,1010 4044,1037 4396,1015 4442,1039 4616,1014 4672,1033 4801,1006 4800,904 4722,885 4599,915 4528,888 4468,913 4378,880 4167,930 4082,884 3779,903 3681,884 3415,927 3337,896 3116,912 3034,883 2946,908 2947,1027"/>
+                <Baseline points="2958,966 4788,952"/>
+                <TextEquiv conf="0.38109073">
+                    <Unicode>il se justiseront en la ville de Noelles et ou finaige por leu dit Jehan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="2958,1180 3173,1145 3620,1150 3647,1171 3789,1140 3950,1177 4115,1148 4149,1182 4175,1157 4282,1163 4350,1136 4469,1137 4540,1187 4658,1139 4804,1140 4802,1007 4671,1033 4562,1017 4514,1047 4329,1020 4160,1046 4101,1020 3995,1046 3880,1025 3830,1050 3735,1015 3682,1059 3548,1027 3463,1045 3371,1024 3322,1051 3259,1025 3191,1053 3135,1022 2970,1024 2958,1180"/>
+                <Baseline points="2970,1118 4790,1096"/>
+                <TextEquiv conf="0.44481385">
+                    <Unicode>et por ses hoirs de toutes les chouses que a la jostise et a la signorie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="2962,1305 3381,1295 3488,1316 3573,1296 3660,1317 3750,1292 3799,1314 3852,1292 4230,1292 4315,1311 4456,1283 4543,1307 4696,1269 4793,1303 4809,1174 4695,1172 4654,1197 4574,1173 4414,1203 4256,1153 4174,1188 4125,1171 3927,1216 3810,1180 3713,1222 3626,1196 3536,1224 3451,1173 3417,1203 3303,1198 3255,1223 3179,1177 3101,1195 3043,1171 2961,1181 2962,1305"/>
+                <Baseline points="2974,1274 4798,1250"/>
+                <TextEquiv conf="0.680525">
+                    <Unicode>de la dite ville et dou finaige apartanront et apartienent . Et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="2968,1453 3456,1438 3575,1472 3628,1437 3755,1466 3868,1433 4155,1449 4308,1429 4407,1467 4504,1423 4659,1419 4786,1474 4810,1464 4809,1312 4317,1365 4055,1333 4011,1350 3962,1321 3832,1356 3793,1330 3625,1321 3574,1353 3455,1324 3249,1350 3087,1331 3063,1356 2968,1346 2968,1453"/>
+                <Baseline points="2980,1416 4798,1398"/>
+                <TextEquiv conf="0.57128316">
+                    <Unicode>je par ce dit Gautier et par cele dite Roigne por chouse que il soient</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="2970,1599 3431,1598 3463,1578 3512,1602 3642,1578 3686,1602 4055,1570 4133,1611 4188,1586 4339,1606 4571,1564 4712,1579 4802,1549 4801,1476 4577,1462 4534,1482 4473,1461 4359,1489 4156,1496 4092,1475 3906,1507 3767,1475 3629,1508 3600,1484 3564,1509 3192,1479 3098,1512 2969,1470 2970,1599"/>
+                <Baseline points="2982,1554 4790,1528"/>
+                <TextEquiv conf="0.43012086">
+                    <Unicode>en la dite ville ne ou finaige ne por chose que il i aient esté ne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="2958,1766 3217,1744 3832,1753 3955,1731 4237,1745 4425,1710 4518,1730 4578,1697 4705,1748 4806,1719 4804,1600 4686,1646 4518,1618 4315,1649 4246,1614 4169,1664 3883,1636 3827,1659 3673,1616 3652,1638 3526,1626 3483,1659 3360,1610 3281,1643 3111,1623 2956,1667 2958,1766"/>
+                <Baseline points="2970,1720 4794,1676"/>
+                <TextEquiv conf="0.53398764">
+                    <Unicode>esteront ne por chose qu’il i aient tenu ne qu’il i tienent ne qu’il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="2962,1915 3483,1892 3580,1933 3661,1931 3711,1889 3816,1911 3932,1886 4010,1913 4172,1879 4354,1885 4430,1914 4507,1878 4563,1907 4609,1880 4665,1897 4806,1860 4805,1761 4660,1766 4575,1805 4522,1783 4328,1805 4260,1776 4180,1811 4065,1777 3971,1806 3917,1770 3845,1804 3765,1775 3668,1800 3607,1775 3522,1793 3498,1771 3330,1803 2961,1767 2962,1915"/>
+                <Baseline points="2974,1850 4794,1838"/>
+                <TextEquiv conf="0.5408602">
+                    <Unicode>i tanront je ne puis riens demander ne avoir ne reclamer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="2952,2047 3050,2083 3112,2048 3209,2041 3396,2048 3465,2078 3648,2025 3803,2040 3836,2066 3923,2049 3960,2073 4002,2040 4102,2025 4141,2051 4240,2027 4437,2056 4473,2028 4561,2041 4630,2017 4650,2036 4728,2022 4779,2055 4832,2031 4829,1913 4779,1936 4744,1907 4667,1936 4633,1910 4560,1931 4395,1906 4303,1945 4172,1931 4098,1970 3771,1910 3537,1977 3381,1934 3301,1956 3211,1926 2950,1962 2952,2047"/>
+                <Baseline points="2962,2016 3982,2010 4818,1974"/>
+                <TextEquiv conf="0.52507144">
+                    <Unicode>en la dite ville ne ou finaige . Et por ceu que cen soit ferme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="2960,2250 3117,2196 3447,2197 3478,2218 3556,2190 3702,2227 3740,2199 3947,2225 4031,2179 4075,2213 4145,2194 4260,2214 4310,2186 4461,2191 4526,2166 4590,2201 4652,2168 4754,2193 4796,2187 4794,2076 4646,2105 4578,2075 4372,2110 4269,2071 4226,2098 4044,2072 4003,2107 3867,2100 3824,2132 3389,2091 3115,2121 3049,2083 2983,2084 2957,2097 2960,2250"/>
+                <Baseline points="2970,2170 4782,2146"/>
+                <TextEquiv conf="0.48856646">
+                    <Unicode>chouse et estauble a la requeste deu dit Jehan et dou dit Gau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="2970,2353 3160,2348 3201,2369 3223,2347 3471,2365 3521,2345 3568,2368 3703,2342 3791,2372 3851,2340 4019,2359 4186,2337 4305,2376 4390,2336 4470,2362 4506,2334 4601,2352 4652,2317 4790,2349 4789,2257 4685,2273 4526,2227 4442,2275 4313,2231 4148,2262 3934,2239 3610,2275 3486,2243 3399,2286 3306,2244 3246,2276 3207,2250 3156,2278 3078,2243 3025,2277 2969,2259 2970,2353"/>
+                <Baseline points="2982,2336 4778,2306"/>
+                <TextEquiv conf="0.594702">
+                    <Unicode>tier et de la dite Roigne j’ai mis mon seaul en ces presantes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="2967,2569 3129,2529 3243,2533 3299,2503 3454,2534 3728,2492 3998,2527 4070,2485 4313,2524 4369,2499 4476,2520 4563,2493 4611,2514 4655,2487 4721,2509 4808,2484 4807,2382 4684,2424 4472,2426 4419,2397 4351,2434 4210,2401 4077,2417 4004,2398 3985,2418 3900,2396 3813,2438 3674,2401 3468,2444 3405,2396 3291,2426 3184,2405 3092,2440 2980,2394 2967,2569"/>
+                <Baseline points="2978,2490 4796,2476"/>
+                <TextEquiv conf="0.4398813">
+                    <Unicode>letres . Ceu fu fait en l’an Jhesucrist nostre seignor que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="2961,2691 3102,2676 3182,2700 3335,2665 3388,2691 3442,2652 3563,2657 3631,2698 3701,2702 3743,2673 3891,2675 3929,2699 4026,2672 4063,2694 4119,2671 4325,2692 4553,2645 4630,2645 4686,2679 4723,2652 4796,2669 4795,2552 4730,2572 4615,2517 4557,2563 4431,2580 4341,2552 4143,2586 4072,2553 3939,2573 3878,2549 3798,2585 3526,2591 3473,2558 3407,2594 3368,2575 3274,2600 3167,2561 3073,2591 2961,2555 2961,2691"/>
+                <Baseline points="2974,2644 4784,2636"/>
+                <TextEquiv conf="0.6336989">
+                    <Unicode>li milliaires corroit par mil et douz cenz et cinquante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="2940,2844 3044,2830 3095,2859 3342,2836 3425,2864 3512,2831 3511,2736 3353,2719 3278,2749 3149,2710 3076,2742 3037,2721 2960,2734 2938,2742 2940,2844"/>
+                <Baseline points="2952,2804 3500,2794"/>
+                <TextEquiv conf="0.41786632">
+                    <Unicode>et sex anz .</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:2;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

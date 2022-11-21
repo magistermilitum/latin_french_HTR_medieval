@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.1;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:58:56.738+01:00</Created>
+        <LastChange>2020-11-17T15:45:08.018+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488423" pageNr="8" tsid="48904969" status="GT" userId="408" imgUrl="https://files.transkribus.eu/Get?id=JOQPIARNUIKSVSPOCFBFHUBB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GJJQEFCVJULVRJFQHFMGJBEP" imageId="8769114"/>
+    </Metadata>
+    <Page imageFilename="7.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454304311" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1580365926281_480"/>
+                <RegionRefIndexed index="1" regionRef="region_1580365932988_483"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1580365926281_480" custom="readingOrder {index:0;}">
+            <Coords points="374,507 2669,507 2669,3126 374,3126"/>
+            <TextLine id="line_1580365946773_486" custom="readingOrder {index:0;}">
+                <Coords points="502,729 635,725 656,733 635,779 504,779 502,729"/>
+                <Baseline points="504,774 637,774"/>
+                <TextEquiv>
+                    <Unicode>II</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580365962922_491" custom="readingOrder {index:1;}">
+                <Coords points="711,745 1793,755 2338,773 2337,823 1792,805 711,795 711,745"/>
+                <Baseline points="711,790 1792,800 2337,818"/>
+                <TextEquiv>
+                    <Unicode>La secunde de celz letres est del partaige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580365968829_496" custom="readingOrder {index:2;}">
+                <Coords points="729,859 1493,861 2551,900 2549,950 1492,911 729,909 729,859"/>
+                <Baseline points="729,904 1492,906 2549,945"/>
+                <TextEquiv conf="0.20059037">
+                    <Unicode>qui fu faiz antre mon signour Matier de Neelles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580365973803_501" custom="readingOrder {index:3;}">
+                <Coords points="714,957 1485,967 2569,1011 2567,1061 1484,1017 713,1007 714,957"/>
+                <Baseline points="713,1002 1484,1012 2567,1056"/>
+                <TextEquiv conf="0.24363844">
+                    <Unicode>et Jehant son nevoul ; et se comance cele secunde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580365982538_506" custom="readingOrder {index:4;}">
+                <Coords points="714,1068 1661,1081 2522,1107 2521,1157 1660,1131 713,1118 714,1068"/>
+                <Baseline points="713,1113 1660,1126 2521,1152"/>
+                <TextEquiv conf="0.19957007">
+                    <Unicode>letre : « Nos Hugues dux de Borgoigne » et la tro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580365986842_511" custom="readingOrder {index:5;}">
+                <Coords points="714,1172 2043,1195 2042,1245 713,1222 714,1172"/>
+                <Baseline points="713,1217 2042,1240"/>
+                <TextEquiv conf="0.1762252">
+                    <Unicode>veroiz desouz lou nombre de II .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580365990374_516" custom="readingOrder {index:6;}">
+                <Coords points="454,1345 606,1342 607,1392 455,1395 454,1345"/>
+                <Baseline points="455,1390 607,1387"/>
+                <TextEquiv>
+                    <Unicode>III</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580365994686_521" custom="readingOrder {index:7;}">
+                <Coords points="681,1469 2547,1528 2546,1578 680,1519 681,1469"/>
+                <Baseline points="680,1514 2546,1573"/>
+                <TextEquiv>
+                    <Unicode>La tierce de cels letres est del partaige est del </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366006897_526" custom="readingOrder {index:8;}">
+                <Coords points="722,1579 2552,1646 2550,1696 720,1629 722,1579"/>
+                <Baseline points="720,1624 2550,1691"/>
+                <TextEquiv>
+                    <Unicode>partaige fait antre Jehant de Neeles et Catherine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366014846_531" custom="readingOrder {index:9;}">
+                <Coords points="724,1690 1081,1685 1558,1729 2595,1760 2594,1810 1555,1779 1079,1735 725,1740 724,1690"/>
+                <Baseline points="725,1735 1079,1730 1555,1774 2594,1805"/>
+                <TextEquiv conf="0.08684553">
+                    <Unicode>sa suer et se comence : « ge Hugues dux de Borgoigne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366020571_536" custom="readingOrder {index:10;}">
+                <Coords points="724,1807 1096,1802 1971,1843 1969,1893 1095,1852 725,1857 724,1807"/>
+                <Baseline points="725,1852 1095,1847 1969,1888"/>
+                <TextEquiv conf="0.14218496">
+                    <Unicode>» et est au nombre de trois .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366024604_541" custom="readingOrder {index:11;}">
+                <Coords points="437,2008 665,2003 666,2053 438,2058 437,2008"/>
+                <Baseline points="438,2053 666,2048"/>
+                <TextEquiv>
+                    <Unicode>IIII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366032821_546" custom="readingOrder {index:12;}">
+                <Coords points="699,2019 2586,2104 2584,2154 697,2069 699,2019"/>
+                <Baseline points="697,2064 2584,2149"/>
+                <TextEquiv conf="0.38631994">
+                    <Unicode>La quarte letre est de la vendue que Guillaumes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366037362_551" custom="readingOrder {index:13;}">
+                <Coords points="704,2140 2542,2218 2540,2268 702,2190 704,2140"/>
+                <Baseline points="702,2185 2540,2263"/>
+                <TextEquiv conf="0.15086827">
+                    <Unicode>de Neelles fist mon signor Andrier de ce qu’il avoit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366042857_556" custom="readingOrder {index:14;}">
+                <Coords points="703,2262 1611,2285 2502,2339 2499,2389 1609,2335 702,2312 703,2262"/>
+                <Baseline points="702,2307 1609,2330 2499,2384"/>
+                <TextEquiv conf="0.23385735">
+                    <Unicode>a Neelles a Colommiers et a Chapialgrimaul et se co</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366047832_561" custom="readingOrder {index:15;}">
+                <Coords points="704,2378 2527,2456 2525,2506 702,2428 704,2378"/>
+                <Baseline points="702,2423 2525,2501"/>
+                <TextEquiv conf="0.21829624">
+                    <Unicode>mence : Nos frater Johannes abbas Quinciaci et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366063979_566" custom="readingOrder {index:16;}">
+                <Coords points="712,2474 2069,2531 2067,2581 710,2524 712,2474"/>
+                <Baseline points="710,2519 2067,2576"/>
+                <TextEquiv conf="0.15173836">
+                    <Unicode>la troveroiz au nombre de quatre.La</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366115508_616" custom="readingOrder {index:17;}">
+                <Coords points="488,2652 573,2654 572,2704 487,2702 488,2652"/>
+                <Baseline points="487,2697 572,2699"/>
+                <TextEquiv>
+                    <Unicode>V</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366070995_576" custom="readingOrder {index:18;}">
+                <Coords points="673,2662 2537,2737 2535,2787 671,2712 673,2662"/>
+                <Baseline points="671,2707 2535,2782"/>
+                <TextEquiv conf="0.12659651">
+                    <Unicode>cinquieme est de cele vendue maismes et se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366076055_581" custom="readingOrder {index:19;}">
+                <Coords points="763,2805 2521,2900 2519,2950 761,2855 763,2805"/>
+                <Baseline points="761,2850 2519,2945"/>
+                <TextEquiv conf="0.313224">
+                    <Unicode>comence : Ego Guido abbas Castellionis au nombre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366088100_586" custom="readingOrder {index:20;}">
+                <Coords points="698,2941 1049,2931 1050,2981 699,2991 698,2941"/>
+                <Baseline points="699,2986 1050,2976"/>
+                <TextEquiv conf="0.011731354">
+                    <Unicode>de cinc .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>II&#13;
+La secunde de celz letres est del partaige&#13;
+qui fu faiz antre mon signour Matier de Neelles&#13;
+et Jehant son nevoul ; et se comance cele secunde&#13;
+letre : « Nos Hugues dux de Borgoigne » et la tro&#13;
+veroiz desouz lou nombre de II.&#13;
+III&#13;
+La tierce de cels letres est del partaige est del &#13;
+partaige fait antre Jehant de Neeles et Catherine&#13;
+sa suer et se comence : « ge Hugues dux de Borgoigne&#13;
+» et est au nombre de trois.&#13;
+IIII&#13;
+La quarte letre est de la vendue que Guillaumes&#13;
+de Neelles fist mon signor Andrier de ce qu’il avoit&#13;
+a Neelles a Colommiers et a Chapialgrimaul et se co&#13;
+mence : Nos frater Johannes abbas Quinciaci et&#13;
+la troveroiz au nombre de quatre.La&#13;
+V&#13;
+cinquieme est de cele vendue maismes et se&#13;
+comence : Ego Guido abbas Castellionis au nombre&#13;
+de cinc .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1580365932988_483" custom="readingOrder {index:1;}">
+            <Coords points="2768,582 4943,582 4943,3171 2768,3171"/>
+            <TextLine id="line_1580366207217_661" custom="readingOrder {index:0;}">
+                <Coords points="2814,766 2932,768 2931,818 2813,816 2814,766"/>
+                <Baseline points="2813,811 2931,813"/>
+                <TextEquiv>
+                    <Unicode>VI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366225183_666" custom="readingOrder {index:1;}">
+                <Coords points="3016,804 3802,797 4770,806 4770,856 3802,847 3016,854 3016,804"/>
+                <Baseline points="3016,849 3802,842 4770,851"/>
+                <TextEquiv conf="0.1941654">
+                    <Unicode>La sesiesme est del mariaige Gertruy femme Jehant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366242516_671" custom="readingOrder {index:2;}">
+                <Coords points="3029,907 4751,913 4753,963 3029,957 3029,907"/>
+                <Baseline points="3029,952 3851,950 4609,963 4753,958"/>
+                <TextEquiv conf="0.32972664">
+                    <Unicode>de Naeles et se comence « Nos Hugues dux de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366251043_676" custom="readingOrder {index:3;}">
+                <Coords points="3038,1017 3791,1012 4548,1025 4547,1075 3791,1062 3038,1067 3038,1017"/>
+                <Baseline points="3038,1062 3791,1057 4547,1070"/>
+                <TextEquiv>
+                    <Unicode>Borgne » et la troveroiz au nombre de six .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366255217_681" custom="readingOrder {index:4;}">
+                <Coords points="2773,1232 2910,1217 2916,1267 2779,1282 2773,1232"/>
+                <Baseline points="2778,1277 2915,1262"/>
+                <TextEquiv>
+                    <Unicode>VII .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366262164_686" custom="readingOrder {index:5;}">
+                <Coords points="3014,1240 4755,1255 4755,1305 3014,1290 3014,1240"/>
+                <Baseline points="3014,1285 4755,1300"/>
+                <TextEquiv>
+                    <Unicode>La septiesme est de celui mariaige maismes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366288042_692" custom="readingOrder {index:6;}">
+                <Coords points="3028,1346 3948,1361 4760,1359 4760,1409 3948,1411 3027,1396 3028,1346"/>
+                <Baseline points="3027,1391 3948,1406 4760,1404"/>
+                <TextEquiv conf="0.11033423">
+                    <Unicode>et se comance : In nomine domini amen et siet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366293601_697" custom="readingOrder {index:7;}">
+                <Coords points="3031,1457 3821,1479 3820,1529 3030,1507 3031,1457"/>
+                <Baseline points="3030,1502 3820,1524"/>
+                <TextEquiv>
+                    <Unicode>au nombre de sept .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366297621_702" custom="readingOrder {index:8;}">
+                <Coords points="2777,1656 2929,1656 2929,1706 2777,1706 2777,1656"/>
+                <Baseline points="2777,1701 2929,1701"/>
+                <TextEquiv>
+                    <Unicode>VIII .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366305049_707" custom="readingOrder {index:9;}">
+                <Coords points="3009,1683 4810,1712 4809,1762 3008,1733 3009,1683"/>
+                <Baseline points="3008,1728 4809,1757"/>
+                <TextEquiv>
+                    <Unicode>La octiesme letre est maismement de celiu mari</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366312065_712" custom="readingOrder {index:10;}">
+                <Coords points="3021,1803 4783,1840 4782,1890 3020,1853 3021,1803"/>
+                <Baseline points="3020,1848 4782,1885"/>
+                <TextEquiv conf="0.1639884">
+                    <Unicode>aige et se comence : « Nos Amees humilis abbés</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366322462_717" custom="readingOrder {index:11;}">
+                <Coords points="3023,1913 3951,1931 4784,1963 4782,2013 3950,1981 3022,1963 3023,1913"/>
+                <Baseline points="3022,1958 3950,1976 4782,2008"/>
+                <TextEquiv conf="0.35024008">
+                    <Unicode>de Saint Estiene de Digeon » et est au nombre de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366326262_722" custom="readingOrder {index:12;}">
+                <Coords points="3046,2026 3264,2044 3260,2094 3042,2076 3046,2026"/>
+                <Baseline points="3042,2071 3260,2089"/>
+                <TextEquiv>
+                    <Unicode>huyt .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366359608_727" custom="readingOrder {index:13;}">
+                <Coords points="2782,2228 2971,2240 2968,2290 2779,2278 2782,2228"/>
+                <Baseline points="2779,2273 2968,2285"/>
+                <TextEquiv>
+                    <Unicode>VIIII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366366023_732" custom="readingOrder {index:14;}">
+                <Coords points="3029,2247 4863,2318 4861,2368 3027,2297 3029,2247"/>
+                <Baseline points="3027,2292 4861,2363"/>
+                <TextEquiv>
+                    <Unicode>La nuesme letre est des covenences faites antre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366386329_737" custom="readingOrder {index:15;}">
+                <Coords points="3031,2380 3788,2402 4047,2419 4433,2419 4823,2451 4819,2501 4431,2469 4046,2469 3786,2452 3030,2430 3031,2380"/>
+                <Baseline points="3030,2425 3786,2447 4046,2464 4431,2464 4819,2496"/>
+                <TextEquiv conf="0.23814069">
+                    <Unicode>Jehant et Contaeesse sa suer et se comence : Nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366396634_742" custom="readingOrder {index:16;}">
+                <Coords points="3032,2495 4355,2542 4517,2537 4829,2569 4823,2619 4515,2587 4355,2592 3337,2560 3030,2545 3032,2495"/>
+                <Baseline points="3030,2540 4355,2587 4515,2582 4824,2614"/>
+                <TextEquiv>
+                    <Unicode>magister Guillermus et est au nombre de nuef .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366402888_747" custom="readingOrder {index:17;}">
+                <Coords points="2785,2717 2886,2706 2879,2756 2793,2766 2785,2717"/>
+                <Baseline points="2792,2761 2880,2751"/>
+                <TextEquiv>
+                    <Unicode>X .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366409562_752" custom="readingOrder {index:18;}">
+                <Coords points="3019,2713 3707,2740 4805,2799 4802,2849 3705,2790 3017,2763 3019,2713"/>
+                <Baseline points="3017,2758 3705,2785 4802,2844"/>
+                <TextEquiv>
+                    <Unicode>La disme est des covenences antre Jehant et Ag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366416411_757" custom="readingOrder {index:19;}">
+                <Coords points="3022,2853 4853,2944 4851,2994 3020,2903 3022,2853"/>
+                <Baseline points="3020,2898 4851,2989"/>
+                <TextEquiv conf="0.16785169">
+                    <Unicode>nes et Aglentine ses sorours et se comence : Nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580366424847_762" custom="readingOrder {index:20;}">
+                <Coords points="3015,3006 3927,3050 4393,3050 4815,3062 4814,3112 4392,3100 3926,3100 3013,3056 3015,3006"/>
+                <Baseline points="3013,3051 3926,3095 4392,3095 4814,3107"/>
+                <TextEquiv conf="0.051467195">
+                    <Unicode>G. Dei gratia Lingonensis episcopus et est au nombre de dix .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VI&#13;
+La sesiesme est del mariaige Gertruy femme Jehant&#13;
+de Naeles et se comence « Nos Hugues dux de&#13;
+Borgne » et la troveroiz au nombre de six.&#13;
+VII.&#13;
+La septiesme est de celui mariaige maismes&#13;
+et se comance : In nomine domini amen et siet&#13;
+au nombre de sept.&#13;
+VIII.&#13;
+La octiesme letre est maismement de celiu mari&#13;
+aige et se comence : « Nos Amees humilis abbés&#13;
+de Saint Estiene de Digeon » et est au nombre de&#13;
+huyt.&#13;
+VIIII&#13;
+La nuesme letre est des covenences faites antre&#13;
+Jehant et Contaeesse sa suer et se comence : Nos&#13;
+magister Guillermus et est au nombre de nuef.&#13;
+X.&#13;
+La disme est des covenences antre Jehant et Ag&#13;
+nes et Aglentine ses sorours et se comence : Nos&#13;
+G. Dei gratia Lingonensis episcopus et est au nombre de dix .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

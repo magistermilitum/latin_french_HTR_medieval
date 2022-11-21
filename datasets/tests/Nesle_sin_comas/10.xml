@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:56:56.360+01:00</Created>
+        <LastChange>2020-01-30T08:12:02.981+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488426" pageNr="11" tsid="23070290" status="GT" userId="408" imgUrl="https://files.transkribus.eu/Get?id=XGQRVCJGFWNKVFKSBJVAIUPK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UHTVHGVCKXDMQONVCJUSGQZS" imageId="8769117"/>
+    </Metadata>
+    <Page imageFilename="10.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454306847" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="398,799 398,3055 2678,3055 2678,799"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="448,949 802,974 909,924 1380,980 1570,939 1958,996 2059,954 2277,1006 2556,997 2560,904 1484,836 1369,864 1258,825 1141,867 964,820 885,739 514,721 458,730 448,949"/>
+                <Baseline points="464,878 2544,978"/>
+                <TextEquiv>
+                    <Unicode>XXXIII . La trantetoisiesme de la vendue que Anmeline</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="805,1029 2270,1098 2469,1088 2516,987 2273,1012 1543,946 1244,981 1012,934 903,972 855,932 805,1029"/>
+                <Baseline points="818,1012 2500,1068"/>
+                <TextEquiv conf="0.7430963">
+                    <Unicode>feme Pierre Chasne fist mon signor Andrier de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="825,1147 1064,1112 1238,1166 1366,1121 1554,1181 1877,1141 1966,1203 2285,1204 2467,1192 2470,1123 2331,1082 2187,1115 2126,1060 1697,1096 1595,1048 1266,1074 891,1020 830,1040 825,1147"/>
+                <Baseline points="840,1102 2456,1158"/>
+                <TextEquiv conf="0.38863814">
+                    <Unicode>Neeles et comane Nos Guido humilis abbas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="832,1220 991,1261 1641,1231 1704,1266 1858,1246 1860,1177 1483,1179 1372,1121 1197,1171 993,1109 835,1149 832,1220"/>
+                <Baseline points="848,1202 1844,1232"/>
+                <TextEquiv>
+                    <Unicode>au nombre de trantetrois .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="399,1443 779,1457 817,1243 535,1273 404,1228 399,1443"/>
+                <Baseline points="414,1378 800,1390"/>
+                <TextEquiv>
+                    <Unicode>XXX IIII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="837,1419 1245,1414 1303,1474 1421,1426 1532,1463 1770,1438 1872,1496 1921,1459 2170,1490 2270,1452 2486,1518 2688,1478 2691,1401 1370,1366 1289,1327 1197,1366 1074,1353 973,1248 868,1236 837,1419"/>
+                <Baseline points="852,1398 2674,1464"/>
+                <TextEquiv>
+                    <Unicode>La trantequatrisme des amendes jugiés contre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="828,1550 898,1516 1091,1573 1371,1520 1510,1560 1921,1539 1997,1586 2442,1610 2537,1553 2539,1501 1921,1457 1623,1490 1424,1425 1136,1473 833,1418 828,1550"/>
+                <Baseline points="842,1512 2522,1572"/>
+                <TextEquiv conf="0.28868437">
+                    <Unicode>les hommes de Colonmiers et comance : « Nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:7;}">
+                <Coords points="814,1644 1874,1645 2668,1755 2674,1595 2315,1615 1946,1549 1843,1594 1742,1560 1587,1588 1410,1542 1064,1576 923,1527 817,1561 814,1644"/>
+                <Baseline points="828,1614 2658,1676"/>
+                <TextEquiv>
+                    <Unicode>Guillaumes de Cheacey » au nombre de trantequatre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+                <Coords points="409,1802 569,1810 639,1861 761,1810 1068,1875 1163,1828 1483,1877 1586,1838 2478,1913 2636,1907 2639,1789 1694,1745 1588,1781 1515,1734 1363,1771 1078,1724 994,1658 743,1686 659,1653 414,1662 409,1802"/>
+                <Baseline points="424,1802 2624,1878"/>
+                <TextEquiv>
+                    <Unicode>XXXV . La trantecinquisme de celui maismes jugement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:9;}">
+                <Coords points="815,1925 932,1973 1162,1931 1309,1969 1761,1946 1892,1995 2094,1957 2194,2010 2487,1971 2552,2017 2574,1922 2221,1874 2172,1916 1930,1908 1586,1835 1502,1879 817,1856 815,1925"/>
+                <Baseline points="830,1922 2558,1980"/>
+                <TextEquiv conf="0.34191087">
+                    <Unicode>de celes amendes maismes et comance : « Nos frere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:10;}">
+                <Coords points="817,2084 1059,2017 1203,2061 1650,2043 2110,2106 2115,1982 1748,1998 1640,1944 1495,1990 1362,1946 1286,1990 1159,1933 945,1979 842,1939 817,2084"/>
+                <Baseline points="832,2020 2098,2072"/>
+                <TextEquiv>
+                    <Unicode>Jaques » au nombre de trante cinc .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:11;}">
+                <Coords points="384,2253 761,2255 762,2159 429,2132 385,2154 384,2253"/>
+                <Baseline points="398,2220 748,2222"/>
+                <TextEquiv>
+                    <Unicode>XXXVI .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:12;}">
+                <Coords points="815,2270 1146,2256 1265,2308 1518,2252 2412,2328 2549,2286 2551,2226 2465,2189 1943,2220 1890,2176 1605,2209 1288,2152 989,2175 853,2070 815,2270"/>
+                <Baseline points="830,2228 2534,2292"/>
+                <TextEquiv>
+                    <Unicode>La trantesesisme de l’acroissement que Auber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:13;}">
+                <Coords points="805,2357 1067,2406 1756,2393 2032,2451 2133,2400 2510,2462 2572,2440 2578,2275 2355,2362 2260,2322 1467,2318 908,2251 808,2271 805,2357"/>
+                <Baseline points="820,2340 2558,2410"/>
+                <TextEquiv conf="0.71060365">
+                    <Unicode>tins Choullez doit faire de son fié que il tient</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:14;}">
+                <Coords points="783,2462 927,2509 1222,2481 1881,2546 1932,2512 2120,2563 2608,2530 2612,2442 2492,2476 2104,2408 2016,2466 1894,2419 1785,2454 1479,2403 1414,2437 1358,2390 1293,2429 886,2353 786,2368 783,2462"/>
+                <Baseline points="796,2452 2594,2520"/>
+                <TextEquiv conf="0.3571315">
+                    <Unicode>de Jehant de Neeles et comance : « Nos Guillau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:15;}">
+                <Coords points="783,2576 1244,2625 2120,2613 2237,2698 2363,2653 2368,2535 2201,2567 1756,2546 1596,2495 1446,2531 787,2474 783,2576"/>
+                <Baseline points="798,2564 2350,2628"/>
+                <TextEquiv>
+                    <Unicode>mes de Cheacey » au nombre de trante six .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:16;}">
+                <Coords points="389,2765 675,2776 738,2745 738,2668 389,2655 389,2765"/>
+                <Baseline points="402,2742 724,2744"/>
+                <TextEquiv>
+                    <Unicode>XXXVII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:17;}">
+                <Coords points="801,2779 970,2824 1033,2783 1253,2828 1387,2802 1445,2849 1643,2808 1954,2866 2352,2837 2546,2873 2613,2851 2623,2676 2409,2697 2278,2781 1805,2667 1631,2722 1152,2710 834,2582 801,2779"/>
+                <Baseline points="816,2742 2600,2830"/>
+                <TextEquiv>
+                    <Unicode>La tranteseptisme del fié de Vermenton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:18;}">
+                <Coords points="791,2908 1192,2887 1382,2960 1512,2936 1785,2985 2049,2940 2228,2996 2349,2944 2588,2952 2593,2865 1851,2870 1659,2808 1447,2850 1386,2803 1261,2833 796,2795 791,2908"/>
+                <Baseline points="916,2870 2576,2940"/>
+                <TextEquiv>
+                    <Unicode>et comance : Nos . P. comes Autissiodorensis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:19;}">
+                <Coords points="790,3017 1164,3050 1242,3009 1446,3068 1608,3017 1939,3081 1984,3064 1987,2976 1317,2941 1190,2886 992,2935 796,2896 790,3017"/>
+                <Baseline points="806,2994 1970,3030"/>
+                <TextEquiv conf="0.60453445">
+                    <Unicode>au nombre de trante sept .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>XXXIII . La trantetoisiesme de la vendue que Anmeline&#13;
+feme Pierre Chasne fist mon signor Andrier de&#13;
+Neeles et comane Nos Guido humilis abbas&#13;
+au nombre de trantetrois.&#13;
+XXX IIII&#13;
+La trantequatrisme des amendes jugiés contre&#13;
+les hommes de Colonmiers et comance : « Nos,&#13;
+Guillaumes de Cheacey » au nombre de trantequatre&#13;
+XXXV . La trantecinquisme de celui maismes jugement&#13;
+de celes amendes maismes et comance : « Nos frere&#13;
+Jaques » au nombre de trante cinc.&#13;
+XXXVI.&#13;
+La trantesesisme de l’acroissement que Auber&#13;
+tins Choullez doit faire de son fié que il tient&#13;
+de Jehant de Neeles et comance : « Nos Guillau&#13;
+mes de Cheacey » au nombre de trante six.&#13;
+XXXVII&#13;
+La tranteseptisme del fié de Vermenton&#13;
+et comance : Nos . P. comes Autissiodorensis,&#13;
+au nombre de trante sept .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2744,842 2744,2534 3098,2534 3098,842"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2733,1008 3041,1020 3112,997 3110,892 2730,867 2733,1008"/>
+                <Baseline points="2744,946 3098,942"/>
+                <TextEquiv>
+                    <Unicode>XXXVIII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="2734,1535 3103,1539 3101,1415 2729,1403 2734,1535"/>
+                <Baseline points="2744,1472 3090,1466"/>
+                <TextEquiv>
+                    <Unicode>XXXVIIII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="2785,1954 2853,1957 2917,1874 2902,1746 2767,1865 2785,1954"/>
+                <Baseline points="2794,1926 2834,1918"/>
+                <TextEquiv>
+                    <Unicode>XL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="2743,2503 2961,2494 2962,2386 2863,2344 2744,2387 2743,2503"/>
+                <Baseline points="2756,2484 2948,2484"/>
+                <TextEquiv>
+                    <Unicode>XL.I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>XXXVIII&#13;
+XXXVIIII&#13;
+XL&#13;
+XL.I</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="3066,585 3066,3041 4820,3041 4820,585"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="4706,643 4814,656 4808,546 4701,549 4706,643"/>
+                <Baseline points="4720,640 4800,636"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="3166,992 4698,1021 4792,1005 4792,906 4446,876 3807,919 3552,856 3254,912 3167,857 3166,992"/>
+                <Baseline points="3180,966 4778,974"/>
+                <TextEquiv>
+                    <Unicode>La trantehutisme des covenances antre Je</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="3108,1114 3540,1135 3587,1097 3702,1133 4162,1091 4516,1128 4753,1060 4753,1010 3898,1024 3529,973 3391,1019 3108,1001 3108,1114"/>
+                <Baseline points="3122,1070 4738,1074"/>
+                <TextEquiv conf="0.67711854">
+                    <Unicode>hant de Neeles et Bertier lou fil Mayot de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="3104,1178 3747,1236 3888,1179 4127,1230 4353,1195 4421,1231 4509,1179 4553,1215 4801,1200 4801,1128 4595,1086 4515,1129 4163,1092 3230,1129 3159,1088 3104,1115 3104,1178"/>
+                <Baseline points="3118,1172 4786,1176"/>
+                <TextEquiv conf="0.2983092">
+                    <Unicode>Charantois et comance : « Nos Heriers humi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="3108,1294 3516,1274 3590,1316 3774,1278 4448,1331 4539,1295 4540,1177 4421,1232 4352,1193 4308,1228 3813,1196 3736,1231 3125,1184 3108,1294"/>
+                <Baseline points="3122,1272 4526,1276"/>
+                <TextEquiv>
+                    <Unicode>les priours » au nombre de trante huit .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:5;}">
+                <Coords points="3139,1527 3502,1529 3657,1469 3761,1505 3912,1455 4064,1513 4190,1461 4336,1521 4776,1527 4793,1337 3998,1318 3860,1417 3756,1378 3406,1433 3255,1406 3139,1309 3139,1527"/>
+                <Baseline points="3154,1474 4780,1466"/>
+                <TextEquiv>
+                    <Unicode>La trantenuesme del fié de Charantois</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:6;}">
+                <Coords points="3101,1608 4149,1573 4473,1653 4645,1577 4645,1536 4557,1494 4337,1523 4249,1470 4029,1528 3655,1470 3578,1530 3102,1523 3101,1608"/>
+                <Baseline points="3116,1574 4632,1584"/>
+                <TextEquiv conf="0.3713971">
+                    <Unicode>et comance : Ego Andreas dominus Espissie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:7;}">
+                <Coords points="3082,1683 4097,1684 4224,1721 4309,1696 4310,1597 3394,1570 3261,1627 3083,1609 3082,1683"/>
+                <Baseline points="3096,1676 4296,1676"/>
+                <TextEquiv>
+                    <Unicode>au nombre de trante nuef .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:8;}">
+                <Coords points="3072,1907 3964,1901 4030,1941 4451,1900 4594,1943 4751,1928 4751,1848 4595,1808 4317,1841 4149,1793 3725,1828 3536,1787 3450,1842 3327,1791 3235,1832 3123,1759 3074,1781 3072,1907"/>
+                <Baseline points="3086,1900 4736,1900"/>
+                <TextEquiv>
+                    <Unicode>La quarantisme de la vendue de la maison</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:9;}">
+                <Coords points="3081,2038 3901,1984 3953,2023 4135,1996 4479,2036 4537,2000 4679,2037 4707,1932 4086,1949 3965,1902 3657,1903 3433,1952 3106,1917 3081,2038"/>
+                <Baseline points="3096,2004 4692,2002"/>
+                <TextEquiv conf="0.41757786">
+                    <Unicode>desoz l’orme a Colummier lou sec et de la grange</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:10;}">
+                <Coords points="3075,2106 3469,2096 3543,2141 3777,2102 3892,2155 3972,2112 4054,2162 4126,2119 4330,2151 4657,2118 4712,2155 4751,2147 4752,2048 4584,2002 4490,2034 4150,1993 3954,2024 3902,1985 3591,2031 3288,2004 3076,2043 3075,2106"/>
+                <Baseline points="3090,2096 4736,2104"/>
+                <TextEquiv conf="0.5146301">
+                    <Unicode>darriers la maison et de pieces de terre les quiex</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:11;}">
+                <Coords points="3088,2209 3624,2254 4178,2220 4254,2282 4544,2233 4623,2290 4730,2288 4732,2134 4294,2167 4135,2118 4060,2161 3789,2102 3433,2139 3307,2093 3180,2144 3090,2118 3088,2209"/>
+                <Baseline points="3102,2200 4718,2224"/>
+                <TextEquiv conf="0.48680872">
+                    <Unicode>choses Naudins filz feu Lambert vendist a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:12;}">
+                <Coords points="3132,2381 3257,2322 3328,2375 3702,2355 3823,2398 4330,2331 4420,2412 4698,2415 4802,2389 4804,2287 4628,2291 4444,2228 4350,2279 4160,2282 3990,2232 3695,2264 3220,2211 3134,2238 3132,2381"/>
+                <Baseline points="3146,2316 4790,2336"/>
+                <TextEquiv conf="0.23926342">
+                    <Unicode>Jehant signor de Naelles et comance : « Nos Jaques</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:13;}">
+                <Coords points="3084,2456 3690,2453 3761,2489 3874,2440 4036,2475 4237,2438 4397,2478 4441,2475 4441,2406 4310,2328 4004,2386 3891,2355 3828,2396 3704,2357 3333,2381 3267,2331 3151,2374 3085,2338 3084,2456"/>
+                <Baseline points="3098,2434 4428,2450"/>
+                <TextEquiv>
+                    <Unicode>humbles abbés » au nombre de .xl .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:14;}">
+                <Coords points="3134,2667 3883,2642 4245,2717 4400,2668 4543,2709 4637,2658 4694,2704 4718,2572 3747,2593 3607,2551 3339,2599 3191,2563 3136,2581 3134,2667"/>
+                <Baseline points="3150,2644 4704,2648"/>
+                <TextEquiv>
+                    <Unicode>La quarantisme et une de la vendue de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:15;}">
+                <Coords points="3077,2751 3721,2738 4119,2802 4590,2774 4710,2807 4730,2706 4634,2665 4542,2709 4184,2716 3884,2641 3712,2678 3468,2638 3324,2680 3157,2659 3079,2685 3077,2751"/>
+                <Baseline points="3090,2752 4714,2772"/>
+                <TextEquiv conf="0.29405048">
+                    <Unicode>ces choses maismes ansic com Jehanz filz Milon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:16;}">
+                <Coords points="3052,2907 3421,2858 3655,2892 3768,2849 4232,2925 4665,2877 4832,2915 4834,2769 4699,2811 4551,2776 4476,2821 3657,2743 3420,2742 3343,2791 3071,2740 3052,2907"/>
+                <Baseline points="3066,2870 4820,2876"/>
+                <TextEquiv conf="0.33757287">
+                    <Unicode>Raboant les avoit vendues a Naudin et comence :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:17;}">
+                <Coords points="3066,3070 3371,3090 3456,3032 3852,2992 4171,2996 4251,3039 4334,3017 4333,2913 3788,2857 3725,2902 3557,2864 3362,2917 3131,2888 3065,2902 3066,3070"/>
+                <Baseline points="3078,3002 4320,3016"/>
+                <TextEquiv conf="0.11931049">
+                    <Unicode>« Nos Jaques . . » au nombre de .xli .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+La trantehutisme des covenances antre Je&#13;
+hant de Neeles et Bertier lou fil Mayot de&#13;
+Charantois et comance : « Nos Heriers humi&#13;
+les priours » au nombre de trante huit.&#13;
+La trantenuesme del fié de Charantois&#13;
+et comance : Ego Andreas dominus Espissie&#13;
+au nombre de trante nuef.&#13;
+La quarantisme de la vendue de la maison&#13;
+desoz l’orme a Colummier lou sec et de la grange&#13;
+darriers la maison et de pieces de terre les quiex&#13;
+choses Naudins filz feu Lambert vendist a&#13;
+Jehant signor de Naelles et comance : « Nos Jaques,&#13;
+humbles abbés » au nombre de .xl.&#13;
+La quarantisme et une de la vendue de&#13;
+ces choses maismes ansic com Jehanz filz Milon&#13;
+Raboant les avoit vendues a Naudin et comence :&#13;
+« Nos Jaques . . » au nombre de .xli .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:3;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

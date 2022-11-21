@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:57:32.606+01:00</Created>
+        <LastChange>2020-02-06T13:50:27.118+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488562" pageNr="123" tsid="23482052" status="IN_PROGRESS" userId="52231" imgUrl="https://files.transkribus.eu/Get?id=KVLGXSDMJEVXLLKRHLRLFLOJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VDGDDSCQUYOMXGPVXVMMHLBJ" imageId="8769246"/>
+    </Metadata>
+    <Page imageFilename="122.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454481347" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="466,758 466,2487 2460,2487 2460,758"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="482,772 1249,740 1583,785 2362,768 2350,641 1576,653 1583,526 883,498 679,580 482,583 482,772"/>
+                <Baseline points="504,755 2285,770"/>
+                <TextEquiv>
+                    <Unicode>dire contre cestes letres ; e quant ces choses desus dites tenir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="452,843 1429,858 1549,822 1957,877 2287,831 2287,773 2015,813 1529,790 1440,746 673,751 501,759 452,843"/>
+                <Baseline points="484,846 2259,840"/>
+                <TextEquiv>
+                    <Unicode>garder nos tuit ansanble volons estre contraint par la cort mon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="463,957 1298,906 2078,962 2300,931 2300,836 2068,882 1615,826 1533,863 676,839 464,882 463,957"/>
+                <Baseline points="497,926 1070,884 2053,926 2288,896"/>
+                <TextEquiv>
+                    <Unicode>seignor leu duc de Bergoigne comme de chose ajugié a la ju </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="482,1075 789,987 1229,954 2319,1001 2316,926 1436,863 979,917 788,892 479,968 482,1075"/>
+                <Baseline points="487,1037 1313,961 2319,1005"/>
+                <TextEquiv>
+                    <Unicode>ridicion dou quel nos submetons nos et nos hoirs . Ou tes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="494,1135 731,1137 866,1086 1022,1113 1614,1021 1736,1073 1888,1024 1983,1077 2369,1109 2363,992 1468,948 949,987 827,1048 716,1020 587,1084 491,1053 494,1135"/>
+                <Baseline points="487,1154 1595,1064 2335,1088"/>
+                <TextEquiv>
+                    <Unicode>moignaige de la quel chose nos havon prié et fait et metre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="481,1244 647,1211 741,1245 1038,1159 1216,1178 1358,1134 1678,1175 1857,1121 2098,1186 2380,1150 2376,1080 1958,1067 1852,1014 1711,1063 1176,1053 1025,1113 779,1085 556,1164 475,1139 481,1244"/>
+                <Baseline points="501,1254 1579,1148 2366,1164"/>
+                <TextEquiv>
+                    <Unicode>an ces presentes letres leu seal de la dite cort ansanble lou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="487,1318 717,1336 1241,1249 1456,1290 1697,1233 2285,1273 2374,1246 2370,1164 1971,1179 1878,1121 1707,1183 1095,1159 733,1248 483,1243 487,1318"/>
+                <Baseline points="505,1341 2365,1253"/>
+                <TextEquiv>
+                    <Unicode>seal de saige home mon seignor Jehan d’Argelle arceprioure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="497,1423 905,1377 1362,1443 1692,1369 2361,1410 2382,1323 2067,1262 1670,1265 1579,1309 1361,1258 743,1343 573,1321 496,1355 497,1423"/>
+                <Baseline points="480,1462 2340,1428"/>
+                <TextEquiv>
+                    <Unicode>de Flavigné et lou seal dou devant dit mon seigneur Guillaume</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="500,1510 1494,1506 1839,1458 2255,1523 2329,1501 2326,1394 2055,1413 1695,1362 1501,1371 1420,1421 1307,1373 1236,1425 1028,1387 949,1422 532,1404 500,1510"/>
+                <Baseline points="482,1544 2284,1506"/>
+                <TextEquiv>
+                    <Unicode>de Chaace ; et nos Jehanz arceprestres desus diz par devant cui  </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="468,1634 665,1639 766,1589 1200,1613 1296,1565 1514,1605 1571,1568 1786,1602 2039,1563 2212,1606 2329,1596 2326,1494 803,1486 466,1552 468,1634"/>
+                <Baseline points="478,1662 1396,1608 2314,1612"/>
+                <TextEquiv>
+                    <Unicode>ces choses sunt ordenées recogneues et otroiés des parties ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="477,1768 631,1725 936,1765 1031,1709 1322,1687 2335,1721 2377,1702 2374,1615 2039,1582 1824,1632 1693,1586 550,1638 473,1646 477,1768"/>
+                <Baseline points="480,1757 2356,1703"/>
+                <TextEquiv>
+                    <Unicode>et nos Guillaumes de Chaace chevaliers qui ces letres havons ordenées</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="452,1863 1545,1818 1914,1853 2043,1814 2361,1853 2358,1764 2243,1744 1203,1718 933,1785 603,1756 530,1806 449,1763 452,1863"/>
+                <Baseline points="470,1869 1693,1818 2352,1835"/>
+                <TextEquiv>
+                    <Unicode>et pronunciés a la priere et la requeste des dites parties qui hunt fait</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="470,1985 583,1942 692,1980 899,1932 2408,1864 1006,1791 977,1842 841,1865 464,1851 470,1985"/>
+                <Baseline points="488,1961 2326,1914"/>
+                <TextEquiv>
+                    <Unicode>doubler ces letres havons saalées ces letres de nos seax . Cest fait</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="477,2052 2430,2029 2445,1956 545,1953 476,1972 477,2052"/>
+                <Baseline points="503,2044 2428,2052"/>
+                <TextEquiv>
+                    <Unicode>en la presance de Jehan de Salin notaire de la dit cort a Fla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="446,2167 1713,2108 1881,2154 2077,2104 2360,2156 2377,2034 2090,2060 1955,1999 1807,2033 1633,2002 1495,2048 448,2065 446,2167"/>
+                <Baseline points="479,2168 2363,2124"/>
+                <TextEquiv>
+                    <Unicode>vigné Huguet curié d'Aise Pierre curié d'Estalante Huon de Seigne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="440,2255 1470,2212 1653,2242 1717,2208 2169,2263 2412,2201 2411,2149 886,2128 439,2192 440,2255"/>
+                <Baseline points="487,2255 2403,2219"/>
+                <TextEquiv>
+                    <Unicode>d’Adrier de Corpoier chevaliers Jehan Bonemer clerc Thiebaut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="457,2375 1308,2311 1418,2346 1502,2302 1635,2349 1754,2312 2337,2347 2471,2322 2469,2180 2204,2265 2003,2212 1937,2248 1717,2208 1503,2262 1136,2230 906,2277 618,2235 455,2271 457,2375"/>
+                <Baseline points="468,2350 1663,2294 2460,2324"/>
+                <TextEquiv conf="0.25956687">
+                    <Unicode>lou Borne Morel Haubert lou marechaut et Hugues des Granges</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="454,2496 610,2520 682,2462 898,2444 1112,2486 1264,2422 1699,2393 2021,2399 2085,2441 2276,2406 2274,2354 1758,2311 1548,2359 1307,2311 906,2396 494,2367 450,2384 454,2496"/>
+                <Baseline points="466,2464 1544,2398 2264,2420"/>
+                <TextEquiv conf="0.17863786">
+                    <Unicode>tesmoings a ceu apelez an l’an et ou mois desus diz .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dire contre cestes letres ; e quant ces choses desus dites tenir&#13;
+garder nos tuit ansanble volons estre contraint par la cort mon&#13;
+seignor leu duc de Bergoigne comme de chose ajugié a la ju &#13;
+ridicion dou quel nos submetons nos et nos hoirs . Ou tes&#13;
+moignaige de la quel chose nos havon prié et fait et metre&#13;
+an ces presentes letres leu seal de la dite cort ansanble lou&#13;
+seal de saige home mon seignor Jehan d’Argelle arceprioure&#13;
+de Flavigné et lou seal dou devant dit mon seigneur Guillaume&#13;
+de Chaace ; et nos Jehanz arceprestres desus diz par devant cui  &#13;
+ces choses sunt ordenées recogneues et otroiés des parties ;&#13;
+et nos Guillaumes de Chaace chevaliers qui ces letres havons ordenées&#13;
+et pronunciés a la priere et la requeste des dites parties qui hunt fait&#13;
+doubler ces letres havons saalées ces letres de nos seax . Cest fait&#13;
+en la presance de Jehan de Salin notaire de la dit cort a Fla&#13;
+vigné Huguet curié d'Aise Pierre curié d'Estalante Huon de Seigne,&#13;
+d’Adrier de Corpoier chevaliers Jehan Bonemer clerc Thiebaut&#13;
+lou Borne Morel Haubert lou marechaut et Hugues des Granges,&#13;
+tesmoings a ceu apelez an l’an et ou mois desus diz .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:1;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

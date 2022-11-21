@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:57:41.324+01:00</Created>
+        <LastChange>2020-01-30T20:00:33.231+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488435" pageNr="19" tsid="23099406" status="GT" userId="408" imgUrl="https://files.transkribus.eu/Get?id=GBAWNHJCIDWSQLCXLPEWVEFB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HQDCXVXKBLCNVKSZLFZVXMEX" imageId="8769126"/>
+    </Metadata>
+    <Page imageFilename="18.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454315762" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="648,493 648,3080 2700,3080 2700,493"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1509,652 1659,690 1818,654 1832,422 1706,367 1523,406 1509,652"/>
+                <Baseline points="1526,568 1810,580"/>
+                <TextEquiv>
+                    <Unicode>II .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="699,868 1876,850 2119,916 2479,863 2688,926 2707,774 2004,777 1471,704 927,737 801,642 704,643 699,868"/>
+                <Baseline points="712,812 2692,850"/>
+                <TextEquiv conf="0.6454845">
+                    <Unicode>Nos Hugues dux de Borgoigne faison savoir a tox cels qui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="692,1006 1300,1032 1403,989 1493,1038 2126,997 2562,1072 2689,1045 2691,925 1538,932 1128,860 778,918 695,862 692,1006"/>
+                <Baseline points="706,960 2676,1000"/>
+                <TextEquiv conf="0.8182669">
+                    <Unicode>ces presentes letres verront et orront que an nostre presence</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="701,1173 1111,1135 1531,1201 1863,1156 2365,1208 2639,1188 2642,1080 2413,1105 2098,1042 1591,1066 1277,1017 1045,1071 758,1022 705,1026 701,1173"/>
+                <Baseline points="716,1112 2626,1172"/>
+                <TextEquiv conf="0.59894145">
+                    <Unicode>estaubli Matiers de Naelles chevaliers et Jehanz ses niés</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="693,1312 2418,1336 2636,1402 2640,1250 975,1165 850,1219 696,1183 693,1312"/>
+                <Baseline points="708,1258 2626,1314"/>
+                <TextEquiv conf="0.8118806">
+                    <Unicode>escuiers de Naelles ont reconeu per devant nos que il ont</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="657,1477 2584,1507 2713,1492 2715,1406 2282,1412 2111,1357 1837,1407 1616,1340 1538,1385 1076,1311 931,1362 683,1321 657,1477"/>
+                <Baseline points="672,1410 2700,1460"/>
+                <TextEquiv conf="0.6847546">
+                    <Unicode>parti et devisei tout lour heritaige an tel meniere que au</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="682,1606 841,1617 898,1566 1064,1628 1968,1653 2192,1614 2361,1678 2681,1644 2684,1521 1402,1545 1293,1487 1174,1534 1102,1469 876,1471 684,1514 682,1606"/>
+                <Baseline points="696,1568 2668,1622"/>
+                <TextEquiv conf="0.7423067">
+                    <Unicode>devant dit Jehant demoure an heritaige toute la vile de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="681,1756 1202,1804 1591,1758 1765,1815 2225,1785 2386,1839 2636,1785 2639,1694 1155,1695 685,1609 681,1756"/>
+                <Baseline points="696,1718 2624,1772"/>
+                <TextEquiv conf="0.8788279">
+                    <Unicode>Naelles et toutes les apertenences que sunt el finaige de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="687,1907 1373,1950 1888,1903 2376,1975 2639,1943 2641,1877 1618,1788 1475,1840 1298,1793 1074,1831 690,1773 687,1907"/>
+                <Baseline points="700,1880 2628,1926"/>
+                <TextEquiv conf="0.44267666">
+                    <Unicode>vile an prez an bois an terres an més an honmes an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="685,2036 1165,2120 1795,2087 2528,2145 2693,2124 2697,2009 2329,2031 2142,1981 1928,2021 1689,1966 1315,2007 1000,1933 688,1939 685,2036"/>
+                <Baseline points="698,2034 2682,2102"/>
+                <TextEquiv conf="0.7035698">
+                    <Unicode>justises an signories et an toutes autres choses senz riens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="665,2239 2477,2243 2591,2291 2675,2278 2679,2139 2340,2186 1956,2117 1611,2169 1492,2115 1116,2154 772,2083 668,2129 665,2239"/>
+                <Baseline points="680,2186 2664,2250"/>
+                <TextEquiv conf="0.75273734">
+                    <Unicode>retenir por celui Matier et tout ce que est an la vile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="660,2411 1150,2355 1514,2437 1757,2401 2009,2449 2111,2408 2655,2439 2661,2287 2496,2352 2354,2286 1958,2337 1274,2255 1044,2317 768,2242 666,2259 660,2411"/>
+                <Baseline points="676,2342 2642,2408"/>
+                <TextEquiv conf="0.69884306">
+                    <Unicode>de Baalou et an totes les apertenences de celi vile et del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="643,2562 882,2530 1809,2601 1986,2546 2301,2622 2622,2585 2688,2500 2313,2494 2215,2436 1924,2503 1636,2430 1364,2477 647,2415 643,2562"/>
+                <Baseline points="658,2500 2672,2558"/>
+                <TextEquiv conf="0.39695668">
+                    <Unicode>finaige an prez an bois an terres an honmes an justi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="636,2696 941,2749 1275,2659 1553,2732 1905,2700 2637,2780 2642,2630 1032,2614 671,2532 636,2696"/>
+                <Baseline points="652,2648 2626,2716"/>
+                <TextEquiv conf="0.6820029">
+                    <Unicode>ses an signories et an totes autres choses senz riens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="647,2829 986,2874 1268,2841 1423,2903 1645,2857 1999,2916 2148,2877 2419,2931 2679,2915 2682,2837 2199,2775 2037,2823 1824,2770 1686,2819 1317,2799 1214,2739 1092,2784 679,2735 647,2829"/>
+                <Baseline points="660,2794 2668,2886"/>
+                <TextEquiv conf="0.5295239">
+                    <Unicode>retenir por celui Matier ; et la moitié de ce que est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="632,3069 1137,3026 1434,3081 1543,3040 2662,3084 2682,2948 2444,2995 2310,2935 1708,2978 1297,2877 1190,2928 698,2896 638,2904 632,3069"/>
+                <Baseline points="648,2972 2666,3044"/>
+                <TextEquiv conf="0.38760138">
+                    <Unicode>a Charantois c’est a savoir an terres an prez an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>II.&#13;
+Nos Hugues dux de Borgoigne faison savoir a tox cels qui&#13;
+ces presentes letres verront et orront que an nostre presence&#13;
+estaubli Matiers de Naelles chevaliers et Jehanz ses niés,&#13;
+escuiers de Naelles ont reconeu per devant nos que il ont&#13;
+parti et devisei tout lour heritaige an tel meniere que au&#13;
+devant dit Jehant demoure an heritaige toute la vile de&#13;
+Naelles et toutes les apertenences que sunt el finaige de la&#13;
+vile an prez an bois an terres an més an honmes an&#13;
+justises an signories et an toutes autres choses senz riens&#13;
+retenir por celui Matier et tout ce que est an la vile&#13;
+de Baalou et an totes les apertenences de celi vile et del&#13;
+finaige an prez an bois an terres an honmes an justi&#13;
+ses an signories et an totes autres choses senz riens&#13;
+retenir por celui Matier ; et la moitié de ce que est&#13;
+a Charantois c’est a savoir an terres an prez an</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2844,482 2844,3079 4954,3079 4954,482"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="4636,565 4759,583 4759,475 4636,492 4636,565"/>
+                <Baseline points="4650,560 4746,560"/>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="2878,852 3142,929 3570,857 3703,892 4178,852 4529,908 4681,843 4854,878 4854,747 4763,786 4598,735 4220,784 3725,727 3318,791 2975,761 2878,787 2878,852"/>
+                <Baseline points="2890,848 4842,842"/>
+                <TextEquiv conf="0.4299348">
+                    <Unicode>vignes an honmes an justises et an signories et an toutes au</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="2852,1036 3027,1002 3473,1077 3544,1017 4335,1048 4388,1003 4849,1086 4883,929 4724,886 4606,941 4385,898 4241,958 4094,895 3392,948 3043,916 2852,928 2852,1036"/>
+                <Baseline points="2866,1002 4870,992"/>
+                <TextEquiv conf="0.5537468">
+                    <Unicode>tres choses senz riens retenir por celui Matier et lou cloux</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="2856,1180 3249,1206 3994,1152 4499,1216 4573,1153 4819,1202 4866,1189 4867,1084 4411,1055 4151,1101 3957,1040 3653,1048 3522,1110 3415,1042 3095,1103 2898,1075 2856,1180"/>
+                <Baseline points="2868,1150 4854,1160"/>
+                <TextEquiv conf="0.57213384">
+                    <Unicode>et touz les fiez des quels messire Andriers ses peres estoit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="2876,1386 3212,1322 3296,1362 3356,1315 3733,1404 3893,1321 4006,1369 4137,1319 4874,1347 4898,1195 4620,1259 3884,1195 3723,1254 2877,1226 2876,1386"/>
+                <Baseline points="2890,1300 4884,1304"/>
+                <TextEquiv conf="0.21912362">
+                    <Unicode>vistuz et tenanz qui muevent de Naelles c’est a savoir lou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="2855,1480 3075,1533 3552,1460 3930,1510 4064,1460 4113,1508 4396,1471 4514,1519 4564,1477 4766,1490 4884,1407 4577,1338 4478,1390 3967,1413 2884,1362 2855,1480"/>
+                <Baseline points="2868,1458 4872,1460"/>
+                <TextEquiv conf="0.62959915">
+                    <Unicode>fié celui Matier des trois parties de Astez et lou fié de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="2860,1666 3096,1642 3206,1691 3389,1625 3468,1667 4286,1635 4671,1674 4886,1652 4886,1547 4597,1493 4008,1573 3436,1507 3326,1539 3276,1497 2859,1561 2860,1666"/>
+                <Baseline points="2872,1612 4872,1614"/>
+                <TextEquiv conf="0.5415814">
+                    <Unicode>Monesteruel et lou fié mon signor Guillaume de Vilers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="2854,1810 3517,1770 3790,1849 4228,1798 4749,1827 4823,1805 4823,1685 4484,1706 4338,1662 4112,1704 3965,1649 3863,1699 3674,1636 3538,1707 3431,1660 3328,1710 3237,1668 3158,1716 2854,1700 2854,1810"/>
+                <Baseline points="2866,1770 4810,1764"/>
+                <TextEquiv conf="0.46234325">
+                    <Unicode>que cil Matiers tient de celui Jehant son nevoul et lou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="2856,1945 4879,1973 4905,1831 4447,1810 4255,1852 4182,1807 3933,1872 3555,1827 3065,1869 2856,1808 2856,1945"/>
+                <Baseline points="2868,1916 4892,1922"/>
+                <TextEquiv conf="0.40190414">
+                    <Unicode>fié de Esperve et lou fié mon signor Guillaume de Ruig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="2874,2108 3223,2095 3425,2150 4028,2099 4510,2160 4759,2127 4906,2061 4906,2014 4120,1968 3905,2023 3375,1977 3234,2024 2901,1979 2874,2108"/>
+                <Baseline points="2888,2070 4892,2076"/>
+                <TextEquiv conf="0.42687452">
+                    <Unicode>nei et lou fié mon signor Milon de Flahei et lou fié Guiller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="2878,2268 3339,2241 3502,2283 3578,2242 3974,2304 4204,2263 4306,2310 4595,2273 4928,2328 4951,2155 4710,2108 4514,2181 3843,2145 3520,2184 3452,2134 3182,2121 2878,2147 2878,2268"/>
+                <Baseline points="2890,2226 4938,2228"/>
+                <TextEquiv conf="0.5598362">
+                    <Unicode>min de Cruancei et toutes ces choses demorent a celui Jehant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="2848,2450 3034,2416 3158,2473 3645,2473 3941,2412 4301,2476 4395,2431 4806,2464 4927,2445 4927,2324 3663,2290 3296,2354 2966,2306 2848,2343 2848,2450"/>
+                <Baseline points="2862,2394 4914,2396"/>
+                <TextEquiv conf="0.3211983">
+                    <Unicode>et a ses hoirs a tenir tojormés . Et a celui Matier demore an he</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="2860,2581 3007,2617 3492,2566 3733,2613 3972,2565 4533,2624 4892,2565 4892,2503 4664,2461 4388,2501 4092,2436 3180,2512 3070,2478 2860,2507 2860,2581"/>
+                <Baseline points="2874,2560 4880,2558"/>
+                <TextEquiv conf="0.67890286">
+                    <Unicode>ritaige tout ce que est an la vile de Astez et toutes les aperte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="2861,2751 3278,2723 3668,2779 4090,2717 4478,2796 4942,2726 4942,2635 4653,2591 4515,2647 3746,2600 3209,2655 3086,2613 2861,2664 2861,2751"/>
+                <Baseline points="2874,2710 4928,2706"/>
+                <TextEquiv conf="0.51996475">
+                    <Unicode>nences que sunt an la vile et el finaige c’est a savoir an prez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="2831,2881 3119,2876 3319,2942 4553,2886 4889,2952 4889,2813 4365,2778 3793,2814 3429,2761 3230,2818 2973,2771 2894,2823 2831,2799 2831,2881"/>
+                <Baseline points="2844,2876 4876,2880"/>
+                <TextEquiv conf="0.5324537">
+                    <Unicode>an bois an terres an honmes an justises et an signories et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="2844,3089 3373,3056 4183,3101 4325,3159 4618,3087 4778,3123 4875,3047 4967,3065 4967,2981 4238,2965 4046,2915 3674,2982 3527,2930 3124,2994 2922,2942 2843,2973 2844,3089"/>
+                <Baseline points="2858,3040 4954,3042"/>
+                <TextEquiv conf="0.61109316">
+                    <Unicode>an autres choses et demi ce de Charentois an terres an prez</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:2;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

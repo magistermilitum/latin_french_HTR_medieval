@@ -1,0 +1,498 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:57:18.160+01:00</Created>
+        <LastChange>2020-11-20T18:29:48.897+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488537" pageNr="114" tsid="49379356" status="IN_PROGRESS" userId="52517" imgUrl="https://files.transkribus.eu/Get?id=QMRZNLDQTBZSAYSOHXDPQVUU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PZYNSFJWXDPEKJSHDNKFYROQ" imageId="8769221"/>
+    </Metadata>
+    <Page imageFilename="113.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454467742" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="546,449 546,3618 2686,3618 2686,449"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1038,547 1086,525 1141,555 1191,526 1317,542 1462,502 1459,390 1034,393 1038,547"/>
+                <Baseline points="1052,496 1448,492"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="685,638 921,616 1204,639 1309,598 1375,637 1543,590 1588,621 1648,594 1805,610 1913,580 1979,617 2116,593 2156,624 2238,592 2355,616 2569,597 2638,622 2636,474 2426,496 2320,468 2129,516 2020,471 1753,482 1668,546 1574,555 1377,551 1339,526 1294,558 1188,530 1146,559 1080,526 941,564 718,549 684,558 685,638"/>
+                <Baseline points="698,614 2622,592"/>
+                <TextEquiv>
+                    <Unicode>Estevenez li fils chiere de Semur por cele suie vigne que touche d’une</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="665,707 750,709 827,672 876,711 1049,667 1184,706 1280,682 1352,707 1443,661 1659,656 1799,686 1936,662 2236,694 2361,670 2395,701 2498,677 2598,708 2617,628 2568,597 2321,622 2238,591 2152,618 2115,595 1950,619 1861,591 1585,620 1545,586 1374,636 1283,608 1203,640 918,614 844,640 684,636 665,707"/>
+                <Baseline points="680,682 1738,658 2604,670"/>
+                <TextEquiv conf="0.42420977">
+                    <Unicode>part a la dite vigne Landri de Semur et d’autre part a la vigne a la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="668,811 1056,814 1084,793 1125,812 1189,761 1525,731 1970,744 2063,724 2138,745 2136,682 1705,663 1615,689 1585,661 1333,703 1127,686 1016,715 967,679 860,719 768,696 665,708 668,811"/>
+                <Baseline points="682,758 2124,724"/>
+                <TextEquiv>
+                    <Unicode>Pichenasse bien li avient doit trois maailles .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="635,933 670,943 698,914 792,937 840,896 897,911 1036,874 1544,877 1711,830 1803,867 1922,838 1995,882 2045,846 2205,865 2267,835 2408,860 2461,835 2605,869 2630,865 2628,779 1731,729 1631,741 1553,797 1317,818 1188,790 1094,818 720,805 632,824 635,933"/>
+                <Baseline points="650,894 1632,838 2614,840"/>
+                <TextEquiv>
+                    <Unicode>Pichenasse bien havient por cele vigne que douche d’une part</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="618,1005 909,1003 953,964 1028,985 1061,958 1192,947 1601,967 1710,914 1797,940 1952,903 2062,933 2121,905 2245,944 2321,913 2379,936 2490,924 2542,962 2631,959 2639,861 2359,860 2270,834 2205,865 2127,842 2011,867 1976,836 1797,866 1736,836 1641,877 1591,847 1549,875 1401,891 1306,869 1191,905 945,885 892,924 615,934 618,1005"/>
+                <Baseline points="632,984 1828,912 2626,920"/>
+                <TextEquiv conf="0.5776336">
+                    <Unicode>a la vigne dou dit Estevenet et d’autre part a la vigne Pierre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="621,1107 1080,1091 1165,1032 1225,1026 1274,1044 1920,1010 1921,918 1811,944 1704,915 1601,966 1158,950 999,972 964,1003 937,979 890,1007 699,1017 640,994 615,1007 621,1107"/>
+                <Baseline points="634,1062 1910,992"/>
+                <TextEquiv>
+                    <Unicode>Buretiaul de Semur doit trois deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="613,1224 859,1164 1022,1184 1341,1155 1378,1176 1759,1122 1814,1155 1936,1133 1983,1160 2016,1133 2125,1149 2195,1123 2216,1143 2298,1111 2544,1133 2629,1113 2626,1036 2549,1042 2454,1005 2266,1015 2179,1073 1871,1061 1821,1034 1505,1057 1441,1103 1221,1076 1062,1108 987,1082 960,1112 899,1085 702,1090 608,1102 613,1224"/>
+                <Baseline points="626,1178 2614,1104"/>
+                <TextEquiv>
+                    <Unicode>Pierre Buretiaus de Semur por cele suie vigne que touche d’une part</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="608,1275 691,1278 735,1244 796,1273 884,1242 1018,1254 1083,1228 1238,1257 1635,1201 1734,1235 1872,1198 2427,1245 2480,1192 2657,1205 2654,1122 2365,1113 2318,1141 2018,1133 1985,1157 1938,1133 1813,1157 1764,1122 1725,1147 1499,1141 1383,1174 1297,1154 1021,1182 755,1172 606,1227 608,1275"/>
+                <Baseline points="622,1258 2642,1174"/>
+                <TextEquiv conf="0.36436418">
+                    <Unicode>a la vigne de la dite Pichenasse bien havient et d’autre part a la vigne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="619,1348 799,1351 931,1317 1132,1334 1284,1293 1374,1319 1401,1297 1465,1314 1509,1282 1837,1282 1860,1272 1856,1204 1671,1230 1636,1203 1586,1232 1476,1213 1256,1261 1083,1228 1024,1252 881,1240 758,1282 674,1264 614,1271 619,1348"/>
+                <Baseline points="632,1336 1844,1268"/>
+                <TextEquiv>
+                    <Unicode>Bonet Bertin de Semur doit dous deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="609,1481 1007,1439 1139,1460 1277,1414 1370,1439 1656,1404 1829,1428 1864,1401 1928,1427 1978,1393 2061,1387 2110,1414 2172,1382 2358,1403 2466,1385 2539,1416 2627,1404 2623,1327 2287,1332 2191,1296 2064,1330 1988,1290 1791,1353 1539,1334 1506,1356 1471,1334 1423,1362 1339,1323 1182,1309 886,1350 843,1329 615,1341 609,1481"/>
+                <Baseline points="622,1456 1914,1386 2610,1378"/>
+                <TextEquiv>
+                    <Unicode>Bonez Bertins de Semur por cele suie vigne que touche d’une part a la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="605,1537 1147,1534 1191,1506 1487,1482 2025,1533 2143,1460 2189,1485 2428,1462 2621,1510 2686,1491 2682,1388 2509,1417 2463,1387 2343,1405 2300,1381 2110,1419 2020,1387 1939,1422 1861,1401 1833,1425 1613,1415 1586,1436 1192,1429 1073,1462 1015,1438 603,1478 605,1537"/>
+                <Baseline points="618,1524 1849,1464 2670,1468"/>
+                <TextEquiv conf="0.56353205">
+                    <Unicode>dite vigne Pierre Buretiaul et d‘autre part a la vigne a la damoisele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="577,1626 883,1638 987,1577 1512,1588 1600,1571 1598,1500 1486,1483 849,1542 726,1519 575,1552 577,1626"/>
+                <Baseline points="590,1592 1586,1558"/>
+                <TextEquiv>
+                    <Unicode>de Chamont doit dous deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="570,1745 1048,1707 1094,1731 1150,1706 1411,1731 1452,1692 1672,1684 1773,1715 1980,1681 2040,1705 2129,1699 2173,1657 2265,1682 2290,1656 2412,1646 2653,1674 2700,1655 2698,1581 2283,1542 2214,1550 2159,1595 2062,1596 1744,1550 1511,1588 1408,1571 1311,1649 1222,1630 1154,1655 1099,1628 957,1659 902,1633 772,1669 565,1628 570,1745"/>
+                <Baseline points="582,1714 2686,1648"/>
+                <TextEquiv>
+                    <Unicode>La damoisele de Chamont por cele suie vigne que touche d’une part a la vigne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="581,1831 715,1803 781,1824 902,1782 997,1805 1244,1779 1277,1801 1453,1774 1516,1801 1572,1770 1607,1792 1963,1779 2033,1802 2111,1748 2243,1775 2268,1751 2527,1730 2633,1758 2659,1751 2656,1672 2550,1664 2494,1692 2409,1646 2322,1681 2173,1657 2129,1699 1980,1681 1793,1717 1464,1691 1377,1726 1202,1709 1091,1730 1062,1705 1006,1739 943,1715 821,1743 709,1721 619,1750 578,1734 581,1831"/>
+                <Baseline points="594,1798 2642,1722"/>
+                <TextEquiv conf="0.45233643">
+                    <Unicode>Bonet Bertin et d’autre part a la vigne Giradot Buretiaul de Semur doit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="598,1900 736,1874 1076,1881 1076,1815 668,1803 595,1831 598,1900"/>
+                <Baseline points="612,1884 1064,1864"/>
+                <TextEquiv>
+                    <Unicode>une maaille .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="584,2056 1003,2041 1081,2006 1179,2022 1223,1988 1327,2013 1520,1990 1724,2016 1901,1948 1954,1986 2095,1960 2134,1992 2224,1966 2336,1990 2412,1952 2471,1995 2637,2008 2671,2001 2664,1850 2613,1844 2523,1893 2448,1865 2309,1891 2263,1867 2161,1889 2023,1863 1990,1896 1920,1870 1721,1870 1658,1933 1580,1913 1493,1946 1194,1904 1124,1930 987,1924 885,1886 595,1898 584,2056"/>
+                <Baseline points="598,2030 2038,1954 2656,1956"/>
+                <TextEquiv>
+                    <Unicode>Girardos Buretiauz de Semur por cele suie vigne que touche d‘une part</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="582,2134 1136,2089 1197,2118 1231,2091 1480,2117 1550,2086 1633,2103 1718,2069 1804,2089 1874,2049 2028,2064 2110,2035 2320,2088 2345,2064 2638,2106 2640,2000 1900,1966 1829,1997 1800,1975 1730,2017 1598,1993 1491,2020 1293,1995 1248,2028 1082,2008 970,2052 579,2048 582,2134"/>
+                <Baseline points="594,2108 1914,2044 2626,2058"/>
+                <TextEquiv conf="0.6102188">
+                    <Unicode>a la dite vigne a la damoisele de Chamont et d’autre part a une vigne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="565,2246 1069,2234 1144,2179 1413,2189 1545,2149 1629,2185 1718,2179 1794,2165 1791,2085 1537,2089 1478,2115 1326,2098 1213,2131 1041,2104 934,2134 799,2114 589,2133 560,2140 565,2246"/>
+                <Baseline points="578,2196 1778,2144"/>
+                <TextEquiv>
+                    <Unicode>aus mesiaus de Semur doit dous deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="581,2381 733,2356 764,2376 810,2331 1023,2360 1055,2335 1169,2350 1203,2327 1331,2367 1363,2345 1440,2362 1525,2308 1762,2370 1885,2319 2030,2354 2093,2326 2503,2365 2577,2345 2646,2388 2646,2231 2558,2219 2444,2287 2333,2238 2196,2252 2113,2217 1942,2254 1874,2222 1817,2256 1694,2224 1605,2278 1526,2260 1460,2280 1403,2245 1349,2271 1161,2247 1098,2272 816,2234 742,2273 582,2247 581,2381"/>
+                <Baseline points="596,2326 1614,2312 2632,2334"/>
+                <TextEquiv>
+                    <Unicode>Joberz del Bavoy por une suie vigne que est assise d’une part sux</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="588,2451 725,2462 910,2409 1016,2446 1110,2414 1395,2435 1435,2403 1512,2431 1606,2399 1700,2427 1863,2406 1914,2435 1994,2397 2019,2423 2307,2426 2576,2473 2616,2462 2615,2350 2361,2363 2258,2336 2173,2362 2102,2325 2030,2354 1873,2312 1788,2356 1739,2333 1620,2351 1580,2325 1497,2357 1055,2340 1027,2366 990,2341 907,2367 591,2371 588,2451"/>
+                <Baseline points="602,2428 1602,2398 2602,2416"/>
+                <TextEquiv conf="0.56884503">
+                    <Unicode>la riviere delez la vigne Girardot Buretiaul et d’autre touche a la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="586,2525 731,2513 820,2541 899,2509 977,2532 1113,2502 1455,2512 1529,2471 1584,2494 1743,2478 2108,2508 2165,2493 2165,2427 2036,2414 1963,2443 1834,2404 1712,2436 1606,2399 1512,2431 1435,2403 1395,2435 1164,2439 1110,2414 1013,2446 913,2418 879,2447 822,2427 725,2462 622,2448 585,2468 586,2525"/>
+                <Baseline points="600,2508 1297,2480 2150,2492"/>
+                <TextEquiv>
+                    <Unicode>vigne Harbert lou fil Meryhet doit une maaille</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:22;}">
+                <Coords points="575,2683 669,2714 811,2654 965,2674 1068,2645 1139,2685 1259,2637 1302,2668 1635,2639 1701,2671 1838,2648 1975,2682 2026,2653 2106,2685 2129,2665 2363,2696 2491,2642 2605,2696 2628,2693 2628,2590 2251,2599 2060,2556 1909,2585 1821,2542 1578,2582 1441,2571 1382,2537 1293,2568 1028,2551 886,2597 848,2568 760,2611 575,2563 575,2683"/>
+                <Baseline points="590,2664 1398,2638 2612,2660"/>
+                <TextEquiv>
+                    <Unicode>Herbers li filz Meryhet por cele suie vigne que touche d’une part a la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:23;}">
+                <Coords points="578,2792 673,2801 747,2747 864,2781 935,2741 1038,2773 1080,2744 1200,2741 1249,2779 1306,2733 1371,2759 1542,2725 1648,2768 1785,2736 1867,2756 1899,2731 2264,2803 2329,2805 2369,2774 2412,2806 2480,2806 2611,2734 2612,2686 2555,2663 2489,2692 2412,2666 2361,2697 2130,2668 2098,2691 2070,2671 1916,2691 1808,2654 1659,2685 1539,2651 1300,2667 1263,2636 1132,2690 1098,2659 961,2676 812,2653 690,2707 579,2684 578,2792"/>
+                <Baseline points="594,2746 1795,2726 2596,2752"/>
+                <TextEquiv conf="0.5166763">
+                    <Unicode>vigne Jobert del Bavoy et d’autre part a la vigne Jannet lou fil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:24;}">
+                <Coords points="559,2897 1411,2872 1408,2749 1308,2740 1235,2779 1083,2746 1038,2773 895,2760 821,2788 738,2753 671,2800 556,2792 559,2897"/>
+                <Baseline points="572,2844 1396,2818"/>
+                <TextEquiv>
+                    <Unicode>Meryhet doit une pegeise .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:25;}">
+                <Coords points="564,3004 598,3019 696,2983 767,3001 896,2966 924,2995 981,2959 1138,2995 1235,2948 1280,2977 1489,2954 1565,2984 1629,2959 1716,3000 1837,2964 1885,3002 2022,2975 2081,3005 2147,2966 2210,2992 2529,3008 2675,2984 2676,2902 2581,2935 2302,2908 2125,2923 2057,2893 2005,2930 1894,2905 1717,2926 1664,2894 1538,2883 1481,2917 1444,2879 1284,2911 1142,2872 988,2910 920,2878 731,2881 657,2912 586,2888 566,2890 564,3004"/>
+                <Baseline points="580,2968 1204,2952 2660,2982"/>
+                <TextEquiv>
+                    <Unicode>Jannez li filz Meryhet por cele suie vigne que touche d’une part a la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:26;}">
+                <Coords points="551,3098 915,3112 1027,3095 1096,3039 1321,3061 1526,3039 1580,3071 1894,3056 2048,3103 2501,3123 2572,3072 2684,3079 2684,2976 2644,3002 2410,3009 2145,2998 2111,2975 2082,3003 2020,2974 1886,3002 1792,2967 1718,2998 1644,2960 1572,2985 1467,2962 1390,2995 1236,2946 1124,2994 982,2958 925,2995 885,2969 765,3002 551,2998 551,3098"/>
+                <Baseline points="566,3050 2670,3048"/>
+                <TextEquiv>
+                    <Unicode>dite vigne Herbert et d’autre part a la vigne Perrenet de Borbilley doit vii denier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:27;}">
+                <Coords points="544,3211 581,3231 619,3197 741,3201 773,3173 1323,3202 1374,3165 1437,3188 1471,3160 1542,3203 1657,3172 1694,3207 1799,3179 1993,3203 2030,3178 2061,3204 2113,3181 2449,3217 2483,3192 2577,3221 2643,3182 2683,3193 2683,3119 2507,3118 2470,3141 2347,3108 2298,3134 2093,3095 2031,3121 1982,3095 1723,3093 1671,3124 1540,3103 1403,3128 1261,3082 1204,3130 956,3091 645,3121 602,3089 545,3106 544,3211"/>
+                <Baseline points="558,3178 2668,3178"/>
+                <TextEquiv>
+                    <Unicode>Perrenez de Borbilley por cele suie vigne que touche d’une part a la dite vigne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:28;}">
+                <Coords points="530,3325 625,3297 847,3325 932,3291 1258,3308 1369,3280 1491,3309 1819,3286 1936,3315 1996,3281 2361,3298 2401,3278 2592,3318 2643,3298 2643,3213 2484,3193 2350,3218 2187,3184 2096,3209 1942,3181 1879,3204 1765,3178 1691,3209 1557,3209 1471,3160 1332,3200 1049,3177 878,3197 836,3171 684,3214 531,3214 530,3325"/>
+                <Baseline points="546,3268 1067,3246 2630,3250"/>
+                <TextEquiv>
+                    <Unicode>del dit Jannet et d’autre part a la vigne Guienot Godier doit  . vii  . denier .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+Estevenez li fils chiere de Semur por cele suie vigne que touche d’une&#13;
+part a la dite vigne Landri de Semur et d’autre part a la vigne a la&#13;
+Pichenasse bien li avient doit trois maailles.&#13;
+Pichenasse bien havient por cele vigne que douche d’une part&#13;
+a la vigne dou dit Estevenet et d’autre part a la vigne Pierre&#13;
+Buretiaul de Semur doit trois deniers.&#13;
+Pierre Buretiaus de Semur por cele suie vigne que touche d’une part&#13;
+a la vigne de la dite Pichenasse bien havient et d’autre part a la vigne&#13;
+Bonet Bertin de Semur doit dous deniers.&#13;
+Bonez Bertins de Semur por cele suie vigne que touche d’une part a la&#13;
+dite vigne Pierre Buretiaul et d‘autre part a la vigne a la damoisele&#13;
+de Chamont doit dous deniers.&#13;
+La damoisele de Chamont por cele suie vigne que touche d’une part a la vigne&#13;
+Bonet Bertin et d’autre part a la vigne Giradot Buretiaul de Semur doit&#13;
+une maaille.&#13;
+Girardos Buretiauz de Semur por cele suie vigne que touche d‘une part&#13;
+a la dite vigne a la damoisele de Chamont et d’autre part a une vigne&#13;
+aus mesiaus de Semur doit dous deniers.&#13;
+Joberz del Bavoy por une suie vigne que est assise d’une part sux&#13;
+la riviere delez la vigne Girardot Buretiaul et d’autre touche a la&#13;
+vigne Harbert lou fil Meryhet doit une maaille&#13;
+Herbers li filz Meryhet por cele suie vigne que touche d’une part a la&#13;
+vigne Jobert del Bavoy et d’autre part a la vigne Jannet lou fil&#13;
+Meryhet doit une pegeise.&#13;
+Jannez li filz Meryhet por cele suie vigne que touche d’une part a la&#13;
+dite vigne Herbert et d’autre part a la vigne Perrenet de Borbilley doit vii denier&#13;
+Perrenez de Borbilley por cele suie vigne que touche d’une part a la dite vigne&#13;
+del dit Jannet et d’autre part a la vigne Guienot Godier doit  . vii  . denier .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2732,420 2732,3447 5038,3447 5038,420"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="3256,524 3501,505 3629,524 3666,503 3663,400 3490,423 3403,377 3252,390 3256,524"/>
+                <Baseline points="3270,478 3650,470"/>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="4481,507 4574,530 4647,506 4653,415 4487,418 4481,507"/>
+                <Baseline points="4496,490 4632,498"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="2793,633 2955,606 3033,648 3152,595 3380,607 3445,575 3600,610 3722,580 3765,611 3947,612 3973,589 4004,612 4115,573 4221,615 4309,582 4426,610 4475,578 4743,595 4777,566 4837,602 4914,599 4954,590 4953,521 4702,533 4622,502 4574,531 4411,513 4389,536 4354,516 4286,534 4131,493 4046,528 3864,505 3793,531 3650,490 3624,516 3504,503 3308,537 3239,506 3197,535 3153,498 3031,520 2962,486 2791,511 2793,633"/>
+                <Baseline points="2806,618 3552,571 4938,574"/>
+                <TextEquiv>
+                    <Unicode>Guienoz Godiers por cele suie vigne que touche d’une part a la dite vigne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="2805,725 3132,712 3195,680 3275,710 3462,653 3557,675 3710,655 3839,696 4087,679 4204,703 4244,676 4444,702 4512,676 4595,703 4632,674 4712,693 4763,661 4880,690 4994,666 4993,592 4810,589 4714,627 4525,607 4482,576 4423,611 4337,610 4311,584 4209,611 4163,578 4103,610 4043,579 4006,609 3969,589 3764,612 3727,584 3579,606 3441,574 3379,609 3151,595 3032,648 2829,645 2804,654 2805,725"/>
+                <Baseline points="2818,706 3574,652 4978,660"/>
+                <TextEquiv>
+                    <Unicode>Perrenoit de Borbeilley et d'autre part a la vigne Herbert leu fil Meryhet doit une maaille .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="2803,854 2835,867 2908,827 3347,827 3414,773 3461,806 3770,762 3834,789 4068,788 4155,756 4429,769 4537,744 4569,769 4869,774 4922,744 5016,746 5014,675 4880,691 4765,661 4695,696 4631,672 4589,700 4514,677 4281,700 4240,676 4204,703 4089,679 3945,702 3663,652 3322,677 3266,711 2971,696 2944,720 2798,726 2803,854"/>
+                <Baseline points="2818,826 3910,753 5002,742"/>
+                <TextEquiv>
+                    <Unicode>Herbers li filz Meryhet por cele piece de vigne que touche d’une part a la vigne Guienot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="2773,936 2914,900 2966,921 3133,889 3402,889 3505,852 3589,871 3671,846 3828,864 4130,842 4360,865 4417,824 4558,834 4553,746 4378,775 4154,755 4070,786 3842,789 3769,761 3460,806 3415,774 3344,827 3187,818 3125,844 3075,823 2966,858 2868,837 2770,871 2773,936"/>
+                <Baseline points="2786,916 3665,842 4544,820"/>
+                <TextEquiv>
+                    <Unicode>Godier et d’autre part a la vigne Dadin Godier doit une pegeise .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="2781,1043 3023,1040 3110,999 3290,1007 3341,976 3453,1004 3565,954 3655,982 4231,992 4276,953 4644,962 4672,938 4770,980 4876,982 4985,938 4982,852 4901,812 4765,843 4595,810 4531,835 4413,825 4358,867 4235,854 4140,901 3913,881 3846,920 3498,905 2912,970 2783,954 2781,1043"/>
+                <Baseline points="2794,1022 3882,950 4970,940"/>
+                <TextEquiv>
+                    <Unicode>Dadins Godiers et Guienoz ses freres por cele vigne que touche d’une part a la dite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="2770,1143 3218,1137 3271,1098 3607,1071 3648,1107 3710,1074 3762,1110 3870,1081 3993,1115 4120,1057 4436,1025 4815,1026 4879,1076 4948,1077 5021,1055 5019,966 4967,939 4919,975 4771,979 4673,936 4580,976 4516,949 4394,978 4356,948 4223,983 3824,968 3673,995 3564,956 3471,1001 3367,975 3283,1009 3109,1000 3052,1033 2816,1028 2768,1052 2770,1143"/>
+                <Baseline points="2784,1094 3672,1037 5006,1026"/>
+                <TextEquiv>
+                    <Unicode>vigne deu dit Herbert et d’autre part a la vigne Girart Boter doivent 1 maaille .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="2745,1209 2809,1233 3097,1224 3333,1203 3358,1179 3512,1195 3537,1171 3683,1187 3814,1160 3908,1166 4004,1223 4040,1199 4086,1218 4154,1199 4206,1229 4477,1215 4584,1155 4719,1188 4715,1060 4613,1083 4424,1063 4286,1107 4202,1086 4023,1109 3803,1086 3761,1113 3732,1091 3310,1095 3248,1140 2744,1149 2745,1209"/>
+                <Baseline points="2760,1218 3440,1171 4704,1148"/>
+                <TextEquiv>
+                    <Unicode>Toutes ces devant dites censies sont des vignes assises desouz la brade .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="2762,1400 2881,1399 2940,1368 3047,1390 3199,1349 3334,1359 3398,1328 3425,1352 3590,1352 3697,1319 3764,1348 3808,1317 4018,1341 4088,1321 4155,1350 4260,1334 4410,1369 4568,1323 4565,1260 4409,1203 4273,1234 4146,1199 4073,1227 3904,1202 3832,1257 3694,1236 3624,1267 3528,1225 3403,1227 3280,1289 3169,1305 3065,1278 3006,1308 2757,1286 2762,1400"/>
+                <Baseline points="2776,1380 3576,1320 4554,1302"/>
+                <TextEquiv>
+                    <Unicode>Cestes censies ci après sont des vignes assises au Mont Liébaut .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="2772,1702 2809,1687 2844,1711 3053,1661 3097,1682 3223,1642 3253,1663 3441,1655 3522,1605 3620,1627 3832,1597 3931,1627 4015,1603 4068,1635 4220,1585 4281,1611 4376,1575 4577,1591 4687,1561 4997,1609 4992,1492 4857,1527 4778,1496 4734,1533 4536,1507 4440,1535 4325,1503 4155,1534 4125,1512 4086,1537 4034,1505 3918,1539 3468,1496 3255,1586 3028,1602 2989,1578 2931,1615 2769,1617 2772,1702"/>
+                <Baseline points="2786,1670 3554,1610 4982,1562"/>
+                <TextEquiv>
+                    <Unicode>Duranz Pancars por une suie vigne que touche d’une part a la vigne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="2796,1763 3055,1758 3134,1728 3249,1749 3310,1709 3428,1739 3507,1704 3655,1697 3799,1723 3949,1696 4061,1726 4097,1698 4147,1725 4346,1699 4441,1718 4510,1672 4596,1685 4723,1657 4902,1704 5010,1676 5005,1582 4904,1609 4866,1580 4758,1598 4648,1563 4590,1617 4471,1574 4335,1577 4251,1626 4105,1612 4074,1634 3999,1603 3931,1626 3577,1609 3524,1649 3317,1666 3222,1642 3175,1681 3057,1660 2918,1678 2876,1714 2793,1689 2796,1763"/>
+                <Baseline points="2808,1748 4994,1642"/>
+                <TextEquiv conf="0.598668">
+                    <Unicode>au seignor de Chevigney et d’autre part a la vigne mon seignor Guion Buretiaul</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="2776,1867 2908,1828 2940,1846 3084,1820 3151,1837 3212,1807 3444,1811 3508,1790 3505,1730 3312,1707 3240,1746 2769,1753 2776,1867"/>
+                <Baseline points="2786,1806 3494,1774"/>
+                <TextEquiv>
+                    <Unicode>doit trois deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="2768,1946 2892,1901 3122,1932 3177,1889 3369,1899 3419,1868 3480,1891 3819,1886 3869,1846 3901,1871 3952,1849 4002,1884 4148,1835 4240,1863 4290,1832 4474,1856 4604,1825 4948,1868 4953,1765 4850,1769 4780,1738 4713,1769 4664,1745 4596,1776 4464,1756 4431,1780 4224,1746 4055,1785 3877,1772 3830,1800 3677,1774 3454,1821 3425,1802 3208,1808 3149,1836 2906,1829 2820,1873 2765,1866 2768,1946"/>
+                <Baseline points="2780,1910 3969,1838 4942,1822"/>
+                <TextEquiv>
+                    <Unicode>Mes sires Guiz Buretiaus por cele vigne que touche d’une part a la vigne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="2760,2002 2985,1976 3193,1989 3238,1961 3400,1949 3715,1978 3790,1926 4028,1952 4072,1918 4139,1947 4469,1924 4796,1963 4854,1915 4988,1918 4985,1844 4929,1863 4597,1827 4227,1864 4155,1835 4019,1869 3958,1846 3902,1871 3867,1846 3823,1882 3748,1862 3698,1890 3620,1870 3358,1900 3175,1889 3139,1922 3033,1906 2758,1936 2760,2002"/>
+                <Baseline points="2774,1984 3874,1920 4974,1900"/>
+                <TextEquiv>
+                    <Unicode>Durant Pancart et d’autre part a la vigne Jannet de Semur lou maçon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="2751,2099 2798,2116 2901,2082 3014,2100 3040,2072 3474,2052 3484,1954 3238,1961 3126,1997 2996,1975 2916,2010 2772,2000 2744,2011 2751,2099"/>
+                <Baseline points="2762,2054 3474,2004"/>
+                <TextEquiv>
+                    <Unicode>doit quatre deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="2761,2212 2860,2174 2903,2199 3207,2144 3248,2171 3418,2141 3547,2154 3714,2109 3795,2144 3871,2119 3943,2142 4030,2105 4100,2132 4295,2100 4362,2130 4429,2091 4479,2129 4533,2113 4599,2143 4792,2114 4910,2145 5018,2133 5016,2079 4844,2044 4599,2060 4352,2005 4119,2009 4023,2063 3894,2038 3855,2059 3786,2030 3744,2057 3683,2024 3439,2083 3267,2057 3042,2072 2981,2119 2853,2138 2761,2097 2761,2212"/>
+                <Baseline points="2774,2172 4110,2100 5002,2120"/>
+                <TextEquiv>
+                    <Unicode>Jannez de Semur li maçons por cele vigne que touche d’une part a la vigne mon seignor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="2745,2298 2975,2269 3232,2280 3371,2245 3580,2263 3613,2239 3743,2279 3844,2227 4089,2236 4303,2204 4472,2249 4523,2222 4626,2239 4665,2212 4729,2262 4802,2235 4980,2256 5053,2228 5051,2120 4911,2146 4791,2115 4680,2144 4537,2110 4500,2131 4289,2105 4266,2128 3861,2121 3799,2143 3707,2117 3543,2155 3414,2144 3252,2174 3203,2155 3178,2179 2944,2173 2916,2194 2853,2175 2742,2201 2745,2298"/>
+                <Baseline points="2758,2248 4012,2182 5038,2200"/>
+                <TextEquiv>
+                    <Unicode>Guion Buretiaul et d’autre part a la vigne Perenet lou Porpointier doit 6 deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="2734,2372 2933,2350 3127,2372 3471,2324 3688,2322 3751,2347 4007,2312 4050,2334 4087,2308 4213,2336 4272,2312 4441,2337 4506,2307 4641,2338 4697,2317 4746,2347 4878,2356 4928,2326 5006,2336 5004,2253 4801,2235 4730,2262 4664,2221 4556,2255 4382,2224 4245,2244 4207,2214 4119,2239 3848,2227 3784,2275 3512,2246 3365,2290 3313,2265 3234,2290 2971,2270 2895,2309 2854,2284 2732,2295 2734,2372"/>
+                <Baseline points="2746,2354 4318,2298 4992,2320"/>
+                <TextEquiv>
+                    <Unicode>Li maitres de la maison Deu de Semur por une suie vigne que est assise delez lou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="2741,2477 2818,2456 3075,2477 3203,2444 3289,2474 3437,2439 3577,2463 3628,2434 3659,2459 3716,2433 3799,2458 3841,2421 4013,2442 4044,2413 4369,2418 4406,2449 4600,2390 4725,2412 4794,2394 5028,2466 5027,2341 4930,2325 4870,2356 4519,2309 4428,2335 4088,2307 4052,2333 3464,2327 3128,2371 2774,2357 2740,2366 2741,2477"/>
+                <Baseline points="2756,2424 3996,2378 5012,2416"/>
+                <TextEquiv>
+                    <Unicode>clox d’une part et d’autre touche a vigne Thiébaut de Broies doit trois deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="2731,2576 2828,2589 2884,2553 2936,2584 3028,2582 3107,2532 3460,2537 3508,2502 3714,2535 3890,2492 4070,2492 4239,2534 4327,2535 4358,2506 4393,2531 4509,2521 4898,2582 4940,2541 4986,2543 4985,2481 4854,2483 4799,2450 4697,2472 4619,2427 4403,2448 4373,2420 4254,2443 4060,2412 3898,2449 3854,2419 3661,2459 3627,2434 3579,2464 3322,2448 3220,2482 3122,2449 3074,2479 3011,2457 2963,2484 2806,2458 2729,2479 2731,2576"/>
+                <Baseline points="2746,2558 4081,2486 4972,2534"/>
+                <TextEquiv>
+                    <Unicode>Thiebauz de Broies por cele vigne que touche d’une part a la dite vigne de la maison Deu et d’autre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="2735,2657 2831,2622 3162,2640 3310,2600 3433,2628 3469,2589 3811,2586 3845,2562 3934,2585 4150,2555 4254,2600 4468,2598 4567,2583 4565,2512 4448,2533 4068,2492 3698,2533 3614,2504 3590,2531 3486,2517 3382,2544 3361,2524 3231,2555 3147,2529 3035,2573 2962,2547 2824,2586 2735,2571 2735,2657"/>
+                <Baseline points="2748,2626 3920,2564 4552,2578"/>
+                <TextEquiv>
+                    <Unicode>part a une vigne maismemant de la maison Deu doit un denier .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="2731,2756 2793,2738 2902,2768 3044,2704 3095,2743 3164,2716 3343,2731 3466,2701 3506,2724 3654,2693 3694,2719 3770,2681 3882,2674 4073,2700 4335,2680 4538,2728 4615,2702 4707,2746 4740,2717 4781,2740 4991,2717 4990,2637 4799,2628 4760,2657 4685,2613 4588,2648 4468,2607 4434,2636 4317,2586 4203,2596 4148,2556 3960,2587 3732,2570 3470,2587 3428,2628 3308,2601 3126,2643 2780,2633 2729,2653 2731,2756"/>
+                <Baseline points="2744,2744 3971,2676 4976,2728"/>
+                <TextEquiv>
+                    <Unicode>Cele autre vigne de la maison Deu que touche d’une part a la dite vigne Thiebaut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="2736,2846 2906,2833 2978,2860 3015,2837 3251,2834 3345,2799 3562,2814 3676,2781 3950,2795 4149,2761 4440,2775 4503,2820 4628,2793 4876,2805 4920,2833 4918,2730 4779,2740 4736,2718 4702,2741 4613,2702 4531,2723 4336,2680 4234,2709 4194,2681 3983,2701 3811,2677 3701,2712 3179,2715 3119,2742 3045,2706 2906,2764 2791,2737 2735,2763 2736,2846"/>
+                <Baseline points="2748,2814 3933,2744 4472,2758 4904,2804"/>
+                <TextEquiv>
+                    <Unicode>de Broies et d’autre part a la vigne d’Annois de Monestruel doit quatre deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="2710,2942 2857,2916 3217,2917 3324,2864 3398,2888 3484,2866 3684,2882 3760,2851 3849,2878 3977,2864 4013,2835 4088,2870 4167,2828 4284,2834 4362,2870 4430,2848 4614,2896 4656,2875 4876,2885 4888,2804 4586,2794 4521,2824 4431,2774 4151,2760 3936,2808 3881,2783 3770,2808 3724,2778 3562,2813 3394,2796 3249,2837 2708,2859 2710,2942"/>
+                <Baseline points="2731,2916 4042,2840 4876,2884"/>
+                <TextEquiv>
+                    <Unicode>Une autre vigne de la maison Deu que touche d’une part au chex et d’autre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="2727,3005 2842,2966 2889,2993 2942,2957 3031,2979 3076,2949 3154,2986 3301,2957 3443,3003 3656,2971 3726,3009 3770,2975 3840,2998 3938,2952 4340,2956 4521,2997 4658,2977 4654,2881 4465,2874 4424,2847 4279,2864 4170,2828 4088,2869 4010,2835 3960,2865 3734,2851 3689,2882 3350,2875 3217,2915 2724,2931 2727,3005"/>
+                <Baseline points="2740,2980 3976,2906 4642,2934"/>
+                <TextEquiv>
+                    <Unicode>part a une vigne mon seignor Guillaume de Chamont doit trois deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:26;}">
+                <Coords points="2737,3143 2874,3151 2950,3124 3025,3145 3090,3114 3224,3137 3277,3090 3696,3074 3808,3097 3944,3067 4104,3078 4145,3114 4187,3084 4305,3113 4578,3089 4673,3118 4814,3060 4920,3103 4965,3082 4963,2988 4524,2999 4418,2970 4274,3022 4073,2987 4006,3017 3945,2993 3883,3012 3773,2975 3732,3010 3583,3008 3528,2981 3310,3018 3167,3001 3024,3013 2900,3079 2863,3057 2781,3077 2734,3049 2737,3143"/>
+                <Baseline points="2752,3134 3742,3064 4952,3076"/>
+                <TextEquiv>
+                    <Unicode>Li priours de Nostre Dame de Semur por une suie vigne que est assise el chex</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:27;}">
+                <Coords points="2719,3234 2917,3245 2975,3210 3551,3185 3618,3148 4036,3179 4166,3156 4273,3184 4323,3154 4393,3189 4615,3177 4713,3214 4817,3160 4911,3163 4909,3086 4844,3108 4803,3072 4687,3106 4304,3086 4142,3108 4081,3072 3853,3073 3808,3097 3693,3072 3540,3096 3514,3074 3432,3100 3283,3092 3227,3134 3158,3124 3102,3157 3065,3133 2977,3158 2834,3139 2718,3174 2719,3234"/>
+                <Baseline points="2732,3222 3597,3154 4896,3154"/>
+                <TextEquiv conf="0.37839183">
+                    <Unicode>et touche d’une part a une vigne de la maison Deu et d’autre part a une</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:28;}">
+                <Coords points="2740,3343 2913,3320 3080,3338 3110,3311 3316,3314 3383,3288 3461,3308 3954,3289 4025,3226 4377,3243 4374,3169 3567,3178 3519,3202 3441,3174 3366,3218 3151,3201 2972,3214 2919,3248 2735,3232 2740,3343"/>
+                <Baseline points="2741,3296 4362,3230"/>
+                <TextEquiv conf="0.3885965">
+                    <Unicode>vigne que est aus mesiaux de Semur doit trois deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+&#13;
+Guienoz Godiers por cele suie vigne que touche d’une part a la dite vigne&#13;
+Perrenoit de Borbeilley et d'autre part a la vigne Herbert leu fil Meryhet doit une maaille.&#13;
+Herbers li filz Meryhet por cele piece de vigne que touche d’une part a la vigne Guienot&#13;
+Godier et d’autre part a la vigne Dadin Godier doit une pegeise.&#13;
+Dadins Godiers et Guienoz ses freres por cele vigne que touche d’une part a la dite&#13;
+vigne deu dit Herbert et d’autre part a la vigne Girart Boter doivent 1 maaille.&#13;
+Toutes ces devant dites censies sont des vignes assises desouz la brade.&#13;
+Cestes censies ci après sont des vignes assises au Mont Liébaut.&#13;
+Duranz Pancars por une suie vigne que touche d’une part a la vigne&#13;
+au seignor de Chevigney et d’autre part a la vigne mon seignor Guion Buretiaul&#13;
+doit trois deniers.&#13;
+Mes sires Guiz Buretiaus por cele vigne que touche d’une part a la vigne&#13;
+Durant Pancart et d’autre part a la vigne Jannet de Semur lou maçon,&#13;
+doit quatre deniers.&#13;
+Jannez de Semur li maçons por cele vigne que touche d’une part a la vigne mon seignor&#13;
+Guion Buretiaul et d’autre part a la vigne Perenet lou Porpointier doit 6 deniers.&#13;
+Li maitres de la maison Deu de Semur por une suie vigne que est assise delez lou&#13;
+clox d’une part et d’autre touche a vigne Thiébaut de Broies doit trois deniers.&#13;
+Thiebauz de Broies por cele vigne que touche d’une part a la dite vigne de la maison Deu et d’autre&#13;
+part a une vigne maismemant de la maison Deu doit un denier.&#13;
+Cele autre vigne de la maison Deu que touche d’une part a la dite vigne Thiebaut&#13;
+de Broies et d’autre part a la vigne d’Annois de Monestruel doit quatre deniers.&#13;
+Une autre vigne de la maison Deu que touche d’une part au chex et d’autre&#13;
+part a une vigne mon seignor Guillaume de Chamont doit trois deniers.&#13;
+Li priours de Nostre Dame de Semur por une suie vigne que est assise el chex&#13;
+et touche d’une part a une vigne de la maison Deu et d’autre part a une&#13;
+vigne que est aus mesiaux de Semur doit trois deniers .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:2;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

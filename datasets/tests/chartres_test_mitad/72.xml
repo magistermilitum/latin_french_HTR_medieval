@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-05-05T15:25:58.479+02:00</Created>
+        <LastChange>2020-05-11T10:17:04.308+02:00</LastChange>
+        <TranskribusMetadata docId="370321" pageId="14472796" pageNr="73" tsid="28990197" status="IN_PROGRESS" userId="52231" imgUrl="https://files.transkribus.eu/Get?id=MHFTHCVNPOJMTNWLRLVQWIXX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SRPKFKTDLLKGQWEKWGZILAZP" imageId="10433086"/>
+    </Metadata>
+    <Page imageFilename="72.jpg" imageWidth="6007" imageHeight="4500">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616420557915" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="834,527 834,3558 2736,3558 2736,527"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="839,625 1078,631 1197,601 1366,638 1552,611 1634,641 1686,610 2684,621 2700,513 2466,527 2384,484 2313,520 2260,490 2136,507 2086,472 2008,520 1974,503 1912,532 1736,533 1659,481 1578,515 1404,490 1275,529 1189,484 1125,504 1046,473 950,505 881,474 838,498 839,625"/>
+                <Baseline points="850,584 2688,576"/>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="830,718 938,742 1045,711 1098,735 1205,709 1310,737 1463,709 1532,737 2613,718 2654,745 2725,723 2725,647 2322,637 2279,613 2167,644 1973,613 1923,640 1828,608 1783,644 1580,640 1530,613 1332,654 1138,616 1057,644 861,628 830,642 830,718"/>
+                <Baseline points="842,692 2712,692"/>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="831,828 2678,847 2709,830 2709,749 2489,727 2012,752 1974,721 1836,754 1726,718 1566,746 1196,726 1086,747 1005,721 893,747 831,732 831,828"/>
+                <Baseline points="842,800 2696,804"/>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="826,933 1024,928 1053,954 1485,935 1533,958 1587,927 2012,925 2105,949 2172,920 2251,956 2432,936 2482,965 2508,939 2673,943 2673,862 2425,839 2313,858 2196,832 2048,858 1924,836 1771,863 1642,837 1592,863 1327,842 1132,866 845,832 826,933"/>
+                <Baseline points="838,912 2662,916"/>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="838,1040 1062,1042 1098,1064 1132,1042 1513,1040 1587,1066 1618,1044 1945,1061 2053,1037 2136,1058 2227,1030 2258,1061 2384,1030 2637,1051 2699,1046 2699,943 2542,939 2494,967 2446,939 2420,965 2325,968 2177,944 2131,972 1945,941 1697,946 1597,977 1447,939 1327,963 1117,942 1046,971 974,947 838,956 838,1040"/>
+                <Baseline points="850,1020 2688,1024"/>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="844,1137 1226,1166 2605,1162 2700,1148 2700,1074 2607,1045 2540,1066 2242,1057 2178,1085 2109,1049 2018,1076 1717,1054 1598,1080 1502,1051 1436,1073 1338,1046 1249,1065 1130,1044 1097,1068 844,1048 844,1137"/>
+                <Baseline points="856,1122 2688,1122"/>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="846,1279 918,1257 975,1279 1719,1253 2352,1270 2543,1238 2707,1257 2731,1247 2731,1169 2631,1150 2557,1176 2354,1158 2244,1182 2129,1156 2022,1183 1934,1149 1695,1176 1562,1150 1204,1178 903,1157 846,1186 846,1279"/>
+                <Baseline points="858,1232 2720,1230"/>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="851,1362 1252,1362 1312,1385 1366,1356 1481,1382 1691,1364 1715,1340 1861,1370 2507,1373 2698,1360 2697,1259 2165,1280 1958,1259 1917,1279 1886,1255 1853,1279 1650,1283 1385,1258 1352,1285 1249,1273 1216,1298 1096,1260 851,1278 851,1362"/>
+                <Baseline points="862,1342 2686,1332"/>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="847,1467 1444,1472 1496,1451 2033,1489 2098,1465 2649,1470 2699,1460 2699,1372 2303,1367 2257,1391 2047,1360 2014,1389 1854,1367 1649,1396 1408,1362 1248,1389 1155,1365 1114,1389 873,1372 847,1384 847,1467"/>
+                <Baseline points="860,1434 2688,1436"/>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="822,1575 975,1568 1087,1601 1135,1570 1271,1562 1400,1590 1603,1561 2216,1565 2366,1598 2412,1571 2615,1566 2674,1590 2729,1563 2729,1492 2612,1463 2579,1490 2426,1466 2221,1498 2182,1479 1896,1496 1853,1470 1796,1494 1498,1500 1428,1471 1245,1498 1171,1467 1116,1498 894,1475 822,1492 822,1575"/>
+                <Baseline points="834,1552 2716,1546"/>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="848,1672 924,1701 989,1672 1204,1695 1471,1670 1669,1701 1752,1679 2354,1675 2425,1705 2459,1677 2695,1693 2695,1597 2368,1598 2310,1572 2153,1599 2076,1575 2046,1599 1969,1580 1859,1600 1807,1576 1666,1603 1551,1575 1475,1608 1315,1578 1101,1607 986,1579 848,1594 848,1672"/>
+                <Baseline points="860,1660 2682,1650"/>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="840,1790 1271,1776 1393,1811 1446,1778 1536,1795 1572,1771 1653,1816 1722,1783 1780,1804 2128,1781 2386,1809 2484,1785 2698,1800 2715,1704 2424,1707 2348,1673 2293,1700 2216,1683 2176,1714 1863,1714 1637,1704 1596,1676 1534,1707 1226,1685 1171,1716 1069,1680 978,1716 840,1697 840,1790"/>
+                <Baseline points="852,1768 2704,1760"/>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="838,1890 1299,1905 1420,1880 1564,1905 1671,1884 1836,1912 2007,1869 2136,1875 2186,1906 2332,1874 2668,1895 2723,1885 2723,1818 2620,1816 2586,1790 2541,1817 2300,1790 2167,1818 2068,1785 2007,1824 1932,1784 1739,1824 1627,1789 1515,1819 1450,1791 1284,1819 952,1807 837,1828 838,1890"/>
+                <Baseline points="850,1874 2710,1858"/>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="839,1994 1028,2013 1288,1994 1340,2023 1366,2001 1622,1991 1930,2013 2557,1991 2738,2022 2738,1924 2679,1890 2550,1926 2450,1895 1910,1924 1330,1894 1087,1925 1032,1899 839,1925 839,1994"/>
+                <Baseline points="850,1968 2726,1970"/>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="854,2109 895,2124 957,2090 1005,2126 1055,2100 2639,2117 2716,2100 2716,2009 2444,2007 2370,2031 2136,1995 1950,2033 1835,2004 1742,2024 1682,1997 1620,2021 1589,1997 1544,2026 1439,2007 1289,2031 1229,1997 1179,2026 1100,2002 988,2028 923,2000 854,2026 854,2109"/>
+                <Baseline points="866,2076 2704,2076"/>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="842,2220 1441,2202 1491,2229 1620,2201 1661,2225 1716,2195 2379,2228 2546,2205 2596,2227 2704,2203 2704,2134 2626,2112 2520,2133 2480,2106 2437,2135 2296,2136 2258,2112 2036,2137 1986,2115 1857,2143 1807,2102 1673,2130 1616,2103 1418,2138 1201,2117 965,2137 843,2103 842,2220"/>
+                <Baseline points="854,2184 2692,2186"/>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="847,2306 1057,2334 1582,2309 1659,2337 1783,2306 2654,2311 2711,2302 2711,2240 2553,2221 2393,2243 2322,2217 2171,2219 2148,2241 2083,2205 2062,2227 1845,2237 1809,2215 1730,2239 1470,2238 1439,2216 1372,2243 1305,2212 1196,2243 1074,2215 1009,2243 938,2220 847,2239 847,2306"/>
+                <Baseline points="858,2288 2700,2286"/>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="833,2420 1647,2427 1671,2407 1990,2441 2033,2419 2475,2434 2589,2410 2728,2443 2745,2307 2642,2345 2401,2321 2339,2341 2291,2314 2208,2345 2177,2321 2076,2343 2007,2312 1971,2348 1785,2312 1683,2341 1442,2317 1325,2348 1024,2322 976,2350 874,2324 833,2336 833,2420"/>
+                <Baseline points="846,2394 2732,2398"/>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="846,2549 904,2516 1104,2507 1197,2538 1266,2519 1920,2535 2094,2503 2343,2539 2512,2513 2538,2535 2736,2528 2737,2443 2567,2418 2460,2442 2293,2422 2255,2443 1889,2426 1789,2447 1706,2418 1625,2449 1372,2422 1111,2447 1019,2418 847,2444 846,2549"/>
+                <Baseline points="858,2492 2724,2498"/>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="859,2622 1432,2637 1604,2606 1783,2637 2043,2608 2193,2639 2327,2605 2399,2634 2570,2617 2613,2639 2721,2632 2721,2546 2506,2519 2451,2555 2418,2524 2274,2546 2224,2520 2086,2551 1881,2524 1831,2546 1697,2527 1580,2548 1547,2527 1461,2551 1435,2527 1389,2548 1296,2520 1244,2551 1015,2522 986,2544 859,2539 859,2622"/>
+                <Baseline points="872,2596 2708,2592"/>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="846,2725 939,2756 1032,2727 2154,2738 2202,2705 2378,2736 2693,2733 2727,2721 2726,2626 2679,2650 2385,2621 2168,2648 2030,2617 1963,2643 1507,2626 1347,2660 1319,2636 1090,2631 989,2663 934,2624 846,2639 846,2725"/>
+                <Baseline points="858,2696 2714,2700"/>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="834,2818 905,2849 1215,2832 1323,2856 1547,2825 2072,2846 2146,2813 2263,2839 2647,2844 2721,2837 2721,2748 2530,2753 2413,2720 2365,2753 2127,2736 2065,2758 1926,2727 1774,2753 1614,2729 1568,2756 1471,2729 1232,2758 1060,2727 834,2756 834,2818"/>
+                <Baseline points="846,2800 2710,2804"/>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="849,2939 1090,2937 1130,2959 1221,2935 1653,2953 1691,2931 1901,2956 1970,2932 2213,2961 2268,2932 2579,2947 2712,2936 2712,2857 2593,2838 2116,2858 1939,2831 1899,2862 1751,2829 1705,2853 1572,2831 1536,2867 1462,2833 1328,2857 1145,2832 1016,2858 970,2832 849,2851 849,2939"/>
+                <Baseline points="860,2912 2700,2912"/>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="839,3050 1107,3042 1145,3066 1197,3042 1460,3037 1484,3058 1670,3036 1832,3060 1858,3038 2016,3057 2343,3035 2603,3061 2698,3034 2698,2946 2467,2968 2335,2942 1911,2960 1837,2936 1271,2963 1221,2937 1121,2966 894,2940 839,2960 839,3050"/>
+                <Baseline points="852,3018 2686,3010"/>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="841,3154 2333,3139 2474,3163 2717,3137 2717,3053 2426,3072 2383,3044 2338,3072 2249,3046 1992,3065 1865,3039 1832,3061 841,3049 841,3154"/>
+                <Baseline points="854,3120 2706,3118"/>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="844,3232 942,3261 1586,3250 1624,3274 1677,3248 1787,3248 1811,3272 1875,3245 1916,3269 2009,3245 2056,3271 2106,3245 2281,3264 2381,3233 2639,3244 2696,3273 2715,3165 2619,3147 2295,3176 2226,3145 2190,3173 2111,3142 1956,3171 1827,3140 1787,3167 1627,3141 1452,3169 1219,3144 1116,3170 1073,3148 844,3168 844,3232"/>
+                <Baseline points="856,3218 2704,3218"/>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="856,3363 1942,3369 2233,3347 2305,3371 2558,3340 2749,3359 2749,3249 2620,3275 2491,3247 2448,3280 2405,3254 2109,3278 2028,3247 1911,3276 1477,3253 1257,3272 1209,3248 1007,3273 918,3251 856,3268 856,3363"/>
+                <Baseline points="868,3328 2736,3328"/>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="855,3462 1139,3457 1199,3488 1246,3459 1621,3452 1738,3475 2446,3448 2609,3479 2745,3462 2745,3360 2640,3379 2551,3348 2446,3382 2356,3353 2165,3379 2012,3351 1676,3380 1463,3354 1189,3378 931,3359 855,3364 855,3462"/>
+                <Baseline points="866,3430 2732,3428"/>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="846,3572 956,3565 1032,3605 1092,3560 1216,3586 1314,3560 1944,3579 2125,3557 2216,3583 2264,3557 2343,3602 2421,3550 2550,3581 2617,3557 2720,3573 2719,3468 2488,3480 2440,3447 2402,3476 2080,3466 2056,3488 1254,3459 1195,3488 868,3462 846,3469 846,3572"/>
+                <Baseline points="858,3534 2708,3532"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="3310,357 3310,3546 5260,3546 5260,357"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="4316,432 4464,446 4468,302 4320,301 4316,432"/>
+                <Baseline points="4330,408 4454,412"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="5145,472 5271,480 5271,303 5228,317 5178,267 5145,279 5145,472"/>
+                <Baseline points="5156,412 5260,412"/>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="3312,612 3832,605 3910,634 3939,606 4068,630 4202,602 4271,629 4345,605 4383,632 4428,603 4560,594 4679,628 4739,602 4939,601 5018,632 5185,607 5185,511 5075,530 4983,496 4868,515 4804,490 4732,512 4637,480 4486,527 4157,485 3780,517 3568,492 3534,523 3458,484 3408,517 3312,514 3312,612"/>
+                <Baseline points="3324,576 5172,578"/>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="3310,713 3532,718 3561,740 3862,716 3897,745 3938,717 4088,744 4196,717 4234,736 4785,720 4809,742 5002,722 5026,746 5124,716 5200,738 5201,624 4695,647 4585,642 4550,615 4490,641 4419,621 4268,646 4216,612 4125,606 4060,637 4003,608 3931,643 3765,608 3667,636 3586,604 3471,641 3366,614 3311,644 3310,713"/>
+                <Baseline points="3322,686 5188,694"/>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="3313,824 3492,856 3714,814 3783,840 3938,827 3972,851 4067,827 4112,856 4175,823 4218,845 4511,829 4578,860 4697,825 5155,842 5182,835 5182,749 4991,750 4951,721 4872,759 4748,730 4504,758 4376,726 4323,750 4283,723 4251,752 4163,734 3979,760 3934,729 3865,755 3767,714 3462,750 3314,724 3313,824"/>
+                <Baseline points="3326,796 5170,802"/>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="3315,927 3544,956 3587,928 3851,926 3952,960 4049,931 4255,958 4300,934 4386,956 4429,932 4503,952 4813,933 4975,960 5154,937 5155,855 4995,843 4966,867 4906,836 4873,867 4747,835 4563,859 4458,832 4372,861 4334,832 4243,863 4038,836 3847,862 3701,859 3656,830 3551,859 3315,832 3315,927"/>
+                <Baseline points="3326,906 5142,912"/>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="3315,1025 3668,1049 3959,1027 4217,1062 4758,1044 4801,1078 4861,1047 4894,1076 4921,1050 5183,1044 5184,978 5081,948 4869,975 4795,934 4728,965 4649,936 4580,966 4475,947 4115,975 3998,939 3945,967 3895,945 3750,968 3678,936 3568,967 3506,938 3377,953 3315,927 3315,1025"/>
+                <Baseline points="3326,1006 5172,1026"/>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="3318,1133 3376,1153 3433,1122 3471,1144 3543,1125 3571,1152 3757,1137 3822,1170 3924,1140 5141,1158 5215,1142 5216,1071 5030,1048 4987,1076 4925,1049 4891,1076 4851,1047 4803,1077 4753,1043 4717,1077 4438,1044 4025,1069 3908,1037 3858,1059 3639,1031 3464,1061 3319,1033 3318,1133"/>
+                <Baseline points="3330,1102 5204,1122"/>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="3315,1242 3470,1267 3563,1236 3914,1260 4021,1241 4064,1263 4102,1242 4167,1266 4227,1245 4577,1268 4794,1245 4928,1275 4969,1251 5193,1250 5193,1166 5064,1182 4950,1148 4776,1176 4566,1144 4492,1177 4435,1155 4186,1173 4120,1144 3819,1169 3726,1139 3654,1177 3559,1146 3506,1172 3344,1144 3315,1151 3315,1242"/>
+                <Baseline points="3328,1214 5180,1222"/>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="3305,1332 3491,1369 3549,1345 3818,1366 3856,1347 3918,1378 3997,1347 4062,1372 4169,1348 4326,1378 4477,1350 4532,1379 4751,1351 4992,1372 5169,1361 5169,1279 4978,1264 4890,1288 4804,1254 4692,1279 4630,1250 4558,1276 4499,1247 4449,1278 4322,1280 4298,1258 4210,1277 3716,1243 3654,1269 3456,1273 3356,1241 3306,1248 3305,1332"/>
+                <Baseline points="3318,1316 5158,1328"/>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="3312,1456 3450,1466 3493,1440 3656,1474 3985,1455 4068,1479 4111,1455 4710,1456 5078,1483 5140,1464 5140,1366 4973,1395 4870,1359 4737,1383 4656,1363 4608,1387 4441,1361 4403,1380 4369,1353 4286,1387 4236,1351 4054,1389 3973,1362 3684,1376 3644,1345 3575,1381 3346,1347 3312,1363 3312,1456"/>
+                <Baseline points="3324,1426 5128,1438"/>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="3310,1552 3394,1550 3451,1581 3811,1562 4019,1587 4207,1550 4252,1574 4634,1581 4875,1566 4876,1490 4668,1469 4315,1496 4105,1464 4045,1497 3771,1466 3508,1491 3344,1464 3311,1473 3310,1552"/>
+                <Baseline points="3322,1530 4864,1540"/>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="3337,1634 3489,1682 3631,1631 3683,1653 3817,1641 3900,1690 3940,1669 4191,1691 4356,1665 4405,1697 4578,1666 4709,1694 4740,1666 4790,1686 5053,1665 5138,1700 5270,1661 5271,1578 5120,1590 5061,1568 4994,1600 4911,1546 4848,1591 4732,1565 4669,1605 4596,1568 4483,1591 4362,1560 4247,1580 4207,1551 4092,1595 3887,1596 3799,1564 3526,1594 3360,1553 3338,1558 3337,1634"/>
+                <Baseline points="3350,1632 5258,1648"/>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;} supplied {offset:2; length:47;}">
+                <Coords points="3351,1776 3601,1791 3795,1761 3878,1792 4787,1773 4866,1797 4895,1776 5119,1793 5169,1779 5169,1697 4876,1697 4823,1670 4785,1692 4745,1665 4699,1706 4630,1667 4542,1708 4513,1686 4401,1700 4360,1667 4243,1702 4010,1671 3828,1697 3771,1670 3709,1703 3656,1675 3465,1686 3351,1640 3351,1776"/>
+                <Baseline points="3362,1750 5156,1752"/>
+                <TextEquiv>
+                    <Unicode>« Raginaldus Dei gratia Carnotensis episcopus omnibus ad quos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="3304,1865 3512,1864 3609,1910 3736,1877 3958,1893 4013,1869 4297,1878 4416,1915 4586,1880 5132,1904 5175,1888 5175,1790 4488,1808 4448,1776 4352,1812 4300,1775 4116,1810 4080,1784 3994,1810 3579,1779 3522,1805 3371,1804 3343,1780 3305,1791 3304,1865"/>
+                <Baseline points="3316,1850 5162,1864"/>
+                <TextEquiv conf="0.18176264">
+                    <Unicode>littere iste pervenerint salutem in Domino . Noverit universitas vestra quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;} supplied {offset:4; length:20;}">
+                <Coords points="3305,2008 3510,1976 3591,2002 4529,1989 4622,2016 4777,1983 5061,2007 5200,1998 5200,1910 5145,1895 5095,1921 5002,1892 4945,1920 4909,1884 4794,1924 4639,1892 4558,1920 4487,1896 4444,1919 4165,1891 3804,1915 3372,1896 3305,1912 3305,2008"/>
+                <Baseline points="3318,1964 5188,1970"/>
+                <TextEquiv conf="0.05503601">
+                    <Unicode>cum carissimus avunculus noster Willelmus tunc Senonensis nunc Remensis archi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;} supplied {offset:79; length:7;}">
+                <Coords points="3309,2104 3984,2084 4459,2115 4586,2078 4643,2117 4695,2095 5175,2105 5208,2101 5209,2003 5046,2031 4825,2001 4774,2027 4462,2001 4395,2027 4328,1998 4278,2021 3968,2003 3829,2026 3784,1997 3758,2016 3656,1989 3612,2015 3510,1976 3424,2016 3369,1992 3309,2008 3309,2104"/>
+                <Baseline points="3322,2068 5196,2076"/>
+                <TextEquiv conf="0.07832526">
+                    <Unicode>episcopus tituli sancte Sabine cardinalis apostolice sedis legatus curam gereret ecclesie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="3304,2187 3445,2214 3500,2188 3655,2219 3686,2193 3927,2217 4218,2178 4414,2214 4686,2195 4760,2224 4903,2196 4955,2218 5082,2199 5127,2225 5177,2221 5178,2113 4805,2119 4770,2095 4710,2124 4571,2088 4411,2128 4318,2099 4283,2123 4190,2099 4085,2122 4027,2094 3949,2129 3860,2105 3839,2126 3762,2107 3629,2128 3510,2099 3304,2128 3304,2187"/>
+                <Baseline points="3316,2170 5166,2180"/>
+                <TextEquiv conf="0.05763102">
+                    <Unicode>Carnotensis contulit Capitulo Carnotensi justiciam quatuor prepositurarum que in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;} supplied {offset:62; length:2;}">
+                <Coords points="3311,2301 3733,2326 3762,2300 4046,2296 4261,2306 4301,2335 4397,2307 5139,2320 5187,2313 5187,2218 5089,2213 5058,2241 4994,2205 4877,2234 4586,2212 4543,2240 4500,2214 4383,2233 4230,2211 4189,2232 4073,2201 3906,2234 3834,2195 3789,2226 3629,2207 3533,2233 3345,2204 3311,2213 3311,2301"/>
+                <Baseline points="3322,2284 5174,2288"/>
+                <TextEquiv conf="0.15032789">
+                    <Unicode>eadem erant ecclesia videlicet de Nongento de Fontaneto et de Amilia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;} supplied {offset:35; length:3;}">
+                <Coords points="3311,2404 3943,2427 3972,2408 4110,2427 4141,2404 4313,2437 4478,2397 4528,2419 5113,2432 5187,2418 5187,2344 5060,2310 4846,2334 4609,2307 4509,2311 4473,2342 4421,2318 4328,2342 4273,2308 4194,2337 3989,2344 3946,2312 3841,2336 3755,2310 3705,2340 3524,2297 3311,2323 3311,2404"/>
+                <Baseline points="3322,2384 5174,2390"/>
+                <TextEquiv conf="0.0055838204">
+                    <Unicode>co et de Belsia ; cum vero Dominus nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;} supplied {offset:3; length:9;}">
+                <Coords points="3311,2509 3494,2529 3726,2496 3831,2525 5019,2511 5053,2540 5093,2511 5160,2518 5160,2437 5005,2418 4840,2439 4750,2412 4635,2438 4210,2440 4141,2411 4043,2437 3972,2408 3867,2441 3695,2422 3633,2448 3578,2407 3499,2431 3445,2409 3368,2445 3311,2430 3311,2509"/>
+                <Baseline points="3322,2484 5148,2490"/>
+                <TextEquiv conf="0.013780734">
+                    <Unicode>ad pretaxate ecclesie regimen evocasset super ju</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="3298,2610 3515,2634 3566,2603 3663,2630 3742,2608 3852,2637 3916,2611 4117,2631 4441,2605 4587,2634 4773,2613 4921,2635 5143,2619 5143,2514 5081,2543 4981,2511 4850,2513 4811,2542 4687,2518 4659,2541 4611,2522 4410,2546 4267,2517 3998,2540 3850,2513 3776,2542 3678,2506 3518,2543 3477,2515 3434,2541 3298,2519 3298,2610"/>
+                <Baseline points="3310,2588 5130,2592"/>
+                <TextEquiv conf="0.06554708">
+                    <Unicode>sticiis predictarum prepositurarum Capitulo movimus questionem que tamen inter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="3313,2711 3508,2730 3771,2706 3869,2737 3955,2701 4160,2730 4458,2707 4594,2733 4704,2711 5038,2728 5179,2702 5179,2631 4714,2637 4623,2614 4482,2640 4403,2613 4353,2642 4279,2616 4172,2642 4043,2618 3761,2642 3633,2637 3604,2611 3461,2644 3313,2632 3313,2711"/>
+                <Baseline points="3324,2692 5168,2690"/>
+                <TextEquiv conf="0.362321">
+                    <Unicode>venientibus viris prudentibus et honestis in presentia etiam vene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="3303,2806 3360,2827 3460,2806 3515,2834 3775,2808 3916,2839 3952,2815 4367,2805 4436,2838 4517,2805 4668,2802 4718,2833 4746,2814 4894,2838 4975,2804 5157,2816 5157,2735 5042,2742 4949,2711 4887,2742 4844,2721 4608,2743 4536,2716 4319,2745 4126,2719 4066,2745 3961,2714 3913,2743 3751,2712 3658,2748 3579,2717 3544,2743 3303,2739 3303,2806"/>
+                <Baseline points="3314,2790 5146,2786"/>
+                <TextEquiv conf="0.37936714">
+                    <Unicode>rabilis patris nostri magistri Melioris Sanctorum Johannis et Pauli presbiteri car</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="3299,2911 3361,2933 3654,2912 3738,2945 3783,2917 4659,2933 4781,2901 4855,2937 5079,2938 5160,2919 5160,2819 4864,2851 4797,2829 4556,2842 4508,2819 4425,2848 4169,2827 4129,2851 4055,2825 3898,2847 3802,2816 3652,2853 3298,2825 3299,2911"/>
+                <Baseline points="3310,2898 5148,2894"/>
+                <TextEquiv conf="0.23115191">
+                    <Unicode>dinalis tunc apostolice sedis legati sopita est in hunc modum : quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;} supplied {offset:71; length:8;}">
+                <Coords points="3300,3015 3713,3030 3763,3060 3906,3026 4446,3036 4608,3011 4880,3043 5152,3023 5152,2930 4827,2948 4779,2922 4720,2948 4579,2920 4364,2955 4304,2919 4095,2949 3853,2921 3818,2955 3732,2955 3579,2932 3460,2954 3386,2928 3300,2955 3300,3015"/>
+                <Baseline points="3312,3000 5140,3000"/>
+                <TextEquiv conf="0.14872064">
+                    <Unicode>inherentes vestigiis predicti domini Remensis donationem justiciarum predicto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;} supplied {offset:9; length:8;}">
+                <Coords points="3302,3124 3457,3150 3550,3128 3648,3157 3770,3130 4240,3130 4288,3153 4526,3127 5137,3138 5166,3126 5166,3057 4951,3031 4906,3057 4839,3026 4660,3046 4626,3012 4545,3060 4467,3031 3610,3064 3440,3028 3302,3047 3302,3124"/>
+                <Baseline points="3314,3104 5154,3110"/>
+                <TextEquiv conf="0.07567527">
+                    <Unicode>collatam Capitulo approbavimus in ea integritate qua eam predictus con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="3303,3216 3482,3246 3737,3229 3776,3255 3854,3231 3888,3259 3943,3233 4394,3239 4441,3217 4549,3255 4618,3228 5057,3249 5167,3217 5167,3167 4861,3128 4768,3152 4551,3131 4448,3157 4377,3134 4286,3158 4179,3156 4152,3130 3950,3152 3907,3130 3845,3166 3792,3131 3721,3162 3606,3139 3453,3163 3420,3134 3303,3132 3303,3216"/>
+                <Baseline points="3314,3208 5154,3210"/>
+                <TextEquiv>
+                    <Unicode>tulerat archiepiscopus ipsam confirmantes ; et ut predicta ecclesia de ma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:28;}">
+                <Coords points="3316,3332 3598,3350 3633,3321 3739,3362 4087,3334 4304,3338 4330,3362 4380,3336 5044,3336 5101,3360 5192,3319 5191,3240 5146,3221 4953,3262 4874,3234 4662,3261 4616,3230 4557,3256 4263,3233 4213,3258 3867,3247 3798,3273 3743,3230 3690,3257 3581,3238 3490,3269 3447,3241 3411,3265 3342,3246 3316,3256 3316,3332"/>
+                <Baseline points="3328,3314 5180,3310"/>
+                <TextEquiv>
+                    <Unicode>nu nostra se aliquid gauderet beneficii recepisse concessimus ut quatu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:29;}">
+                <Coords points="3317,3449 3432,3472 3496,3445 3725,3460 3792,3433 3861,3457 5011,3438 5150,3460 5224,3448 5223,3324 5106,3363 4770,3359 4717,3335 4638,3360 4180,3366 4099,3340 4023,3370 3953,3346 3603,3371 3426,3343 3366,3370 3316,3356 3317,3449"/>
+                <Baseline points="3328,3424 5212,3404"/>
+                <TextEquiv conf="0.11216988">
+                    <Unicode>or prepositurarum redditus salvo jure nunc eas possidentium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:30;}">
+                <Coords points="3310,3536 3654,3560 3682,3584 3799,3548 4169,3545 4289,3571 4312,3547 4482,3544 4572,3582 4634,3546 4871,3546 4954,3587 5045,3548 5164,3570 5164,3457 5050,3467 4999,3438 4832,3472 4639,3439 4565,3470 4439,3449 4315,3471 3997,3473 3933,3447 3878,3471 3339,3462 3310,3467 3310,3536"/>
+                <Baseline points="3322,3522 5152,3522"/>
+                <TextEquiv conf="0.018105261">
+                    <Unicode>integre commodo canonicorum accrescerent et tunc pleno jure quatuor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+« Raginaldus Dei gratia Carnotensis episcopus omnibus ad quos&#13;
+littere iste pervenerint salutem in Domino . Noverit universitas vestra quod&#13;
+cum carissimus avunculus noster Willelmus tunc Senonensis nunc Remensis archi&#13;
+episcopus tituli sancte Sabine cardinalis apostolice sedis legatus curam gereret ecclesie&#13;
+Carnotensis contulit Capitulo Carnotensi justiciam quatuor prepositurarum que in&#13;
+eadem erant ecclesia videlicet de Nongento de Fontaneto et de Amilia&#13;
+co et de Belsia ; cum vero Dominus nos&#13;
+ad pretaxate ecclesie regimen evocasset super ju&#13;
+sticiis predictarum prepositurarum Capitulo movimus questionem que tamen inter&#13;
+venientibus viris prudentibus et honestis in presentia etiam vene&#13;
+rabilis patris nostri magistri Melioris Sanctorum Johannis et Pauli presbiteri car&#13;
+dinalis tunc apostolice sedis legati sopita est in hunc modum : quod&#13;
+inherentes vestigiis predicti domini Remensis donationem justiciarum predicto&#13;
+collatam Capitulo approbavimus in ea integritate qua eam predictus con&#13;
+tulerat archiepiscopus ipsam confirmantes ; et ut predicta ecclesia de ma&#13;
+nu nostra se aliquid gauderet beneficii recepisse concessimus ut quatu&#13;
+or prepositurarum redditus salvo jure nunc eas possidentium ,&#13;
+integre commodo canonicorum accrescerent et tunc pleno jure quatuor</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="5488,1504 5488,1666 5512,1666 5512,1504"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="5469,1617 5509,1650 5561,1545 5540,1524 5518,1519 5469,1617"/>
+                <Baseline points="5488,1604 5512,1616"/>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

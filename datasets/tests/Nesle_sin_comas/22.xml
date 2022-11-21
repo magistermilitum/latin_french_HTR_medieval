@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:57:47.085+01:00</Created>
+        <LastChange>2020-02-04T17:44:27.560+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488439" pageNr="23" tsid="23373088" status="IN_PROGRESS" userId="52231" imgUrl="https://files.transkribus.eu/Get?id=KYCVKHLXVJAZARWBUQUDZADM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LKRPNOSPXAVIYOAXKNMGHIJG" imageId="8769130"/>
+    </Metadata>
+    <Page imageFilename="22.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454320330" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="632,511 632,3123 2698,3123 2698,511"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1500,697 1908,686 1957,445 1552,438 1500,697"/>
+                <Baseline points="1536,586 1900,662"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="703,915 833,874 981,932 1261,873 1502,898 1572,947 1867,891 2612,944 2709,913 2711,776 2585,763 2406,824 1725,759 1592,805 1199,791 1132,747 1040,763 885,616 707,671 703,915"/>
+                <Baseline points="716,850 2698,884"/>
+                <TextEquiv conf="0.43698373">
+                    <Unicode>Ego Guido abbas Castellionis super Secanam no</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="678,1042 751,1076 1533,1047 2560,1094 2694,1089 2696,1000 2471,952 2224,985 1987,919 1867,973 1614,927 1550,963 894,927 680,958 678,1042"/>
+                <Baseline points="692,1002 2682,1042"/>
+                <TextEquiv conf="0.48804283">
+                    <Unicode>tum facio presentibus et futuris quod in mea presentia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="670,1221 1789,1213 2128,1262 2347,1219 2479,1255 2687,1230 2689,1156 2008,1081 1348,1119 1253,1063 1031,1124 897,1067 673,1100 670,1221"/>
+                <Baseline points="684,1166 2676,1202"/>
+                <TextEquiv conf="0.6624191">
+                    <Unicode>constitutus Guillermus domicellus de Neelles sine co</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="685,1344 1057,1400 1179,1356 2118,1368 2225,1427 2389,1372 2660,1405 2662,1281 2182,1301 1757,1244 1351,1284 1233,1218 1130,1272 740,1243 687,1257 685,1344"/>
+                <Baseline points="698,1316 2648,1348"/>
+                <TextEquiv conf="0.2062863">
+                    <Unicode>actione sine vi sine metu spontaneus recognovit se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="694,1505 2173,1523 2448,1573 2659,1555 2661,1443 2580,1399 2503,1436 2461,1393 2262,1449 1906,1376 1697,1439 1393,1384 992,1415 896,1378 695,1409 694,1505"/>
+                <Baseline points="708,1466 2648,1498"/>
+                <TextEquiv conf="0.32722703">
+                    <Unicode>vendidisse et omnino quitavisse Andree domicello de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="659,1684 1382,1667 1615,1709 1801,1674 1942,1720 2064,1679 2528,1721 2663,1688 2665,1591 1628,1547 1305,1592 967,1517 819,1555 736,1510 662,1537 659,1684"/>
+                <Baseline points="672,1616 2652,1658"/>
+                <TextEquiv conf="0.64474016">
+                    <Unicode>Neelles nepoti suo quicquid habebat et habere poterat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="666,1796 921,1862 1077,1821 1358,1862 1434,1818 1555,1866 1795,1827 2420,1872 2684,1859 2686,1745 2541,1768 2413,1720 2273,1768 2009,1727 1938,1769 1688,1711 1555,1762 1475,1705 1418,1747 1144,1752 879,1691 668,1722 666,1796"/>
+                <Baseline points="680,1788 2672,1820"/>
+                <TextEquiv conf="0.51282907">
+                    <Unicode>seu debebat tam ex caduco domini Pontii fratris sui quam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="658,1985 2641,2020 2689,2006 2692,1877 2305,1917 2198,1863 2138,1903 1802,1850 1674,1900 1355,1894 1257,1836 1121,1884 968,1845 870,1878 790,1831 660,1866 658,1985"/>
+                <Baseline points="672,1930 2676,1978"/>
+                <TextEquiv conf="0.8103861">
+                    <Unicode>ex quacumque alia ratione in villa de Neelles et in villa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="655,2114 1091,2157 1307,2131 1468,2175 2189,2149 2310,2190 2395,2151 2623,2174 2664,2043 2452,2079 2291,2025 2226,2079 2105,2077 1928,2020 1614,2008 1552,2050 1396,2003 976,2053 678,1991 655,2114"/>
+                <Baseline points="668,2090 2648,2124"/>
+                <TextEquiv conf="0.46767038">
+                    <Unicode>de Colonmerio Sicco et apud Chapiagimaul et in fina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="637,2309 2618,2328 2639,2210 2552,2233 2482,2191 2319,2237 2213,2194 2149,2228 1940,2167 1769,2221 1636,2164 1452,2218 1283,2143 1163,2193 1068,2143 868,2201 641,2162 637,2309"/>
+                <Baseline points="652,2250 2624,2290"/>
+                <TextEquiv conf="0.4121949">
+                    <Unicode>giis earundem villarum scilicet in terris aquis nemo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="642,2440 781,2488 1215,2445 2574,2496 2676,2472 2678,2378 2194,2349 1970,2391 1798,2349 1688,2378 1603,2330 1488,2377 1152,2294 956,2367 746,2327 644,2361 642,2440"/>
+                <Baseline points="656,2398 2664,2438"/>
+                <TextEquiv conf="0.5124662">
+                    <Unicode>ribus vineis hominibus dominio et justicia et omnimo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="637,2611 2562,2625 2672,2672 2675,2533 2442,2496 2320,2544 2166,2504 2074,2543 1882,2478 1774,2530 1102,2523 941,2464 783,2522 639,2479 637,2611"/>
+                <Baseline points="650,2566 2660,2590"/>
+                <TextEquiv conf="0.7028601">
+                    <Unicode>dis aliis bonis et rebus tam mobilibus quam inmobilibus ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="638,2756 2542,2793 2665,2760 2667,2666 2476,2695 2299,2640 2197,2687 2053,2640 1761,2675 1693,2630 1558,2671 1133,2629 916,2675 724,2638 640,2647 638,2756"/>
+                <Baseline points="650,2724 2652,2754"/>
+                <TextEquiv conf="0.56751794">
+                    <Unicode>que omnia supradicta sunt de feodo dicti Andree sicut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="634,2946 2447,2979 2663,2956 2665,2847 2548,2815 2444,2852 2353,2797 2046,2839 1785,2795 1036,2855 951,2801 672,2797 634,2946"/>
+                <Baseline points="648,2894 2650,2924"/>
+                <TextEquiv conf="0.503037">
+                    <Unicode>idem Guillermus in mea presentia recognovit ; et propter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="618,3109 2667,3133 2669,3014 2507,2996 2415,3038 2046,2960 1878,3023 1504,2942 1188,3010 621,2941 618,3109"/>
+                <Baseline points="632,3054 2656,3086"/>
+                <TextEquiv conf="0.68973714">
+                    <Unicode>hanc venditionem dicto Andree et heredibus ejus in perpetuum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+Ego Guido abbas Castellionis super Secanam no&#13;
+tum facio presentibus et futuris quod in mea presentia&#13;
+constitutus Guillermus domicellus de Neelles sine co&#13;
+actione sine vi sine metu spontaneus recognovit se&#13;
+vendidisse et omnino quitavisse Andree domicello de&#13;
+Neelles nepoti suo quicquid habebat et habere poterat&#13;
+seu debebat tam ex caduco domini Pontii fratris sui quam&#13;
+ex quacumque alia ratione in villa de Neelles et in villa&#13;
+de Colonmerio Sicco et apud Chapiagimaul et in fina&#13;
+giis earundem villarum scilicet in terris aquis nemo&#13;
+ribus vineis hominibus dominio et justicia et omnimo&#13;
+dis aliis bonis et rebus tam mobilibus quam inmobilibus ;&#13;
+que omnia supradicta sunt de feodo dicti Andree sicut&#13;
+idem Guillermus in mea presentia recognovit ; et propter&#13;
+hanc venditionem dicto Andree et heredibus ejus in perpetuum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2828,525 2828,3156 4866,3156 4866,525"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="2872,959 3029,936 3199,996 3402,932 3630,985 3719,935 4246,986 4340,946 4802,971 4848,956 4849,837 3898,843 3475,714 3228,828 2873,840 2872,959"/>
+                <Baseline points="2884,904 4836,916"/>
+                <TextEquiv conf="0.7012641">
+                    <Unicode>omnia remanebunt . De pretio autem hujus venditionis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="2883,1147 3229,1087 4796,1135 4813,1024 4479,993 4374,1040 4205,986 4037,1024 3969,987 3755,1030 3594,984 3514,1026 3272,976 2997,1017 2922,978 2886,990 2883,1147"/>
+                <Baseline points="2896,1070 4800,1098"/>
+                <TextEquiv conf="0.24288106">
+                    <Unicode>idem Guillermus recognovit se recepisse et habuisse a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="2874,1271 4763,1281 4839,1271 4840,1183 4173,1139 4026,1191 3527,1144 3483,1182 3053,1102 2875,1162 2874,1271"/>
+                <Baseline points="2888,1222 4828,1234"/>
+                <TextEquiv conf="0.6009237">
+                    <Unicode>dicto Andrea ducentas et sexaginta libras Divionensis mone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="2866,1425 3774,1409 4010,1454 4485,1413 4654,1449 4850,1435 4850,1308 4495,1271 4358,1336 4211,1259 4097,1322 3986,1281 3912,1329 3539,1327 3364,1311 3281,1247 3148,1299 2867,1295 2866,1425"/>
+                <Baseline points="2880,1372 4838,1378"/>
+                <TextEquiv conf="0.5461038">
+                    <Unicode>te et coram me se tenuit pro pagato abrenuntians omni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="2864,1561 4345,1591 4844,1550 4845,1473 4530,1424 4236,1469 4120,1418 3942,1468 3457,1482 3407,1439 3318,1481 3070,1420 2864,1470 2864,1561"/>
+                <Baseline points="2876,1522 4832,1524"/>
+                <TextEquiv conf="0.582191">
+                    <Unicode>no exceptioni non numerate pecunie propter quod dictam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="2892,1716 3627,1758 3800,1701 4168,1760 4427,1721 4660,1774 4837,1738 4838,1621 3831,1648 3591,1600 3433,1647 3109,1584 2893,1630 2892,1716"/>
+                <Baseline points="2906,1682 4826,1692"/>
+                <TextEquiv conf="0.3488707">
+                    <Unicode>venditionem promisit per juramentum suum et per ob</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="2863,1899 3178,1864 3461,1893 3670,1842 3862,1897 4836,1896 4858,1761 4213,1795 3988,1754 3838,1806 3564,1795 3514,1749 2981,1745 2864,1772 2863,1899"/>
+                <Baseline points="2876,1838 4844,1854"/>
+                <TextEquiv conf="0.5358615">
+                    <Unicode>ligationem heredum ejus et omnium bonorum suorum dicto An</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="2871,2015 4678,2067 4879,2048 4880,1919 4307,1962 2915,1891 2872,1898 2871,2015"/>
+                <Baseline points="2884,1988 4866,2008"/>
+                <TextEquiv conf="0.619833">
+                    <Unicode>dree et heredibus ejus in perpetuum contra omnes pacifice</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="2826,2194 4385,2227 4485,2183 4845,2189 4846,2088 4313,2115 4213,2062 4004,2110 3346,2038 3122,2093 2850,2081 2826,2194"/>
+                <Baseline points="2840,2132 4832,2158"/>
+                <TextEquiv conf="0.7792071">
+                    <Unicode>garantizare . Quod autem ut ratum et firmum permaneat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="2835,2321 4488,2375 4839,2328 4841,2255 4730,2225 4434,2278 4339,2235 4077,2266 3999,2226 3839,2261 3464,2211 3357,2257 3003,2198 2837,2240 2835,2321"/>
+                <Baseline points="2850,2288 4826,2326"/>
+                <TextEquiv conf="0.7288971">
+                    <Unicode>ad petitionem predicti Guillermi presentibus litteris meum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="2847,2472 3169,2525 3232,2480 3550,2457 3790,2518 4224,2490 4492,2546 4594,2483 4731,2548 4863,2518 4864,2399 3895,2364 3694,2413 3520,2340 3289,2359 3182,2416 2848,2371 2847,2472"/>
+                <Baseline points="2860,2450 4850,2472"/>
+                <TextEquiv conf="0.31137905">
+                    <Unicode>apposui sigillum . Actum anno gracie mo cco xxxo iiiio mense junii .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="3463,2653 3736,2639 3744,2538 3472,2532 3463,2653"/>
+                <Baseline points="3478,2616 3724,2634"/>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="2816,2933 3142,3018 3300,2956 3523,3007 3701,2958 3949,3007 4031,2949 4236,3010 4368,2969 4733,2976 4837,3028 4869,2886 4299,2836 4131,2885 3850,2808 3500,2809 3395,2856 3185,2818 3007,2684 2923,2680 2819,2689 2816,2933"/>
+                <Baseline points="2828,2910 4856,2948"/>
+                <TextEquiv conf="0.3927932">
+                    <Unicode>Nos Hugues dux de Borgoigne façons savoir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="2826,3110 3133,3165 3636,3100 4111,3223 4180,3161 4368,3132 4680,3175 4848,3139 4849,3024 4694,3061 4446,2984 4260,3055 4096,2990 3665,2992 3393,3039 3208,2993 3122,3040 2932,2997 2828,3029 2826,3110"/>
+                <Baseline points="2840,3088 4836,3118"/>
+                <TextEquiv conf="0.57156265">
+                    <Unicode>a touz cels qui verront cels presentes letres que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>omnia remanebunt . De pretio autem hujus venditionis&#13;
+idem Guillermus recognovit se recepisse et habuisse a&#13;
+dicto Andrea ducentas et sexaginta libras Divionensis mone&#13;
+te et coram me se tenuit pro pagato abrenuntians omni&#13;
+no exceptioni non numerate pecunie propter quod dictam&#13;
+venditionem promisit per juramentum suum et per ob&#13;
+ligationem heredum ejus et omnium bonorum suorum dicto An&#13;
+dree et heredibus ejus in perpetuum contra omnes pacifice&#13;
+garantizare . Quod autem ut ratum et firmum permaneat,&#13;
+ad petitionem predicti Guillermi presentibus litteris meum&#13;
+apposui sigillum . Actum anno gracie mo cco xxxo iiiio mense junii.&#13;
+&#13;
+Nos Hugues dux de Borgoigne façons savoir&#13;
+a touz cels qui verront cels presentes letres que</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:2;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

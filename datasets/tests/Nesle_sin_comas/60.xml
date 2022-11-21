@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:58:42.537+01:00</Created>
+        <LastChange>2020-02-05T14:26:12.059+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488477" pageNr="61" tsid="23419734" status="IN_PROGRESS" userId="52231" imgUrl="https://files.transkribus.eu/Get?id=EPTIXYDWFYGNMRUCYGSVJKLY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YBPIXFEFVMVKDTCHZOCQOMFU" imageId="8769168"/>
+    </Metadata>
+    <Page imageFilename="60.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454378036" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="684,710 684,3092 2656,3092 2656,710"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
+                <Coords points="720,835 814,850 872,904 993,905 1054,850 1372,851 1423,897 1607,856 1665,910 1801,901 1987,949 2252,932 2303,965 2393,936 2519,952 2643,895 2644,762 2023,809 783,775 720,789 720,835"/>
+                <Baseline points="732,828 2632,858"/>
+                <TextEquiv conf="0.7517863">
+                    <Unicode>elemosinis domine Aiglentine quondam domine de Neellis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:1;}">
+                <Coords points="720,1075 874,1048 968,1084 1237,1082 1315,1035 1885,1077 2038,1057 2144,1093 2198,1062 2300,1080 2400,1011 2597,1031 2620,951 1436,942 1222,912 926,937 854,893 722,922 720,1075"/>
+                <Baseline points="734,974 2606,1008"/>
+                <TextEquiv conf="0.48460326">
+                    <Unicode>et Huonis de Virgeyo ex parte altera questio diutius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+                <Coords points="732,1207 980,1187 1035,1232 1154,1235 1266,1166 1412,1206 1478,1150 1662,1130 1783,1153 1851,1214 2540,1223 2639,1189 2641,1012 2573,1041 2401,1010 2301,1080 2191,1093 1929,1096 1816,1049 1638,1091 1542,1049 1442,1092 748,1067 732,1207"/>
+                <Baseline points="744,1124 2628,1142"/>
+                <TextEquiv conf="0.25951564">
+                    <Unicode>verteretur quarum elemosinarum ratione ipse Joham</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="724,1379 1275,1340 1323,1372 1748,1375 1938,1287 2134,1331 2394,1304 2505,1342 2583,1326 2584,1268 2218,1254 2034,1196 1958,1236 1905,1207 1779,1229 1648,1177 1599,1215 1517,1190 1366,1249 1014,1242 915,1195 820,1240 726,1231 724,1379"/>
+                <Baseline points="738,1280 2572,1314"/>
+                <TextEquiv conf="0.59613913">
+                    <Unicode>nes super terris de Neellis singulis annis tene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="708,1518 757,1534 901,1468 956,1510 1012,1484 1097,1517 1196,1492 1606,1521 1670,1459 1830,1452 1918,1465 1987,1532 2146,1466 2340,1455 2635,1508 2667,1504 2668,1421 2506,1416 2284,1340 2059,1414 1780,1410 1638,1359 1569,1399 1400,1352 1119,1345 849,1394 711,1356 708,1518"/>
+                <Baseline points="722,1430 2656,1464"/>
+                <TextEquiv conf="0.67161214">
+                    <Unicode>batur dicto hospitali de Astez in septem libris bonorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="703,1610 797,1631 853,1605 937,1653 1011,1620 1314,1617 1478,1710 1880,1728 2149,1623 2587,1664 2641,1641 2643,1529 2458,1529 2360,1576 1924,1559 1786,1516 999,1561 883,1555 850,1520 752,1553 704,1516 703,1610"/>
+                <Baseline points="716,1594 2628,1630"/>
+                <TextEquiv conf="0.53466487">
+                    <Unicode>divionensium monete solvendis ; tandem per amicabiles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="705,1809 759,1789 910,1828 987,1800 1099,1832 1159,1798 1219,1828 1342,1797 1390,1843 1570,1803 1864,1851 1940,1825 2076,1890 2307,1869 2433,1936 2487,1914 2500,1655 2338,1734 2010,1787 709,1712 705,1809"/>
+                <Baseline points="718,1768 2478,1854"/>
+                <TextEquiv conf="0.82755834">
+                    <Unicode>compositores ita extitit ordinatum pacificatum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="687,1963 976,1924 1298,1948 1416,1910 1470,1957 1617,1929 1780,2029 2126,2038 2477,2021 2480,1956 2355,1940 2258,1877 1344,1883 1307,1852 929,1878 773,1844 692,1869 687,1963"/>
+                <Baseline points="702,1922 1672,1937 2466,2008"/>
+                <TextEquiv conf="0.5049091">
+                    <Unicode>et compositum inter partes super hujusmodi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="701,2135 909,2157 1075,2128 1219,2185 1407,2076 1569,2090 1698,2173 1872,2185 1944,2141 2270,2188 2412,2160 2414,2054 2344,2064 2275,2011 2118,2063 1839,2056 1727,1992 1558,2036 1430,2004 1396,2032 1184,1973 1029,2027 704,2014 701,2135"/>
+                <Baseline points="716,2070 2402,2106"/>
+                <TextEquiv conf="0.346205">
+                    <Unicode>questione quod predictus Johannes persolvet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:9;}">
+                <Coords points="680,2234 971,2228 1130,2276 1194,2231 1376,2209 1444,2237 1895,2228 2075,2247 2168,2319 2392,2312 2454,2354 2537,2350 2539,2190 2427,2169 2291,2206 2180,2168 2017,2193 1945,2141 1872,2184 1724,2187 1563,2180 1486,2140 1369,2189 714,2157 680,2173 680,2234"/>
+                <Baseline points="692,2224 2526,2254"/>
+                <TextEquiv conf="0.5594688">
+                    <Unicode>annuatim quatuor libras et dimidiam bonorum et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:10;}">
+                <Coords points="702,2454 993,2486 1186,2388 1297,2425 1501,2389 1811,2429 1892,2393 1928,2423 2091,2402 2168,2431 2331,2398 2399,2432 2537,2391 2537,2350 2455,2355 2387,2313 2256,2354 2217,2329 2054,2353 1885,2306 1787,2347 1290,2318 1106,2349 897,2290 788,2338 703,2298 702,2454"/>
+                <Baseline points="716,2386 2524,2392"/>
+                <TextEquiv conf="0.29245204">
+                    <Unicode>legalium divionensium quoad vixerit domina Adelina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:11;}">
+                <Coords points="687,2562 1041,2554 1174,2645 1293,2661 1339,2634 1472,2648 1592,2571 1775,2661 1960,2667 2176,2614 2370,2664 2528,2639 2529,2506 2386,2480 2226,2517 1673,2490 1483,2517 1399,2484 1141,2509 780,2478 688,2487 687,2562"/>
+                <Baseline points="700,2540 2516,2556"/>
+                <TextEquiv conf="0.76419383">
+                    <Unicode>mater sua que tenet quandam partem terre de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:12;}">
+                <Coords points="670,2794 817,2715 1341,2705 1406,2738 1634,2741 1790,2824 2223,2807 2329,2841 2636,2763 2638,2661 2474,2624 2322,2681 2289,2653 2131,2684 1886,2644 1730,2675 1628,2609 1536,2678 1146,2635 973,2672 882,2614 787,2656 674,2602 670,2794"/>
+                <Baseline points="684,2702 2624,2746"/>
+                <TextEquiv conf="0.46580192">
+                    <Unicode>Neellis occasione dotis ; qua defuncta ipse Johan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:13;}">
+                <Coords points="699,2881 945,2875 1043,2971 1792,2985 2023,2949 2146,2990 2450,2992 2545,2957 2547,2821 2495,2847 2411,2810 2323,2842 2219,2807 1989,2832 1773,2820 1730,2785 1651,2823 1550,2789 1460,2822 1349,2784 1273,2817 1225,2772 1119,2756 1050,2787 956,2771 890,2811 700,2811 699,2881"/>
+                <Baseline points="712,2858 2534,2886"/>
+                <TextEquiv conf="0.7355807">
+                    <Unicode>nes vel quilibet successorum suorum aut quivis alius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:14;}">
+                <Coords points="687,3060 804,3038 908,3064 967,3031 1085,3080 1207,3031 1250,3061 1573,3057 1717,3154 1809,3129 1845,3159 2440,3163 2571,3148 2574,2951 2345,3001 2237,2972 2168,3014 2004,2953 1710,3001 689,2963 687,3060"/>
+                <Baseline points="700,3020 2560,3062"/>
+                <TextEquiv conf="0.10914521">
+                    <Unicode>que dictam terram terram tenuerit dicto hospitali persol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>elemosinis domine Aiglentine quondam domine de Neellis,&#13;
+et Huonis de Virgeyo ex parte altera questio diutius&#13;
+verteretur quarum elemosinarum ratione ipse Joham&#13;
+nes super terris de Neellis singulis annis tene&#13;
+batur dicto hospitali de Astez in septem libris bonorum&#13;
+divionensium monete solvendis ; tandem per amicabiles&#13;
+compositores ita extitit ordinatum pacificatum&#13;
+et compositum inter partes super hujusmodi&#13;
+questione quod predictus Johannes persolvet&#13;
+annuatim quatuor libras et dimidiam bonorum et&#13;
+legalium divionensium quoad vixerit domina Adelina,&#13;
+mater sua que tenet quandam partem terre de&#13;
+Neellis occasione dotis ; qua defuncta ipse Johan&#13;
+nes vel quilibet successorum suorum aut quivis alius&#13;
+que dictam terram terram tenuerit dicto hospitali persol</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2926,488 2926,3173 4910,3173 4910,488"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="2964,810 3706,821 3767,795 3895,822 4180,788 4250,820 4357,782 4567,832 4641,791 4834,815 4835,708 4685,729 4603,679 4513,676 4425,729 4348,707 4311,733 4209,689 3821,715 3392,673 3210,725 3047,675 2965,689 2964,810"/>
+                <Baseline points="2976,778 4822,784"/>
+                <TextEquiv conf="0.5272694">
+                    <Unicode>vet septem libras bonorum divionensium annuatim . Nos au</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="2971,966 3274,976 3405,945 3492,980 3820,929 4191,938 4278,985 4325,946 4387,983 4650,922 4873,960 4921,938 4922,851 4323,886 4219,815 4119,880 4014,886 3768,795 3656,823 2991,806 2971,966"/>
+                <Baseline points="2982,922 4910,924"/>
+                <TextEquiv conf="0.54107714">
+                    <Unicode>tem dicti magister et fratres ac pauperes dictam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="2957,1097 3248,1126 3544,1074 3954,1063 4075,1141 4146,1101 4497,1128 4764,1108 4765,977 4640,927 4566,975 4477,953 4382,991 4324,947 4270,988 4004,939 3880,975 3727,945 3676,986 2958,968 2957,1097"/>
+                <Baseline points="2970,1080 4752,1080"/>
+                <TextEquiv conf="0.6503422">
+                    <Unicode>compositionem laudantes et approbantes prout</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="2954,1265 3102,1275 3199,1224 3497,1232 3587,1271 3720,1232 3909,1286 4036,1240 4230,1260 4276,1235 4608,1284 4708,1251 4885,1297 4885,1178 4669,1183 4625,1151 4577,1187 4429,1153 4378,1187 4048,1182 3946,1116 3701,1094 3670,1118 3616,1077 3473,1116 3420,1091 3349,1132 3182,1106 3131,1132 2997,1083 2954,1098 2954,1265"/>
+                <Baseline points="2966,1238 4872,1230"/>
+                <TextEquiv conf="0.68220747">
+                    <Unicode>Rithe facta est ratam habemus et firmam et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="2958,1490 3123,1491 3252,1392 3381,1407 3505,1370 3674,1424 3987,1389 4082,1438 4281,1377 4461,1431 4582,1439 4623,1400 4740,1425 4849,1372 4849,1284 4556,1271 4470,1332 4349,1266 4085,1251 3913,1294 3818,1250 3604,1279 3418,1232 3189,1338 2959,1330 2958,1490"/>
+                <Baseline points="2972,1382 4836,1378"/>
+                <TextEquiv conf="0.70022804">
+                    <Unicode>eam penitus confirmamus . In cujus rei testimo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="2948,1582 3055,1567 3110,1600 3252,1556 3314,1584 3495,1532 3610,1581 3954,1527 4191,1546 4314,1595 4368,1565 4690,1605 4778,1566 4882,1592 4883,1519 4228,1494 4147,1429 3987,1421 3948,1452 3859,1389 3744,1443 3601,1430 3503,1372 3361,1440 3294,1392 3127,1491 2950,1490 2948,1582"/>
+                <Baseline points="2960,1538 3724,1522 4870,1566"/>
+                <TextEquiv conf="0.3838652">
+                    <Unicode>nium nos dicti magister et fratres et pauperes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="2949,1758 3448,1688 3743,1747 3962,1683 4112,1733 4255,1703 4347,1750 4428,1710 4641,1753 4811,1743 4859,1722 4860,1661 4586,1663 4463,1584 4346,1588 4280,1643 4188,1652 4077,1590 3876,1549 3691,1601 3250,1557 3111,1599 3056,1567 2951,1576 2949,1758"/>
+                <Baseline points="2962,1702 4848,1704"/>
+                <TextEquiv conf="0.7655481">
+                    <Unicode>presentes litteras sigillis nostris sigillatas tradi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:7;}">
+                <Coords points="2968,1884 3273,1913 3499,1861 3686,1906 3844,1856 4271,1848 4379,1902 4576,1879 4666,1909 4819,1883 4820,1745 4475,1742 4332,1819 4067,1790 3696,1809 3631,1765 3538,1810 3419,1812 3325,1719 3160,1720 2968,1758 2968,1884"/>
+                <Baseline points="2980,1846 4806,1866"/>
+                <TextEquiv conf="0.77089494">
+                    <Unicode>dimus Johanni superius nominato . Datum apud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:8;}">
+                <Coords points="2943,2042 3076,2004 3619,2062 3773,2024 4020,2031 4126,2066 4200,2009 4307,2005 4438,2008 4507,2057 4779,2052 4816,2046 4817,1888 4633,1901 4523,1963 4274,1847 4162,1906 3839,1894 3669,1970 3586,1945 3426,1966 3344,1885 3259,1911 3051,1875 2944,1894 2943,2042"/>
+                <Baseline points="2956,1988 4804,2014"/>
+                <TextEquiv conf="0.2790452">
+                    <Unicode>Astez die Lune post Letare Jherusalem anno Domini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:9;}">
+                <Coords points="2930,2209 3086,2203 3159,2157 3370,2211 3486,2159 3607,2203 4078,2159 4260,2247 4379,2175 4639,2178 4639,2115 4338,2116 4232,2045 4185,2074 3771,2026 3640,2065 3065,2004 2931,2056 2930,2209"/>
+                <Baseline points="2944,2150 4626,2154"/>
+                <TextEquiv conf="0.08289558">
+                    <Unicode>mo cco sexagesimo primo .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:10;}">
+                <Coords points="3387,2433 3552,2436 3740,2370 3850,2427 3986,2392 4207,2411 4282,2398 4281,2306 3479,2274 3385,2321 3387,2433"/>
+                <Baseline points="3398,2400 4270,2392"/>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:11;}">
+                <Coords points="2921,2805 3037,2868 3217,2818 3523,2860 3637,2802 3748,2856 3979,2825 4178,2857 4464,2812 4707,2849 4838,2796 4838,2706 4753,2684 4360,2719 4241,2682 4135,2723 3844,2662 3729,2693 3579,2664 3489,2700 3392,2663 3302,2692 3142,2663 3029,2563 2922,2570 2921,2805"/>
+                <Baseline points="2934,2782 4826,2790"/>
+                <TextEquiv conf="0.38336134">
+                    <Unicode>Nos frater Jacobus abbas humilis beate Marie de Castel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:12;}">
+                <Coords points="2934,3024 3075,3044 3150,3006 3461,2993 3594,3039 3830,2977 4181,3018 4616,2986 4851,3016 4852,2839 4677,2889 4570,2830 4395,2890 3852,2849 3752,2897 3549,2852 3483,2886 3384,2837 3304,2873 3185,2834 3034,2879 2964,2847 2935,2859 2934,3024"/>
+                <Baseline points="2946,2962 4840,2962"/>
+                <TextEquiv conf="0.43840066">
+                    <Unicode>lione super Sequanam et nos frater Theobaldus ejus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:13;}">
+                <Coords points="2913,3176 3086,3159 3173,3193 3338,3162 3471,3197 3525,3161 3607,3192 3809,3159 3879,3196 3996,3145 4219,3199 4301,3161 4369,3173 4454,3236 4614,3162 4692,3206 4823,3174 4879,3148 4879,3058 4632,2987 3564,3042 3331,2997 3164,3053 2929,3011 2913,3176"/>
+                <Baseline points="2926,3134 4866,3138"/>
+                <TextEquiv conf="0.691243">
+                    <Unicode>dem loci prior notum facimus universis presentibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vet septem libras bonorum divionensium annuatim . Nos au&#13;
+tem dicti magister et fratres ac pauperes dictam&#13;
+compositionem laudantes et approbantes prout&#13;
+Rithe facta est ratam habemus et firmam et&#13;
+eam penitus confirmamus . In cujus rei testimo&#13;
+nium nos dicti magister et fratres et pauperes&#13;
+presentes litteras sigillis nostris sigillatas tradi&#13;
+dimus Johanni superius nominato . Datum apud&#13;
+Astez die Lune post Letare Jherusalem anno Domini&#13;
+mo cco sexagesimo primo.&#13;
+&#13;
+Nos frater Jacobus abbas humilis beate Marie de Castel&#13;
+lione super Sequanam et nos frater Theobaldus ejus&#13;
+dem loci prior notum facimus universis presentibus</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:2;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

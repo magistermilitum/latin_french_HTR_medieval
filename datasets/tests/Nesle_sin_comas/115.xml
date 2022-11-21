@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:57:21.021+01:00</Created>
+        <LastChange>2020-11-20T18:42:13.776+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488541" pageNr="116" tsid="49380455" status="IN_PROGRESS" userId="52517" imgUrl="https://files.transkribus.eu/Get?id=UIBNCHIZUZCIPDLWLGAPZPUF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=COVQTHZNYPLXKQPRXIMPCPDD" imageId="8769225"/>
+    </Metadata>
+    <Page imageFilename="115.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454471139" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="4" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="520,1388 520,1542 632,1542 632,1388"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1226,1930 1226,2086 1310,2086 1310,1930"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="1360,2014 1360,2387 1924,2387 1924,2014"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:3;}">
+            <Coords points="2746,487 2746,3240 4994,3240 4994,487"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="3164,585 3449,562 3448,456 3164,465 3164,585"/>
+                <Baseline points="3178,534 3434,534"/>
+                <TextEquiv>
+                    <Unicode>Bahelou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="4570,582 4649,570 4715,596 4717,490 4572,499 4570,582"/>
+                <Baseline points="4586,568 4702,568"/>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:2;}">
+                <Coords points="2755,666 3201,687 3268,659 3307,678 3416,667 3499,630 3722,624 3784,676 3837,673 3892,637 3990,684 4051,653 4051,528 3984,519 3928,542 3883,517 3844,556 3719,582 3663,543 3541,569 3499,535 3418,566 3279,583 3226,564 3176,587 3075,540 2961,571 2903,552 2864,566 2811,532 2755,552 2755,666"/>
+                <Baseline points="2768,624 4038,618"/>
+                <TextEquiv>
+                    <Unicode>Ceu sont les censives landemain de Nativitey .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:3;}">
+                <Coords points="2746,768 2835,746 2985,766 3019,747 3200,776 3323,732 3423,727 3532,752 3604,736 3651,759 3752,729 3916,766 3961,744 4005,766 4050,736 4200,759 4487,735 4632,767 4769,745 4902,780 4947,774 4947,685 4836,707 4664,633 4636,656 4599,627 4491,616 4393,657 4329,629 4262,684 4206,661 4170,692 4117,658 4042,694 3967,666 3905,693 3666,667 3599,697 3546,663 3465,691 3382,657 3200,689 3100,672 2955,696 2913,677 2830,704 2763,670 2746,673 2746,768"/>
+                <Baseline points="2760,746 3628,724 4932,750"/>
+                <TextEquiv>
+                    <Unicode>Li max Gerars por sa maison assise antre la maison Valterot fil chevalier et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:4;}">
+                <Coords points="2751,855 2854,880 2999,849 3166,873 3322,845 3383,878 3439,847 3556,849 3620,807 3790,823 3943,803 4144,836 4169,858 4233,833 4381,854 4489,815 4679,856 4678,750 4634,767 4592,745 4486,759 4469,743 4422,765 4383,746 4141,766 3790,748 3734,765 3606,738 3458,772 3399,736 3333,770 3026,757 2984,776 2890,746 2831,777 2750,780 2751,855"/>
+                <Baseline points="2764,820 4664,808"/>
+                <TextEquiv>
+                    <Unicode>la maison Exset et por son meys d’arriés doit trente et dous deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:5;}">
+                <Coords points="2733,961 2769,946 2847,969 2972,935 3076,958 3103,929 3220,949 3353,915 3501,931 3615,906 3702,937 3727,911 3944,900 4009,935 4061,906 4362,918 4428,880 4535,933 4591,929 4657,880 4941,892 4940,828 4714,845 4675,815 4647,844 4544,830 4483,848 4446,829 4389,856 4249,831 4168,859 4053,814 3833,806 3770,854 3634,877 3461,873 3430,852 3380,878 3307,846 3266,881 3221,862 3115,882 3081,860 2985,885 2923,859 2845,891 2755,863 2731,872 2733,961"/>
+                <Baseline points="2746,934 4926,882"/>
+                <TextEquiv>
+                    <Unicode>Li anfant Perrenet lou Formier et Viars li filz Lorant doivent quatre deniers por</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:6;}">
+                <Coords points="2740,1025 3038,1019 3130,983 3191,1010 3275,988 3382,1041 3624,1019 3649,1044 3680,1029 3714,1051 3769,1016 4006,1044 4061,1018 4092,1034 4328,1001 4485,1017 4548,973 4771,999 4843,964 4894,991 4892,907 4847,889 4789,915 4685,887 4572,931 4499,927 4465,894 4355,925 4270,904 3967,934 3905,910 3861,936 3813,909 3761,938 3610,908 3516,930 3326,920 3218,950 3106,928 3079,954 2739,953 2740,1025"/>
+                <Baseline points="2754,1010 4878,960"/>
+                <TextEquiv>
+                    <Unicode>la tierce part dou meys d’au Litier et est cele tierce partie devers leu meys Champion .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:7;}">
+                <Coords points="2742,1158 2811,1154 2850,1119 2897,1141 3025,1119 3051,1141 3170,1111 3368,1124 3412,1098 3510,1124 3588,1089 3669,1112 3858,1078 3976,1123 4039,1089 4162,1120 4195,1088 4362,1082 4494,1113 4540,1076 4660,1080 4703,1104 4766,1078 4839,1115 4911,1094 4910,1019 4787,996 4726,1023 4690,1004 4629,1022 4361,1004 4322,1039 4275,1026 4205,1046 4158,1025 4105,1043 4068,1018 4008,1042 3954,1026 3832,1040 3767,1016 3673,1048 3620,1016 3553,1048 3344,1038 3276,989 2984,1025 2806,1014 2739,1024 2742,1158"/>
+                <Baseline points="2756,1116 3827,1080 4898,1072"/>
+                <TextEquiv>
+                    <Unicode>Marienoz la fille d’au Litier por sa maison et por l’autre tierce partie dou dit meys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l9" custom="readingOrder {index:8;}">
+                <Coords points="2739,1235 2959,1240 3284,1209 3525,1225 3644,1218 3708,1190 3756,1217 3799,1184 3881,1198 3877,1109 3748,1091 3685,1122 3645,1095 3610,1116 3551,1101 3393,1130 3320,1110 3265,1132 3242,1110 3212,1133 3169,1110 3051,1142 3008,1124 2897,1139 2866,1118 2811,1154 2736,1151 2739,1235"/>
+                <Baseline points="2750,1190 3864,1156"/>
+                <TextEquiv>
+                    <Unicode>ou sa maisons siet doit quatre deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1580985296903_1838" custom="readingOrder {index:9;}">
+                <Coords points="4717,1158 4764,1158 4764,1208 4717,1208 4717,1158"/>
+                <Baseline points="4717,1203 4764,1203"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l10" custom="readingOrder {index:10;}">
+                <Coords points="4749,1198 4919,1194 4920,1141 4803,1107 4750,1126 4749,1198"/>
+                <Baseline points="4764,1186 4904,1190"/>
+            </TextLine>
+            <TextLine id="r4l11" custom="readingOrder {index:11;}">
+                <Coords points="2759,1369 2795,1381 2874,1332 3079,1354 3180,1324 3235,1349 3289,1307 3351,1324 3505,1289 3629,1317 3675,1278 3796,1295 4000,1263 4168,1272 4193,1254 4353,1291 4416,1257 4548,1274 4647,1249 4790,1271 4825,1249 4901,1251 4898,1199 4729,1209 4621,1175 4586,1205 4524,1194 4495,1215 4361,1165 4252,1209 4074,1176 4003,1199 3869,1188 3809,1230 3734,1239 3694,1216 3673,1231 3552,1211 3478,1248 3443,1222 3408,1246 3287,1221 3219,1263 3177,1240 3007,1257 2933,1229 2877,1271 2826,1257 2755,1285 2759,1369"/>
+                <Baseline points="2770,1338 3933,1260 4886,1240"/>
+                <TextEquiv>
+                    <Unicode>Boyvins et Jannez li Forestiers por la moitié de la dite maison et por l’autre tierce partie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l12" custom="readingOrder {index:12;}">
+                <Coords points="2748,1448 2800,1466 2860,1448 2907,1479 2966,1441 3060,1438 3099,1466 3230,1423 3343,1441 3497,1405 3554,1427 3621,1388 3745,1400 3960,1366 3956,1299 3845,1315 3720,1281 3699,1305 3597,1320 3503,1290 3236,1348 3181,1323 3141,1348 3003,1338 2974,1365 2937,1345 2913,1367 2866,1333 2800,1380 2742,1356 2748,1448"/>
+                <Baseline points="2760,1416 3946,1346"/>
+                <TextEquiv>
+                    <Unicode>dou dit meys doivent quatre deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l13" custom="readingOrder {index:13;}">
+                <Coords points="2746,1544 2989,1534 3032,1512 3228,1532 3291,1504 3365,1526 3449,1483 3547,1490 3566,1470 3715,1497 3949,1439 3984,1466 4117,1443 4146,1459 4186,1435 4223,1456 4360,1455 4398,1431 4486,1458 4518,1435 4572,1466 4673,1473 4747,1447 4815,1472 4910,1460 4953,1486 4977,1479 4973,1373 4943,1388 4886,1357 4864,1378 4780,1365 4723,1401 4607,1358 4580,1379 4503,1340 4403,1339 4316,1399 4037,1402 3986,1374 3931,1410 3852,1382 3798,1421 3730,1393 3678,1409 3621,1389 3520,1436 3474,1412 3448,1442 3224,1423 3094,1465 3051,1439 2991,1456 2971,1440 2905,1479 2868,1452 2796,1456 2741,1430 2746,1544"/>
+                <Baseline points="2760,1528 4081,1444 4962,1446"/>
+                <TextEquiv>
+                    <Unicode>Androins li Escuhers por son més devant sa cour antre un meis au seignor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l14" custom="readingOrder {index:14;}">
+                <Coords points="2748,1616 3193,1606 3239,1578 3435,1582 3656,1544 3727,1563 3880,1549 3942,1512 3977,1541 4079,1527 4131,1549 4208,1528 4231,1544 4258,1523 4493,1538 4544,1501 4674,1525 4762,1503 4760,1467 4548,1473 4451,1442 4370,1477 4317,1444 4285,1460 4158,1444 4110,1483 3958,1452 3882,1493 3694,1481 3654,1503 3565,1468 3547,1489 3449,1483 3360,1544 3291,1506 3226,1532 3074,1520 3037,1553 3011,1529 2943,1525 2744,1544 2748,1616"/>
+                <Baseline points="2760,1614 3853,1536 4748,1510"/>
+                <TextEquiv>
+                    <Unicode>de Neelles et la maison celui lou Paumier doit six deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l15" custom="readingOrder {index:15;}">
+                <Coords points="2745,1750 2844,1769 2882,1748 3016,1752 3064,1772 3121,1735 3228,1760 3314,1747 3349,1717 3431,1735 3541,1712 3607,1742 3644,1701 3694,1696 3743,1732 3786,1702 3868,1723 3930,1683 3987,1702 4038,1674 4136,1666 4405,1691 4494,1636 4615,1652 4656,1633 4724,1657 4748,1647 4740,1497 4656,1530 4429,1522 4232,1544 4209,1526 4165,1548 3908,1531 3031,1620 2740,1610 2745,1750"/>
+                <Baseline points="2756,1710 3942,1634 4734,1620"/>
+                <TextEquiv>
+                    <Unicode>Mes sires Regniers li chevaliers por la closiaus doit quatre deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l16" custom="readingOrder {index:16;}">
+                <Coords points="2752,1873 2993,1884 3022,1854 3106,1870 3203,1843 3266,1871 3367,1830 3483,1866 3589,1816 3727,1841 3776,1808 3819,1831 3907,1801 3969,1818 3996,1797 4279,1826 4327,1787 4463,1769 4731,1774 4760,1792 4848,1762 4924,1792 5007,1783 5003,1683 4917,1701 4813,1675 4755,1694 4647,1649 4601,1677 4530,1652 4420,1696 4126,1665 4066,1699 4035,1675 3980,1709 3923,1686 3875,1719 3768,1710 3744,1734 3656,1699 3608,1740 3529,1713 3455,1742 3345,1719 3277,1759 3182,1763 3128,1735 3074,1771 2878,1752 2832,1791 2747,1750 2752,1873"/>
+                <Baseline points="2764,1832 4212,1746 4992,1744"/>
+                <TextEquiv>
+                    <Unicode>Huez li escuihers por la comme de Chaugey delez lo champ aus convers doit douze deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l17" custom="readingOrder {index:17;}">
+                <Coords points="2757,1992 2898,1970 2955,1993 3126,1948 3229,1944 3260,1965 3293,1936 3422,1954 3513,1926 3569,1943 3651,1909 3761,1928 3854,1894 4036,1910 4088,1891 4170,1916 4489,1877 5010,1922 5007,1844 4960,1848 4920,1822 4851,1850 4762,1850 4659,1778 4561,1846 4504,1809 4382,1836 4225,1811 4151,1841 4069,1805 3983,1839 3860,1824 3750,1853 3710,1832 3594,1867 3521,1850 3441,1884 3368,1850 3316,1883 3271,1865 3227,1902 3193,1873 3138,1892 3025,1854 2932,1907 2752,1872 2757,1992"/>
+                <Baseline points="2770,1952 4326,1878 4994,1894"/>
+                <TextEquiv>
+                    <Unicode>Perrenoz li Sors por sa maison et por la fausse devant antre la maison au fevre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l18" custom="readingOrder {index:18;}">
+                <Coords points="2772,2056 3015,2065 3053,2032 3219,2013 3308,2048 3463,2024 3519,2039 3554,2017 3594,2030 3662,1987 3710,2005 3759,1983 3811,2008 3905,1996 3932,1972 4122,1988 4187,1946 4235,1969 4383,1971 4435,1946 4555,2005 4712,2023 4734,2019 4728,1894 4446,1882 4375,1915 4269,1918 4017,1898 3974,1926 3853,1895 3762,1930 3733,1909 3655,1912 3568,1947 3523,1932 3407,1957 3353,1937 3329,1961 3281,1946 3262,1964 3202,1947 3134,1981 3074,1953 2984,1991 2901,1995 2860,1969 2770,1995 2772,2056"/>
+                <Baseline points="2786,2038 4041,1964 4718,1968"/>
+                <TextEquiv>
+                    <Unicode>et la maison mon seignor Perron lou Pervoire doit trois deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l19" custom="readingOrder {index:19;}">
+                <Coords points="2759,2196 2798,2180 2841,2210 2893,2177 2955,2220 3009,2171 3066,2205 3257,2162 3294,2186 3360,2159 3462,2189 3536,2164 3612,2182 3680,2140 3745,2158 3772,2129 3848,2157 3908,2124 3998,2144 4159,2113 4299,2139 4435,2118 4578,2136 4672,2113 4756,2141 4851,2121 4935,2149 4979,2131 4976,2042 4627,2009 4519,2049 4449,2031 4397,2050 4368,2026 4306,2081 4198,2037 4057,2064 3972,2030 3828,2043 3776,2079 3616,2056 3565,2097 3499,2065 3328,2102 3280,2086 3225,2113 3199,2095 3074,2113 2948,2083 2835,2126 2756,2106 2759,2196"/>
+                <Baseline points="2772,2172 4196,2110 4964,2122"/>
+                <TextEquiv>
+                    <Unicode>Mathiers Gorrars et Perrechous por lour maison assise après la maison</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l20" custom="readingOrder {index:20;}">
+                <Coords points="2778,2320 2959,2314 3015,2338 3045,2314 3194,2326 3265,2296 3324,2308 3390,2289 3433,2308 3855,2269 3900,2287 3953,2263 4026,2280 4061,2257 4087,2276 4111,2255 4209,2266 4273,2247 4435,2276 4540,2244 4622,2270 4819,2258 4965,2287 4961,2161 4821,2124 4774,2156 4691,2162 4547,2121 4509,2145 4453,2119 4339,2159 4266,2130 4183,2161 4068,2123 3946,2160 3890,2140 3813,2162 3709,2151 3451,2193 3361,2159 3317,2189 2989,2193 2931,2229 2774,2209 2778,2320"/>
+                <Baseline points="2790,2276 4084,2202 4948,2224"/>
+                <TextEquiv>
+                    <Unicode>Bernardet et por lor meys qui est darriés la maison doivent dix deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l21" custom="readingOrder {index:21;}">
+                <Coords points="2789,2453 2839,2427 2878,2449 3009,2415 3060,2450 3107,2446 3145,2414 3240,2426 3276,2389 3521,2408 3582,2379 3633,2414 3683,2413 3738,2370 3838,2367 3947,2393 4033,2374 4070,2409 4298,2376 4401,2376 4455,2400 4518,2373 4586,2394 4764,2379 4854,2435 4901,2392 4987,2404 4984,2290 4951,2307 4929,2288 4888,2315 4803,2272 4650,2309 4510,2254 4446,2275 4109,2258 3934,2293 3855,2269 3726,2328 3653,2313 3534,2341 3404,2297 3361,2337 3291,2344 3269,2325 3244,2348 3168,2313 3093,2310 3024,2339 2951,2327 2891,2376 2806,2316 2786,2320 2789,2453"/>
+                <Baseline points="2804,2424 3888,2366 4972,2376"/>
+                <TextEquiv>
+                    <Unicode>Bernardez li fiz Villaume por sa maison et por lo meys darrieis delez la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l22" custom="readingOrder {index:22;}">
+                <Coords points="2796,2563 3086,2569 3207,2543 3328,2557 3410,2517 3518,2511 3662,2541 3742,2517 3851,2523 3933,2489 4032,2523 4077,2473 4136,2476 4133,2407 3978,2375 3837,2412 3746,2372 3689,2411 3637,2417 3588,2385 3494,2421 3440,2398 3323,2443 3265,2409 3019,2455 2928,2425 2852,2463 2791,2463 2796,2563"/>
+                <Baseline points="2808,2504 4122,2454"/>
+                <TextEquiv>
+                    <Unicode>maison Perrin Herviere doit dous solz .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l23" custom="readingOrder {index:23;}">
+                <Coords points="2783,2671 2898,2637 3026,2667 3083,2636 3147,2650 3210,2621 3340,2646 3383,2613 3444,2607 3501,2640 3566,2642 3620,2612 3767,2590 3849,2625 3876,2607 4080,2611 4126,2583 4203,2613 4277,2598 4342,2553 4468,2552 4550,2590 4615,2550 4702,2551 4813,2599 4879,2576 4874,2478 4803,2451 4671,2486 4596,2448 4534,2485 4485,2454 4393,2455 4070,2528 4044,2512 3989,2526 3932,2490 3864,2524 3774,2517 3667,2551 3599,2529 3527,2550 3478,2521 3283,2568 3128,2547 2907,2587 2808,2561 2778,2565 2783,2671"/>
+                <Baseline points="2796,2628 4862,2538"/>
+                <TextEquiv>
+                    <Unicode>Perrins Gerdiax por sa maison et por lou meys darriés delez la maison</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l24" custom="readingOrder {index:24;}">
+                <Coords points="2782,2773 2910,2767 2972,2790 3169,2762 3434,2771 3570,2745 3593,2764 3739,2724 3826,2743 3879,2724 3988,2734 4040,2726 4036,2620 3924,2605 3836,2634 3762,2612 3716,2645 3658,2650 3606,2618 3566,2642 3493,2634 3474,2655 3425,2626 3372,2623 3343,2646 3208,2621 3153,2651 3091,2634 2998,2672 2860,2652 2817,2679 2778,2673 2782,2773"/>
+                <Baseline points="2794,2724 4024,2672"/>
+                <TextEquiv>
+                    <Unicode>Andrier lo Bochier doit seze deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l25" custom="readingOrder {index:25;}">
+                <Coords points="2769,2882 3240,2884 3261,2863 3315,2878 3359,2860 3410,2886 3467,2850 3563,2883 3659,2829 3698,2844 3737,2826 4014,2860 4068,2822 4333,2820 4357,2797 4496,2839 4749,2818 4873,2850 4902,2824 4955,2824 4951,2716 4880,2752 4795,2713 4731,2733 4669,2693 4573,2747 4539,2731 4517,2749 4483,2717 4448,2746 4394,2717 4244,2743 4081,2707 3944,2765 3792,2726 3621,2786 3528,2750 3454,2786 3428,2768 3337,2796 3291,2770 3241,2769 3214,2793 3158,2775 3123,2810 2978,2827 2817,2766 2765,2784 2769,2882"/>
+                <Baseline points="2782,2870 4294,2798 4942,2818"/>
+                <TextEquiv>
+                    <Unicode>Li mares des Truyes por sa maison qui fu Viart lou Lous et por</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l26" custom="readingOrder {index:26;}">
+                <Coords points="2771,2956 2810,2976 2991,2965 3012,2981 3085,2947 3142,2975 3186,2948 3348,2966 3573,2930 3629,2947 3792,2904 3925,2945 4070,2899 4150,2929 4260,2899 4473,2912 4500,2902 4497,2830 4407,2820 4288,2847 4243,2819 4183,2849 4106,2828 4030,2868 3880,2830 3782,2871 3694,2841 3562,2883 3463,2849 3420,2887 3288,2862 3258,2889 3043,2876 3003,2909 2957,2883 2922,2907 2873,2878 2843,2897 2767,2883 2771,2956"/>
+                <Baseline points="2786,2962 4486,2890"/>
+                <TextEquiv>
+                    <Unicode>lou meys darriés aprés sa maison a denver six deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l27" custom="readingOrder {index:27;}">
+                <Coords points="2753,3142 2831,3137 2910,3091 2978,3115 3014,3103 3059,3135 3162,3108 3221,3129 3340,3104 3430,3127 3560,3096 3638,3114 3699,3085 3770,3122 3858,3081 3995,3101 4022,3080 4117,3092 4136,3075 4206,3093 4328,3051 4443,3088 4498,3062 4594,3090 4672,3077 4728,3110 4845,3124 4900,3092 4956,3096 4954,3010 4773,3025 4706,2979 4628,3020 4444,3007 4354,2970 4260,3006 4154,2986 4038,3016 3970,2970 3934,2993 3842,2976 3792,3007 3736,2972 3595,3029 3477,3014 3439,3035 3380,3005 3330,3020 3262,2994 3229,3020 3171,3035 3143,3011 3043,3055 2985,3045 2942,3007 2778,3007 2750,3016 2753,3142"/>
+                <Baseline points="2766,3106 4180,3056 4942,3074"/>
+                <TextEquiv>
+                    <Unicode>La Boitouse fille Regnaut lou Bovier por sa maison et por lou meys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l28" custom="readingOrder {index:28;}">
+                <Coords points="2771,3241 2835,3228 2852,3244 2893,3215 2930,3245 3099,3206 3172,3235 3278,3212 3436,3275 3563,3243 3850,3235 3917,3260 3975,3234 4056,3245 4103,3219 4212,3218 4257,3242 4298,3213 4518,3204 4515,3098 4415,3134 4301,3129 4224,3084 4089,3116 4021,3079 3941,3118 3890,3097 3749,3126 3561,3095 3434,3130 3333,3105 3058,3132 2998,3101 2908,3162 2768,3138 2771,3241"/>
+                <Baseline points="2784,3218 3988,3170 4504,3180"/>
+                <TextEquiv conf="0.39318058">
+                    <Unicode>darriers aprés la maison Doucet doit douze deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bahelou&#13;
+&#13;
+Ceu sont les censives landemain de Nativitey.&#13;
+Li max Gerars por sa maison assise antre la maison Valterot fil chevalier et&#13;
+la maison Exset et por son meys d’arriés doit trente et dous deniers.&#13;
+Li anfant Perrenet lou Formier et Viars li filz Lorant doivent quatre deniers por&#13;
+la tierce part dou meys d’au Litier et est cele tierce partie devers leu meys Champion.&#13;
+Marienoz la fille d’au Litier por sa maison et por l’autre tierce partie dou dit meys&#13;
+ou sa maisons siet doit quatre deniers.&#13;
+&#13;
+&#13;
+Boyvins et Jannez li Forestiers por la moitié de la dite maison et por l’autre tierce partie&#13;
+dou dit meys doivent quatre deniers.&#13;
+Androins li Escuhers por son més devant sa cour antre un meis au seignor&#13;
+de Neelles et la maison celui lou Paumier doit six deniers.&#13;
+Mes sires Regniers li chevaliers por la closiaus doit quatre deniers.&#13;
+Huez li escuihers por la comme de Chaugey delez lo champ aus convers doit douze deniers.&#13;
+Perrenoz li Sors por sa maison et por la fausse devant antre la maison au fevre&#13;
+et la maison mon seignor Perron lou Pervoire doit trois deniers.&#13;
+Mathiers Gorrars et Perrechous por lour maison assise après la maison&#13;
+Bernardet et por lor meys qui est darriés la maison doivent dix deniers.&#13;
+Bernardez li fiz Villaume por sa maison et por lo meys darrieis delez la&#13;
+maison Perrin Herviere doit dous solz.&#13;
+Perrins Gerdiax por sa maison et por lou meys darriés delez la maison&#13;
+Andrier lo Bochier doit seze deniers.&#13;
+Li mares des Truyes por sa maison qui fu Viart lou Lous et por&#13;
+lou meys darriés aprés sa maison a denver six deniers.&#13;
+La Boitouse fille Regnaut lou Bovier por sa maison et por lou meys&#13;
+darriers aprés la maison Doucet doit douze deniers .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:4;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T21:15:13.593+01:00</Created>
+        <LastChange>2020-01-30T03:23:25.672+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488419" pageNr="4" tsid="23067295" status="IN_PROGRESS" userId="408" imgUrl="https://files.transkribus.eu/Get?id=PFJNMTUOSZMOFEZTRCBSMVDZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WJJVJPYLSLPLBUJWPPPKXUMJ" imageId="8769110"/>
+    </Metadata>
+    <Page imageFilename="3.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454300668" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="4376,572 4376,869 4578,869 4578,572"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="4358,663 4419,670 4445,643 4507,661 4495,542 4349,564 4358,663"/>
+                <Baseline points="4376,632 4482,622"/>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="4435,795 4578,784 4567,633 4519,632 4426,675 4435,795"/>
+                <Baseline points="4452,780 4556,776"/>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="4404,882 4441,885 4458,862 4560,867 4601,844 4593,789 4462,809 4422,786 4391,795 4404,882"/>
+                <Baseline points="4420,844 4578,822"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="4734,494 4734,880 4962,880 4962,494"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="4716,632 4823,601 4856,619 4939,602 4984,615 4977,511 4925,510 4903,532 4813,505 4709,512 4716,632"/>
+                <Baseline points="4734,612 4962,594"/>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="4773,873 4821,869 4876,824 4961,848 4959,708 4899,728 4871,704 4771,713 4773,873"/>
+                <Baseline points="4792,828 4940,828"/>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

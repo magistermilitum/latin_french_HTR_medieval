@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:59:11.376+01:00</Created>
+        <LastChange>2020-02-05T16:15:52.369+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488496" pageNr="80" tsid="23430166" status="IN_PROGRESS" userId="52231" imgUrl="https://files.transkribus.eu/Get?id=ALOVILZDXDJVXWPUACIQQGGV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FOAVLAPAYLKZNDNGNAVKKYKV" imageId="8769187"/>
+    </Metadata>
+    <Page imageFilename="79.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454407010" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="646,615 646,3190 2722,3190 2722,615"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="725,700 1001,729 1249,705 1370,737 1458,704 1558,731 1618,700 1858,736 1896,710 2015,719 2079,748 2217,705 2345,748 2410,709 2563,690 2709,735 2711,567 2520,597 2466,568 2164,571 2096,614 1982,621 1841,576 1587,643 1254,630 1193,591 1040,615 906,594 725,631 725,700"/>
+                <Baseline points="738,672 2696,682"/>
+                <TextEquiv conf="0.6165892">
+                    <Unicode>et acciperemus ad usum grangie nostre de Marsuil et animalium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="708,830 1010,829 1115,862 1190,832 1276,860 1397,832 1588,876 1702,833 1792,869 1898,831 1957,859 2068,813 2169,855 2313,860 2435,832 2499,858 2636,820 2724,856 2724,743 2564,691 2512,721 2476,706 2404,760 2218,726 2146,759 2099,731 1916,766 1818,743 1725,774 1513,737 1271,741 1191,708 1111,759 1041,720 940,769 829,722 752,771 708,758 708,830"/>
+                <Baseline points="720,804 2712,810"/>
+                <TextEquiv conf="0.56181705">
+                    <Unicode>omnia necessaria superius expressa non obstante venditione vel contra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="714,941 1008,967 1098,1019 1225,984 1263,1013 1364,965 1519,987 1576,959 1721,961 1816,1008 1904,1006 1976,966 2061,1008 2126,970 2229,965 2701,980 2702,890 2622,894 2527,847 2385,871 2346,842 2310,865 2130,848 2044,884 1900,831 1760,884 1662,885 1611,854 1551,905 1342,836 1249,905 1130,862 1024,882 885,832 764,882 715,871 714,941"/>
+                <Baseline points="728,926 2688,940"/>
+                <TextEquiv conf="0.6195439">
+                    <Unicode>dictione aliquorum nos vero si quid juris habebamus in nemore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="708,1085 871,1112 1131,1089 1160,1118 1219,1100 1291,1129 1583,1090 1795,1118 1852,1095 2135,1121 2210,1098 2267,1130 2407,1090 2491,1142 2633,1151 2677,1136 2679,979 2279,965 2253,988 2106,976 2064,1007 1958,980 1757,1030 1685,985 1558,1023 1455,986 1331,1026 1228,984 1101,1022 962,989 760,1026 709,1003 708,1085"/>
+                <Baseline points="722,1066 2664,1074"/>
+                <TextEquiv conf="0.35626966">
+                    <Unicode>dicti Johamnis de Bahalou totum omnino quittavimus et quittamus hoc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="712,1221 1262,1216 1316,1243 1549,1199 1698,1247 1825,1246 2039,1209 2297,1251 2364,1233 2421,1273 2498,1276 2555,1241 2671,1257 2672,1144 2533,1153 2415,1097 2267,1129 2208,1097 2061,1106 1963,1144 1873,1096 1774,1132 1584,1091 1495,1139 1217,1100 1051,1134 987,1100 933,1146 714,1110 712,1221"/>
+                <Baseline points="726,1180 2658,1204"/>
+                <TextEquiv conf="0.6546875">
+                    <Unicode>excepto quod omnia animalia nostra grangie de Marsuil et de Logio per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="701,1355 1055,1324 1143,1359 1187,1339 1481,1378 1690,1336 1778,1376 2147,1333 2247,1383 2341,1355 2408,1379 2483,1334 2596,1361 2702,1331 2703,1269 2587,1244 2424,1274 2337,1231 2176,1274 2038,1208 1650,1258 1552,1200 1410,1243 1064,1237 966,1267 883,1235 816,1258 703,1231 701,1355"/>
+                <Baseline points="714,1306 2690,1320"/>
+                <TextEquiv conf="0.5764843">
+                    <Unicode>platium et nemora de Bahalou ad dictum Johamnem pertinentia per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="697,1443 893,1480 1069,1472 1120,1501 1365,1466 1479,1489 1528,1469 1626,1508 1753,1472 1825,1509 1897,1486 1967,1507 2013,1478 2132,1533 2225,1520 2284,1469 2341,1498 2447,1446 2537,1480 2581,1455 2646,1470 2646,1375 2533,1359 2483,1390 2339,1356 2249,1384 2148,1342 2050,1393 1921,1352 1603,1405 1521,1355 1211,1398 1175,1375 976,1400 868,1369 829,1397 697,1376 697,1443"/>
+                <Baseline points="710,1432 2634,1444"/>
+                <TextEquiv conf="0.54297376">
+                    <Unicode>vanam pasturam libere et quiete pasturabunt nos vero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="713,1604 1774,1597 1957,1633 2050,1597 2272,1618 2316,1598 2358,1626 2484,1603 2639,1642 2670,1634 2670,1482 2185,1507 2128,1533 2014,1479 1963,1510 1898,1486 1813,1515 1769,1478 1250,1535 1186,1501 1083,1527 1034,1490 775,1506 732,1477 713,1604"/>
+                <Baseline points="726,1570 2658,1564"/>
+                <TextEquiv conf="0.59079313">
+                    <Unicode>supradictum nemus vel instrumenta de ipso nemore facta non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="708,1709 1015,1762 1085,1731 1348,1774 1573,1728 1893,1773 1988,1730 2347,1723 2391,1757 2711,1777 2711,1642 2397,1610 2322,1633 2239,1602 2074,1666 1888,1616 1674,1646 1617,1607 1511,1625 1233,1595 1127,1618 1067,1594 948,1646 709,1603 708,1709"/>
+                <Baseline points="722,1694 2105,1710 2698,1690"/>
+                <TextEquiv conf="0.7127408">
+                    <Unicode>dabimus vel vendemus quod si faceremus donum vel venditum per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="633,1854 680,1834 845,1876 989,1851 1345,1889 1418,1863 1482,1890 1748,1860 1799,1894 2045,1872 2145,1914 2215,1878 2280,1909 2528,1856 2672,1893 2724,1878 2724,1777 2652,1754 2502,1776 2440,1747 2391,1778 2198,1767 2113,1728 2066,1761 1989,1730 1888,1776 1493,1735 1385,1778 843,1729 778,1770 734,1746 633,1766 633,1854"/>
+                <Baseline points="646,1830 2710,1830"/>
+                <TextEquiv conf="0.64311224">
+                    <Unicode>deremus et secundum legem Burgundie si Johamni placeret emendam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="681,1984 767,1964 1081,2002 1301,1973 1499,2005 1577,1977 1887,1974 1959,2011 2021,1983 2220,2005 2277,1979 2545,2022 2646,1992 2731,2011 2732,1877 2610,1909 2481,1870 2285,1905 2223,1881 2171,1919 2045,1872 1841,1907 1611,1867 1510,1912 1307,1870 1260,1900 1170,1897 1085,1858 997,1886 938,1867 857,1908 682,1850 681,1984"/>
+                <Baseline points="694,1952 2718,1954"/>
+                <TextEquiv conf="0.52975607">
+                    <Unicode>solveremus . Item voluit et concessit dictus Johamnes et etiam confirmavit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="696,2102 771,2069 827,2100 1106,2095 1209,2131 1739,2105 1842,2137 2010,2104 2154,2139 2309,2117 2384,2143 2528,2111 2649,2138 2683,2135 2684,2004 2542,2023 2483,1994 2212,2031 2085,1996 1977,2024 1817,1979 1693,2017 1474,1986 1251,2005 1128,1973 1081,2009 715,1973 696,2102"/>
+                <Baseline points="708,2072 2670,2084"/>
+                <TextEquiv conf="0.6819228">
+                    <Unicode>quod nos recipiamus de cetero novem sextarios avene annui reddi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="699,2234 825,2271 882,2236 1555,2275 1672,2230 1873,2266 1964,2228 2074,2255 2273,2237 2330,2271 2418,2231 2578,2266 2669,2226 2717,2237 2718,2165 2530,2165 2355,2119 2293,2149 2246,2115 2127,2142 1869,2126 1786,2164 1707,2127 1490,2140 1382,2105 1071,2161 896,2117 829,2155 700,2146 699,2234"/>
+                <Baseline points="712,2192 2704,2222"/>
+                <TextEquiv conf="0.4206548">
+                    <Unicode>tus ad mensuram Castellionis in costumis suis de Neellis pro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="691,2346 975,2381 1138,2357 1264,2391 1349,2348 1476,2338 1535,2362 1592,2342 1651,2378 1739,2343 1979,2375 2217,2346 2341,2373 2594,2338 2681,2385 2710,2380 2711,2236 2576,2266 2385,2231 2334,2267 2274,2238 2122,2281 2042,2234 1957,2282 1727,2242 1649,2285 1510,2264 1453,2287 1394,2263 1185,2285 1015,2237 878,2239 823,2272 718,2233 692,2238 691,2346"/>
+                <Baseline points="704,2314 2696,2328"/>
+                <TextEquiv conf="0.70513904">
+                    <Unicode>elemosina patris sui et anteccessorum suorum qui predictam avenam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="693,2487 879,2489 925,2518 1057,2481 1279,2512 1501,2486 1580,2518 1778,2448 2002,2433 2094,2493 2188,2461 2219,2484 2536,2462 2598,2486 2686,2469 2687,2384 2372,2349 2194,2407 2137,2375 1817,2345 1626,2400 1399,2366 1210,2392 1035,2356 942,2394 779,2389 715,2350 693,2487"/>
+                <Baseline points="706,2430 2674,2446"/>
+                <TextEquiv conf="0.7809961">
+                    <Unicode>pro remedio animarum suarum nobis dederant legaverant et concesse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="705,2595 767,2582 821,2609 847,2585 929,2617 1190,2585 1278,2629 1345,2601 1711,2626 1753,2603 1892,2632 1962,2606 2243,2603 2331,2652 2488,2599 2677,2623 2734,2602 2734,2507 2636,2527 2481,2501 2324,2533 2166,2509 2094,2532 2027,2483 1893,2459 1800,2518 1730,2489 1498,2522 1423,2490 1206,2525 1100,2489 901,2519 723,2482 705,2595"/>
+                <Baseline points="718,2566 2722,2572"/>
+                <TextEquiv conf="0.28524086">
+                    <Unicode>rant quem locum et avenam ipse Johamnes deputavit et assignavit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="701,2693 1065,2726 1318,2695 1517,2742 1981,2701 2054,2737 2103,2714 2232,2747 2374,2724 2461,2753 2704,2732 2704,2613 2642,2639 2549,2606 2319,2649 2242,2605 1808,2631 1752,2603 1721,2628 1455,2600 1282,2636 1117,2620 1080,2589 944,2628 789,2587 701,2605 701,2693"/>
+                <Baseline points="714,2688 2692,2678"/>
+                <TextEquiv conf="0.51780546">
+                    <Unicode>nobis singulis annis infra festum Omnium Sanctorum recipiendam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="696,2826 1022,2820 1174,2853 1218,2831 1284,2868 1393,2828 1661,2858 1734,2817 1861,2806 2072,2879 2157,2839 2320,2869 2369,2839 2643,2845 2668,2836 2670,2756 2574,2734 2347,2772 2301,2737 2215,2762 2161,2738 2122,2766 2079,2721 2037,2747 1679,2716 1622,2749 1493,2724 1464,2744 1398,2712 1327,2757 1253,2694 1100,2749 1000,2699 920,2698 698,2731 696,2826"/>
+                <Baseline points="710,2790 2656,2810"/>
+                <TextEquiv conf="0.6174407">
+                    <Unicode>et habendam ; nec in contentionibus supradictis per istam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="694,2946 1208,2946 1310,2984 1375,2948 1553,2945 1997,2992 2142,2955 2276,2985 2397,2955 2518,2995 2630,2968 2631,2880 2483,2889 2427,2857 2290,2892 2161,2854 2094,2892 2032,2853 1776,2891 1640,2846 1554,2886 1475,2846 1154,2879 1000,2841 955,2864 711,2840 694,2946"/>
+                <Baseline points="708,2918 2616,2930"/>
+                <TextEquiv conf="0.6024108">
+                    <Unicode>amicabilem compositionem sopitis omnibus et determinatis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="713,3059 793,3059 842,3102 911,3076 1048,3078 1079,3104 1213,3080 1397,3098 1502,3048 1908,3101 2019,3078 2104,3098 2207,3059 2352,3115 2403,3069 2664,3047 2664,2995 2462,3001 2364,2958 2228,3007 2101,2969 1962,3016 1858,3011 1815,2978 1598,3002 1453,2976 1309,3016 1185,2959 1084,2962 1009,3004 810,2945 712,2953 713,3059"/>
+                <Baseline points="726,3052 2650,3040"/>
+                <TextEquiv conf="0.6429545">
+                    <Unicode>nos poterimus ulterius reclamare nec dictus Johamnes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="701,3203 742,3218 806,3181 1057,3215 1157,3183 1421,3235 1516,3198 1643,3213 1668,3187 1736,3225 1893,3185 2040,3207 2234,3169 2639,3194 2638,3078 2540,3076 2499,3105 2401,3070 2352,3114 2261,3081 2016,3117 1709,3076 1562,3121 1505,3088 1079,3104 1020,3079 912,3124 723,3073 699,3076 701,3203"/>
+                <Baseline points="714,3160 2626,3144"/>
+                <TextEquiv conf="0.7294407">
+                    <Unicode>vel ejus heredes penitus aliquid revocare et si</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2910,493 2910,3071 4934,3071 4934,493"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="2903,755 2975,718 3543,700 3739,722 3871,685 4145,730 4240,698 4571,730 4681,693 4821,752 4875,741 4874,599 4764,626 4704,603 4593,645 4526,611 4265,616 4232,592 4129,632 4041,599 3816,592 3744,639 3592,643 3277,629 3098,571 2902,626 2903,755"/>
+                <Baseline points="2916,698 4862,686"/>
+                <TextEquiv conf="0.49435797">
+                    <Unicode>alique littere in posterum invente fuerint per quas possemus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="2898,869 2955,840 3087,872 3283,833 3347,861 3409,835 3546,833 3580,859 3967,828 4057,858 4232,818 4305,843 4447,818 4491,848 4591,811 4845,860 4859,738 4781,750 4703,701 4639,733 4453,738 4401,713 4296,747 4205,712 4035,750 3916,697 3878,721 3790,704 3744,738 3594,722 3532,758 3470,733 3279,761 3183,718 3028,717 2897,747 2898,869"/>
+                <Baseline points="2910,812 4846,788"/>
+                <TextEquiv conf="0.47110748">
+                    <Unicode>plus petere in tota terra dicti Johamnis quam in istis presentibus litte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="2908,985 3368,969 3585,992 3646,960 3745,985 3811,961 4008,1000 4108,944 4145,972 4261,950 4292,978 4403,977 4622,928 4787,959 4838,928 4896,950 4894,847 4760,833 4644,873 4595,835 4525,854 4385,820 4246,855 4133,830 3914,900 3865,865 3705,874 3622,842 3519,882 3260,843 3114,894 2974,906 2907,881 2908,985"/>
+                <Baseline points="2920,940 4882,922"/>
+                <TextEquiv conf="0.43999907">
+                    <Unicode>ris et in aliis super hoc confectis sigilla domini . . ducis Burgundie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="2917,1134 2986,1094 3064,1124 3296,1095 3536,1140 3646,1076 3810,1118 3851,1094 3983,1118 4018,1089 4197,1127 4325,1076 4393,1091 4529,1060 4729,1106 4839,1084 4838,991 4724,974 4577,1005 4517,970 4159,978 4104,948 4009,1001 3942,966 3808,996 3647,960 3583,992 3405,982 3225,1021 3165,975 2938,976 2914,985 2917,1134"/>
+                <Baseline points="2930,1076 4826,1034"/>
+                <TextEquiv conf="0.7882363">
+                    <Unicode>sigillatis continetur volumus quod nullam habeant de cetero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="2916,1220 3352,1256 3579,1219 3675,1261 3775,1214 3920,1232 3997,1205 4059,1233 4093,1204 4547,1198 4653,1233 4740,1188 4831,1189 4830,1127 4695,1090 4574,1110 4475,1072 4360,1131 4213,1115 4040,1143 3967,1110 3751,1124 3642,1081 3531,1142 3412,1115 3124,1161 3025,1105 2914,1132 2916,1220"/>
+                <Baseline points="2928,1196 4818,1168"/>
+                <TextEquiv conf="0.71735847">
+                    <Unicode>roboris firmitatem . Has autem conventiones universas et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="2921,1339 3419,1336 3495,1361 3548,1335 3631,1357 3672,1333 3796,1329 3838,1355 3879,1331 4207,1330 4287,1370 4398,1320 4524,1337 4578,1298 4862,1310 4861,1240 4753,1208 4652,1232 4546,1197 4402,1256 4213,1201 4118,1256 3968,1206 3881,1251 3723,1271 3532,1219 3488,1250 3390,1233 3205,1279 3103,1223 3060,1255 3018,1222 2920,1251 2921,1339"/>
+                <Baseline points="2934,1308 4850,1294"/>
+                <TextEquiv conf="0.7376244">
+                    <Unicode>singulas promittimus bona fide dicto Johamni et ejus heredibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="2934,1460 3128,1500 3190,1468 3337,1462 3500,1487 3698,1429 3874,1472 4034,1455 4112,1483 4212,1454 4321,1502 4535,1452 4620,1474 4702,1448 4829,1481 4873,1467 4872,1377 4694,1342 4320,1378 4183,1340 4054,1388 3987,1360 3922,1394 3832,1348 3646,1388 3328,1338 3078,1392 2975,1361 2934,1380 2934,1460"/>
+                <Baseline points="2948,1450 4860,1426"/>
+                <TextEquiv conf="0.6971525">
+                    <Unicode>inviolabiliter observare nec contra venire per nos vel per alium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="2918,1596 3375,1610 3623,1583 3685,1614 4008,1576 4374,1603 4609,1561 4650,1589 4720,1570 4826,1596 4843,1485 4812,1469 4725,1506 4627,1481 4539,1517 4412,1471 4157,1529 4095,1498 3943,1520 3558,1462 3341,1512 3266,1478 3220,1510 3062,1487 2995,1526 2918,1521 2918,1596"/>
+                <Baseline points="2932,1568 4832,1548"/>
+                <TextEquiv conf="0.7739333">
+                    <Unicode>tacite vel expresse obligantes nos et successores nostros ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="2923,1751 3147,1744 3194,1713 3343,1740 3485,1708 3989,1724 4097,1717 4166,1678 4262,1713 4337,1676 4394,1699 4458,1673 4624,1712 4812,1708 4861,1703 4860,1607 4566,1592 4481,1634 4331,1584 4153,1616 3972,1582 3910,1631 3781,1599 3608,1637 3554,1609 3480,1656 3316,1601 3257,1635 3182,1612 3048,1655 2942,1625 2923,1751"/>
+                <Baseline points="2934,1694 4848,1678"/>
+                <TextEquiv conf="0.71004516">
+                    <Unicode>conventiones hujusmodi firmiter observandas ; et si contige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="2937,1824 3425,1805 3523,1859 3647,1841 3704,1794 3864,1806 3942,1845 4073,1793 4187,1816 4282,1792 4378,1854 4447,1836 4484,1864 4798,1804 4902,1845 4902,1736 4801,1760 4543,1714 4354,1764 4186,1705 4099,1731 4063,1705 3921,1762 3812,1714 3717,1753 3531,1725 3433,1761 3391,1725 3337,1751 3293,1718 3213,1767 3123,1734 2989,1744 2937,1760 2937,1824"/>
+                <Baseline points="2950,1810 4888,1804"/>
+                <TextEquiv conf="0.6298395">
+                    <Unicode>ret nos vel successores nostros quod absit a predictis conven</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="2926,2008 3083,1942 3300,1995 3357,1963 3564,1988 3718,1953 3902,1965 3938,1936 4222,1936 4261,1964 4322,1941 4369,1977 4549,1937 4743,1987 4828,1955 4828,1844 4618,1830 4484,1865 4319,1843 4262,1864 4159,1831 4113,1860 3839,1857 3690,1907 3540,1854 3452,1883 3134,1846 2995,1904 2925,1892 2926,2008"/>
+                <Baseline points="2938,1942 4816,1928"/>
+                <TextEquiv conf="0.7041286">
+                    <Unicode>tionibus vel ipsarum aliqua resilire volumus et concedimus quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="2932,2102 3164,2075 3198,2098 3262,2082 3345,2127 3691,2094 3789,2131 3969,2078 4194,2076 4272,2109 4369,2070 4524,2071 4600,2109 4702,2059 4762,2087 4904,2063 4903,1947 4774,1963 4697,2018 4431,1976 4366,2016 4188,1960 4136,1989 4051,1956 3953,2004 3881,1968 3775,2008 3612,1994 3522,2033 3347,1985 3207,2005 3163,1969 3057,1990 3019,1970 2931,1999 2932,2102"/>
+                <Baseline points="2944,2076 4890,2052"/>
+                <TextEquiv conf="0.40303668">
+                    <Unicode>dominus . . dux Burgundie possit nos et omnes alios qui in ob</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="2928,2215 3091,2219 3145,2187 3444,2211 3483,2183 3594,2213 3769,2191 3816,2225 3968,2193 4064,2233 4105,2205 4211,2227 4260,2196 4415,2229 4562,2184 4670,2214 4892,2182 4892,2097 4789,2126 4649,2085 4567,2117 4455,2099 4360,2141 4259,2100 4205,2127 4076,2089 4032,2120 3967,2079 3849,2093 3803,2129 3725,2106 3594,2143 3454,2106 3279,2143 2953,2114 2927,2117 2928,2215"/>
+                <Baseline points="2942,2188 4878,2166"/>
+                <TextEquiv conf="0.6941108">
+                    <Unicode>servatione dictarum conventionum vel ipsorum aliqua contradictores</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="2928,2329 3028,2310 3117,2356 3181,2324 3308,2351 3475,2321 3633,2358 3968,2303 4072,2351 4141,2322 4369,2348 4505,2311 4632,2338 4696,2309 4735,2334 4882,2283 4946,2298 4945,2172 4780,2238 4729,2210 4584,2212 4543,2243 4465,2215 4355,2255 4153,2208 4097,2250 4032,2217 3867,2250 3781,2197 3686,2205 3642,2245 3598,2211 3552,2238 3492,2205 3446,2239 3371,2237 3252,2197 3160,2262 3080,2268 2953,2218 2927,2226 2928,2329"/>
+                <Baseline points="2940,2308 4934,2270"/>
+                <TextEquiv conf="0.7024169">
+                    <Unicode>fuerint vel rebelles compellere ad omnia supradicta firmiter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="2938,2456 3132,2423 3369,2470 3511,2444 3610,2482 3988,2417 4064,2450 4420,2439 4508,2467 4698,2409 4903,2469 4902,2358 4832,2364 4703,2316 4548,2358 4419,2331 4042,2372 3915,2324 3854,2371 3606,2337 3557,2371 3471,2320 3350,2365 3252,2340 3160,2379 3004,2318 2937,2350 2938,2456"/>
+                <Baseline points="2952,2426 4890,2404"/>
+                <TextEquiv conf="0.7008242">
+                    <Unicode>observanda et in hiis omnibus renuntiamus pro nobis et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:15;}">
+                <Coords points="2949,2575 3081,2604 3199,2568 3277,2599 3416,2560 3664,2581 3744,2545 4214,2537 4286,2566 4366,2548 4407,2586 4730,2579 4789,2610 4867,2587 4929,2610 4929,2470 4712,2463 4663,2501 4573,2455 4394,2480 4147,2431 4090,2475 3989,2454 3891,2503 3757,2503 3687,2454 3535,2506 3372,2506 3316,2451 3202,2446 3106,2508 2949,2513 2949,2575"/>
+                <Baseline points="2962,2552 4916,2554"/>
+                <TextEquiv conf="0.46078426">
+                    <Unicode>successoribus nostris et nomine totius ecclesie nostre ex certa scientia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:16;}">
+                <Coords points="2922,2701 3441,2705 3516,2666 3859,2701 4107,2663 4290,2731 4396,2692 4427,2721 4548,2703 4602,2737 4742,2704 4842,2761 4894,2750 4894,2603 4685,2579 4605,2610 4437,2576 4192,2619 4123,2560 3962,2611 3748,2569 3586,2576 3542,2607 3500,2576 3436,2615 3229,2580 3105,2629 3043,2588 2922,2600 2922,2701"/>
+                <Baseline points="2936,2676 4880,2678"/>
+                <TextEquiv conf="0.52796036">
+                    <Unicode>et provisa omni juris beneficio canonici et civilis omnibusque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:17;}">
+                <Coords points="2925,2839 3263,2852 3379,2823 3448,2853 3586,2801 3653,2828 3679,2810 3735,2850 3813,2825 3856,2852 3958,2802 4128,2846 4329,2828 4427,2869 4512,2842 4801,2872 4899,2843 4901,2771 4829,2749 4753,2774 4643,2720 4488,2767 4403,2726 4266,2763 4148,2714 3855,2764 3817,2737 3525,2751 3454,2703 3363,2691 3269,2749 2984,2690 2927,2715 2925,2839"/>
+                <Baseline points="2938,2806 3717,2794 4886,2826"/>
+                <TextEquiv conf="0.49550527">
+                    <Unicode>aliis exceptionibus et maxime juri dicenti generalem re</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:18;}">
+                <Coords points="2933,2933 3110,2978 3478,2928 3549,2955 3607,2912 3744,2913 3867,2941 4074,2934 4140,2998 4306,2939 4342,2968 4389,2938 4452,2981 4518,2940 4574,2947 4630,2989 4910,2946 4912,2860 4594,2857 4506,2889 4329,2828 4227,2881 4161,2835 4062,2859 4024,2833 3866,2879 3679,2811 3634,2846 3448,2878 3221,2840 3099,2882 3040,2847 2934,2843 2933,2933"/>
+                <Baseline points="2946,2926 3531,2912 4898,2946"/>
+                <TextEquiv conf="0.6098792">
+                    <Unicode>nuntiationem non valere omnibusque aliis que de jure vel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:19;}">
+                <Coords points="2916,3058 3071,3096 3138,3060 3306,3088 3636,3058 3778,3099 3876,3042 3974,3042 4064,3088 4178,3038 4627,3112 4741,3081 4823,3114 4924,3080 4924,2961 4797,2998 4722,2962 4627,2991 4531,2960 4482,2991 4382,2947 4209,2982 4123,2935 3938,2990 3543,2958 3416,2987 3318,2971 3241,3008 3150,2967 2949,2960 2915,2967 2916,3058"/>
+                <Baseline points="2928,3048 4912,3044"/>
+                <TextEquiv conf="0.6391041">
+                    <Unicode>de facto ad veniendum contra predicta vel aliquod predictorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>alique littere in posterum invente fuerint per quas possemus&#13;
+plus petere in tota terra dicti Johamnis quam in istis presentibus litte&#13;
+ris et in aliis super hoc confectis sigilla domini . . ducis Burgundie&#13;
+sigillatis continetur volumus quod nullam habeant de cetero&#13;
+roboris firmitatem . Has autem conventiones universas et&#13;
+singulas promittimus bona fide dicto Johamni et ejus heredibus&#13;
+inviolabiliter observare nec contra venire per nos vel per alium,&#13;
+tacite vel expresse obligantes nos et successores nostros ad&#13;
+conventiones hujusmodi firmiter observandas ; et si contige&#13;
+ret nos vel successores nostros quod absit a predictis conven&#13;
+tionibus vel ipsarum aliqua resilire volumus et concedimus quod&#13;
+dominus . . dux Burgundie possit nos et omnes alios qui in ob&#13;
+servatione dictarum conventionum vel ipsorum aliqua contradictores&#13;
+fuerint vel rebelles compellere ad omnia supradicta firmiter&#13;
+observanda et in hiis omnibus renuntiamus pro nobis et&#13;
+successoribus nostris et nomine totius ecclesie nostre ex certa scientia&#13;
+et provisa omni juris beneficio canonici et civilis omnibusque&#13;
+aliis exceptionibus et maxime juri dicenti generalem re&#13;
+nuntiationem non valere omnibusque aliis que de jure vel&#13;
+de facto ad veniendum contra predicta vel aliquod predictorum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:2;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

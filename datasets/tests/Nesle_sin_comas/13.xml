@@ -1,0 +1,554 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:57:34.025+01:00</Created>
+        <LastChange>2020-01-30T16:09:48.553+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488429" pageNr="14" tsid="23092388" status="GT" userId="408" imgUrl="https://files.transkribus.eu/Get?id=PRXMMOURJXKFQFQVGAXCTVJR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SXGVDCIOXTWTHVWSWSATYOPV" imageId="8769120"/>
+    </Metadata>
+    <Page imageFilename="13.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454310586" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="4" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="328,888 328,3432 666,3432 666,888"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="382,947 486,977 561,943 676,985 684,818 388,805 382,947"/>
+                <Baseline points="398,914 666,924"/>
+                <TextEquiv>
+                    <Unicode>LVIII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="351,1319 473,1340 521,1385 615,1374 615,1258 533,1229 351,1257 351,1319"/>
+                <Baseline points="364,1322 600,1326"/>
+                <TextEquiv>
+                    <Unicode>LIX</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="336,3090 634,3069 648,2922 354,2898 336,3090"/>
+                <Baseline points="420,3036 622,3054"/>
+                <TextEquiv>
+                    <Unicode>LXIII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="311,3399 395,3396 503,3467 626,3471 641,3353 487,3299 319,3335 311,3399"/>
+                <Baseline points="328,3382 618,3408"/>
+                <TextEquiv>
+                    <Unicode>LXIIII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>LVIII&#13;
+LIX&#13;
+LXIII&#13;
+LXIIII</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="622,3218 622,3376 642,3376 642,3218"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="656,704 656,3539 2620,3539 2620,704"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="677,801 728,767 1237,785 1577,751 1919,763 2033,799 2433,744 2595,785 2629,768 2628,635 2503,667 2193,632 2074,673 2014,640 1918,669 1770,630 1690,654 1616,620 1401,682 1278,651 1173,667 1111,630 949,668 741,653 676,665 677,801"/>
+                <Baseline points="690,758 2614,742"/>
+                <TextEquiv conf="0.384293">
+                    <Unicode>La cinquante et vuiteime est de cou que Jehanz de Noeles done</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="701,853 1568,842 1678,879 1786,845 2176,868 2372,837 2582,866 2582,766 2434,744 2284,789 2136,775 1991,803 1917,763 1795,757 1588,791 755,765 701,779 701,853"/>
+                <Baseline points="714,836 2568,830"/>
+                <TextEquiv conf="0.37495083">
+                    <Unicode>a Gateron de Senoille et a Roigne sa famme en la ville et ou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="695,943 1274,970 1365,934 1442,966 1558,938 1604,970 1703,928 1794,980 1825,949 1862,977 2098,911 2206,949 2331,933 2453,965 2590,938 2590,866 2420,865 2372,836 2227,878 2110,851 1903,875 1798,846 1735,874 1417,843 1147,841 1087,869 727,847 695,852 695,943"/>
+                <Baseline points="708,912 2576,920"/>
+                <TextEquiv conf="0.27692288">
+                    <Unicode>finaige de Noeles et sancomance : « Je Hugues dux de Borgoigne »</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="697,1031 895,1052 941,1024 1003,1050 1072,1029 1100,1055 1151,1024 1279,1055 1572,1028 1699,1073 1811,1029 1952,1074 2069,1033 2070,965 1937,946 1851,973 1826,950 1789,978 1704,928 1664,964 1556,937 1340,976 789,936 698,943 697,1031"/>
+                <Baseline points="710,1008 2054,1018"/>
+                <TextEquiv>
+                    <Unicode>et la troveroiz ou nombre de .lviii .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="685,1235 899,1226 1006,1256 1069,1225 1157,1257 1245,1224 1441,1258 1654,1223 2012,1241 2058,1207 2117,1254 2174,1237 2273,1269 2450,1232 2569,1276 2606,1262 2607,1159 2297,1148 2240,1175 2195,1141 2087,1162 1920,1129 1831,1157 1610,1132 1516,1162 1215,1127 1056,1162 937,1124 800,1168 715,1125 687,1130 685,1235"/>
+                <Baseline points="700,1216 2592,1226"/>
+                <TextEquiv>
+                    <Unicode>La cinquante et nuifeisme lectre est de cent livres que Guillaumes Te</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="693,1326 935,1354 1003,1323 1068,1350 1435,1325 1821,1355 2265,1331 2591,1363 2634,1358 2635,1270 2526,1289 2385,1233 2274,1274 2169,1236 1845,1224 1646,1273 1606,1239 1342,1236 1299,1261 1223,1223 1157,1257 1078,1239 1041,1273 785,1250 694,1272 693,1326"/>
+                <Baseline points="708,1316 2620,1328"/>
+                <TextEquiv conf="0.3675008">
+                    <Unicode>noilloz doit à Jehan seignor de Neeles de vandue de bois et s’ancomance en tel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="708,1456 802,1474 907,1444 1145,1479 1441,1448 1603,1485 1805,1462 1935,1489 2331,1466 2401,1495 2504,1471 2505,1357 2434,1371 2301,1335 2161,1370 2108,1335 2042,1363 1997,1334 1835,1371 1426,1326 1366,1359 1261,1327 1082,1358 986,1326 900,1364 710,1336 708,1456"/>
+                <Baseline points="722,1406 2490,1434"/>
+                <TextEquiv>
+                    <Unicode>maniere : In nomine Domini amen et la troveroiz ou nombre de .lix .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="655,1580 945,1607 1175,1588 1203,1612 1368,1589 1493,1617 1888,1600 1942,1627 1996,1602 2141,1636 2229,1606 2331,1636 2422,1604 2598,1644 2600,1519 2267,1530 2183,1492 1766,1465 1720,1495 1444,1479 1293,1508 1166,1469 1120,1499 1041,1475 972,1520 918,1485 658,1446 655,1580"/>
+                <Baseline points="670,1574 2584,1594"/>
+                <TextEquiv>
+                    <Unicode>La sexanteime est de vint livres les quex Guenioz li Fevres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="676,1682 884,1697 935,1664 1330,1716 1398,1689 1566,1706 1748,1680 1861,1711 2427,1692 2458,1721 2583,1714 2584,1638 2445,1612 2354,1637 2175,1616 2135,1641 1996,1602 1697,1631 1610,1596 1484,1625 1315,1588 1175,1614 1031,1580 948,1607 712,1581 678,1588 676,1682"/>
+                <Baseline points="692,1658 2570,1684"/>
+                <TextEquiv conf="0.33267972">
+                    <Unicode>de Chastoillon doit a Jehan segner de Neelles et sancomance le letre :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="686,1792 1743,1780 1939,1793 2012,1828 2090,1789 2306,1786 2490,1827 2555,1800 2556,1732 2432,1696 2255,1723 2153,1696 2102,1721 1829,1687 1326,1716 934,1663 781,1710 687,1686 686,1792"/>
+                <Baseline points="700,1750 2542,1778"/>
+                <TextEquiv>
+                    <Unicode>« Je Regniers doiens de Moleignies » et la troveroiz ou nombre de .lx .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="665,1989 1054,1965 1151,1992 1475,1975 1673,2010 1796,1983 1912,2022 1966,1992 2154,1995 2182,2024 2270,1994 2585,2028 2606,1938 2405,1900 2257,1926 2158,1893 2030,1930 1988,1898 1919,1937 1664,1870 1496,1918 1369,1874 1141,1878 964,1929 905,1885 806,1875 757,1906 701,1871 667,1878 665,1989"/>
+                <Baseline points="680,1966 2590,1992"/>
+                <TextEquiv>
+                    <Unicode>La sexante et uneeisme est de la gaigiere que Ysabiaus qui fu fille mon seigneur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="693,2079 964,2060 1276,2094 1373,2061 1435,2090 1617,2059 1770,2112 1881,2074 2086,2066 2193,2110 2302,2081 2594,2088 2595,2028 2462,2006 2413,2042 2325,2021 2274,2046 2144,1993 1754,2030 1720,1995 1632,1985 1552,2018 1303,1975 1237,1999 1064,1971 751,1995 712,1971 693,2079"/>
+                <Baseline points="708,2054 2580,2072"/>
+                <TextEquiv conf="0.3446036">
+                    <Unicode>Guillaume Brideine fit a Jehan de Neelles de demey mui de blé sur lou four de Colo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="685,2158 856,2154 887,2180 1015,2141 1398,2174 1498,2149 1549,2190 1697,2148 1782,2181 1953,2157 2146,2190 2342,2158 2387,2190 2561,2160 2561,2081 2178,2111 1936,2069 1771,2112 1604,2076 1271,2093 1022,2062 953,2093 899,2061 686,2095 685,2158"/>
+                <Baseline points="700,2130 2548,2144"/>
+                <TextEquiv conf="0.14311112">
+                    <Unicode>miers lou Sec et sancomance an tel manere : « Nos frere Jaques humbles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="685,2250 867,2264 935,2239 1216,2280 1347,2220 1616,2286 1861,2264 2077,2293 2248,2262 2403,2298 2526,2260 2528,2155 2388,2190 2337,2155 2146,2189 1951,2155 1803,2193 1695,2154 1550,2192 1459,2150 1254,2181 1113,2142 902,2176 703,2153 685,2250"/>
+                <Baseline points="700,2214 2512,2234"/>
+                <TextEquiv>
+                    <Unicode>abbés de Nostre Dame de Chastoillon » et la troveroiz ou nombre de .lxi .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="671,2381 839,2377 881,2403 929,2377 1157,2379 1250,2414 1321,2386 1671,2415 1858,2411 1893,2385 2407,2424 2566,2396 2566,2331 2385,2304 2115,2330 2044,2287 1288,2341 1035,2290 919,2320 672,2290 671,2381"/>
+                <Baseline points="684,2364 2552,2386"/>
+                <TextEquiv>
+                    <Unicode>La sexante et douseisme est de la pitance que mes sires Jehans fiz mon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="687,2460 735,2449 781,2486 949,2442 1295,2490 1352,2456 1945,2489 1994,2455 2039,2481 2099,2456 2315,2494 2599,2462 2600,2408 2264,2417 2233,2394 2131,2422 1915,2386 1324,2419 1083,2380 875,2404 756,2378 687,2389 687,2460"/>
+                <Baseline points="700,2436 2584,2456"/>
+                <TextEquiv conf="0.20680921">
+                    <Unicode>seignor Estienne Boujon fist a Jehan de Neelles et sancomance en tel ma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="681,2540 886,2523 968,2566 1099,2552 1170,2580 1238,2546 1457,2538 1550,2589 1638,2589 1840,2529 1906,2563 1965,2535 2235,2538 2579,2581 2599,2453 2360,2495 2107,2458 1860,2492 1508,2464 1298,2492 1019,2452 812,2458 778,2486 681,2461 681,2540"/>
+                <Baseline points="696,2518 2586,2532"/>
+                <TextEquiv>
+                    <Unicode>niere : « Gie Jehanz fiz mon segneur Estiene Boujon » et la troveroiz on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:17;}">
+                <Coords points="683,2611 770,2638 840,2618 877,2650 1049,2638 1187,2689 1254,2643 1357,2674 1387,2545 1184,2589 1087,2552 966,2568 887,2522 690,2535 683,2611"/>
+                <Baseline points="700,2594 1366,2640"/>
+                <TextEquiv>
+                    <Unicode>nombre de .lxii .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:18;}">
+                <Coords points="650,2887 863,2859 991,2890 1147,2858 1289,2895 1738,2866 1891,2900 1971,2870 2277,2912 2363,2876 2539,2911 2585,2900 2586,2821 2495,2793 2458,2821 2256,2835 2186,2780 2083,2832 1890,2783 1705,2806 1510,2728 970,2782 891,2726 754,2786 652,2765 650,2887"/>
+                <Baseline points="664,2844 2572,2876"/>
+                <TextEquiv>
+                    <Unicode>La sexante et troiseisme est d’un setier d’avoine que Lambulez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:19;}">
+                <Coords points="658,2959 1031,2942 1076,2968 1281,2965 1312,2992 1497,2960 2087,3003 2463,2969 2548,2995 2610,2968 2612,2897 2478,2909 2362,2876 2279,2915 2004,2882 1938,2924 1881,2892 1821,2919 1742,2867 1571,2913 1401,2876 1276,2894 1152,2856 986,2890 774,2859 659,2891 658,2959"/>
+                <Baseline points="672,2938 2596,2956"/>
+                <TextEquiv conf="0.26669058">
+                    <Unicode>li tisseranz doit a Jehan de Noelles por une maison de Colomer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:20;}">
+                <Coords points="670,3051 765,3021 900,3077 1034,3030 1105,3051 1245,3028 1397,3073 1532,3038 1574,3064 1640,3031 1673,3063 1716,3038 1838,3082 2233,3040 2451,3100 2591,3042 2592,2988 2462,2967 2413,2994 2209,2974 2086,3004 2035,2977 1802,2999 1777,2973 1592,2962 1396,2988 1169,2947 1007,2973 931,2946 754,2972 695,2949 670,3051"/>
+                <Baseline points="684,3020 2576,3034"/>
+                <TextEquiv conf="0.16097684">
+                    <Unicode>et sancomance en tel maniere : « En non de nostre seignor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:21;}">
+                <Coords points="709,3148 1082,3100 1248,3177 1274,3155 1356,3179 1502,3116 1691,3184 1955,3188 2001,3163 2134,3188 2240,3130 2634,3162 2635,3071 2313,3052 2255,3082 2054,3045 1948,3086 1710,3042 1397,3074 1211,3029 1094,3052 1029,3031 875,3072 710,3038 709,3148"/>
+                <Baseline points="724,3104 2344,3120"/>
+                <TextEquiv>
+                    <Unicode>amen »et sancomance et la troveroiz ou nombre de .lxiii .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:22;}">
+                <Coords points="657,3323 918,3352 1177,3315 1461,3343 1527,3321 1563,3347 1606,3325 1651,3354 1745,3329 1824,3367 2018,3335 2613,3338 2614,3267 1880,3243 1826,3268 1590,3197 1479,3238 1386,3189 1192,3235 1130,3200 988,3213 926,3178 679,3173 657,3323"/>
+                <Baseline points="670,3316 2018,3326"/>
+                <TextEquiv>
+                    <Unicode>La sexante et quatreisme est de paiemant de CCC et L . lb de digeonis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:23;}">
+                <Coords points="640,3407 913,3433 1010,3404 1148,3432 1439,3407 1503,3443 1728,3427 1889,3471 2015,3436 2165,3471 2356,3435 2457,3483 2557,3476 2559,3366 2414,3368 2378,3339 2269,3385 2120,3336 1829,3361 1702,3325 1553,3361 1498,3320 1159,3356 1006,3327 758,3347 693,3320 642,3325 640,3407"/>
+                <Baseline points="656,3386 2462,3428"/>
+                <TextEquiv conf="0.1063165">
+                    <Unicode>cinc a Gilet de Marchisura et sencomance : « Nos freres Jaques</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:24;}">
+                <Coords points="677,3535 806,3492 878,3537 1069,3530 1115,3500 1262,3554 1578,3517 1654,3561 1811,3517 1949,3562 1998,3530 2571,3549 2573,3462 2196,3466 2184,3489 2015,3436 1852,3469 1606,3421 1534,3447 1282,3407 1066,3433 1004,3403 878,3432 726,3394 680,3407 677,3535"/>
+                <Baseline points="692,3478 2196,3518"/>
+                <TextEquiv conf="0.054699183">
+                    <Unicode>humbles abbés de Chastellon » et la troveroiz ou nombre de .lxiiii .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La cinquante et vuiteime est de cou que Jehanz de Noeles done&#13;
+a Gateron de Senoille et a Roigne sa famme en la ville et ou&#13;
+finaige de Noeles et sancomance : « Je Hugues dux de Borgoigne »,&#13;
+et la troveroiz ou nombre de .lviii.&#13;
+La cinquante et nuifeisme lectre est de cent livres que Guillaumes Te&#13;
+noilloz doit à Jehan seignor de Neeles de vandue de bois et s’ancomance en tel&#13;
+maniere : In nomine Domini amen et la troveroiz ou nombre de .lix.&#13;
+La sexanteime est de vint livres les quex Guenioz li Fevres&#13;
+de Chastoillon doit a Jehan segner de Neelles et sancomance le letre :&#13;
+« Je Regniers doiens de Moleignies » et la troveroiz ou nombre de .lx.&#13;
+La sexante et uneeisme est de la gaigiere que Ysabiaus qui fu fille mon seigneur&#13;
+Guillaume Brideine fit a Jehan de Neelles de demey mui de blé sur lou four de Colo&#13;
+miers lou Sec et sancomance an tel manere : « Nos frere Jaques humbles&#13;
+abbés de Nostre Dame de Chastoillon » et la troveroiz ou nombre de .lxi.&#13;
+La sexante et douseisme est de la pitance que mes sires Jehans fiz mon&#13;
+seignor Estienne Boujon fist a Jehan de Neelles et sancomance en tel ma&#13;
+niere : « Gie Jehanz fiz mon segneur Estiene Boujon » et la troveroiz on&#13;
+nombre de .lxii.&#13;
+La sexante et troiseisme est d’un setier d’avoine que Lambulez&#13;
+li tisseranz doit a Jehan de Noelles por une maison de Colomer&#13;
+et sancomance en tel maniere : « En non de nostre seignor,&#13;
+amen »et sancomance et la troveroiz ou nombre de .lxiii.&#13;
+La sexante et quatreisme est de paiemant de CCC et L . lb de digeonis&#13;
+cinc a Gilet de Marchisura et sencomance : « Nos freres Jaques,&#13;
+humbles abbés de Chastellon » et la troveroiz ou nombre de .lxiiii .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:3;}">
+            <Coords points="2724,711 2724,3515 5016,3515 5016,711"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="2979,786 3186,792 3342,759 3439,784 4126,760 4357,787 4419,758 4501,801 4669,759 4788,805 4928,774 4928,632 4806,677 4652,657 4587,713 4499,676 4456,719 4368,687 4209,704 4178,673 3922,709 3806,652 3527,679 3354,656 3229,699 3127,644 2979,675 2979,786"/>
+                <Baseline points="2992,754 4914,760"/>
+                <TextEquiv conf="0.5649928">
+                    <Unicode>La sexante et cincqueisme est d’une piece de terre en Lormor la quele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="3010,857 3217,839 3249,864 3308,839 3419,874 3573,843 3689,875 3791,839 4024,871 4263,853 4382,879 4433,854 4544,891 4641,852 4723,881 4763,853 4868,890 4942,868 4942,808 4860,774 4789,804 4709,793 4670,761 4525,806 4403,765 4317,796 4025,763 3888,800 3846,771 3590,789 3545,761 3419,789 3357,757 3130,795 3010,778 3010,857"/>
+                <Baseline points="3024,834 4928,850"/>
+                <TextEquiv conf="0.4761075">
+                    <Unicode>Brices chevaliers ha de seignor de Neeles por dous deniers chascun an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:2;}">
+                <Coords points="2776,961 2984,949 2964,808 2758,832 2776,961"/>
+                <Baseline points="2786,926 2962,902"/>
+                <TextEquiv>
+                    <Unicode>LXV .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:3;}">
+                <Coords points="2982,964 3101,951 3184,904 3280,954 3437,930 3644,961 4227,946 4303,976 4477,947 4598,988 4741,936 4919,990 4991,965 4992,869 4864,890 4759,854 4532,891 4435,853 4384,878 4131,877 3788,841 3671,874 3569,841 3253,874 3217,839 3074,871 2984,825 2982,964"/>
+                <Baseline points="2996,908 4976,932"/>
+                <TextEquiv conf="0.33076644">
+                    <Unicode>devant la nativité Nostre seignor et s’encomance In nomine Domini et la troveroiz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:4;}">
+                <Coords points="3001,1039 3098,1020 3229,1044 3289,1013 3442,1052 3550,1016 3695,1060 3716,944 3482,958 3446,929 3327,928 3269,953 3168,904 3113,949 3002,945 3001,1039"/>
+                <Baseline points="3016,990 3700,992"/>
+                <TextEquiv>
+                    <Unicode>ou nombre de .lxv .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:5;}">
+                <Coords points="2979,1166 3163,1191 3269,1164 3305,1199 3365,1174 3450,1192 3516,1153 3729,1199 3826,1172 3928,1196 3954,1170 4363,1196 4394,1165 4499,1203 4641,1177 4874,1197 4942,1175 4944,1093 4634,1109 4495,1064 4458,1095 4094,1101 4032,1072 3955,1099 3864,1047 3759,1080 3429,1061 3176,1109 3117,1065 2998,1055 2979,1166"/>
+                <Baseline points="2994,1146 4928,1174"/>
+                <TextEquiv>
+                    <Unicode>La sexante et sexeisme est de la quittance que Josuoz li Juis de Montbar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:6;}">
+                <Coords points="2729,1277 2911,1265 2942,1288 3096,1240 3172,1278 3363,1282 3434,1252 3633,1276 3715,1242 3797,1277 4022,1256 4195,1292 4320,1256 4383,1288 4445,1257 4482,1294 4681,1301 4752,1268 5030,1313 5031,1205 4938,1167 4883,1212 4849,1180 4437,1206 4392,1171 4361,1199 4312,1176 4216,1207 4136,1178 3724,1194 3511,1158 3434,1200 3358,1180 3301,1202 3230,1162 3145,1193 3020,1183 2957,1129 2867,1128 2730,1138 2729,1277"/>
+                <Baseline points="2744,1240 5016,1252"/>
+                <TextEquiv conf="0.41169682">
+                    <Unicode>fit a Jehan de Neelles de toutes detes et s’ancomance « Nos Guillaumes de Chaace »</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:7;}">
+                <Coords points="2993,1347 3076,1340 3126,1383 3206,1358 3561,1387 3752,1323 3925,1368 4186,1379 4232,1345 4303,1352 4304,1286 4011,1255 3920,1280 3883,1251 3804,1279 3719,1244 3639,1274 3432,1252 3360,1283 3142,1272 3096,1240 2994,1274 2993,1347"/>
+                <Baseline points="3008,1318 4288,1330"/>
+                <TextEquiv>
+                    <Unicode>et la troveroiz ou nombre de .lxvi .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l10" custom="readingOrder {index:8;}">
+                <Coords points="2972,1534 3092,1502 3475,1522 3612,1495 3725,1526 3856,1499 3941,1535 4202,1516 4230,1545 4379,1501 4455,1531 4575,1507 4642,1542 4740,1501 4887,1557 4941,1541 4942,1459 4831,1454 4750,1410 4368,1464 4207,1419 4033,1448 3960,1404 3886,1423 3858,1397 3647,1425 3528,1369 3237,1450 2997,1375 2974,1383 2972,1534"/>
+                <Baseline points="2988,1494 4926,1520"/>
+                <TextEquiv>
+                    <Unicode>La sexante et septime est de la ploigerie que mes sires Jehans d’Arcy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l11" custom="readingOrder {index:9;}">
+                <Coords points="2980,1598 3174,1620 3401,1587 3497,1628 3591,1588 3716,1621 3765,1584 3912,1616 4165,1584 4256,1619 4367,1588 4441,1623 4713,1636 4785,1591 4924,1589 4924,1547 4777,1523 4617,1545 4524,1510 4365,1540 4200,1516 3924,1537 3831,1508 3782,1536 3586,1495 3438,1531 3027,1516 2981,1539 2980,1598"/>
+                <Baseline points="2996,1578 4910,1592"/>
+                <TextEquiv conf="0.4105552">
+                    <Unicode>et mes sires Estienes ses freres feirent au seignor de Neeles por mon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l12" custom="readingOrder {index:10;}">
+                <Coords points="2713,1672 2964,1685 2959,1514 2752,1534 2710,1561 2713,1672"/>
+                <Baseline points="2728,1650 2948,1646"/>
+                <TextEquiv>
+                    <Unicode>LXVII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l13" custom="readingOrder {index:11;}">
+                <Coords points="3002,1680 3442,1695 3559,1660 3684,1690 3809,1666 3891,1718 3991,1677 4414,1715 4576,1686 5018,1754 5021,1564 4785,1592 4713,1636 4441,1621 4359,1586 4267,1619 4163,1586 4111,1619 3984,1595 3955,1620 3884,1590 3804,1612 3765,1583 3671,1616 3498,1582 3151,1617 3049,1590 3003,1600 3002,1680"/>
+                <Baseline points="3016,1662 5004,1676"/>
+                <TextEquiv conf="0.18820195">
+                    <Unicode>seignor Robert Buillet et sancomance : « Nos Jehan sires d’Arcy » et la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l14" custom="readingOrder {index:12;}">
+                <Coords points="2986,1763 3044,1748 3104,1801 3188,1758 3323,1801 3398,1761 3504,1761 3642,1780 3701,1824 4022,1822 4154,1781 4156,1698 3984,1679 3891,1719 3841,1680 3718,1711 3561,1661 3491,1693 3242,1671 2988,1692 2986,1763"/>
+                <Baseline points="3002,1748 3343,1732 4140,1760"/>
+                <TextEquiv>
+                    <Unicode>troverez ou nombre de .lxvii .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l15" custom="readingOrder {index:13;}">
+                <Coords points="2974,1937 3250,1922 3471,1952 3591,1912 3741,1958 3963,1936 4008,1969 4088,1930 4261,1965 4338,1941 4383,1976 4747,1938 4906,1983 4989,1962 4990,1877 4882,1892 4741,1830 4649,1879 4616,1853 4575,1875 4480,1810 4240,1868 4178,1836 4141,1866 3971,1837 3926,1805 3377,1857 3266,1852 3218,1819 3092,1860 2977,1812 2974,1937"/>
+                <Baseline points="2988,1902 4976,1938"/>
+                <TextEquiv>
+                    <Unicode>La sexante et uteisme est de la quittance que Gilois de Flavigney</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l16" custom="readingOrder {index:14;}">
+                <Coords points="2727,2030 2960,2044 2956,1879 2724,1905 2727,2030"/>
+                <Baseline points="2740,2000 2944,1996"/>
+                <TextEquiv>
+                    <Unicode>LXVIII .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l17" custom="readingOrder {index:15;}">
+                <Coords points="2985,2001 3084,1992 3185,2046 3354,2010 3575,2035 3662,1978 3717,2033 3786,2009 4117,2051 4144,2026 4214,2048 4269,2021 4311,2047 4496,2029 4628,2069 4797,2050 4884,2098 4987,2063 4989,1964 4761,1976 4555,1945 4505,1984 4383,1975 4339,1940 4006,1969 3967,1937 3736,1960 3592,1913 3469,1953 3018,1920 2986,1927 2985,2001"/>
+                <Baseline points="2998,1988 4974,2028"/>
+                <TextEquiv conf="0.22281753">
+                    <Unicode>fit au seignor de Neeles de toutes detes et sancomance : « Nos Guiz d’Arcy »</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l18" custom="readingOrder {index:16;}">
+                <Coords points="2980,2123 3057,2093 3218,2138 3321,2111 3369,2149 3494,2111 3681,2145 3738,2112 4034,2136 4208,2099 4355,2130 4356,2033 3848,2042 3786,2010 3720,2035 3661,1980 3580,2041 3143,2043 3095,1999 2981,2043 2980,2123"/>
+                <Baseline points="2994,2080 4342,2096"/>
+                <TextEquiv>
+                    <Unicode>et la troverez ou nombre de sexante et vit .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l19" custom="readingOrder {index:17;}">
+                <Coords points="2957,2257 3053,2283 3440,2259 3525,2285 3562,2254 3644,2257 3695,2291 3815,2249 4051,2284 4093,2253 4127,2282 4255,2254 4372,2288 4528,2272 4627,2304 4679,2275 4781,2299 4824,2256 4954,2274 4955,2180 4597,2196 4469,2150 4426,2183 4321,2172 4213,2205 4122,2171 4065,2193 3960,2145 3801,2169 3654,2126 3565,2191 3415,2142 3301,2187 2991,2152 2957,2166 2957,2257"/>
+                <Baseline points="2970,2244 4940,2250"/>
+                <TextEquiv>
+                    <Unicode>La sexante et nuefeisme de cent livres de tornois les quex Jacques de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l20" custom="readingOrder {index:18;}">
+                <Coords points="2980,2332 3059,2361 3179,2314 3272,2364 3409,2334 3631,2356 3761,2332 3878,2365 4051,2333 4128,2379 4219,2332 4307,2373 4358,2333 4412,2362 4747,2358 4860,2393 4954,2377 4956,2272 4572,2299 4529,2273 4387,2297 4268,2258 4103,2291 3964,2266 3910,2286 3822,2251 3691,2289 3370,2257 3336,2282 3208,2261 3052,2282 3009,2256 2981,2264 2980,2332"/>
+                <Baseline points="2994,2322 4940,2334"/>
+                <TextEquiv>
+                    <Unicode>Colomer doit au seignor de Neeles por vandue de bléf et sancomance : « En nom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l21" custom="readingOrder {index:19;}">
+                <Coords points="2736,2401 2948,2375 2925,2192 2715,2232 2736,2401"/>
+                <Baseline points="2744,2344 2928,2324"/>
+                <TextEquiv>
+                    <Unicode>LXIX .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l22" custom="readingOrder {index:20;}">
+                <Coords points="2977,2453 3200,2425 3324,2456 3438,2426 3864,2465 3944,2440 4006,2470 4228,2437 4332,2484 4512,2441 4699,2476 4701,2371 4562,2374 4477,2341 4422,2369 4363,2339 4263,2372 4221,2331 4147,2370 3704,2331 3624,2358 3571,2332 3530,2360 3409,2335 3229,2361 3110,2327 3059,2361 2979,2351 2977,2453"/>
+                <Baseline points="2992,2398 4686,2422"/>
+                <TextEquiv>
+                    <Unicode>de nostre seignor Jhesu Crist » et la troveroiz ou nombre de .lxix .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l23" custom="readingOrder {index:21;}">
+                <Coords points="2958,2580 3341,2606 3432,2570 3486,2602 3626,2564 3858,2627 4268,2588 4421,2610 4467,2582 4597,2618 4654,2585 4889,2617 4935,2609 4937,2467 4841,2457 4783,2487 4633,2459 4473,2537 4274,2540 4101,2511 3959,2541 3738,2478 3510,2517 3374,2473 3089,2508 2976,2478 2958,2580"/>
+                <Baseline points="2972,2562 4920,2580"/>
+                <TextEquiv conf="0.5671365">
+                    <Unicode>a sexante et dixeisme est des hommes qui retignerent trois charrues de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l24" custom="readingOrder {index:22;}">
+                <Coords points="2710,2689 2932,2690 2929,2540 2708,2558 2710,2689"/>
+                <Baseline points="2724,2642 2918,2644"/>
+                <TextEquiv>
+                    <Unicode>.LXX .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l25" custom="readingOrder {index:23;}">
+                <Coords points="2944,2674 3050,2647 3158,2652 3194,2690 3453,2687 3527,2654 3669,2691 3788,2671 3828,2703 4215,2682 4288,2712 4371,2682 4407,2712 4479,2673 4598,2710 4729,2687 4842,2715 4902,2702 4904,2616 4756,2628 4654,2586 4599,2619 4526,2600 4469,2625 4381,2586 4244,2620 4182,2596 3852,2627 3782,2594 3665,2609 3594,2570 3517,2606 3441,2573 3344,2605 2975,2578 2946,2591 2944,2674"/>
+                <Baseline points="2960,2642 4888,2666"/>
+                <TextEquiv conf="0.33122152">
+                    <Unicode>bues du seignor de Neelles et sancomance « En nom de nostre seignor Jhesu Crist »</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l26" custom="readingOrder {index:24;}">
+                <Coords points="2951,2758 3157,2722 3328,2788 3466,2756 3581,2785 3642,2747 3879,2807 3975,2759 4040,2767 4042,2698 3695,2695 3529,2655 3451,2687 3192,2687 3165,2657 3105,2678 3052,2648 2954,2667 2951,2758"/>
+                <Baseline points="2966,2724 4026,2752"/>
+                <TextEquiv>
+                    <Unicode>et la troveroiz ou nombre de .lxx .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l27" custom="readingOrder {index:25;}">
+                <Coords points="2938,2921 3089,2892 3248,2926 3490,2898 3816,2932 4030,2901 4254,2950 4294,2917 4419,2936 4521,2906 4896,2932 4922,2921 4923,2852 4820,2871 4736,2801 4585,2850 4497,2829 4409,2853 4352,2810 4193,2821 4145,2789 4048,2833 3983,2801 3829,2853 3687,2813 3556,2837 3514,2794 3315,2839 3202,2809 3107,2833 3020,2786 2940,2808 2938,2921"/>
+                <Baseline points="2952,2890 4908,2904"/>
+                <TextEquiv>
+                    <Unicode>La sexante et unzeisme est des tierces de Neelles que li priouse et li covenz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l28" custom="readingOrder {index:26;}">
+                <Coords points="2722,3024 2783,2996 2942,3021 2929,2854 2711,2879 2722,3024"/>
+                <Baseline points="2734,2982 2924,2968"/>
+                <TextEquiv>
+                    <Unicode>.LXXI .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l29" custom="readingOrder {index:27;}">
+                <Coords points="2959,2980 3029,2999 3070,2965 3151,3001 3292,2956 3334,2991 3377,2963 3430,2998 3552,3004 3862,2978 4120,3021 4533,2992 4635,3019 4700,2989 4805,3037 4839,3006 4902,3019 4904,2917 4668,2932 4628,2906 4557,2935 4520,2906 4469,2937 4361,2914 4261,2941 4026,2911 3923,2943 3847,2913 3795,2934 3486,2897 3136,2924 3083,2892 2960,2921 2959,2980"/>
+                <Baseline points="2972,2960 4888,2984"/>
+                <TextEquiv conf="0.40979922">
+                    <Unicode>de Julley outroierent au seignor de Neelles et sancomance : « A touz cels qui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l30" custom="readingOrder {index:28;}">
+                <Coords points="2954,3088 3160,3034 3278,3083 3327,3047 3421,3047 3624,3101 4036,3090 4077,3065 4255,3099 4367,3076 4416,3123 4568,3070 4627,3109 4809,3094 4840,3117 4994,3105 4997,3005 4925,3037 4840,3009 4805,3037 4701,2991 4627,3024 4522,2998 4467,3028 4014,2990 3959,3017 3860,2977 3726,3013 3582,2981 3365,3006 3287,2953 3149,3003 2957,2980 2954,3088"/>
+                <Baseline points="2968,3032 4980,3090"/>
+                <TextEquiv>
+                    <Unicode>verront et harront ces presantes lettres » et la troveroiz ou nombre de .lxxi .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l31" custom="readingOrder {index:29;}">
+                <Coords points="2910,3219 3214,3243 3538,3213 3864,3264 3998,3224 4049,3259 4174,3228 4296,3262 4620,3235 4813,3271 4816,3155 4710,3184 4271,3128 4139,3159 4052,3126 3994,3159 3822,3120 3784,3148 3748,3124 3579,3149 3543,3123 3406,3148 3299,3123 3162,3154 2930,3106 2910,3219"/>
+                <Baseline points="2924,3198 4800,3234"/>
+                <TextEquiv>
+                    <Unicode>La sexante et douzeisme est que Jaques li fiz dame Adeline et cele dame</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l32" custom="readingOrder {index:30;}">
+                <Coords points="2946,3302 3076,3327 3143,3278 3431,3337 3566,3297 3632,3348 3730,3306 3886,3332 3929,3308 3979,3356 4335,3341 4543,3395 4610,3346 4925,3358 4928,3299 4741,3283 4680,3246 4602,3266 4555,3236 4374,3269 4208,3231 4135,3271 4012,3232 3869,3263 3813,3238 3590,3253 3535,3214 3229,3247 2949,3225 2946,3302"/>
+                <Baseline points="2960,3282 4912,3346"/>
+                <TextEquiv conf="0.5897062">
+                    <Unicode>Adeline voussirint que la cognoissance que Jehanz de Neelles havoit faite de ce</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l33" custom="readingOrder {index:31;}">
+                <Coords points="2723,3364 2928,3358 2914,3200 2711,3223 2723,3364"/>
+                <Baseline points="2734,3322 2910,3310"/>
+                <TextEquiv>
+                    <Unicode>LXXII .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l34" custom="readingOrder {index:32;}">
+                <Coords points="2944,3394 3038,3380 3143,3413 3297,3381 4088,3445 4280,3418 4366,3472 4572,3436 4633,3476 4694,3435 4814,3493 4917,3494 4979,3488 4984,3357 4809,3388 4768,3352 4695,3401 4626,3359 4573,3397 4450,3353 4329,3374 4171,3346 4136,3370 3899,3322 3855,3349 3760,3303 3611,3355 3507,3320 3248,3334 3141,3279 3080,3325 2948,3292 2944,3394"/>
+                <Baseline points="2958,3372 4966,3436"/>
+                <TextEquiv conf="0.17760764">
+                    <Unicode>que cele Adeline etoit sa fame ne li nuisait a sa demande et sancomance : « Nos Guiz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l35" custom="readingOrder {index:33;}">
+                <Coords points="2939,3497 3248,3460 3346,3495 3458,3465 3584,3524 3679,3476 3840,3508 3883,3486 3928,3519 4119,3498 4243,3540 4337,3512 4340,3429 4081,3451 4042,3421 3996,3448 3798,3407 3641,3435 3596,3405 3513,3430 3415,3395 3223,3420 3087,3415 3023,3381 2943,3398 2939,3497"/>
+                <Baseline points="2956,3456 4324,3496"/>
+                <TextEquiv conf="0.22786039">
+                    <Unicode>de Semur » et la troveroiz ou nombre de .lxxii .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La sexante et cincqueisme est d’une piece de terre en Lormor la quele&#13;
+Brices chevaliers ha de seignor de Neeles por dous deniers chascun an&#13;
+LXV.&#13;
+devant la nativité Nostre seignor et s’encomance In nomine Domini et la troveroiz&#13;
+ou nombre de .lxv.&#13;
+La sexante et sexeisme est de la quittance que Josuoz li Juis de Montbar&#13;
+fit a Jehan de Neelles de toutes detes et s’ancomance « Nos Guillaumes de Chaace »&#13;
+et la troveroiz ou nombre de .lxvi.&#13;
+La sexante et septime est de la ploigerie que mes sires Jehans d’Arcy&#13;
+et mes sires Estienes ses freres feirent au seignor de Neeles por mon&#13;
+LXVII&#13;
+seignor Robert Buillet et sancomance : « Nos Jehan sires d’Arcy » et la&#13;
+troverez ou nombre de .lxvii.&#13;
+La sexante et uteisme est de la quittance que Gilois de Flavigney&#13;
+LXVIII.&#13;
+fit au seignor de Neeles de toutes detes et sancomance : « Nos Guiz d’Arcy »&#13;
+et la troverez ou nombre de sexante et vit.&#13;
+La sexante et nuefeisme de cent livres de tornois les quex Jacques de&#13;
+Colomer doit au seignor de Neeles por vandue de bléf et sancomance : « En nom&#13;
+LXIX.&#13;
+de nostre seignor Jhesu Crist » et la troveroiz ou nombre de .lxix.&#13;
+a sexante et dixeisme est des hommes qui retignerent trois charrues de&#13;
+.LXX.&#13;
+bues du seignor de Neelles et sancomance « En nom de nostre seignor Jhesu Crist »,&#13;
+et la troveroiz ou nombre de .lxx.&#13;
+La sexante et unzeisme est des tierces de Neelles que li priouse et li covenz&#13;
+.LXXI.&#13;
+de Julley outroierent au seignor de Neelles et sancomance : « A touz cels qui&#13;
+verront et harront ces presantes lettres » et la troveroiz ou nombre de .lxxi.&#13;
+La sexante et douzeisme est que Jaques li fiz dame Adeline et cele dame&#13;
+Adeline voussirint que la cognoissance que Jehanz de Neelles havoit faite de ce&#13;
+LXXII.&#13;
+que cele Adeline etoit sa fame ne li nuisait a sa demande et sancomance : « Nos Guiz&#13;
+de Semur » et la troveroiz ou nombre de .lxxii .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:4;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,1569 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;ig_lb=true):v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+Transkribus</Creator>
+        <Created>2019-10-31T09:19:07.659+01:00</Created>
+        <LastChange>2020-09-04T11:21:56.651+02:00</LastChange>
+        <TranskribusMetadata docId="236998" pageId="10470769" pageNr="8" tsid="39205910" status="IN_PROGRESS" userId="52231" imgUrl="https://files.transkribus.eu/Get?id=NKQHGBNGHGTKDZBWEPDITLLL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YUFOZHXTOHRZXEICNHYGCIAY" imageId="6975465"/>
+    </Metadata>
+    <Page imageFilename="7.jpg" imageWidth="8350" imageHeight="5937">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1624454999630" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1575203004059_351"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1575202498295_207"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1575203014927_359"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1575202369754_145"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1575202340484_133"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1575202381936_152"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1575202988261_341"/>
+                <RegionRefIndexed index="7" regionRef="TextRegion_1575202381936_151"/>
+                <RegionRefIndexed index="8" regionRef="TextRegion_1575202520597_215"/>
+                <RegionRefIndexed index="9" regionRef="TextRegion_1575202401457_168"/>
+                <RegionRefIndexed index="10" regionRef="TextRegion_1575202401457_167"/>
+                <RegionRefIndexed index="11" regionRef="TextRegion_1575202566235_229"/>
+                <RegionRefIndexed index="12" regionRef="TextRegion_1575202429311_183"/>
+                <RegionRefIndexed index="13" regionRef="TextRegion_1575202429311_182"/>
+                <RegionRefIndexed index="14" regionRef="TextRegion_1575202581880_237"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1575203004059_351" custom="readingOrder {index:0;}">
+            <Coords points="574,784 932,739 999,1568 574,1566"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="575,862 886,841 886,784 575,805 575,862"/>
+                <Baseline points="575,843 886,822"/>
+                <TextEquiv>
+                    <Unicode>Quod Ansericus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="574,953 916,915 916,858 574,896 574,953"/>
+                <Baseline points="574,934 916,896"/>
+                <TextEquiv>
+                    <Unicode>de Monte re</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="586,1033 891,1001 891,947 586,979 586,1033"/>
+                <Baseline points="586,1015 891,983"/>
+                <TextEquiv>
+                    <Unicode>gio dedit nobis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="607,1100 901,1078 901,1026 607,1048 607,1100"/>
+                <Baseline points="607,1083 901,1061"/>
+                <TextEquiv>
+                    <Unicode>nemus et terram </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="609,1190 889,1168 889,1111 609,1133 609,1190"/>
+                <Baseline points="609,1171 889,1149"/>
+                <TextEquiv>
+                    <Unicode>pertinentem ad </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="608,1273 922,1242 922,1185 608,1216 608,1273"/>
+                <Baseline points="608,1254 922,1223"/>
+                <TextEquiv>
+                    <Unicode>grangiam Vilers </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="600,1367 956,1342 956,1282 600,1307 600,1367"/>
+                <Baseline points="600,1347 956,1322"/>
+                <TextEquiv>
+                    <Unicode>et pascua de Er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="624,1448 945,1441 945,1381 624,1388 624,1448"/>
+                <Baseline points="624,1428 945,1421"/>
+                <TextEquiv>
+                    <Unicode>viel et usque ad </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} supplied {offset:12; length:4;}">
+                <Coords points="629,1537 962,1524 962,1464 629,1477 629,1537"/>
+                <Baseline points="629,1517 962,1504"/>
+                <TextEquiv>
+                    <Unicode>aquam Senaen (a). </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Quod Ansericus &#13;
+de Monte re&#13;
+gio dedit nobis &#13;
+nemus et terram &#13;
+pertinentem ad &#13;
+grangiam Vilers &#13;
+et pascua de Er&#13;
+viel et usque ad &#13;
+aquam Senaen (a). </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1575202498295_207" custom="readingOrder {index:1;}">
+            <Coords points="938,726 2558,686 2558,2347 1050,2347"/>
+            <TextLine id="r3l4" custom="readingOrder {index:0;}">
+                <Coords points="963,857 1306,826 2401,785 2401,724 1101,776 963,796 963,857"/>
+                <Baseline points="971,849 1101,817 1169,813 2401,765"/>
+                <TextEquiv>
+                    <Unicode>In nomine sancte et individue Trinitatis. Notum fieri volo tam futuris quam pre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:1;}">
+                <Coords points="1022,918 2433,879 2433,819 1022,858 1022,918"/>
+                <Baseline points="1022,898 2433,859"/>
+                <TextEquiv>
+                    <Unicode>sentibus ego Hugo, Autisiodorensis episcopus, quod Ansericus de Monte regi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:2;}">
+                <Coords points="1013,1001 2412,969 2412,909 1013,941 1013,1001"/>
+                <Baseline points="1013,981 2412,949"/>
+                <TextEquiv>
+                    <Unicode>o monasterio Pontiniaci in manu nostra concessit sigilloque nostro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:3;}">
+                <Coords points="1019,1086 2423,1060 2423,999 1019,1025 1019,1086"/>
+                <Baseline points="1021,1071 2423,1040"/>
+                <TextEquiv conf="0.13219081">
+                    <Unicode>bullari precepit quicquid habebat nemoris et terrae, tam cultae</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:4;}">
+                <Coords points="1025,1176 2445,1145 2445,1084 1025,1115 1025,1176"/>
+                <Baseline points="1025,1156 2445,1125"/>
+                <TextEquiv conf="0.076320864">
+                    <Unicode>quam incultae, a via quae ducit de Nentri ad Trementiacum, usque ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:5;}">
+                <Coords points="1025,1266 2446,1238 2446,1175 1025,1203 1025,1266"/>
+                <Baseline points="1025,1245 2446,1217"/>
+                <TextEquiv conf="0.10153682">
+                    <Unicode>semitam que tendit de Mossengi ad Chableiam, ex parte Vi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:6;}">
+                <Coords points="1030,1355 2473,1330 2473,1267 1030,1292 1030,1355"/>
+                <Baseline points="1030,1334 2473,1309"/>
+                <TextEquiv conf="0.040035587">
+                    <Unicode>leri. Insuper et pascua dedit in nemore de Erviel absque ul</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:7;}">
+                <Coords points="1049,1445 2416,1418 2416,1352 1049,1379 1049,1445"/>
+                <Baseline points="1049,1423 2416,1396"/>
+                <TextEquiv conf="0.10345965">
+                    <Unicode>la contradictione et in omni alia terra sua usque ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:8;}">
+                <Coords points="1040,1536 2494,1509 2494,1443 1040,1470 1040,1536"/>
+                <Baseline points="1040,1514 2494,1487"/>
+                <TextEquiv>
+                    <Unicode>aquam Seneun. Testes sunt : Andreas de Baldament; Bernar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:9;}">
+                <Coords points="1058,1624 2503,1602 2503,1536 1058,1558 1058,1624"/>
+                <Baseline points="1058,1602 2503,1580"/>
+                <TextEquiv>
+                    <Unicode>dus, capellanus de Monte regio ; Guido de Donperre et Guido,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:10;}">
+                <Coords points="1070,1716 2477,1691 2477,1625 1070,1650 1070,1716"/>
+                <Baseline points="1070,1694 2477,1669"/>
+                <TextEquiv conf="0.048127066">
+                    <Unicode>filius ejus ; Johannes, magister ejusdem Guidonis ; Garnerius de Donperre ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:11;}">
+                <Coords points="1061,1806 2506,1781 2506,1718 1061,1743 1061,1806"/>
+                <Baseline points="1061,1785 2506,1760"/>
+                <TextEquiv conf="0.023362901">
+                    <Unicode>Johannes molendinarius ; Ollanus, meus cellerarius et Guillelmus paneta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:12;} supplied {offset:35; length:4;}">
+                <Coords points="1045,1889 2514,1860 2514,1797 1045,1826 1045,1889"/>
+                <Baseline points="1045,1868 2004,1857"/>
+                <TextEquiv conf="0.07374125">
+                    <Unicode>rius. Prefatam donationem laudavit (ð) uxor ejusdem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:13;}">
+                <Coords points="1042,1982 2496,1963 2496,1897 1042,1916 1042,1982"/>
+                <Baseline points="1042,1960 2496,1941"/>
+                <TextEquiv conf="0.15663551">
+                    <Unicode>Anserici coram his testibus : Stephano, abbate Regniaci; Rai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:14;}">
+                <Coords points="1054,2072 2489,2055 2489,1989 1054,2006 1054,2072"/>
+                <Baseline points="1054,2050 2489,2033"/>
+                <TextEquiv conf="0.036310017">
+                    <Unicode>naudo, archidiacono Autisiodorensi ; Bernardo, capellano de Monte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:15;}">
+                <Coords points="1061,2161 2481,2150 2481,2084 1061,2095 1061,2161"/>
+                <Baseline points="1061,2139 2481,2128"/>
+                <TextEquiv>
+                    <Unicode>regio ; Bernardo de Insula. Actum est hoc anno ab Incarnatione Domini </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:16;}">
+                <Coords points="1053,2254 2519,2239 2519,2176 1053,2191 1053,2254"/>
+                <Baseline points="1053,2233 2519,2218"/>
+                <TextEquiv>
+                    <Unicode>MO CO XL° v°, Eugenio papa, Ludovico rege Francorum et duce</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:17;}">
+                <Coords points="1078,2347 1678,2331 1678,2270 1078,2286 1078,2347"/>
+                <Baseline points="1078,2327 1678,2311"/>
+                <TextEquiv conf="0.02416764">
+                    <Unicode>Aquitanorum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In nomine sancte et individue Trinitatis. Notum fieri volo tam futuris quam pre&#13;
+sentibus ego Hugo, Autisiodorensis episcopus, quod Ansericus de Monte regi&#13;
+o monasterio Pontiniaci in manu nostra concessit sigilloque nostro&#13;
+bullari precepit quicquid habebat nemoris et terrae, tam cultae&#13;
+quam incultae, a via quae ducit de Nentri ad Trementiacum, usque ad&#13;
+semitam que tendit de Mossengi ad Chableiam, ex parte Vi&#13;
+leri. Insuper et pascua dedit in nemore de Erviel absque ul&#13;
+la contradictione et in omni alia terra sua usque ad&#13;
+aquam Seneun. Testes sunt : Andreas de Baldament; Bernar&#13;
+dus, capellanus de Monte regio ; Guido de Donperre et Guido,&#13;
+filius ejus ; Johannes, magister ejusdem Guidonis ; Garnerius de Donperre ;&#13;
+Johannes molendinarius ; Ollanus, meus cellerarius et Guillelmus paneta&#13;
+rius. Prefatam donationem laudavit (ð) uxor ejusdem&#13;
+Anserici coram his testibus : Stephano, abbate Regniaci; Rai&#13;
+naudo, archidiacono Autisiodorensi ; Bernardo, capellano de Monte&#13;
+regio ; Bernardo de Insula. Actum est hoc anno ab Incarnatione Domini &#13;
+MO CO XL° v°, Eugenio papa, Ludovico rege Francorum et duce&#13;
+Aquitanorum.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1575203014927_359" custom="readingOrder {index:2;}">
+            <Coords points="574,2288 1008,2293 1008,2819 574,2814"/>
+            <TextLine id="r1l11" custom="readingOrder {index:0;}">
+                <Coords points="943,2383 980,2381 980,2321 943,2323 943,2383"/>
+                <Baseline points="943,2363 980,2361"/>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:1;}">
+                <Coords points="648,2447 928,2445 928,2394 648,2396 648,2447"/>
+                <Baseline points="648,2430 928,2428"/>
+                <TextEquiv conf="0.018924285">
+                    <Unicode>Quod Guillelmus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:2;}">
+                <Coords points="662,2531 980,2515 980,2464 662,2480 662,2531"/>
+                <Baseline points="662,2514 980,2498"/>
+                <TextEquiv conf="0.02908042">
+                    <Unicode>Grossum Brachium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:3;}">
+                <Coords points="653,2614 1001,2599 1001,2539 653,2554 653,2614"/>
+                <Baseline points="653,2598 1001,2579"/>
+                <TextEquiv>
+                    <Unicode>cum fratribus suis lau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:4;}">
+                <Coords points="665,2701 963,2693 963,2633 665,2641 665,2701"/>
+                <Baseline points="665,2681 963,2673"/>
+                <TextEquiv>
+                    <Unicode>davit donum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:5;} supplied {offset:10; length:4;}">
+                <Coords points="689,2801 895,2789 895,2729 689,2741 689,2801"/>
+                <Baseline points="689,2781 895,2769"/>
+                <TextEquiv>
+                    <Unicode>patris sui (c).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+Quod Guillelmus&#13;
+Grossum Brachium&#13;
+cum fratribus suis lau&#13;
+davit donum &#13;
+patris sui (c).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1575202369754_145" custom="readingOrder {index:3;}">
+            <Coords points="976,2354 2565,2354 2602,3509 1013,3509"/>
+            <TextLine id="line_1575202357864_140" custom="readingOrder {index:0;}">
+                <Coords points="1073,2371 2545,2359 2545,2413 1073,2431 1073,2371"/>
+                <Baseline points="1073,2411 2545,2393"/>
+                <TextEquiv>
+                    <Unicode>In nomine sanctae et individuae Trinitatis. Ego Hugo, Dei gratia Autisiodorensis episcopus, notum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:1;}">
+                <Coords points="1074,2517 2510,2501 2510,2441 1074,2457 1074,2517"/>
+                <Baseline points="1074,2497 2510,2481"/>
+                <TextEquiv conf="0.06820373">
+                    <Unicode>volo fieri omnibus tam futuris quam piesentibus quod filii Landrici de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:2;}">
+                <Coords points="1085,2612 2514,2592 2514,2526 1085,2546 1085,2612"/>
+                <Baseline points="1085,2590 2514,2570"/>
+                <TextEquiv conf="0.052864928">
+                    <Unicode>Prait, scilicet Hugo, Guillelmus Grossum Brachium, Philippus, Bertrannus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:3;}">
+                <Coords points="1086,2706 2521,2683 2521,2617 1086,2640 1086,2706"/>
+                <Baseline points="1086,2684 2521,2661"/>
+                <TextEquiv conf="0.13524431">
+                    <Unicode>in presentia nostra laudaverunt monachis Sanctae Mariae Pontiniacensis et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:4;} supplied {offset:24; length:4;}">
+                <Coords points="1066,2796 2514,2772 2514,2706 1066,2730 1066,2796"/>
+                <Baseline points="1066,2774 2514,2750"/>
+                <TextEquiv conf="0.07829108">
+                    <Unicode>contra omnes adquietare (d) per jus pacti sunt quicquid predictus pater eorum eis ante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:5;}">
+                <Coords points="1073,2891 2564,2872 2564,2806 1073,2825 1073,2891"/>
+                <Baseline points="1073,2869 2564,2850"/>
+                <TextEquiv conf="0.05151355">
+                    <Unicode>donaverat : hoc est quicquid habebat in territorio de Villariis,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:6;}">
+                <Coords points="1097,2983 2506,2958 2506,2895 1097,2920 1097,2983"/>
+                <Baseline points="1097,2962 2506,2937"/>
+                <TextEquiv conf="0.041966718">
+                    <Unicode>tam in boscho quam in piano. Hujus rei testes sunt : Stephanus, abbas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:7;}">
+                <Coords points="1090,3069 2584,3046 2584,2983 1090,3006 1090,3069"/>
+                <Baseline points="1090,3048 2584,3025"/>
+                <TextEquiv conf="0.032352496">
+                    <Unicode>Regniacensis ; Guido de Siliniaco, Garinus Pauper, monachi Pontiniacenses ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l31" custom="readingOrder {index:8;}">
+                <Coords points="1093,3157 2577,3137 2577,3079 1093,3099 1093,3157"/>
+                <Baseline points="1093,3138 2577,3118"/>
+                <TextEquiv conf="0.008225023">
+                    <Unicode>Rainaudus, archidiaconus Autisiodorensis; Hatto, archipresbiter Autisiodorensis; Bernardus, ca</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l32" custom="readingOrder {index:9;}">
+                <Coords points="1089,3248 2500,3215 2500,3157 1089,3190 1089,3248"/>
+                <Baseline points="1089,3229 2500,3196"/>
+                <TextEquiv conf="0.04348879">
+                    <Unicode>pellanus de Monte regali ; Johannes Chapellus (a) ; Girardus de Tociaco ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l33" custom="readingOrder {index:10;}">
+                <Coords points="1099,3334 2569,3302 2569,3239 1099,3271 1099,3334"/>
+                <Baseline points="1099,3313 2569,3281"/>
+                <TextEquiv>
+                    <Unicode>Ernaudus de Tociaco; Odo, frater ejusdem, et alii quam plures. Actum apud Auti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l34" custom="readingOrder {index:11;}">
+                <Coords points="1081,3420 2561,3389 2561,3326 1081,3357 1081,3420"/>
+                <Baseline points="1081,3399 2561,3368"/>
+                <TextEquiv>
+                    <Unicode>siodori, in domo episcopali, ab Incarnatione Domini MO CO XLO IIII0, regnan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575202369873_148" custom="readingOrder {index:12;}">
+                <Coords points="1104,3444 2046,3427 2451,3412 2451,3473 2338,3479 1104,3479 1104,3444"/>
+                <Baseline points="1104,3485 1373,3479"/>
+                <TextEquiv>
+                    <Unicode>te feliciter Ludovico rege Francorum et duce Aquitanorum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In nomine sanctae et individuae Trinitatis. Ego Hugo, Dei gratia Autisiodorensis episcopus, notum&#13;
+volo fieri omnibus tam futuris quam piesentibus quod filii Landrici de&#13;
+Prait, scilicet Hugo, Guillelmus Grossum Brachium, Philippus, Bertrannus,&#13;
+in presentia nostra laudaverunt monachis Sanctae Mariae Pontiniacensis et&#13;
+contra omnes adquietare (d) per jus pacti sunt quicquid predictus pater eorum eis ante&#13;
+donaverat : hoc est quicquid habebat in territorio de Villariis,&#13;
+tam in boscho quam in piano. Hujus rei testes sunt : Stephanus, abbas&#13;
+Regniacensis ; Guido de Siliniaco, Garinus Pauper, monachi Pontiniacenses ;&#13;
+Rainaudus, archidiaconus Autisiodorensis; Hatto, archipresbiter Autisiodorensis; Bernardus, ca&#13;
+pellanus de Monte regali ; Johannes Chapellus (a) ; Girardus de Tociaco ;&#13;
+Ernaudus de Tociaco; Odo, frater ejusdem, et alii quam plures. Actum apud Auti&#13;
+siodori, in domo episcopali, ab Incarnatione Domini MO CO XLO IIII0, regnan&#13;
+te feliciter Ludovico rege Francorum et duce Aquitanorum.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1575202340484_133" custom="readingOrder {index:4;}">
+            <Coords points="574,3072 993,3073 993,4221 574,4220"/>
+            <TextLine id="r1l19" custom="readingOrder {index:0;}">
+                <Coords points="692,3595 968,3599 968,3539 692,3535 692,3595"/>
+                <Baseline points="692,3575 968,3579"/>
+                <TextEquiv conf="0.081478976">
+                    <Unicode>De calumnia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:1;}">
+                <Coords points="706,3681 1063,3686 1063,3632 706,3627 706,3681"/>
+                <Baseline points="706,3663 1063,3668"/>
+                <TextEquiv conf="0.019310366">
+                    <Unicode>monachorum Sancti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:2;}">
+                <Coords points="704,3769 1040,3758 1040,3704 704,3715 704,3769"/>
+                <Baseline points="704,3751 1040,3740"/>
+                <TextEquiv conf="0.12768555">
+                    <Unicode>Germani super terra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:3;}">
+                <Coords points="729,3873 1030,3848 1030,3788 729,3813 729,3873"/>
+                <Baseline points="729,3853 1030,3828"/>
+                <TextEquiv conf="0.023757625">
+                    <Unicode>et bosco Anse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:4;}">
+                <Coords points="712,3958 1061,3940 1061,3880 712,3898 712,3958"/>
+                <Baseline points="712,3938 1061,3920"/>
+                <TextEquiv conf="0.2018699">
+                    <Unicode>rici de Monte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:5;} supplied {offset:5; length:4;}">
+                <Coords points="719,4047 897,4037 897,3977 719,3987 719,4047"/>
+                <Baseline points="719,4027 897,4017"/>
+                <TextEquiv>
+                    <Unicode>regio (4).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De calumnia&#13;
+monachorum Sancti&#13;
+Germani super terra&#13;
+et bosco Anse&#13;
+rici de Monte&#13;
+regio (4).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1575202381936_152" custom="readingOrder {index:5;}">
+            <Coords points="1013,3509 2632,3509 2632,4969 1013,4969"/>
+            <TextLine id="r3l36" custom="readingOrder {index:0;}">
+                <Coords points="1097,3588 2590,3562 2590,3501 1097,3527 1097,3588"/>
+                <Baseline points="1097,3568 2590,3542"/>
+                <TextEquiv>
+                    <Unicode>In nomine sancte et individue Trinitatis. Ego Hugo, Dei gratia Autisiodorensis episcopus, notum volo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l37" custom="readingOrder {index:1;}">
+                <Coords points="1099,3677 2583,3658 2583,3597 1099,3616 1099,3677"/>
+                <Baseline points="1099,3657 2583,3638"/>
+                <TextEquiv conf="0.15115647">
+                    <Unicode>fieri omnibus tam futuris quam presentibus quod inter monachos ecclesie Sancte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l38" custom="readingOrder {index:2;}">
+                <Coords points="1113,3764 2562,3746 2562,3682 1113,3700 1113,3764"/>
+                <Baseline points="1113,3743 2562,3725"/>
+                <TextEquiv conf="0.05495387">
+                    <Unicode>Marie Pontiniaci et inter monachos Sancti Germani Autisiodorensis orta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l39" custom="readingOrder {index:3;}">
+                <Coords points="1105,3865 2530,3840 2530,3780 1105,3805 1105,3865"/>
+                <Baseline points="1105,3845 2530,3820"/>
+                <TextEquiv conf="0.083231024">
+                    <Unicode>fuit querela de terra et boscho que Ansericus de Monte regali</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l40" custom="readingOrder {index:4;}">
+                <Coords points="1121,3949 2601,3921 2601,3861 1121,3889 1121,3949"/>
+                <Baseline points="1121,3929 2601,3901"/>
+                <TextEquiv conf="0.04992004">
+                    <Unicode>monachis Pontiniaci dederat et monachi Sancti Germani super eos calum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l41" custom="readingOrder {index:5;}">
+                <Coords points="1121,4044 2580,4013 2580,3949 1121,3980 1121,4044"/>
+                <Baseline points="1121,4023 2580,3992"/>
+                <TextEquiv conf="0.26094982">
+                    <Unicode>niaverunt, sed tandem per manum nostram ita pax reformata est ut tres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l42" custom="readingOrder {index:6;}">
+                <Coords points="1126,4135 2588,4099 2588,4035 1126,4071 1126,4135"/>
+                <Baseline points="1126,4114 2588,4078"/>
+                <TextEquiv conf="0.19331968">
+                    <Unicode>solidos censuales provenensis monete, per singulos annos, in festo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l43" custom="readingOrder {index:7;}">
+                <Coords points="1119,4232 2618,4194 2618,4128 1119,4166 1119,4232"/>
+                <Baseline points="1119,4210 2618,4172"/>
+                <TextEquiv conf="0.14380655">
+                    <Unicode>sancti Remigii monachi Pontiniaci monachis Sancti Germani persolvant.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l44" custom="readingOrder {index:8;}">
+                <Coords points="1117,4328 2602,4291 2602,4228 1117,4265 1117,4328"/>
+                <Baseline points="1117,4307 2602,4270"/>
+                <TextEquiv conf="0.17284383">
+                    <Unicode>Hujus rei testes sunt ex parte monachorum Sancti Germani : Robertus prior ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l45" custom="readingOrder {index:9;}">
+                <Coords points="1119,4424 2612,4375 2612,4312 1119,4361 1119,4424"/>
+                <Baseline points="1119,4403 2612,4354"/>
+                <TextEquiv conf="0.052774657">
+                    <Unicode>Robertus camerarius ; Odo cellerarius ; Bernardus de Insula ; Andreas Lepus ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l46" custom="readingOrder {index:10;}">
+                <Coords points="1134,4510 2634,4455 2634,4389 1134,4444 1134,4510"/>
+                <Baseline points="1134,4488 2634,4433"/>
+                <TextEquiv conf="0.13718507">
+                    <Unicode>Constantius de Chiri; Garnerius, prepositus Sancti Germani; ex parte mo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l47" custom="readingOrder {index:11;}">
+                <Coords points="1121,4602 2582,4554 2582,4488 1121,4536 1121,4602"/>
+                <Baseline points="1121,4580 2582,4532"/>
+                <TextEquiv conf="0.039312966">
+                    <Unicode>nachorum Pontiniaci : Gauterius Calvus, Guido de Siliniaco, monachi ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l48" custom="readingOrder {index:12;}">
+                <Coords points="1139,4702 2571,4644 2571,4578 1139,4636 1139,4702"/>
+                <Baseline points="1139,4680 2571,4622"/>
+                <TextEquiv conf="0.047359336">
+                    <Unicode>Aldricus, Petrus de Gap, conversi ; Bernardus, capellanus de Monte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l49" custom="readingOrder {index:13;}">
+                <Coords points="1133,4793 2631,4730 2631,4664 1133,4727 1133,4793"/>
+                <Baseline points="1133,4771 2631,4708"/>
+                <TextEquiv>
+                    <Unicode>regali. Actum apud Villarias, grangiam Pontiniaci, anno ab Incarnatione </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l50" custom="readingOrder {index:14;}">
+                <Coords points="1151,4883 2564,4821 2564,4757 1151,4819 1151,4883"/>
+                <Baseline points="1151,4862 2564,4800"/>
+                <TextEquiv>
+                    <Unicode>Domini M° CO XLO v°, regnante feliciter Ludovico magnifico rege</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575202382055_155" custom="readingOrder {index:15;}">
+                <Coords points="1150,4907 1671,4888 1845,4874 1845,4938 1671,4952 1150,4969 1150,4907"/>
+                <Baseline points="1150,4950 1845,4917"/>
+                <TextEquiv conf="0.16220014">
+                    <Unicode>Francorum et duce Aquitanorum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In nomine sancte et individue Trinitatis. Ego Hugo, Dei gratia Autisiodorensis episcopus, notum volo&#13;
+fieri omnibus tam futuris quam presentibus quod inter monachos ecclesie Sancte&#13;
+Marie Pontiniaci et inter monachos Sancti Germani Autisiodorensis orta&#13;
+fuit querela de terra et boscho que Ansericus de Monte regali&#13;
+monachis Pontiniaci dederat et monachi Sancti Germani super eos calum&#13;
+niaverunt, sed tandem per manum nostram ita pax reformata est ut tres&#13;
+solidos censuales provenensis monete, per singulos annos, in festo&#13;
+sancti Remigii monachi Pontiniaci monachis Sancti Germani persolvant.&#13;
+Hujus rei testes sunt ex parte monachorum Sancti Germani : Robertus prior ;&#13;
+Robertus camerarius ; Odo cellerarius ; Bernardus de Insula ; Andreas Lepus ;&#13;
+Constantius de Chiri; Garnerius, prepositus Sancti Germani; ex parte mo&#13;
+nachorum Pontiniaci : Gauterius Calvus, Guido de Siliniaco, monachi ;&#13;
+Aldricus, Petrus de Gap, conversi ; Bernardus, capellanus de Monte&#13;
+regali. Actum apud Villarias, grangiam Pontiniaci, anno ab Incarnatione &#13;
+Domini M° CO XLO v°, regnante feliciter Ludovico magnifico rege&#13;
+Francorum et duce Aquitanorum.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1575202988261_341" custom="readingOrder {index:6;}">
+            <Coords points="574,4881 1117,4881 1117,5344 574,5344"/>
+            <TextLine id="r1l26" custom="readingOrder {index:0;}">
+                <Coords points="761,5089 1117,5087 1117,5030 761,5032 761,5089"/>
+                <Baseline points="761,5070 1117,5068"/>
+                <TextEquiv conf="0.0552902">
+                    <Unicode>De querela inter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:1;}">
+                <Coords points="769,5167 1093,5153 1093,5123 769,5137 769,5167"/>
+                <Baseline points="769,5157 1093,5143"/>
+                <TextEquiv>
+                    <Unicode>domum Pontiniaci et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:2;}">
+                <Coords points="775,5246 1111,5238 1111,5205 775,5213 775,5246"/>
+                <Baseline points="775,5235 1111,5227"/>
+                <TextEquiv>
+                    <Unicode>Regniaci quondam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:3;} supplied {offset:6; length:4;}">
+                <Coords points="785,5344 979,5328 979,5271 785,5287 785,5344"/>
+                <Baseline points="785,5325 979,5309"/>
+                <TextEquiv>
+                    <Unicode>habita (ø).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De querela inter&#13;
+domum Pontiniaci et &#13;
+Regniaci quondam&#13;
+habita (ø).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1575202381936_151" custom="readingOrder {index:7;}">
+            <Coords points="1123,4968 2656,4918 2656,5227 1136,5271"/>
+            <TextLine id="line_1575202382057_156" custom="readingOrder {index:0;}">
+                <Coords points="1149,5005 1598,4990 2646,4944 2647,5004 1598,5054 1149,5069 1149,5005"/>
+                <Baseline points="1149,5048 2647,4983"/>
+                <TextEquiv>
+                    <Unicode>Notum fieri volumus tam presentibus quam futuris quod nos scilicet Hugo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l53" custom="readingOrder {index:1;}">
+                <Coords points="1159,5158 2608,5097 2608,5033 1159,5094 1159,5158"/>
+                <Baseline points="1159,5137 2608,5076"/>
+                <TextEquiv conf="0.013640131">
+                    <Unicode>Autisiodorensis, Henricus Trecensis episcopi et Rainardus, Cisterciensis abbas, quandam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l54" custom="readingOrder {index:2;}">
+                <Coords points="1168,5246 2650,5184 2650,5120 1168,5182 1168,5246"/>
+                <Baseline points="1168,5225 2650,5163"/>
+                <TextEquiv>
+                    <Unicode>querelam quae inter domum Pontiniaci et Regniaci emerserat, tali composi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Notum fieri volumus tam presentibus quam futuris quod nos scilicet Hugo&#13;
+Autisiodorensis, Henricus Trecensis episcopi et Rainardus, Cisterciensis abbas, quandam&#13;
+querelam quae inter domum Pontiniaci et Regniaci emerserat, tali composi</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1575202520597_215" custom="readingOrder {index:8;}">
+            <Coords points="2574,655 4245,655 4245,2495 2574,2495"/>
+            <TextLine id="r4l3" custom="readingOrder {index:0;}">
+                <Coords points="2577,792 4011,765 4011,701 2577,728 2577,792"/>
+                <Baseline points="2577,771 4011,744"/>
+                <TextEquiv>
+                    <Unicode>tione determinavimus atque in pace deduximus : videlicet quod pe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:1;}">
+                <Coords points="2583,877 4007,860 4007,799 2583,816 2583,877"/>
+                <Baseline points="2583,857 4007,840"/>
+                <TextEquiv>
+                    <Unicode>cora domus Regniaci viam quae ducit de Massengi usque Nentri,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:2;}">
+                <Coords points="2574,965 4015,944 4015,883 2574,904 2574,965"/>
+                <Baseline points="2574,945 4015,924"/>
+                <TextEquiv conf="0.0546918">
+                    <Unicode>versus Viler, in pasturam non transibunt ; nec pecora domus Pontiniaci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:3;}">
+                <Coords points="2590,1054 3987,1028 3987,968 2590,994 2590,1054"/>
+                <Baseline points="2590,1034 3987,1008"/>
+                <TextEquiv>
+                    <Unicode>versus Uldunum transibunt absque bubus qui, quantum terra et nemus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:4;}">
+                <Coords points="2593,1135 4029,1118 4029,1058 2593,1075 2593,1135"/>
+                <Baseline points="2593,1115 4029,1098"/>
+                <TextEquiv>
+                    <Unicode>de Vilers durat, ibunt. Cetera vero pastura a villa Nentri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:5;}">
+                <Coords points="2603,1228 4007,1213 4007,1147 2603,1162 2603,1228"/>
+                <Baseline points="2603,1206 4007,1191"/>
+                <TextEquiv conf="0.2862821">
+                    <Unicode>usque Autisiodorum communis erit utroque pecorum, excepto quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l9" custom="readingOrder {index:6;}">
+                <Coords points="2602,1325 4035,1305 4035,1239 2602,1259 2602,1325"/>
+                <Baseline points="2606,1303 4035,1283"/>
+                <TextEquiv conf="0.057492875">
+                    <Unicode>pecora Regniaci fratrum non intrabunt vallem Chalmei nec etiam clivum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l10" custom="readingOrder {index:7;}">
+                <Coords points="2595,1410 4023,1396 4023,1330 2595,1344 2595,1410"/>
+                <Baseline points="2595,1388 4017,1376"/>
+                <TextEquiv conf="0.12667085">
+                    <Unicode>montis. Iterum de Massengi, sicut aqua Saneen currit, usque ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l11" custom="readingOrder {index:8;}">
+                <Coords points="2611,1503 3649,1497 3995,1483 3995,1417 3649,1431 2611,1437 2611,1503"/>
+                <Baseline points="2611,1481 3649,1475 3995,1461"/>
+                <TextEquiv conf="0.07921403">
+                    <Unicode>vadum de Curz pecora Regniaci versus Viler non ibunt nisi in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l12" custom="readingOrder {index:9;}">
+                <Coords points="2619,1593 3527,1586 4017,1564 4017,1500 3527,1522 2619,1529 2619,1593"/>
+                <Baseline points="2619,1572 3527,1565 4017,1543"/>
+                <TextEquiv conf="0.04253707">
+                    <Unicode>pratis suis. De supradicto vero vado de Curz, sicut vadit via ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l13" custom="readingOrder {index:10;}">
+                <Coords points="2621,1686 4051,1659 4051,1595 2621,1622 2621,1686"/>
+                <Baseline points="2621,1665 4051,1638"/>
+                <TextEquiv conf="0.15230924">
+                    <Unicode>Rubeum Montem per Joencei ad Solengei et de Solengei ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l14" custom="readingOrder {index:11;}">
+                <Coords points="2622,1783 4042,1749 4042,1686 2622,1720 2622,1783"/>
+                <Baseline points="2625,1762 4042,1728"/>
+                <TextEquiv conf="0.11114494">
+                    <Unicode>Sanvinneas et de Sanvinneis ad Estivei et de Estivei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l15" custom="readingOrder {index:12;}">
+                <Coords points="2634,1869 4043,1842 4043,1779 2634,1806 2634,1869"/>
+                <Baseline points="2634,1848 4043,1821"/>
+                <TextEquiv conf="0.04694479">
+                    <Unicode>ad Aisei, ad sinistram partem pecora de Regniaco non transibunt nec</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l16" custom="readingOrder {index:13;}">
+                <Coords points="2634,1960 4023,1941 4023,1875 2634,1894 2634,1960"/>
+                <Baseline points="2634,1938 4023,1919"/>
+                <TextEquiv conf="0.13202481">
+                    <Unicode>ad dexteram partem de Pontiniaco. Quod, si quis de conversis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l17" custom="readingOrder {index:14;}">
+                <Coords points="2641,2059 4031,2035 4031,1969 2641,1993 2641,2059"/>
+                <Baseline points="2641,2037 4031,2013"/>
+                <TextEquiv conf="0.060036156">
+                    <Unicode>Pontiniacensibus sciens hanc compositionem forte per se vel per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l18" custom="readingOrder {index:15;}">
+                <Coords points="2638,2149 4073,2123 4073,2057 2638,2083 2638,2149"/>
+                <Baseline points="2638,2127 4073,2101"/>
+                <TextEquiv conf="0.07694615">
+                    <Unicode>alium transgressus fuerit, Uldunum ibit ibique sine omni remissi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l19" custom="readingOrder {index:16;}">
+                <Coords points="2648,2240 4100,2221 4100,2155 2648,2174 2648,2240"/>
+                <Baseline points="2648,2218 4100,2199"/>
+                <TextEquiv conf="0.29219657">
+                    <Unicode>one per tres dies sedens in terra, uno contentus pulmentario man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l20" custom="readingOrder {index:17;}">
+                <Coords points="2638,2326 4074,2307 4074,2246 2638,2265 2638,2326"/>
+                <Baseline points="2638,2306 4074,2287"/>
+                <TextEquiv>
+                    <Unicode>ducabit ; similiter et Regniacenses Vilers ibunt eandemque pe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l21" custom="readingOrder {index:18;}">
+                <Coords points="2654,2408 4053,2395 4053,2334 2654,2347 2654,2408"/>
+                <Baseline points="2653,2392 4053,2375"/>
+                <TextEquiv>
+                    <Unicode>nam, si hanc culpam incurrerint, ibidem absque misericordia susti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575202390970_164" custom="readingOrder {index:19;} supplied {offset:7; length:42;}">
+                <Coords points="2653,2439 2976,2432 2976,2489 2653,2495 2653,2439"/>
+                <Baseline points="2653,2477 2975,2476"/>
+                <TextEquiv>
+                    <Unicode>nebunt. Carta Milonis de Nuceriis de pascuis (°).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tione determinavimus atque in pace deduximus : videlicet quod pe&#13;
+cora domus Regniaci viam quae ducit de Massengi usque Nentri,&#13;
+versus Viler, in pasturam non transibunt ; nec pecora domus Pontiniaci&#13;
+versus Uldunum transibunt absque bubus qui, quantum terra et nemus &#13;
+de Vilers durat, ibunt. Cetera vero pastura a villa Nentri&#13;
+usque Autisiodorum communis erit utroque pecorum, excepto quod&#13;
+pecora Regniaci fratrum non intrabunt vallem Chalmei nec etiam clivum&#13;
+montis. Iterum de Massengi, sicut aqua Saneen currit, usque ad&#13;
+vadum de Curz pecora Regniaci versus Viler non ibunt nisi in&#13;
+pratis suis. De supradicto vero vado de Curz, sicut vadit via ad&#13;
+Rubeum Montem per Joencei ad Solengei et de Solengei ad&#13;
+Sanvinneas et de Sanvinneis ad Estivei et de Estivei&#13;
+ad Aisei, ad sinistram partem pecora de Regniaco non transibunt nec&#13;
+ad dexteram partem de Pontiniaco. Quod, si quis de conversis&#13;
+Pontiniacensibus sciens hanc compositionem forte per se vel per&#13;
+alium transgressus fuerit, Uldunum ibit ibique sine omni remissi&#13;
+one per tres dies sedens in terra, uno contentus pulmentario man&#13;
+ducabit ; similiter et Regniacenses Vilers ibunt eandemque pe&#13;
+nam, si hanc culpam incurrerint, ibidem absque misericordia susti&#13;
+nebunt. Carta Milonis de Nuceriis de pascuis (°).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1575202401457_168" custom="readingOrder {index:9;}">
+            <Coords points="2640,2495 4245,2495 4256,4493 2660,4524"/>
+            <TextLine id="r4l23" custom="readingOrder {index:0;}">
+                <Coords points="2661,2574 4117,2553 4117,2496 2661,2517 2661,2574"/>
+                <Baseline points="2661,2555 4117,2534"/>
+                <TextEquiv>
+                    <Unicode>In nomine sancte et individue Trinitatis. Ego Milo, dominus de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l24" custom="readingOrder {index:1;}">
+                <Coords points="2653,2664 4135,2644 4135,2580 2653,2600 2653,2664"/>
+                <Baseline points="2653,2643 4135,2623"/>
+                <TextEquiv conf="0.16415185">
+                    <Unicode>Noiers, notum fieri volo tam presentibus quam futuris quod pater</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l25" custom="readingOrder {index:2;}">
+                <Coords points="2657,2757 4161,2735 4161,2669 2657,2691 2657,2757"/>
+                <Baseline points="2657,2735 4161,2713"/>
+                <TextEquiv conf="0.09379446">
+                    <Unicode>meus, Milo, pro amore Dei et pro remedio anime sue, in ele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l26" custom="readingOrder {index:3;}">
+                <Coords points="2669,2855 4141,2835 4141,2769 2669,2789 2669,2855"/>
+                <Baseline points="2669,2833 4141,2813"/>
+                <TextEquiv conf="0.020420084">
+                    <Unicode>mosinam dedit fratribus Pontoniacensibus grangiam de Vilers et boschum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l27" custom="readingOrder {index:4;}">
+                <Coords points="2666,2953 4097,2921 4097,2858 2666,2890 2666,2953"/>
+                <Baseline points="2666,2932 4097,2900"/>
+                <TextEquiv conf="0.07565885">
+                    <Unicode>et planum, sicut domus tenet, et pastura castellanie de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l28" custom="readingOrder {index:5;}">
+                <Coords points="2666,3041 4097,3006 4097,2943 2666,2978 2666,3041"/>
+                <Baseline points="2666,3020 4097,2985"/>
+                <TextEquiv conf="0.061391234">
+                    <Unicode>Noiers usque ad aquam castelli et usque ad fontem de Oisel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l29" custom="readingOrder {index:6;}">
+                <Coords points="2689,3121 3553,3110 4129,3087 4129,3026 3553,3049 2689,3060 2689,3121"/>
+                <Baseline points="2689,3101 3553,3090 4129,3067"/>
+                <TextEquiv conf="0.15337057">
+                    <Unicode>sicut vallis ducit. Ego quoque, pro salute anime mee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l30" custom="readingOrder {index:7;}">
+                <Coords points="2667,3205 4173,3182 4173,3122 2667,3145 2667,3205"/>
+                <Baseline points="2667,3185 4173,3162"/>
+                <TextEquiv conf="0.090045966">
+                    <Unicode>et antecessorum meorum, accrevi elemosinam istam, laudan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l31" custom="readingOrder {index:8;}">
+                <Coords points="2667,3286 4153,3261 4153,3201 2667,3226 2667,3286"/>
+                <Baseline points="2680,3265 4153,3241"/>
+                <TextEquiv conf="0.06301596">
+                    <Unicode>tibus uxore mea, Odelina, et filiis, Hugone, thesaurario Au</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l32" custom="readingOrder {index:9;}">
+                <Coords points="2673,3374 4143,3346 4143,3282 2673,3310 2673,3374"/>
+                <Baseline points="2673,3353 4143,3325"/>
+                <TextEquiv conf="0.08414111">
+                    <Unicode>tisiodorensi, et Clarembaldo et Guidone, militibus, libere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l33" custom="readingOrder {index:10;}">
+                <Coords points="2687,3460 4166,3431 4166,3373 2687,3402 2687,3460"/>
+                <Baseline points="2687,3441 4166,3412"/>
+                <TextEquiv conf="0.03540207">
+                    <Unicode>concessi et dedi memoratis fratribus Pontiniacensibus pasturas ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l34" custom="readingOrder {index:11;}">
+                <Coords points="2682,3551 4136,3519 4136,3461 2682,3493 2682,3551"/>
+                <Baseline points="2682,3532 4136,3500"/>
+                <TextEquiv conf="0.059825968">
+                    <Unicode>pastum ovium et animalium de Vilers a fonte de Oisel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l35" custom="readingOrder {index:12;}">
+                <Coords points="2687,3639 4138,3613 4138,3549 2687,3575 2687,3639"/>
+                <Baseline points="2685,3621 4138,3592"/>
+                <TextEquiv conf="0.0889155">
+                    <Unicode>sicut mete sunt posite, versus veterem petrariam et a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l36" custom="readingOrder {index:13;}">
+                <Coords points="2701,3726 4098,3705 4098,3641 2701,3662 2701,3726"/>
+                <Baseline points="2701,3705 4098,3684"/>
+                <TextEquiv conf="0.08086467">
+                    <Unicode>vetere petraria usque ad territorium Sancti Petri de Sanctis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l37" custom="readingOrder {index:14;}">
+                <Coords points="2713,3821 4178,3795 4178,3732 2713,3758 2713,3821"/>
+                <Baseline points="2713,3800 4178,3774"/>
+                <TextEquiv conf="0.07269679">
+                    <Unicode>Virtutibus, sicut posite sunt mete. Quod ut ratum ac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l38" custom="readingOrder {index:15;}">
+                <Coords points="2706,3909 4203,3878 4203,3815 2706,3846 2706,3909"/>
+                <Baseline points="2706,3888 4203,3857"/>
+                <TextEquiv conf="0.11535511">
+                    <Unicode>stabile perpetuo maneat, scripto redigi et sigilli mei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l39" custom="readingOrder {index:16;}">
+                <Coords points="2709,3994 4153,3970 4153,3907 2709,3931 2709,3994"/>
+                <Baseline points="2709,3973 4153,3949"/>
+                <TextEquiv conf="0.07348974">
+                    <Unicode>impressione muniri precepi. Testes sunt : Josbertus de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l40" custom="readingOrder {index:17;}">
+                <Coords points="2719,4082 4167,4053 4167,3992 2719,4021 2719,4082"/>
+                <Baseline points="2719,4062 4167,4033"/>
+                <TextEquiv conf="0.038418427">
+                    <Unicode>Anciaco ; Odo de Noiers ; Theobaudus de Sanciaco ; Si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l41" custom="readingOrder {index:18;}">
+                <Coords points="2706,4170 4177,4138 4177,4077 2706,4109 2706,4170"/>
+                <Baseline points="2706,4150 4177,4118"/>
+                <TextEquiv conf="0.047404107">
+                    <Unicode>gaudus de Noiers la Vila ; Milo de Clavisiaco ; Bus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l42" custom="readingOrder {index:19;}">
+                <Coords points="2718,4263 4165,4224 4165,4163 2718,4202 2718,4263"/>
+                <Baseline points="2718,4243 4165,4204"/>
+                <TextEquiv conf="0.109409526">
+                    <Unicode>che de Noiers. Actum anno ab Incarnatione Domini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l43" custom="readingOrder {index:20;}">
+                <Coords points="2710,4352 3577,4333 4155,4300 4155,4237 3577,4270 2710,4289 2710,4352"/>
+                <Baseline points="2710,4331 3577,4312 4155,4279"/>
+                <TextEquiv conf="0.017587863">
+                    <Unicode>M° C° LXXX° 1°, presente abbate Pontiniaci, Guarmundo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l44" custom="readingOrder {index:21;}">
+                <Coords points="2734,4440 4213,4388 4213,4334 2734,4386 2734,4440"/>
+                <Baseline points="2734,4422 4213,4370"/>
+                <TextEquiv conf="0.18644777">
+                    <Unicode>et Guigone priore ; Salone et Matheo, monachis ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l45" custom="readingOrder {index:22;}">
+                <Coords points="2722,4525 3568,4497 3662,4486 3662,4432 3333,4459 2722,4471 2722,4525"/>
+                <Baseline points="2722,4507 3333,4495 3662,4468"/>
+                <TextEquiv conf="0.073464066">
+                    <Unicode>Stephano et Giroldo, conversis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In nomine sancte et individue Trinitatis. Ego Milo, dominus de&#13;
+Noiers, notum fieri volo tam presentibus quam futuris quod pater&#13;
+meus, Milo, pro amore Dei et pro remedio anime sue, in ele&#13;
+mosinam dedit fratribus Pontoniacensibus grangiam de Vilers et boschum&#13;
+et planum, sicut domus tenet, et pastura castellanie de&#13;
+Noiers usque ad aquam castelli et usque ad fontem de Oisel,&#13;
+sicut vallis ducit. Ego quoque, pro salute anime mee&#13;
+et antecessorum meorum, accrevi elemosinam istam, laudan&#13;
+tibus uxore mea, Odelina, et filiis, Hugone, thesaurario Au&#13;
+tisiodorensi, et Clarembaldo et Guidone, militibus, libere&#13;
+concessi et dedi memoratis fratribus Pontiniacensibus pasturas ad&#13;
+pastum ovium et animalium de Vilers a fonte de Oisel,&#13;
+sicut mete sunt posite, versus veterem petrariam et a&#13;
+vetere petraria usque ad territorium Sancti Petri de Sanctis&#13;
+Virtutibus, sicut posite sunt mete. Quod ut ratum ac&#13;
+stabile perpetuo maneat, scripto redigi et sigilli mei&#13;
+impressione muniri precepi. Testes sunt : Josbertus de&#13;
+Anciaco ; Odo de Noiers ; Theobaudus de Sanciaco ; Si&#13;
+gaudus de Noiers la Vila ; Milo de Clavisiaco ; Bus&#13;
+che de Noiers. Actum anno ab Incarnatione Domini&#13;
+M° C° LXXX° 1°, presente abbate Pontiniaci, Guarmundo,&#13;
+et Guigone priore ; Salone et Matheo, monachis ;&#13;
+Stephano et Giroldo, conversis.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1575202401457_167" custom="readingOrder {index:10;}">
+            <Coords points="2670,4517 4237,4509 4239,5235 2664,5211"/>
+            <TextLine id="line_1575202401576_170" custom="readingOrder {index:0;} supplied {offset:0; length:54;}">
+                <Coords points="2701,4567 4178,4515 4182,4570 2701,4622 2701,4567"/>
+                <Baseline points="2701,4604 4182,4552"/>
+                <TextEquiv conf="7.646441E-4">
+                    <Unicode>Carta Clerembaldi de prato quod Noa de Moutet dicitur.Ego Clarembaudus de Noers, omnibus communiter per hoc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l47" custom="readingOrder {index:1;}">
+                <Coords points="2752,4712 4193,4645 4193,4590 2752,4657 2752,4712"/>
+                <Baseline points="2752,4694 4193,4627"/>
+                <TextEquiv conf="0.10142453">
+                    <Unicode>scriptum, notum facio quod, ad honorem Dei, ad servicium ejus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l48" custom="readingOrder {index:2;}">
+                <Coords points="2754,4803 4194,4743 4194,4679 2754,4739 2754,4803"/>
+                <Baseline points="2754,4782 4194,4722"/>
+                <TextEquiv conf="0.15298495">
+                    <Unicode>amplificandum, donavi in elemosina monasterio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l49" custom="readingOrder {index:3;}">
+                <Coords points="2750,4892 4245,4832 4245,4768 2750,4828 2750,4892"/>
+                <Baseline points="2750,4871 4245,4811"/>
+                <TextEquiv conf="0.21994217">
+                    <Unicode>Pontiniaci prata mea que appellantur noa de Mon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l50" custom="readingOrder {index:4;}">
+                <Coords points="2749,4993 4229,4932 4229,4866 2749,4927 2749,4993"/>
+                <Baseline points="2749,4971 4229,4910"/>
+                <TextEquiv conf="0.16749783">
+                    <Unicode>tet, ut fratres predicti loci ea quiete possideant jure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l51" custom="readingOrder {index:5;}">
+                <Coords points="2752,5088 4189,5035 4189,4969 2752,5022 2752,5088"/>
+                <Baseline points="2751,5068 4189,5013"/>
+                <TextEquiv conf="0.13432346">
+                    <Unicode>perpetuo. Volo autem ut hujus doni mei in spiritualibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l52" custom="readingOrder {index:6;}">
+                <Coords points="2768,5180 4154,5129 4154,5063 2768,5114 2768,5180"/>
+                <Baseline points="2768,5158 4154,5107"/>
+                <TextEquiv conf="0.09644856">
+                    <Unicode>beneficiis fratrum apud Deum consortes et participes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1575202566235_229" custom="readingOrder {index:11;}">
+            <Coords points="4512,589 6068,589 6063,2049 4512,2031"/>
+            <TextLine id="r7l4" custom="readingOrder {index:0;}">
+                <Coords points="4594,705 5165,705 6023,727 6023,672 4665,648 4594,650 4594,705"/>
+                <Baseline points="4594,687 5165,687 6023,709"/>
+                <TextEquiv conf="0.23825735">
+                    <Unicode>mecum habeantur uxor mea, Ada, et liberi mei et pater</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l5" custom="readingOrder {index:1;}">
+                <Coords points="4580,778 6039,801 6039,750 4580,727 4580,778"/>
+                <Baseline points="4594,765 6039,790"/>
+                <TextEquiv conf="0.1672474">
+                    <Unicode>meus et ceteri antecessores mei et anima Milonis, fratris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l6" custom="readingOrder {index:2;}">
+                <Coords points="4605,847 5100,850 6034,876 6034,825 5100,799 4605,796 4605,847"/>
+                <Baseline points="4605,830 6033,858"/>
+                <TextEquiv conf="0.264293">
+                    <Unicode>mei, ita ut in orationibus predictorum fratrum nostra communi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l7" custom="readingOrder {index:3;}">
+                <Coords points="4597,945 5954,967 5954,906 4597,884 4597,945"/>
+                <Baseline points="4599,921 5954,947"/>
+                <TextEquiv conf="0.18704802">
+                    <Unicode>ter teneatur memoria. Feci vero hoc donum Deo in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l8" custom="readingOrder {index:4;}">
+                <Coords points="4586,1024 5088,1031 6022,1063 6022,1002 5088,970 4586,963 4586,1024"/>
+                <Baseline points="4586,1004 6022,1043"/>
+                <TextEquiv conf="0.13041909">
+                    <Unicode>manu domni Meinardi, qui tunc abbas erat in prefa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l9" custom="readingOrder {index:5;}">
+                <Coords points="4602,1112 5305,1127 6008,1152 6008,1088 5305,1063 4602,1048 4602,1112"/>
+                <Baseline points="4602,1091 6008,1131"/>
+                <TextEquiv conf="0.053956393">
+                    <Unicode>ta domo, anno ab Incarnatione Domini M° CO LXXX0 vi°,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l10" custom="readingOrder {index:6;}">
+                <Coords points="4593,1205 5167,1217 6029,1244 6029,1180 5167,1153 4593,1141 4593,1205"/>
+                <Baseline points="4593,1184 6029,1223"/>
+                <TextEquiv conf="0.14525802">
+                    <Unicode>apud Noers, laudante predicta uxore mea, Ada, et du</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l11" custom="readingOrder {index:7;}">
+                <Coords points="4590,1298 5236,1307 6043,1331 6043,1267 5236,1243 4590,1234 4590,1298"/>
+                <Baseline points="4590,1277 6040,1313"/>
+                <TextEquiv conf="0.03817453">
+                    <Unicode>abus filiabus meis, Odelina et Sibilla, quia tunc alios liberos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l12" custom="readingOrder {index:8;}">
+                <Coords points="4606,1387 5112,1394 6052,1420 6052,1354 5112,1328 4606,1321 4606,1387"/>
+                <Baseline points="4606,1365 6052,1398"/>
+                <TextEquiv conf="0.24238108">
+                    <Unicode>ad etatem loquendi non habebam. Porro ad rei confirma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l13" custom="readingOrder {index:9;}">
+                <Coords points="4592,1477 5994,1508 5994,1442 4592,1411 4592,1477"/>
+                <Baseline points="4595,1459 5025,1458 5994,1486"/>
+                <TextEquiv conf="0.16264372">
+                    <Unicode>tionem ut testes existant, isti interfuerunt negocio : Re</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l14" custom="readingOrder {index:10;}">
+                <Coords points="4594,1570 5982,1597 5982,1531 4594,1504 4594,1570"/>
+                <Baseline points="4594,1548 5982,1575"/>
+                <TextEquiv>
+                    <Unicode>migius, prior de Noers ; Galterius, presbiter de Sanctis Vir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l15" custom="readingOrder {index:11;}">
+                <Coords points="4610,1651 6003,1680 6003,1614 4610,1585 4610,1651"/>
+                <Baseline points="4610,1629 6003,1658"/>
+                <TextEquiv>
+                    <Unicode>tutibus ; Stephanus de Argentullo ; Johannes de Joanceis ; Ro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l16" custom="readingOrder {index:12;}">
+                <Coords points="4606,1746 5987,1776 5987,1710 4606,1680 4606,1746"/>
+                <Baseline points="4606,1724 5987,1754"/>
+                <TextEquiv conf="0.07665239">
+                    <Unicode>bertus, major de Sancto Cirico ; Stephanus Rex ; Bucca, prepositus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l17" custom="readingOrder {index:13;}">
+                <Coords points="4592,1835 4936,1845 5968,1867 5968,1803 5624,1794 4592,1771 4592,1835"/>
+                <Baseline points="4592,1814 5968,1846"/>
+                <TextEquiv conf="0.04241479">
+                    <Unicode>de Noers ; Humbertus de Argentullo ; Morinus de Tori ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l18" custom="readingOrder {index:14;}">
+                <Coords points="4598,1929 5976,1954 5976,1890 4598,1865 4598,1929"/>
+                <Baseline points="4598,1908 5976,1933"/>
+                <TextEquiv conf="0.34989452">
+                    <Unicode>Hugo Saart de Tornodoro. Ipsumque scriptum, ut in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575202419769_179" custom="readingOrder {index:15;} supplied {offset:52; length:32; continued:true;}">
+                <Coords points="4608,1961 5993,1981 5993,2031 4608,2027 4608,1961"/>
+                <Baseline points="4608,2005 5993,2025"/>
+                <TextEquiv conf="0.0029623166">
+                    <Unicode>perpetuum habeatur, mei sigilli impressione signavi. Carta de dono Anserici de Monte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mecum habeantur uxor mea, Ada, et liberi mei et pater&#13;
+meus et ceteri antecessores mei et anima Milonis, fratris&#13;
+mei, ita ut in orationibus predictorum fratrum nostra communi&#13;
+ter teneatur memoria. Feci vero hoc donum Deo in&#13;
+manu domni Meinardi, qui tunc abbas erat in prefa&#13;
+ta domo, anno ab Incarnatione Domini M° CO LXXX0 vi°,&#13;
+apud Noers, laudante predicta uxore mea, Ada, et du&#13;
+abus filiabus meis, Odelina et Sibilla, quia tunc alios liberos&#13;
+ad etatem loquendi non habebam. Porro ad rei confirma&#13;
+tionem ut testes existant, isti interfuerunt negocio : Re&#13;
+migius, prior de Noers ; Galterius, presbiter de Sanctis Vir&#13;
+tutibus ; Stephanus de Argentullo ; Johannes de Joanceis ; Ro&#13;
+bertus, major de Sancto Cirico ; Stephanus Rex ; Bucca, prepositus&#13;
+de Noers ; Humbertus de Argentullo ; Morinus de Tori ;&#13;
+Hugo Saart de Tornodoro. Ipsumque scriptum, ut in&#13;
+perpetuum habeatur, mei sigilli impressione signavi. Carta de dono Anserici de Monte</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1575202429311_183" custom="readingOrder {index:12;}">
+            <Coords points="4512,2031 6053,2053 6052,4406 4512,4406"/>
+            <TextLine id="r7l20" custom="readingOrder {index:0;} supplied {offset:0; length:10; continued:true;}">
+                <Coords points="4592,2122 5973,2142 5973,2076 4592,2056 4592,2122"/>
+                <Baseline points="4592,2100 5973,2120"/>
+                <TextEquiv conf="0.024094895">
+                    <Unicode>regio (a).Ego Ansericus de Monte regio, senescalchus Bur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l21" custom="readingOrder {index:1;}">
+                <Coords points="4597,2210 5993,2232 5993,2171 4597,2149 4597,2210"/>
+                <Baseline points="4597,2190 5993,2212"/>
+                <TextEquiv conf="0.19228077">
+                    <Unicode>gundie, notum facio presentibus et futuris quod Deo et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l22" custom="readingOrder {index:2;}">
+                <Coords points="4609,2295 5951,2312 5951,2251 4609,2234 4609,2295"/>
+                <Baseline points="4612,2274 5951,2292"/>
+                <TextEquiv conf="0.08963456">
+                    <Unicode>Beate Marie Pontiniacensi in elemosinam dedi ar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l23" custom="readingOrder {index:3;}">
+                <Coords points="4609,2380 6016,2395 6016,2334 4609,2319 4609,2380"/>
+                <Baseline points="4609,2360 6016,2375"/>
+                <TextEquiv conf="0.30384237">
+                    <Unicode>pentum unum in petraria supra Valeisturneis jure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l24" custom="readingOrder {index:4;}">
+                <Coords points="4598,2473 5978,2488 5978,2422 4598,2407 4598,2473"/>
+                <Baseline points="4608,2454 5978,2466"/>
+                <TextEquiv conf="0.066878095">
+                    <Unicode>perpetuo possidendum, sed et via secura in eundo et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l25" custom="readingOrder {index:5;}">
+                <Coords points="4608,2558 6006,2577 6006,2516 4608,2497 4608,2558"/>
+                <Baseline points="4608,2538 6006,2557"/>
+                <TextEquiv conf="0.1056561">
+                    <Unicode>redeundo ad petrariam per totam terram meam tam fratribus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l26" custom="readingOrder {index:6;}">
+                <Coords points="4614,2642 6004,2664 6004,2603 4614,2581 4614,2642"/>
+                <Baseline points="4614,2622 6004,2644"/>
+                <TextEquiv conf="0.3048719">
+                    <Unicode>Pontiniacensibus quam quadrigis et omni carreia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l27" custom="readingOrder {index:7;}">
+                <Coords points="4593,2743 6004,2757 6004,2691 4593,2677 4593,2743"/>
+                <Baseline points="4593,2721 6004,2735"/>
+                <TextEquiv conf="0.0857702">
+                    <Unicode>mento eorum. Verum tamen, si transeuntes, euntes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l28" custom="readingOrder {index:8;}">
+                <Coords points="4605,2832 5935,2849 6005,2846 6005,2780 4605,2766 4605,2832"/>
+                <Baseline points="4605,2810 6005,2824"/>
+                <TextEquiv conf="0.054338604">
+                    <Unicode>et redeuntes dampnum aliquod alicujus modi fecerunt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l29" custom="readingOrder {index:9;}">
+                <Coords points="4604,2923 5980,2944 5980,2878 4604,2857 4604,2923"/>
+                <Baseline points="4604,2901 5980,2922"/>
+                <TextEquiv conf="0.19269902">
+                    <Unicode>restaurato catallo, fratres et res eorum in pace erunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l30" custom="readingOrder {index:10;}">
+                <Coords points="4626,3011 5993,3030 5993,2969 4626,2950 4626,3011"/>
+                <Baseline points="4626,2991 5993,3010"/>
+                <TextEquiv conf="0.07887666">
+                    <Unicode>absque occasione forifacti. Hoc concessi et laudavi ego</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l31" custom="readingOrder {index:11;}">
+                <Coords points="4618,3092 5984,3118 5984,3061 4618,3035 4618,3092"/>
+                <Baseline points="4618,3073 5984,3099"/>
+                <TextEquiv>
+                    <Unicode>et uxor mea, nomine Sibilla, infantes mei, An</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l32" custom="readingOrder {index:12;}">
+                <Coords points="4609,3173 5966,3191 5966,3134 4609,3116 4609,3173"/>
+                <Baseline points="4609,3154 5966,3172"/>
+                <TextEquiv>
+                    <Unicode>sericus et Johannes. Id ipsum quoque concessit bona fide </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l33" custom="readingOrder {index:13;}">
+                <Coords points="4628,3249 5954,3269 5954,3212 4628,3192 4628,3249"/>
+                <Baseline points="4628,3230 5954,3250"/>
+                <TextEquiv>
+                    <Unicode>et laudavit totum capitulum canonicorum de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l34" custom="readingOrder {index:14;}">
+                <Coords points="4626,3334 5966,3352 5966,3291 4626,3273 4626,3334"/>
+                <Baseline points="4626,3314 5966,3332"/>
+                <TextEquiv conf="0.113295645">
+                    <Unicode>Monte regio, quibus propter hoc a fratribus Pontiniacensibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l35" custom="readingOrder {index:15;}">
+                <Coords points="4626,3418 5962,3440 5962,3379 4626,3357 4626,3418"/>
+                <Baseline points="4626,3398 5962,3420"/>
+                <TextEquiv conf="0.054916214">
+                    <Unicode>vi denarii censuales, singulis annis, in festo sancti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l36" custom="readingOrder {index:16;}">
+                <Coords points="4613,3509 5940,3533 5940,3467 4613,3443 4613,3509"/>
+                <Baseline points="4613,3487 5940,3511"/>
+                <TextEquiv conf="0.1271938">
+                    <Unicode>Remigii reddentur. Ut autem hec elemosina a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l37" custom="readingOrder {index:17;}">
+                <Coords points="4630,3600 5968,3626 5968,3560 4630,3534 4630,3600"/>
+                <Baseline points="4630,3578 5968,3604"/>
+                <TextEquiv conf="0.16816235">
+                    <Unicode>me domui Pontiniacensi facta firma debeat ac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l38" custom="readingOrder {index:18;}">
+                <Coords points="4616,3700 6010,3720 6010,3654 4616,3634 4616,3700"/>
+                <Baseline points="4616,3678 6010,3698"/>
+                <TextEquiv conf="0.32079837">
+                    <Unicode>stabilis permanere, nomina canonichorum qui hoc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l39" custom="readingOrder {index:19;}">
+                <Coords points="4640,3786 6010,3812 6010,3746 4640,3720 4640,3786"/>
+                <Baseline points="4640,3764 6010,3790"/>
+                <TextEquiv conf="0.04598641">
+                    <Unicode>laudaverunt feci subscribi et sub hac confirma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l40" custom="readingOrder {index:20;}">
+                <Coords points="4615,3863 5437,3884 5985,3893 5985,3835 4889,3810 4615,3805 4615,3863"/>
+                <Baseline points="4615,3844 5985,3874"/>
+                <TextEquiv conf="0.27011532">
+                    <Unicode>tione mea meo sigillo signari et muniri precepi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l41" custom="readingOrder {index:21;}">
+                <Coords points="4622,3946 4963,3950 5988,3982 5988,3924 4963,3892 4622,3888 4622,3946"/>
+                <Baseline points="4622,3927 5988,3963"/>
+                <TextEquiv conf="0.11343926">
+                    <Unicode>Et hec sunt nomina canonicorum : Robertus, Stephanus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l42" custom="readingOrder {index:22;}">
+                <Coords points="4654,4043 5099,4052 5928,4080 5928,4014 5099,3986 4654,3977 4654,4043"/>
+                <Baseline points="4654,4021 5928,4058"/>
+                <TextEquiv conf="0.04219331">
+                    <Unicode>Werricus de Avalone, Gilo, Adam, Stephanus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l43" custom="readingOrder {index:23;}">
+                <Coords points="4633,4131 5094,4143 5951,4174 5951,4114 5094,4083 4633,4071 4633,4131"/>
+                <Baseline points="4633,4111 5951,4154"/>
+                <TextEquiv conf="0.058006745">
+                    <Unicode>de Mallei, Stephanus de Monte mirabili, Rai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l44" custom="readingOrder {index:24;}">
+                <Coords points="4630,4210 4899,4215 5977,4253 5977,4201 4899,4163 4630,4158 4630,4210"/>
+                <Baseline points="4630,4193 5977,4236"/>
+                <TextEquiv conf="0.15642047">
+                    <Unicode>naldus de Rubeo Monte. Actum anno ab In</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l45" custom="readingOrder {index:25;} supplied {offset:18; length:4;}">
+                <Coords points="4630,4282 5863,4333 5987,4336 5987,4284 4889,4240 4630,4230 4630,4282"/>
+                <Baseline points="4630,4265 5984,4326"/>
+                <TextEquiv>
+                    <Unicode>carnatione Domini 1\10 c° LXXXo, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575202429458_186" custom="readingOrder {index:26;} supplied {offset:36; length:37; continued:true;}">
+                <Coords points="4629,4318 5692,4356 5692,4406 5266,4406 4629,4384 4629,4318"/>
+                <Baseline points="4629,4362 5692,4400"/>
+                <TextEquiv>
+                    <Unicode>tunc abbate Pontiniaci, domno Petro. Carta ejusdem Anserici de prato quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>regio (a).Ego Ansericus de Monte regio, senescalchus Bur&#13;
+gundie, notum facio presentibus et futuris quod Deo et&#13;
+Beate Marie Pontiniacensi in elemosinam dedi ar&#13;
+pentum unum in petraria supra Valeisturneis jure&#13;
+perpetuo possidendum, sed et via secura in eundo et&#13;
+redeundo ad petrariam per totam terram meam tam fratribus&#13;
+Pontiniacensibus quam quadrigis et omni carreia&#13;
+mento eorum. Verum tamen, si transeuntes, euntes&#13;
+et redeuntes dampnum aliquod alicujus modi fecerunt,&#13;
+restaurato catallo, fratres et res eorum in pace erunt&#13;
+absque occasione forifacti. Hoc concessi et laudavi ego&#13;
+et uxor mea, nomine Sibilla, infantes mei, An&#13;
+sericus et Johannes. Id ipsum quoque concessit bona fide &#13;
+et laudavit totum capitulum canonicorum de&#13;
+Monte regio, quibus propter hoc a fratribus Pontiniacensibus&#13;
+vi denarii censuales, singulis annis, in festo sancti&#13;
+Remigii reddentur. Ut autem hec elemosina a&#13;
+me domui Pontiniacensi facta firma debeat ac&#13;
+stabilis permanere, nomina canonichorum qui hoc&#13;
+laudaverunt feci subscribi et sub hac confirma&#13;
+tione mea meo sigillo signari et muniri precepi.&#13;
+Et hec sunt nomina canonicorum : Robertus, Stephanus,&#13;
+Werricus de Avalone, Gilo, Adam, Stephanus&#13;
+de Mallei, Stephanus de Monte mirabili, Rai&#13;
+naldus de Rubeo Monte. Actum anno ab In&#13;
+carnatione Domini 1\10 c° LXXXo, &#13;
+tunc abbate Pontiniaci, domno Petro. Carta ejusdem Anserici de prato quod</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1575202429311_182" custom="readingOrder {index:13;}">
+            <Coords points="4512,4406 6052,4406 6052,5059 4512,5059"/>
+            <TextLine id="r7l47" custom="readingOrder {index:0;} supplied {offset:0; length:23; continued:true;}">
+                <Coords points="4512,4479 5012,4484 5943,4526 5943,4466 5012,4424 4512,4419 4512,4479"/>
+                <Baseline points="4512,4459 5012,4464 5943,4506"/>
+                <TextEquiv>
+                    <Unicode>est supra Marsengi (a).Ego Ansericus, Montis regii dominus, notum facio tam presen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l48" custom="readingOrder {index:1;}">
+                <Coords points="4649,4557 4973,4566 5947,4606 5947,4548 4973,4508 4649,4499 4649,4557"/>
+                <Baseline points="4649,4538 5947,4587"/>
+                <TextEquiv>
+                    <Unicode>tibus quam futuris querelam illam que versaba</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l49" custom="readingOrder {index:2;}">
+                <Coords points="4650,4636 5633,4679 5962,4691 5962,4633 5109,4596 4650,4578 4650,4636"/>
+                <Baseline points="4650,4617 5962,4672"/>
+                <TextEquiv>
+                    <Unicode>tur inter fratres de Pontiniaco et inter dominum Manasse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l50" custom="readingOrder {index:3;}">
+                <Coords points="4652,4732 5669,4777 6009,4788 6009,4722 4923,4677 4652,4666 4652,4732"/>
+                <Baseline points="4652,4710 6009,4766"/>
+                <TextEquiv>
+                    <Unicode>rium, socerum meum, pro prato quod est supra Marsegni,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l51" custom="readingOrder {index:4;}">
+                <Coords points="4642,4824 5119,4841 6005,4879 6005,4816 5119,4778 4642,4761 4642,4824"/>
+                <Baseline points="4642,4803 6005,4858"/>
+                <TextEquiv conf="0.14953594">
+                    <Unicode>quod etiam ipsius Manasserii homines calumpniabant,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l52" custom="readingOrder {index:5;}">
+                <Coords points="4644,4916 4902,4921 5936,4962 5936,4899 4902,4858 4644,4853 4644,4916"/>
+                <Baseline points="4644,4895 5936,4941"/>
+                <TextEquiv conf="0.17819276">
+                    <Unicode>hoc modo ante presentiam meam fuisse sopitam et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l53" custom="readingOrder {index:6;}">
+                <Coords points="4638,5009 5695,5051 5960,5059 5960,4993 4770,4947 4638,4943 4638,5009"/>
+                <Baseline points="4638,4987 5960,5037"/>
+                <TextEquiv conf="0.13142057">
+                    <Unicode>terminatam, quia idem predictus Manasserius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>est supra Marsengi (a).Ego Ansericus, Montis regii dominus, notum facio tam presen&#13;
+tibus quam futuris querelam illam que versaba&#13;
+tur inter fratres de Pontiniaco et inter dominum Manasse&#13;
+rium, socerum meum, pro prato quod est supra Marsegni,&#13;
+quod etiam ipsius Manasserii homines calumpniabant,&#13;
+hoc modo ante presentiam meam fuisse sopitam et&#13;
+terminatam, quia idem predictus Manasserius</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1575202581880_237" custom="readingOrder {index:14;}">
+            <Coords points="6093,589 7625,585 7625,1335 6093,1339"/>
+            <TextLine id="r8l4" custom="readingOrder {index:0;}">
+                <Coords points="6122,730 7455,709 7455,654 6122,675 6122,730"/>
+                <Baseline points="6122,712 7455,691"/>
+                <TextEquiv conf="0.046732605">
+                    <Unicode>et homines illius, fllii Carbonelli et filii Bernardi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l5" custom="readingOrder {index:1;}">
+                <Coords points="6106,810 7545,784 7545,732 6106,758 6106,810"/>
+                <Baseline points="6106,793 7545,767"/>
+                <TextEquiv conf="0.088856846">
+                    <Unicode>ecclesie Pontiniaci et fratribus ejusdem loci quiete et pacifice</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l6" custom="readingOrder {index:2;}">
+                <Coords points="6106,881 7577,861 7577,809 6106,829 6106,881"/>
+                <Baseline points="6106,864 7577,844"/>
+                <TextEquiv conf="0.025924709">
+                    <Unicode>dimiserunt. Et, ut ratum et inconcussum istud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l7" custom="readingOrder {index:3;}">
+                <Coords points="6120,974 7578,952 7578,888 6120,910 6120,974"/>
+                <Baseline points="6120,953 7578,931"/>
+                <TextEquiv>
+                    <Unicode>habeatur, ego accepi in manu mea et hujus rei me sta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l8" custom="readingOrder {index:4;}">
+                <Coords points="6111,1061 7610,1043 7610,979 6111,997 6111,1061"/>
+                <Baseline points="6108,1041 7612,1022"/>
+                <TextEquiv>
+                    <Unicode>tui fidejussorem et obsidem. Testes sunt : domnus Josbertus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l9" custom="readingOrder {index:5;}">
+                <Coords points="6130,1153 7514,1136 7514,1070 6130,1087 6130,1153"/>
+                <Baseline points="6130,1131 7514,1114"/>
+                <TextEquiv conf="0.0926877">
+                    <Unicode>de Bar; domnus Herveus de Petra pertusa; et Petrus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l10" custom="readingOrder {index:6;}">
+                <Coords points="6116,1244 7561,1228 7561,1165 6116,1181 6116,1244"/>
+                <Baseline points="6115,1222 7561,1207"/>
+                <TextEquiv conf="0.06622488">
+                    <Unicode>de Verdiliaco ; et Guillelmus, prepositus de Insula ; et Johannes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l11" custom="readingOrder {index:7;}">
+                <Coords points="6132,1330 6594,1339 6594,1276 6132,1267 6132,1330"/>
+                <Baseline points="6132,1309 6594,1318"/>
+                <TextEquiv conf="0.025138142">
+                    <Unicode>de Autisiodoro.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>et homines illius, fllii Carbonelli et filii Bernardi,&#13;
+ecclesie Pontiniaci et fratribus ejusdem loci quiete et pacifice&#13;
+dimiserunt. Et, ut ratum et inconcussum istud&#13;
+habeatur, ego accepi in manu mea et hujus rei me sta&#13;
+tui fidejussorem et obsidem. Testes sunt : domnus Josbertus&#13;
+de Bar; domnus Herveus de Petra pertusa; et Petrus&#13;
+de Verdiliaco ; et Guillelmus, prepositus de Insula ; et Johannes&#13;
+de Autisiodoro.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

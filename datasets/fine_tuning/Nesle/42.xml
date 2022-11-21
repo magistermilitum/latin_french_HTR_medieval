@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:58:15.776+01:00</Created>
+        <LastChange>2020-02-04T18:20:22.678+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488459" pageNr="43" tsid="23374419" status="IN_PROGRESS" userId="52231" imgUrl="https://files.transkribus.eu/Get?id=YTAKTXCYDZJMQWCVLAEJDZVO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DRIQMGXQKFNLDODIXRZMHNOB" imageId="8769150"/>
+    </Metadata>
+    <Page imageFilename="42.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454346775" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="724,460 724,3197 2636,3197 2636,460"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="761,782 1013,775 1147,728 1463,771 1660,743 1717,789 2333,765 2632,820 2633,662 2326,681 2078,610 1955,669 1761,624 1677,660 1397,665 1282,626 1155,658 818,579 762,595 761,782"/>
+                <Baseline points="774,714 2622,726"/>
+                <TextEquiv conf="0.42798406">
+                    <Unicode>Hervier que il an antrast an la foi au dit Jehant ansic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="784,883 1044,929 1153,891 1205,923 1715,946 2044,911 2283,939 2387,901 2532,951 2628,913 2629,815 1975,824 1860,777 1407,824 1204,784 784,814 784,883"/>
+                <Baseline points="796,858 2616,872"/>
+                <TextEquiv conf="0.32023692">
+                    <Unicode>cum il an estoit an la foi au dit duc si cum nos avons</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="785,1050 1073,1041 1168,1088 1387,1044 1631,1107 1739,1060 2004,1105 2499,1055 2548,1094 2623,1076 2624,980 2423,942 2310,1001 2202,959 1907,992 1620,932 1472,937 1402,984 1107,946 942,980 805,940 785,1050"/>
+                <Baseline points="798,1020 2612,1032"/>
+                <TextEquiv conf="0.6251215">
+                    <Unicode>vehu as memoriaus seellez del seaul de nostre dit de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="766,1220 1317,1236 1430,1198 1629,1241 1931,1206 2072,1263 2269,1216 2436,1279 2580,1250 2581,1161 2505,1121 2455,1152 2295,1077 1832,1135 1135,1071 1060,1120 768,1120 766,1220"/>
+                <Baseline points="780,1168 2568,1198"/>
+                <TextEquiv conf="0.5870565">
+                    <Unicode>vantier ; et del dit don nos monstrat li diz Jehanz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="752,1359 1071,1348 1145,1392 1380,1357 1559,1400 1644,1360 1981,1362 2232,1428 2403,1367 2643,1375 2644,1263 1985,1302 1801,1252 1690,1287 1530,1234 1374,1261 1209,1228 1069,1279 981,1232 804,1225 754,1239 752,1359"/>
+                <Baseline points="764,1326 2630,1348"/>
+                <TextEquiv conf="0.6726691">
+                    <Unicode>les letres pendanz lou duc requeranz a nos que nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="752,1510 912,1552 1196,1507 2391,1543 2547,1532 2548,1427 1925,1399 1565,1451 1498,1409 1170,1428 1101,1396 1026,1443 753,1414 752,1510"/>
+                <Baseline points="764,1486 2536,1502"/>
+                <TextEquiv conf="0.6958877">
+                    <Unicode>les dites letres li fesissiens tenir ; et nos de rechief</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="754,1673 2283,1680 2390,1721 2566,1691 2568,1595 2335,1624 2117,1581 1982,1615 1765,1556 1590,1600 1185,1561 1072,1605 967,1552 756,1572 754,1673"/>
+                <Baseline points="768,1640 2554,1668"/>
+                <TextEquiv conf="0.5664834">
+                    <Unicode>ajornasmes lou dit Hervier a noz assises anseguanz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="746,1831 843,1793 988,1834 1226,1813 1312,1857 1537,1812 1654,1864 1810,1834 2471,1862 2587,1827 2588,1753 2509,1709 2039,1768 1905,1706 1622,1753 1520,1694 1380,1750 995,1697 748,1716 746,1831"/>
+                <Baseline points="758,1792 2576,1804"/>
+                <TextEquiv conf="0.63898385">
+                    <Unicode>a Vietial sauf les esploiz au dit Jehant por aler an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="755,1959 944,1992 1143,1966 1272,2023 1476,1973 1691,2010 1811,1982 1897,2029 2080,1984 2194,2026 2553,2038 2647,2025 2649,1903 2483,1924 2280,1857 2030,1913 1705,1902 1645,1867 1580,1903 1429,1877 1242,1905 866,1891 778,1846 755,1959"/>
+                <Baseline points="768,1944 2636,1966"/>
+                <TextEquiv conf="0.46137068">
+                    <Unicode>la cause por tant cum raisons aporteroit ; as quels</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="750,2142 846,2167 1136,2128 1371,2173 1553,2124 1761,2178 1822,2137 2061,2129 2550,2185 2572,2030 2247,2013 1935,2069 1674,2029 1381,2070 1185,2018 1094,2051 857,2030 751,2059 750,2142"/>
+                <Baseline points="762,2108 2560,2118"/>
+                <TextEquiv conf="0.7252286">
+                    <Unicode>assises li diz Herviers ne vint ne anvoiat lou dit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="731,2326 911,2277 1148,2278 2041,2338 2233,2309 2370,2347 2595,2311 2596,2251 2072,2164 1650,2219 1324,2179 981,2221 759,2177 731,2326"/>
+                <Baseline points="742,2276 2584,2294"/>
+                <TextEquiv conf="0.7871553">
+                    <Unicode>Jehant attendant tant cum il duit per devant nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="745,2445 1257,2463 1404,2431 1602,2476 1821,2445 2050,2515 2221,2452 2388,2454 2503,2508 2592,2478 2593,2365 2324,2396 2145,2322 1966,2320 1704,2377 1525,2332 1253,2377 974,2330 746,2362 745,2445"/>
+                <Baseline points="756,2418 2580,2442"/>
+                <TextEquiv conf="0.5300811">
+                    <Unicode>an disant sa demande dessus nonmeie . Nos de rechief</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="729,2609 1141,2586 1857,2638 1956,2603 2109,2647 2396,2627 2482,2664 2559,2628 2560,2499 2222,2542 2023,2495 1695,2522 1554,2492 1467,2525 1319,2465 1192,2514 729,2528 729,2609"/>
+                <Baseline points="742,2580 2548,2594"/>
+                <TextEquiv conf="0.5399643">
+                    <Unicode>rajournasmes lou dit Hervier a autres trois assi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="742,2781 948,2735 1032,2783 1605,2747 2004,2820 2237,2788 2330,2856 2441,2795 2587,2825 2588,2631 2420,2701 2308,2648 2221,2688 2147,2654 1981,2683 1814,2620 1437,2688 1275,2639 867,2681 743,2637 742,2781"/>
+                <Baseline points="754,2736 2576,2742"/>
+                <TextEquiv conf="0.5090674">
+                    <Unicode>ses ansiguans a Vietial per devant nos contre lou dit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="710,2956 931,2903 1214,2936 1276,2910 1357,2952 1432,2917 1530,2963 1725,2910 1763,2940 2264,2924 2532,2963 2599,2940 2600,2827 2327,2855 2272,2816 2164,2849 2078,2812 2037,2845 1970,2806 1881,2845 1841,2814 1563,2815 1392,2847 1218,2809 959,2846 909,2800 791,2818 712,2776 710,2956"/>
+                <Baseline points="724,2886 2588,2910"/>
+                <TextEquiv conf="0.4954652">
+                    <Unicode>Jehant mandanz au dit Hervier que il venist des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="717,3070 1052,3124 1460,3065 1493,3099 1771,3100 1807,3137 2032,3159 2337,3103 2468,3129 2557,3089 2595,3121 2626,3109 2628,2996 2554,2952 2482,2992 2396,2936 2268,2999 2130,2964 1988,3007 1823,2979 1775,3014 1560,2935 1531,2963 1244,2935 1176,2970 1114,2943 907,2991 769,2951 718,2959 717,3070"/>
+                <Baseline points="728,3062 2614,3080"/>
+                <TextEquiv>
+                    <Unicode>colper les deffauz per devant nos lou venredi devant Pasques</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="1294,3282 1484,3173 1661,3155 1722,3191 1753,3097 1288,3095 1294,3282"/>
+                <Baseline points="1302,3172 1742,3158"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hervier que il an antrast an la foi au dit Jehant ansic&#13;
+cum il an estoit an la foi au dit duc si cum nos avons&#13;
+vehu as memoriaus seellez del seaul de nostre dit de&#13;
+vantier ; et del dit don nos monstrat li diz Jehanz&#13;
+les letres pendanz lou duc requeranz a nos que nos&#13;
+les dites letres li fesissiens tenir ; et nos de rechief&#13;
+ajornasmes lou dit Hervier a noz assises anseguanz&#13;
+a Vietial sauf les esploiz au dit Jehant por aler an&#13;
+la cause por tant cum raisons aporteroit ; as quels&#13;
+assises li diz Herviers ne vint ne anvoiat lou dit&#13;
+Jehant attendant tant cum il duit per devant nos&#13;
+an disant sa demande dessus nonmeie . Nos de rechief&#13;
+rajournasmes lou dit Hervier a autres trois assi&#13;
+ses ansiguans a Vietial per devant nos contre lou dit&#13;
+Jehant mandanz au dit Hervier que il venist des&#13;
+colper les deffauz per devant nos lou venredi devant Pasques&#13;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2988,476 2988,3128 4916,3128 4916,476"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="3003,744 3072,784 3403,733 3820,795 3887,758 4222,798 4582,762 4641,803 4726,768 4869,809 4925,780 4926,670 4871,691 4608,621 4343,687 4202,695 4111,646 3862,679 3695,600 3342,670 3062,609 3005,615 3003,744"/>
+                <Baseline points="3016,724 4912,744"/>
+                <TextEquiv conf="0.51635325">
+                    <Unicode>flories auquel jour il ne vint ne anvoiat ne ne des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="3023,931 3162,943 3321,893 3696,957 4056,925 4113,964 4404,899 4521,940 4675,906 4774,961 4847,945 4849,823 4630,853 4363,784 4192,831 4010,790 3876,821 3692,772 3600,821 3143,775 3087,810 3026,785 3023,931"/>
+                <Baseline points="3036,860 4836,888"/>
+                <TextEquiv conf="0.5852763">
+                    <Unicode>colpat les deffauz lou dit Jehant attendant sic cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="3028,1042 3101,1089 3253,1046 3491,1097 3785,1059 3851,1092 4010,1066 4095,1107 4230,1076 4280,1113 4463,1068 4875,1158 4879,976 4766,1012 4676,953 4615,988 4508,947 4206,982 3864,939 3559,954 3501,989 3344,928 3030,932 3028,1042"/>
+                <Baseline points="3040,1010 4866,1048"/>
+                <TextEquiv conf="0.3866015">
+                    <Unicode>il duit . De rechief nos ajornasmes lou dit Hervier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="2998,1238 3076,1211 3250,1256 3387,1203 3722,1266 3912,1195 4098,1259 4214,1223 4464,1279 4513,1237 4834,1249 4928,1220 4929,1162 4642,1163 4458,1116 4400,1156 4216,1108 4026,1133 3972,1098 3887,1140 3754,1096 3626,1134 3364,1078 3284,1113 3038,1088 3001,1102 2998,1238"/>
+                <Baseline points="3012,1172 4916,1204"/>
+                <TextEquiv conf="0.63173026">
+                    <Unicode>lou mardi apres lou mois de Pasques per devant nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="3014,1371 3353,1346 3434,1384 3774,1359 4073,1401 4304,1367 4684,1408 4859,1397 4862,1266 4672,1288 4553,1245 4471,1287 4168,1305 3889,1234 3795,1278 3017,1246 3014,1371"/>
+                <Baseline points="3028,1322 4848,1350"/>
+                <TextEquiv conf="0.5302704">
+                    <Unicode>a Vietial contre lou dit Jehant por oir droit sus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="3000,1504 3056,1482 3230,1524 3393,1489 3448,1531 3590,1499 3702,1530 3818,1494 4111,1547 4304,1503 4475,1584 4620,1527 4833,1546 4866,1454 4644,1425 4557,1454 4383,1411 4272,1450 4144,1384 4054,1433 3892,1376 3815,1408 3743,1380 3639,1430 3036,1383 3003,1392 3000,1504"/>
+                <Baseline points="3012,1466 4852,1506"/>
+                <TextEquiv conf="0.560543">
+                    <Unicode>les deffauz au quel jour li diz Herviers ne vint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="3019,1640 3452,1710 3718,1675 3971,1736 4104,1667 4355,1718 4435,1691 4518,1733 4651,1676 4887,1732 4906,1610 4382,1577 4285,1611 4076,1563 3965,1589 3779,1525 3651,1582 3537,1536 3399,1572 3178,1524 3022,1530 3019,1640"/>
+                <Baseline points="3032,1634 4892,1666"/>
+                <TextEquiv conf="0.4818905">
+                    <Unicode>ne anvoiat lou dit Jehant present per devant nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="2995,1799 3221,1844 3301,1803 3454,1846 3915,1804 4036,1863 4382,1832 4587,1874 4662,1842 4882,1854 4884,1779 4751,1730 4511,1759 4190,1735 4120,1767 3793,1716 3553,1712 3464,1750 3252,1703 3128,1740 3046,1697 2997,1705 2995,1799"/>
+                <Baseline points="3008,1786 4872,1824"/>
+                <TextEquiv conf="0.4849851">
+                    <Unicode>et requerant que nos li rendessiens droit sus les</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="3003,1965 3240,1999 3612,1975 3678,2032 3771,2041 3842,1985 4125,1983 4341,2045 4535,1977 4899,1995 4901,1894 4512,1912 4382,1833 3975,1908 3669,1859 3402,1906 3020,1853 3003,1965"/>
+                <Baseline points="3016,1940 4886,1972"/>
+                <TextEquiv conf="0.63266057">
+                    <Unicode>deffauz et sus sa demande raasnie plusours foiz per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="3004,2104 3143,2096 3250,2160 3405,2175 3720,2114 4041,2133 4201,2203 4813,2140 4880,2095 4881,2042 4829,2018 4783,2058 4654,2037 4586,2074 4488,2015 4385,2059 4146,1986 4030,2061 3762,2067 3490,1974 3352,2052 3060,2009 3005,2030 3004,2104"/>
+                <Baseline points="3016,2090 4868,2120"/>
+                <TextEquiv conf="0.6848111">
+                    <Unicode>devant nos . Nos devant diz bailliz vehuz la de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="3006,2347 3280,2307 3363,2356 3512,2286 3627,2316 3699,2284 3884,2312 4425,2288 4626,2332 4701,2292 4854,2339 4881,2095 4719,2194 4559,2146 4458,2198 4237,2216 4123,2153 3936,2136 3777,2206 3423,2163 3226,2213 3032,2174 3006,2347"/>
+                <Baseline points="3020,2248 4866,2266"/>
+                <TextEquiv conf="0.74535555">
+                    <Unicode>mande et les deffauz seellez del seaul de nostre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="2986,2494 3147,2474 3283,2511 3557,2449 3629,2481 4273,2470 4366,2512 4575,2454 4879,2526 4881,2351 4722,2376 4632,2328 4492,2377 4332,2325 4229,2369 4052,2334 3852,2385 3745,2355 3620,2385 3412,2321 3258,2379 3074,2332 2988,2348 2986,2494"/>
+                <Baseline points="3000,2418 4868,2428"/>
+                <TextEquiv conf="0.7289169">
+                    <Unicode>dit devantier et de nostre seaul haianz deu de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="3003,2614 3317,2608 3393,2645 3547,2631 3584,2668 3674,2621 3778,2666 3942,2609 4020,2675 4112,2653 4221,2686 4429,2627 4791,2622 4827,2606 4828,2534 4385,2500 4104,2550 3587,2493 3146,2523 3005,2483 3003,2614"/>
+                <Baseline points="3016,2574 4816,2594"/>
+                <TextEquiv conf="0.7159964">
+                    <Unicode>vant nos yaus an nom del pere et del fil et del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="2981,2759 3472,2770 3632,2818 3889,2770 4176,2815 4461,2787 4765,2836 4847,2787 4921,2802 4922,2711 4732,2630 4433,2720 4111,2653 3952,2704 3746,2661 3655,2708 3590,2666 3379,2687 3301,2650 3207,2692 2982,2671 2981,2759"/>
+                <Baseline points="2994,2738 4910,2750"/>
+                <TextEquiv conf="0.5072493">
+                    <Unicode>saint Esperit pour les deffauz del devant dit Her</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="2983,2925 3270,2965 3319,3006 3541,2937 3660,2972 3759,2921 4041,2994 4288,2939 4458,2997 4679,2940 4837,2975 4839,2805 4762,2835 4360,2801 4275,2846 4132,2801 4026,2852 3865,2855 3756,2813 3530,2841 3253,2797 2984,2832 2983,2925"/>
+                <Baseline points="2994,2904 4826,2916"/>
+                <TextEquiv conf="0.53123033">
+                    <Unicode>vier per lou conseil mon signour lou duc et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:15;}">
+                <Coords points="2975,3122 3064,3106 3183,3163 3282,3126 3665,3129 3868,3170 4022,3119 4202,3153 4360,3102 4448,3159 4654,3174 4808,3152 4810,3015 4528,2966 4189,3031 4048,2988 3992,3026 3942,2994 3554,3036 3372,2993 3192,3024 2977,2974 2975,3122"/>
+                <Baseline points="2988,3074 4796,3082"/>
+                <TextEquiv conf="0.7924851">
+                    <Unicode>adroit avons mis lou dit Jehant an saisine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>flories auquel jour il ne vint ne anvoiat ne ne des&#13;
+colpat les deffauz lou dit Jehant attendant sic cum&#13;
+il duit . De rechief nos ajornasmes lou dit Hervier&#13;
+lou mardi apres lou mois de Pasques per devant nos&#13;
+a Vietial contre lou dit Jehant por oir droit sus&#13;
+les deffauz au quel jour li diz Herviers ne vint&#13;
+ne anvoiat lou dit Jehant present per devant nos&#13;
+et requerant que nos li rendessiens droit sus les&#13;
+deffauz et sus sa demande raasnie plusours foiz per&#13;
+devant nos . Nos devant diz bailliz vehuz la de&#13;
+mande et les deffauz seellez del seaul de nostre&#13;
+dit devantier et de nostre seaul haianz deu de&#13;
+vant nos yaus an nom del pere et del fil et del&#13;
+saint Esperit pour les deffauz del devant dit Her&#13;
+vier per lou conseil mon signour lou duc et&#13;
+adroit avons mis lou dit Jehant an saisine</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:2;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

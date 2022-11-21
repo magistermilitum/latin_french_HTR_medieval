@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:57:26.890+01:00</Created>
+        <LastChange>2020-06-04T12:52:16.471+02:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488552" pageNr="120" tsid="30452467" status="IN_PROGRESS" userId="408" imgUrl="https://files.transkribus.eu/Get?id=NVASMLHOWEWISJDCFKWISPMW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DITTQOZVICGZIHDMQVTICZKA" imageId="8769236"/>
+    </Metadata>
+    <Page imageFilename="119.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454476892" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="370,685 370,2111 2648,2111 2648,685"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="895,798 2390,815 2389,626 894,626 895,798"/>
+                <Baseline points="908,738 2376,748"/>
+                <TextEquiv>
+                    <Unicode>Corbeton . Les censies de la Saint Martin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="356,917 407,940 574,888 896,919 1150,875 2309,883 2496,916 2552,885 2552,829 2467,792 2264,830 2037,796 1958,825 1809,825 1766,794 963,819 887,789 735,823 508,781 477,804 426,767 356,799 356,917"/>
+                <Baseline points="370,902 1237,872 2538,888"/>
+                <TextEquiv conf="0.37780035">
+                    <Unicode>A la feste Saint Martin d’Iver doit l’on au seignor de Neelles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="367,990 1170,976 1166,891 495,903 364,928 367,990"/>
+                <Baseline points="382,1000 1154,960"/>
+                <TextEquiv>
+                    <Unicode>a Corbeton ces censies .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="374,1208 681,1169 743,1190 948,1118 1088,1155 1200,1105 1415,1138 1839,1116 1950,1150 2117,1150 2189,1109 2515,1159 2599,1112 2598,1033 2525,1057 2306,1002 2032,1033 1856,985 1591,1013 1525,989 1335,1074 967,1064 907,1023 834,1070 732,1026 526,1059 401,1027 370,1030 374,1208"/>
+                <Baseline points="386,1158 1156,1114 2586,1106"/>
+                <TextEquiv>
+                    <Unicode>Henrihez Herrelous por une hosche assise as préz que toche d’une part</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="374,1319 724,1279 1097,1292 1269,1252 1481,1269 1556,1211 2020,1225 2048,1196 2359,1233 2396,1210 2481,1259 2529,1227 2663,1270 2660,1132 2581,1116 2514,1160 2395,1162 2250,1128 1948,1150 1716,1112 1416,1140 1201,1107 1061,1166 403,1208 372,1220 374,1319"/>
+                <Baseline points="388,1264 1405,1206 2648,1216"/>
+                <TextEquiv>
+                    <Unicode>au pastiz et d’autre part a l’osche Lambelin Brunet de Montbar doit 12 d .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="358,1417 414,1433 462,1392 631,1369 733,1404 789,1360 871,1392 953,1351 1307,1381 1506,1340 1564,1375 1667,1328 1801,1365 1877,1329 2149,1363 2315,1328 2420,1363 2566,1334 2564,1241 2406,1244 2336,1288 2243,1259 2172,1286 2030,1255 2006,1281 1931,1246 1884,1275 1790,1249 637,1284 435,1334 355,1318 358,1417"/>
+                <Baseline points="370,1382 1351,1332 2552,1338"/>
+                <TextEquiv>
+                    <Unicode>Perreaus li Harpenterres por une hosche que toche d’une part a la dite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="389,1549 811,1502 872,1529 1065,1486 1284,1500 1383,1437 1502,1445 1552,1409 1658,1437 2104,1410 2579,1432 2605,1429 2602,1327 2442,1363 2316,1330 2153,1360 1635,1333 1565,1367 1147,1379 954,1351 870,1393 787,1362 735,1403 629,1369 385,1422 389,1549"/>
+                <Baseline points="402,1484 1496,1416 2590,1410"/>
+                <TextEquiv>
+                    <Unicode>hosche Henrihet Berrelon et d’autre part a l’osche Materye de Corbeton sex deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="398,1621 475,1649 658,1629 733,1581 1372,1562 1421,1594 1555,1561 1630,1587 1690,1540 1722,1564 1784,1534 1853,1571 1919,1534 2607,1559 2624,1462 2458,1485 2366,1448 2089,1458 2011,1486 1741,1461 1525,1492 1374,1468 1338,1504 649,1510 616,1545 421,1549 398,1621"/>
+                <Baseline points="412,1608 1622,1538 2612,1536"/>
+                <TextEquiv>
+                    <Unicode>Materye de Corbeton por cele hosche que toche d’une part a l’osche Perriaul</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="402,1729 783,1709 838,1675 1742,1637 1833,1659 1883,1631 1977,1656 2230,1623 2322,1659 2395,1631 2541,1676 2622,1662 2618,1560 2179,1538 2073,1567 1978,1534 1852,1570 1806,1538 1423,1596 1360,1567 1285,1596 894,1586 833,1616 798,1589 694,1599 636,1647 484,1653 397,1619 402,1729"/>
+                <Baseline points="414,1708 1290,1648 2606,1618"/>
+                <TextEquiv>
+                    <Unicode>l’arpenteur et d’autre part a la grange a l’abey de Chasteillon sex deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="384,1933 1608,1854 1701,1787 1858,1805 1952,1769 2505,1789 2504,1726 2441,1698 2360,1731 2180,1695 2077,1720 1611,1687 1425,1694 1345,1746 1298,1717 1125,1751 965,1720 796,1791 648,1775 505,1817 410,1776 377,1795 384,1933"/>
+                <Baseline points="396,1876 1444,1799 2492,1774"/>
+                <TextEquiv>
+                    <Unicode>La grange a l’abéy de Chasteillon doit dix et huit deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="383,2035 898,1985 1154,2003 1239,1953 1306,1994 1379,1933 1441,1972 1540,1932 1817,1958 1924,1914 2195,1938 2261,1905 2481,1946 2547,1908 2539,1775 2182,1774 2084,1840 1656,1831 1418,1880 1239,1865 1182,1897 531,1910 377,1942 383,2035"/>
+                <Baseline points="394,2002 2532,1884"/>
+                <TextEquiv>
+                    <Unicode>Perrins li Gras por ses neveus por une hosche delez la grange a l’abey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="402,2116 737,2139 921,2073 1024,2096 1291,2065 1483,2112 1546,2075 1680,2096 1742,2039 1839,2049 1896,2009 2083,2059 2158,2024 2423,2064 2527,2002 2624,2023 2618,1899 2569,1887 2476,1943 2409,1909 2346,1944 1954,1915 1806,1963 1618,1933 1444,1970 1367,1945 1307,1994 1249,1971 559,2035 462,2014 398,2034 402,2116"/>
+                <Baseline points="414,2086 2610,1990"/>
+                <TextEquiv>
+                    <Unicode>d’une part et d’autre part delez la hosche Perrenet lo Rohier six deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Corbeton . Les censies de la Saint Martin&#13;
+A la feste Saint Martin d’Iver doit l’on au seignor de Neelles&#13;
+a Corbeton ces censies.&#13;
+Henrihez Herrelous por une hosche assise as préz que toche d’une part&#13;
+au pastiz et d’autre part a l’osche Lambelin Brunet de Montbar doit 12 d.&#13;
+Perreaus li Harpenterres por une hosche que toche d’une part a la dite&#13;
+hosche Henrihet Berrelon et d’autre part a l’osche Materye de Corbeton sex deniers.&#13;
+Materye de Corbeton por cele hosche que toche d’une part a l’osche Perriaul&#13;
+l’arpenteur et d’autre part a la grange a l’abey de Chasteillon sex deniers.&#13;
+La grange a l’abéy de Chasteillon doit dix et huit deniers.&#13;
+Perrins li Gras por ses neveus por une hosche delez la grange a l’abey&#13;
+d’une part et d’autre part delez la hosche Perrenet lo Rohier six deniers .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2810,704 2810,2402 5098,2402 5098,704"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2890,759 4292,766 4336,812 4769,821 5035,762 5036,677 4500,625 4072,693 3544,663 3269,699 3196,661 3063,688 3004,656 2891,700 2890,759"/>
+                <Baseline points="2904,756 5020,774"/>
+                <TextEquiv>
+                    <Unicode>Ceu sont les censies de la Saint Remi . Corbeton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="2836,935 2893,951 3014,923 4509,958 4507,853 3041,843 2907,787 2834,802 2836,935"/>
+                <Baseline points="2850,902 4490,923"/>
+                <TextEquiv>
+                    <Unicode>Andriers de Corbeton por sa maison .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="2838,1020 2968,1004 3151,1055 3276,1014 3507,1047 3596,1010 3827,1040 4017,1017 4273,1062 4571,1032 4632,1068 5078,1096 5112,1080 5115,1001 4993,992 4930,947 4796,991 4689,957 4363,975 4237,939 3301,958 2999,923 2840,949 2838,1020"/>
+                <Baseline points="2852,998 3975,1002 5098,1078"/>
+                <TextEquiv>
+                    <Unicode>Matelye la fille au Rohier doit un bichot d’avoine por sa maison deant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="2835,1132 3488,1118 3561,1085 4000,1120 4015,1027 3636,1013 3119,1059 2960,1011 2833,1019 2835,1132"/>
+                <Baseline points="2850,1110 4002,1094"/>
+                <TextEquiv>
+                    <Unicode>lou presseour d’autre part de la voie .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="2827,1262 2884,1285 3005,1277 3059,1237 3291,1271 3452,1232 3720,1255 4181,1228 4941,1282 5065,1269 5066,1192 4792,1141 4596,1189 4500,1160 4150,1177 4057,1143 3980,1171 3732,1153 3689,1184 3650,1150 3551,1184 3466,1147 3282,1187 3104,1183 3062,1152 2827,1172 2827,1262"/>
+                <Baseline points="2842,1236 4387,1224 5050,1256"/>
+                <TextEquiv>
+                    <Unicode>Jehanz li fiz Perrin lou Maire un bichot d’avoine por sa maison que toche a la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="2817,1345 3976,1306 4292,1341 4442,1322 4558,1374 5058,1387 5075,1266 4877,1285 4578,1235 4372,1265 4310,1231 3979,1252 3804,1226 3719,1256 3340,1240 3286,1271 3108,1239 3004,1278 2817,1260 2817,1345"/>
+                <Baseline points="2830,1330 3946,1302 5062,1336"/>
+                <TextEquiv>
+                    <Unicode>dite maison Matelye de la quel maison la moitiez est escheoit a Jehan seignor de Neelles .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="2803,1467 3683,1419 3790,1454 4010,1426 4299,1470 4516,1420 4963,1475 5039,1462 5039,1374 4536,1383 4438,1329 3884,1304 3559,1337 3163,1316 2804,1342 2803,1467"/>
+                <Baseline points="2818,1438 5026,1430"/>
+                <TextEquiv>
+                    <Unicode>Perrenelle la fille Aubert un bich d’avoine por sa maison et por son cortil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="2802,1546 3728,1499 4684,1532 4760,1521 4760,1439 3041,1434 2801,1466 2802,1546"/>
+                <Baseline points="2816,1528 3395,1492 4746,1500"/>
+                <TextEquiv>
+                    <Unicode>darriers la quex maisons est assise après la maison Micheaul Pahu .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="2812,1713 2888,1721 2953,1670 2995,1703 3043,1666 3108,1700 3619,1625 3690,1658 3746,1621 3862,1646 3893,1617 4100,1641 4159,1615 4255,1660 4354,1630 4476,1672 4529,1635 4702,1664 4738,1636 4934,1677 4985,1651 5027,1682 5049,1560 4956,1600 4845,1547 4749,1591 3771,1539 3692,1579 3562,1558 3489,1589 3257,1594 3206,1563 3161,1603 3065,1561 2921,1613 2811,1597 2812,1713"/>
+                <Baseline points="2824,1672 3930,1618 5036,1650"/>
+                <TextEquiv>
+                    <Unicode>Michelez Chevigniers un bichot de avoine por sa maison et por lo cortil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="2807,1779 3570,1760 3711,1709 4554,1748 4672,1723 4791,1755 4873,1727 4871,1651 4592,1671 4532,1636 4482,1673 4345,1628 4247,1659 4031,1623 3811,1665 3656,1648 3600,1683 3322,1666 3264,1699 3204,1672 3015,1707 2961,1682 2806,1722 2807,1779"/>
+                <Baseline points="2822,1770 3942,1712 4860,1732"/>
+                <TextEquiv>
+                    <Unicode>encostre et est essise sux la voie devant la cheminee Micheal Pahu .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="2808,1925 2851,1941 2997,1888 3071,1910 3119,1878 3144,1903 3407,1894 3997,1840 4803,1886 4899,1859 4981,1889 5027,1885 5026,1818 4375,1764 4104,1797 3578,1778 3522,1810 3389,1792 3189,1824 3134,1796 3039,1831 2807,1820 2808,1925"/>
+                <Baseline points="2822,1894 3917,1842 5012,1868"/>
+                <TextEquiv>
+                    <Unicode>Herbelous li genres Guillermin Joceaume un moteon de avoine por son</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="2804,1987 3004,1975 3090,2010 3303,1949 3391,1976 3863,1936 4092,1972 4176,1936 4366,1933 4505,1970 4569,1918 4677,1967 4750,1943 5011,1975 5053,1971 5052,1886 3997,1841 3932,1873 3556,1863 3345,1909 3003,1887 2803,1928 2804,1987"/>
+                <Baseline points="2818,1974 4261,1922 5038,1946"/>
+                <TextEquiv conf="0.29214218">
+                    <Unicode>cortil qui siet antre la grange a l'abey de Flavigney et d’autre part</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:12;}">
+                <Coords points="2818,2081 3914,2023 4192,2076 4515,2072 4562,2053 4559,1954 4253,1936 4076,1973 3982,1950 3932,1983 3603,1940 3431,1957 3375,1995 3202,1970 3082,2016 3013,1979 2972,2011 2883,1986 2816,1993 2818,2081"/>
+                <Baseline points="2832,2070 4546,2010"/>
+                <TextEquiv>
+                    <Unicode>delez la grange Adeline la famme a l’abey de Flavigney .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:13;}">
+                <Coords points="2796,2228 3092,2168 3377,2177 3436,2136 3680,2183 3939,2132 4019,2162 4722,2143 4907,2185 5008,2163 5007,2095 4843,2093 4737,2035 4639,2080 4461,2089 4215,2065 4105,2093 3957,2061 3345,2116 3135,2094 2930,2140 2794,2126 2796,2228"/>
+                <Baseline points="2810,2192 4011,2132 4994,2154"/>
+                <TextEquiv>
+                    <Unicode>Symons li Maires un boiseaul de avoine por un jornel de terre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:14;}">
+                <Coords points="2815,2309 3084,2330 3168,2267 3289,2244 3612,2273 4058,2248 4395,2285 4536,2250 4951,2285 5016,2270 5016,2174 4917,2197 4863,2172 4796,2206 4617,2143 4405,2169 4354,2138 4114,2151 4069,2183 3888,2178 3831,2142 3682,2182 3438,2133 3235,2202 3187,2177 2814,2221 2815,2309"/>
+                <Baseline points="2828,2300 3588,2228 5002,2258"/>
+                <TextEquiv conf="0.28364432">
+                    <Unicode>assis delez lou foullon de Montbar et est assis antre les terres mon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:15;}">
+                <Coords points="2816,2430 3700,2387 3693,2265 3171,2268 3088,2324 2825,2304 2816,2430"/>
+                <Baseline points="2826,2382 3682,2320"/>
+                <TextEquiv conf="0.489027">
+                    <Unicode>seignor Colin dou Pasquiz .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ceu sont les censies de la Saint Remi . Corbeton&#13;
+Andriers de Corbeton por sa maison.&#13;
+Matelye la fille au Rohier doit un bichot d’avoine por sa maison deant&#13;
+lou presseour d’autre part de la voie.&#13;
+Jehanz li fiz Perrin lou Maire un bichot d’avoine por sa maison que toche a la&#13;
+dite maison Matelye de la quel maison la moitiez est escheoit a Jehan seignor de Neelles.&#13;
+Perrenelle la fille Aubert un bich d’avoine por sa maison et por son cortil,&#13;
+darriers la quex maisons est assise après la maison Micheaul Pahu.&#13;
+Michelez Chevigniers un bichot de avoine por sa maison et por lo cortil&#13;
+encostre et est essise sux la voie devant la cheminee Micheal Pahu.&#13;
+Herbelous li genres Guillermin Joceaume un moteon de avoine por son&#13;
+cortil qui siet antre la grange a l'abey de Flavigney et d’autre part&#13;
+delez la grange Adeline la famme a l’abey de Flavigney.&#13;
+Symons li Maires un boiseaul de avoine por un jornel de terre&#13;
+assis delez lou foullon de Montbar et est assis antre les terres mon&#13;
+seignor Colin dou Pasquiz .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:2;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

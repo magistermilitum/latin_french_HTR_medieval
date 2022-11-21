@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:57:05.133+01:00</Created>
+        <LastChange>2020-11-20T16:20:19.996+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488529" pageNr="106" tsid="49369319" status="IN_PROGRESS" userId="52517" imgUrl="https://files.transkribus.eu/Get?id=GHRNVXPSFTDCHSKUNESGHUXP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JHKRQRUZTAITKKDWXDCQVGVN" imageId="8769213"/>
+    </Metadata>
+    <Page imageFilename="105.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454453326" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="678,679 678,3183 2630,3183 2630,679"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="665,823 843,779 1218,832 1368,770 1500,805 1585,764 1766,778 1801,807 1869,767 2081,768 2175,813 2352,761 2465,789 2506,764 2618,771 2617,676 2533,660 2446,689 2360,663 2168,696 2116,665 2019,703 1957,668 1909,691 1779,661 1711,689 1547,650 1449,671 1404,714 1303,684 1155,723 1091,680 952,716 881,671 663,662 665,823"/>
+                <Baseline points="669,779 2606,738"/>
+                <TextEquiv conf="0.6443345">
+                    <Unicode>apartenances et ceu que est ou molin de Monbar et ceu qui est ou paiage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="655,934 863,906 912,934 1029,902 1105,945 1176,912 1350,943 1498,896 1699,938 1771,902 1913,900 1999,942 2115,888 2228,918 2454,877 2555,897 2570,796 2504,780 2468,810 2350,810 2274,782 2189,816 2025,768 1909,817 1854,784 1825,811 1732,786 1628,830 1483,791 1326,843 995,796 893,832 761,808 653,826 655,934"/>
+                <Baseline points="671,896 2558,858"/>
+                <TextEquiv conf="0.30931774">
+                    <Unicode>de Biaune ; fors que tant que cil dist Miles cheveliers freres a cest dist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="655,1037 865,1016 919,1039 985,1011 1179,1073 1363,1023 1486,1057 1654,1015 1742,1033 1810,997 1971,1035 2230,1006 2301,1048 2413,995 2477,1023 2501,998 2642,1002 2640,888 2366,883 2145,924 2091,901 1999,942 1913,900 1747,940 1549,904 1237,957 1071,921 981,960 917,929 864,960 788,944 654,973 655,1037"/>
+                <Baseline points="674,1006 2630,972"/>
+                <TextEquiv>
+                    <Unicode>Huot amporte la moitié des vignes de Corbeton et leu meis ou li pressors</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="660,1147 820,1144 869,1180 957,1147 1065,1184 1120,1139 1261,1107 1453,1174 1662,1109 1931,1167 2140,1117 2412,1136 2470,1111 2534,1136 2590,1126 2587,996 2383,1047 2281,1046 2239,1015 2156,1051 2029,1019 1814,1045 1653,1016 1568,1050 1375,1039 1178,1074 1018,1014 658,1037 660,1147"/>
+                <Baseline points="671,1136 2578,1098"/>
+                <TextEquiv>
+                    <Unicode>siet et lou pressour et dous mesnies d’ommes ceu est a savoir Girart</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="673,1297 1031,1265 1085,1301 1180,1267 1273,1291 1512,1243 1600,1281 1644,1253 1840,1278 2008,1243 2113,1296 2179,1258 2269,1284 2393,1243 2567,1257 2585,1184 2507,1144 2373,1180 2282,1125 2177,1134 2095,1181 1865,1189 1650,1146 1562,1189 1332,1148 1157,1185 998,1175 959,1144 671,1160 673,1297"/>
+                <Baseline points="651,1267 2574,1234"/>
+                <TextEquiv>
+                    <Unicode>Mesniée et Jehan Chauvot et lor hoirs et ceu que il hont et la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="664,1384 788,1368 935,1430 1032,1377 1267,1401 1437,1342 1667,1400 1889,1363 2046,1410 2138,1359 2185,1386 2475,1357 2588,1383 2589,1285 2420,1243 2284,1282 2178,1259 2127,1289 2059,1285 2007,1244 1849,1288 1736,1267 1700,1295 1541,1258 1087,1298 1036,1265 838,1297 662,1272 664,1384"/>
+                <Baseline points="681,1365 2578,1334"/>
+                <TextEquiv conf="0.3864097">
+                    <Unicode>justise de cele devant dite ville de ce que il ja demeure a chascun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="674,1533 859,1550 900,1517 1015,1531 1058,1506 1125,1534 1219,1479 1276,1498 1324,1473 1559,1541 1666,1484 1793,1465 1971,1502 2264,1481 2303,1505 2352,1466 2496,1496 2621,1477 2619,1374 2502,1361 2339,1395 2136,1361 2048,1411 1862,1379 1777,1414 1723,1376 1667,1401 1518,1356 1306,1410 1215,1374 1116,1429 1055,1403 962,1434 672,1416 674,1533"/>
+                <Baseline points="672,1487 2608,1452"/>
+                <TextEquiv conf="0.23396592">
+                    <Unicode>fors tant que mes sires Miles ha la justise ou pressour et sui heir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="663,1681 812,1689 938,1651 1002,1685 1058,1660 1163,1688 1224,1646 1359,1677 1524,1619 1622,1645 1736,1607 1900,1659 2017,1629 2115,1657 2149,1628 2386,1662 2520,1597 2596,1599 2595,1492 2553,1475 2422,1535 2277,1497 2207,1542 2060,1487 1875,1511 1672,1476 1560,1540 1325,1474 1250,1529 898,1512 662,1544 663,1681"/>
+                <Baseline points="678,1624 2584,1588"/>
+                <TextEquiv>
+                    <Unicode>mas que sor les hommes Huot et sor lor hoirs sauf leu chatrel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="651,1756 827,1748 967,1778 1076,1741 1355,1810 1552,1731 1635,1761 1823,1731 2541,1747 2570,1739 2569,1659 2302,1661 2258,1625 2127,1657 1946,1636 1902,1661 1750,1629 1505,1690 1431,1652 1355,1678 1238,1643 1148,1689 1050,1656 985,1692 881,1659 828,1695 649,1691 651,1756"/>
+                <Baseline points="665,1745 2558,1710"/>
+                <TextEquiv>
+                    <Unicode>mon seignor Milon rendant se li homme Milot lou forfont ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="680,1935 885,1936 1180,1882 1307,1944 1388,1904 1539,1927 1673,1867 1737,1891 1807,1873 1888,1911 1959,1883 2088,1911 2232,1880 2396,1913 2508,1865 2605,1871 2604,1779 2483,1802 2311,1726 2031,1807 1787,1778 1648,1823 1589,1824 1498,1764 1365,1812 1320,1785 1064,1815 856,1778 679,1793 680,1935"/>
+                <Baseline points="688,1875 2592,1856"/>
+                <TextEquiv conf="0.11379824">
+                    <Unicode>et cil Huoz pressorera au pressour mon seignor Milon sanz pressoutai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="665,2053 811,2025 859,2063 970,2025 1049,2072 1259,2080 1444,2020 1579,2091 1708,2047 1811,2089 2064,2032 2223,2044 2593,2000 2591,1883 2260,1928 2049,1898 1760,1951 1679,1923 1557,1959 1395,1904 1230,1954 1072,1888 896,1970 664,1960 665,2053"/>
+                <Baseline points="678,2030 2580,1980"/>
+                <TextEquiv conf="0.3536351">
+                    <Unicode>ge ; et cil Huoz ha son usaige es bois de Poiz a ses vignes et les</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="670,2187 844,2163 1181,2210 1461,2162 1547,2205 2028,2161 2355,2186 2543,2149 2541,2027 2373,2071 2202,2032 2027,2091 1885,2068 1809,2089 1697,2056 1602,2092 1389,2048 1304,2079 1040,2065 1004,2093 879,2070 777,2103 669,2094 670,2187"/>
+                <Baseline points="676,2159 2530,2126"/>
+                <TextEquiv conf="0.30513054">
+                    <Unicode>tenoit de sa maison sanz vandre et sanz doner . Et cil Huoz se il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="683,2357 851,2308 1132,2328 1391,2300 1652,2329 1732,2297 1955,2327 2071,2275 2260,2298 2415,2262 2536,2294 2572,2286 2569,2169 2271,2168 2182,2219 2030,2198 1902,2225 1837,2188 1646,2175 1547,2204 1461,2162 1264,2208 1056,2196 850,2249 681,2255 683,2357"/>
+                <Baseline points="693,2308 2558,2252"/>
+                <TextEquiv conf="0.4054744">
+                    <Unicode>moroit mes sire Miles hauroit l’escheoite sanz partie des autres ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="677,2469 870,2451 944,2487 1387,2443 1513,2469 1653,2432 1896,2461 1980,2429 2221,2467 2437,2426 2492,2388 2575,2404 2573,2326 2409,2334 2342,2290 2167,2305 2073,2274 2009,2325 1886,2312 1845,2343 1664,2317 1616,2353 1432,2325 1135,2364 990,2322 888,2355 814,2333 673,2345 677,2469"/>
+                <Baseline points="674,2437 2562,2370"/>
+                <TextEquiv conf="0.23940718">
+                    <Unicode>et cil Huoz tient sa terre de mon seignor Milon en fié lige ; et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="678,2594 984,2609 1200,2569 1355,2618 1722,2554 1838,2597 2276,2604 2605,2518 2603,2440 2272,2472 1980,2429 1896,2461 1707,2442 1374,2500 1248,2465 1107,2469 998,2506 890,2468 815,2502 731,2460 675,2476 678,2594"/>
+                <Baseline points="690,2558 2594,2508"/>
+                <TextEquiv conf="0.38714066">
+                    <Unicode>se mes sire Miles moroit sanz hoir tuit li anfant partiroient</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="688,2719 862,2729 1032,2690 1164,2723 1244,2691 1357,2708 1634,2675 1811,2712 1922,2660 2038,2708 2128,2679 2433,2688 2605,2639 2602,2514 2519,2526 2476,2567 2163,2612 2074,2592 1955,2618 1886,2585 1801,2615 1683,2562 1535,2624 1403,2589 1296,2616 1246,2588 1174,2625 1132,2601 964,2626 836,2588 685,2600 688,2719"/>
+                <Baseline points="671,2704 2592,2634"/>
+                <TextEquiv conf="0.37528118">
+                    <Unicode>a l’escheoite comme frere ; et se li anfant mon seignor Guillaume</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="695,2846 922,2844 963,2819 1030,2854 1157,2849 1232,2815 1367,2861 1622,2797 1688,2822 1781,2806 1904,2852 1933,2822 1994,2838 2059,2804 2342,2808 2589,2772 2587,2684 2416,2704 2374,2678 2184,2719 1893,2669 1808,2715 1662,2732 1439,2691 1176,2711 1127,2747 1031,2690 946,2731 692,2712 695,2846"/>
+                <Baseline points="694,2800 2553,2758"/>
+                <TextEquiv>
+                    <Unicode>de Saint Florantin vollent rien reclamer en les chouse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="694,2993 952,3000 1177,2929 1254,2959 1387,2932 1525,2950 1565,2924 1712,2937 1902,2899 2001,2959 2302,2881 2484,2929 2582,2877 2580,2798 2473,2834 2358,2806 2033,2811 1907,2850 1774,2805 1676,2860 1572,2819 1365,2862 857,2837 690,2859 694,2993"/>
+                <Baseline points="682,2943 2570,2870"/>
+                <TextEquiv>
+                    <Unicode>a la mere a ces anfanz mes sires Miles recouveroit sor mon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="676,3064 914,3091 1061,3045 1103,3066 1188,3044 1270,3083 1673,3016 1883,3068 2052,3019 2126,3036 2200,2995 2294,3017 2571,2999 2568,2911 2374,2936 2190,2895 1972,2958 1895,2926 1794,2978 1568,2919 1405,2964 1331,2929 1266,2963 1189,2921 977,2994 673,2986 676,3064"/>
+                <Baseline points="677,3066 2565,2995"/>
+                <TextEquiv>
+                    <Unicode>seignor Guillaume a Chandoisel sa droiture et cele a ses freres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="686,3200 869,3197 968,3156 1155,3194 1449,3166 1506,3194 1693,3155 1819,3183 2066,3142 2256,3185 2632,3112 2628,3008 2474,2999 2369,3059 2122,3065 2051,3040 1881,3076 1762,3043 1610,3078 1494,3045 1436,3077 1338,3063 1263,3090 1186,3049 1093,3096 681,3076 686,3200"/>
+                <Baseline points="691,3159 2613,3104"/>
+                <TextEquiv>
+                    <Unicode>ceu est a savoir Huoz Guioz Gauchier et Androin et Guillemon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>apartenances et ceu que est ou molin de Monbar et ceu qui est ou paiage&#13;
+de Biaune ; fors que tant que cil dist Miles cheveliers freres a cest dist&#13;
+Huot amporte la moitié des vignes de Corbeton et leu meis ou li pressors&#13;
+siet et lou pressour et dous mesnies d’ommes ceu est a savoir Girart&#13;
+Mesniée et Jehan Chauvot et lor hoirs et ceu que il hont et la&#13;
+justise de cele devant dite ville de ce que il ja demeure a chascun,&#13;
+fors tant que mes sires Miles ha la justise ou pressour et sui heir&#13;
+mas que sor les hommes Huot et sor lor hoirs sauf leu chatrel&#13;
+mon seignor Milon rendant se li homme Milot lou forfont ;&#13;
+et cil Huoz pressorera au pressour mon seignor Milon sanz pressoutai&#13;
+ge ; et cil Huoz ha son usaige es bois de Poiz a ses vignes et les&#13;
+tenoit de sa maison sanz vandre et sanz doner . Et cil Huoz se il&#13;
+moroit mes sire Miles hauroit l’escheoite sanz partie des autres ;&#13;
+et cil Huoz tient sa terre de mon seignor Milon en fié lige ; et&#13;
+se mes sire Miles moroit sanz hoir tuit li anfant partiroient&#13;
+a l’escheoite comme frere ; et se li anfant mon seignor Guillaume&#13;
+de Saint Florantin vollent rien reclamer en les chouse&#13;
+a la mere a ces anfanz mes sires Miles recouveroit sor mon&#13;
+seignor Guillaume a Chandoisel sa droiture et cele a ses freres&#13;
+ceu est a savoir Huoz Guioz Gauchier et Androin et Guillemon</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2844,669 2844,3119 4814,3119 4814,669"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2870,744 3049,807 3602,772 3743,812 3927,775 4021,811 4191,764 4251,798 4330,780 4507,816 4659,784 4773,823 4798,811 4801,697 4665,664 4517,709 4314,719 4173,686 4070,710 3976,669 3934,695 3773,676 3687,698 3610,660 3573,685 3454,651 3289,678 3219,647 3126,684 3051,658 2955,675 2902,644 2872,658 2870,744"/>
+                <Baseline points="2882,724 4788,762"/>
+                <TextEquiv conf="0.545833">
+                    <Unicode>et ceu que li anfant mon seignor Guillaume emporteroie de la terre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="2865,867 3065,867 3235,912 3448,878 3496,906 3768,887 3818,915 3858,887 3930,923 4004,885 4116,927 4401,933 4561,888 4815,911 4817,820 4704,837 4631,809 4560,844 4438,807 4342,842 4124,788 4087,816 3963,792 3774,831 3670,787 3591,815 3521,779 3454,810 3391,781 3054,810 2884,755 2865,867"/>
+                <Baseline points="2876,848 4802,892"/>
+                <TextEquiv>
+                    <Unicode>H . mes sires Milles li asserroit a Chandoisel ou a Poiz . Et cil Miles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="2858,1024 2951,1006 3078,1033 3152,1000 3298,1038 3482,980 3573,1035 3862,1000 4020,1047 4206,1020 4247,1043 4306,1019 4367,1045 4755,1038 4826,1015 4828,917 4713,898 4473,939 3964,897 3856,930 3769,887 3634,912 3478,890 3419,918 3351,888 3241,911 3063,866 2875,868 2858,1024"/>
+                <Baseline points="2872,948 4814,984"/>
+                <TextEquiv conf="0.48660693">
+                    <Unicode>chevaliers et Huoz ses freres hont quité a Guiot et Gauchier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="2850,1112 3003,1157 3153,1104 3645,1161 3758,1114 3989,1166 4229,1127 4409,1170 4461,1142 4541,1166 4678,1139 4746,1160 4779,1132 4825,1150 4826,1067 4663,1036 4612,1062 4454,1029 4368,1045 4322,1019 3955,1048 3870,1007 3572,1035 3475,981 3369,1040 3155,1001 3081,1041 2891,1015 2852,1029 2850,1112"/>
+                <Baseline points="2862,1072 4814,1122"/>
+                <TextEquiv conf="0.54542446">
+                    <Unicode>et Androin et Guillemin lor frere toute la terre que mes sires</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="2859,1234 2949,1273 3560,1242 3623,1281 3748,1254 3969,1287 4056,1253 4150,1280 4334,1257 4406,1298 4551,1265 4609,1294 4668,1271 4780,1286 4783,1159 4581,1151 4519,1187 4178,1131 4102,1166 3828,1164 3739,1122 3611,1183 3421,1151 3384,1177 3335,1151 3169,1171 3097,1120 3023,1162 2862,1139 2859,1234"/>
+                <Baseline points="2872,1212 4768,1256"/>
+                <TextEquiv conf="0.60538965">
+                    <Unicode>Miles lor peres tenoit quant ces letres furent faites et ceu qu’il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="2858,1365 2970,1390 3041,1363 3510,1349 3571,1378 3769,1364 3868,1416 3942,1371 4029,1398 4201,1371 4222,1394 4517,1410 4685,1368 4765,1387 4799,1376 4801,1330 4676,1324 4551,1266 4406,1299 4368,1264 4328,1292 4086,1307 3855,1261 3717,1299 3557,1243 3344,1286 3276,1252 3117,1285 2910,1249 2861,1273 2858,1365"/>
+                <Baseline points="2872,1316 4788,1370"/>
+                <TextEquiv conf="0.75533307">
+                    <Unicode>porroit conquerre de hor en havant ; et dou premier qui morra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="2868,1473 3076,1472 3182,1521 3317,1487 3514,1520 3718,1475 3839,1517 3965,1461 4030,1499 4296,1522 4480,1472 4643,1507 4814,1500 4815,1430 4728,1394 4576,1430 4518,1399 4205,1415 4157,1379 4012,1399 3969,1373 3858,1415 3769,1364 3666,1362 3541,1401 3466,1378 3389,1415 3044,1362 2967,1392 2870,1375 2868,1473"/>
+                <Baseline points="2880,1436 4802,1480"/>
+                <TextEquiv conf="0.30518696">
+                    <Unicode>de ces anfanz sanz hoir mes sires Mile ne Huoz n’auront rien en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="2862,1600 2957,1587 3079,1624 3187,1587 3323,1627 3443,1602 3681,1637 3973,1604 4059,1659 4202,1623 4282,1645 4332,1604 4548,1660 4790,1624 4792,1536 4700,1507 4592,1544 4500,1510 4372,1539 4153,1505 3937,1545 3799,1490 3510,1521 3299,1489 3095,1529 2918,1469 2864,1473 2862,1600"/>
+                <Baseline points="2876,1556 4778,1608"/>
+                <TextEquiv conf="0.5832326">
+                    <Unicode>l’escheoite et des autres partiront comme frere . Et ceu hont il ou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="2864,1769 3041,1722 3194,1770 3260,1735 3392,1738 3542,1789 3770,1753 3831,1779 3920,1735 4073,1763 4298,1734 4381,1756 4450,1728 4625,1767 4706,1740 4817,1791 4820,1657 4596,1642 4476,1670 4396,1634 4285,1680 4198,1634 4058,1660 3816,1610 3526,1666 3356,1623 3234,1637 3164,1593 2958,1640 2868,1623 2864,1769"/>
+                <Baseline points="2878,1692 4806,1726"/>
+                <TextEquiv conf="0.55876446">
+                    <Unicode>troié par lour sairemant cist anfant et hont promis par lor fois</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="2852,1860 2998,1892 3035,1863 3125,1882 3243,1855 3437,1917 3509,1866 3672,1903 3775,1866 3889,1868 4013,1909 4119,1882 4233,1906 4268,1877 4377,1933 4504,1930 4627,1871 4760,1905 4762,1788 4699,1801 4646,1771 4467,1814 4318,1770 4235,1798 4111,1784 4006,1746 3891,1780 3777,1747 3542,1789 3291,1733 3212,1774 3147,1743 3044,1783 2964,1745 2890,1788 2853,1775 2852,1860"/>
+                <Baseline points="2864,1828 4750,1858"/>
+                <TextEquiv conf="0.46825942">
+                    <Unicode>a faire louer Guillemin quant il sera a aige ; et hont ceu fait</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="2858,2035 3078,2022 3206,2053 3258,2020 3449,1998 3592,2049 3685,2026 3773,2052 3871,2012 4032,2058 4152,1989 4357,2026 4424,2074 4562,2012 4744,2071 4810,2067 4812,1923 4737,1900 4641,1940 4566,1903 4505,1931 4320,1909 4211,1949 4125,1884 4002,1914 3888,1878 3736,1927 3624,1876 3489,1933 3402,1900 3357,1931 3307,1893 3140,1927 2912,1858 2860,1867 2858,2035"/>
+                <Baseline points="2872,1966 4800,1988"/>
+                <TextEquiv conf="0.39280075">
+                    <Unicode>fors d’avoerie . Et por ceu que ceu soit ferme chouse a la requeste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="2872,2121 3325,2178 3433,2116 3484,2148 3633,2133 3713,2190 3797,2130 3887,2119 3992,2169 4131,2149 4253,2182 4383,2135 4560,2213 4727,2156 4728,2059 4513,2027 4410,2077 4069,2031 3939,2066 3734,2056 3686,2026 3637,2055 3551,2027 3473,2058 3325,2007 3090,2063 3007,2022 2924,2043 2890,2023 2872,2121"/>
+                <Baseline points="2884,2098 4073,2126 4714,2112"/>
+                <TextEquiv conf="0.28940982">
+                    <Unicode>de ces anfanz je hai sealees ces letres de mon seaul en l’an de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="2855,2279 2910,2246 2968,2279 3041,2261 3231,2301 3437,2264 3624,2287 3710,2254 3856,2301 3972,2262 4329,2335 4418,2271 4499,2275 4501,2168 4365,2136 4288,2188 3898,2143 3769,2155 3714,2191 3678,2163 3599,2194 3478,2157 3436,2185 3200,2159 3145,2182 3088,2139 2859,2108 2855,2279"/>
+                <Baseline points="2870,2216 4486,2240"/>
+                <TextEquiv>
+                    <Unicode>l’incarnation nostre segnor mil et cc . et xlvii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="2894,2378 3072,2362 3193,2405 3270,2371 3315,2406 3419,2380 3737,2402 3741,2292 3612,2276 3509,2315 3419,2282 3052,2298 2936,2263 2897,2271 2894,2378"/>
+                <Baseline points="2873,2350 3732,2371"/>
+                <TextEquiv>
+                    <Unicode>ou mois de septembre .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="3201,2682 3600,2680 3607,2485 3391,2445 3341,2479 3209,2482 3201,2682"/>
+                <Baseline points="3230,2623 3588,2638"/>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="2781,2762 3246,2756 3425,2808 3475,2774 3886,2768 4143,2824 4204,2815 4209,2703 4127,2740 4003,2727 3863,2635 3802,2679 3742,2666 3689,2698 3456,2665 3309,2673 3263,2706 3018,2628 2923,2658 2858,2599 2788,2598 2781,2762"/>
+                <Baseline points="2814,2737 3726,2756 4202,2816"/>
+                <TextEquiv conf="0.17072645">
+                    <Unicode>In nomine Domini amen . Anno incarnationis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="2847,2900 3360,2869 3557,2911 3673,2874 3994,2912 4176,2884 4314,2929 4407,2909 4748,2930 4753,2757 4443,2742 4381,2770 4294,2746 4192,2819 4038,2834 3898,2770 3602,2790 3534,2768 3435,2798 3246,2756 3074,2789 2911,2765 2850,2778 2847,2900"/>
+                <Baseline points="2860,2840 4758,2870"/>
+                <TextEquiv>
+                    <Unicode>ejusdem millesimo cco septuagesimo secundo mense aprili ego Huo de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="2847,2986 2994,2988 3080,2957 3335,3017 3797,2991 3857,3031 3934,2985 4041,2987 4094,3022 4285,2975 4390,3018 4478,2995 4573,3038 4600,3013 4745,3014 4746,2938 4396,2903 4306,2927 4174,2883 4132,2912 3950,2893 3900,2914 3859,2889 3645,2884 3507,2919 3374,2863 3317,2899 3232,2866 3153,2914 3027,2878 2848,2901 2847,2986"/>
+                <Baseline points="2860,2956 4746,2984"/>
+                <TextEquiv>
+                    <Unicode>Orricort miles notum facio omnibus presentes litteras inspecturis quod ego</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="2845,3123 2991,3103 3066,3146 3198,3146 3624,3095 3784,3149 3904,3117 4021,3146 4222,3108 4316,3146 4385,3105 4798,3114 4799,3040 4331,3017 4274,3043 4180,2999 3881,3038 3797,2990 3706,3030 3477,2999 3225,3015 3167,2982 3047,3002 2913,2965 2847,2975 2845,3123"/>
+                <Baseline points="2844,3069 4788,3096"/>
+                <TextEquiv>
+                    <Unicode>debeo Johanni de Neellis domino armigero tres modios frumenti boni et mercabili</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>et ceu que li anfant mon seignor Guillaume emporteroie de la terre&#13;
+H . mes sires Milles li asserroit a Chandoisel ou a Poiz . Et cil Miles&#13;
+chevaliers et Huoz ses freres hont quité a Guiot et Gauchier&#13;
+et Androin et Guillemin lor frere toute la terre que mes sires&#13;
+Miles lor peres tenoit quant ces letres furent faites et ceu qu’il&#13;
+porroit conquerre de hor en havant ; et dou premier qui morra&#13;
+de ces anfanz sanz hoir mes sires Mile ne Huoz n’auront rien en&#13;
+l’escheoite et des autres partiront comme frere . Et ceu hont il ou&#13;
+troié par lour sairemant cist anfant et hont promis par lor fois&#13;
+a faire louer Guillemin quant il sera a aige ; et hont ceu fait&#13;
+fors d’avoerie . Et por ceu que ceu soit ferme chouse a la requeste&#13;
+de ces anfanz je hai sealees ces letres de mon seaul en l’an de&#13;
+l’incarnation nostre segnor mil et cc . et xlvii&#13;
+ou mois de septembre.&#13;
+&#13;
+In nomine Domini amen . Anno incarnationis&#13;
+ejusdem millesimo cco septuagesimo secundo mense aprili ego Huo de&#13;
+Orricort miles notum facio omnibus presentes litteras inspecturis quod ego&#13;
+debeo Johanni de Neellis domino armigero tres modios frumenti boni et mercabili</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:2;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

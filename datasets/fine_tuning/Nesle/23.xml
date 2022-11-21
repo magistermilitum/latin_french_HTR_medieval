@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:57:48.606+01:00</Created>
+        <LastChange>2020-02-04T17:46:45.014+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488440" pageNr="24" tsid="23373172" status="IN_PROGRESS" userId="52231" imgUrl="https://files.transkribus.eu/Get?id=VSCUQNBEJUGVUVPXTOSBEHRX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WUXOEYPMVLIYMTZJMZMBOYRM" imageId="8769131"/>
+    </Metadata>
+    <Page imageFilename="23.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454321400" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="702,766 702,3441 2772,3441 2772,766"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="822,863 1019,893 1181,846 1436,901 1754,888 1812,923 1905,889 2109,914 2246,887 2498,947 2673,900 2783,918 2787,775 2343,802 2197,786 2096,714 1980,763 1746,778 1490,769 1437,734 1360,776 1224,750 1190,777 1081,733 996,770 824,766 822,863"/>
+                <Baseline points="836,840 2770,888"/>
+                <TextEquiv conf="0.54600483">
+                    <Unicode>an nostre presence estaublie mes sires Esteynes Bou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="809,1040 1501,1035 2048,1081 2144,1045 2433,1077 2495,1047 2589,1078 2743,1055 2746,953 2218,962 2142,924 2026,955 1973,920 1923,945 1658,911 1406,954 1041,874 968,913 813,894 809,1040"/>
+                <Baseline points="824,1002 2732,1038"/>
+                <TextEquiv conf="0.35691193">
+                    <Unicode>jons chevaliers nostre feaux at reconeu devant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="792,1176 962,1212 1647,1186 1718,1231 1888,1195 2058,1240 2131,1204 2760,1233 2763,1115 2643,1122 2552,1069 2508,1098 2060,1079 1864,1115 1656,1055 1560,1094 1291,1102 1218,1052 1163,1089 1102,1056 973,1102 794,1094 792,1176"/>
+                <Baseline points="806,1160 2748,1204"/>
+                <TextEquiv conf="0.62131417">
+                    <Unicode>nos que il at mariée Gertrui sa fille a Jehant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="802,1345 1202,1329 1378,1371 1491,1338 1756,1384 1860,1339 1956,1405 2059,1351 2715,1381 2717,1238 2605,1218 2466,1272 2280,1227 2202,1274 2123,1247 1728,1273 1616,1217 1321,1268 1109,1194 1019,1247 955,1209 804,1214 802,1345"/>
+                <Baseline points="814,1308 2704,1332"/>
+                <TextEquiv conf="0.5035739">
+                    <Unicode>de Neelles qui fu filz mon signor Andrier de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="770,1504 902,1471 1446,1524 1542,1487 1836,1529 1954,1501 2002,1535 2059,1501 2276,1539 2328,1509 2378,1543 2558,1514 2655,1554 2719,1543 2721,1445 2614,1441 2535,1390 2348,1412 2292,1372 1651,1413 1496,1356 1334,1404 1240,1355 997,1338 774,1353 770,1504"/>
+                <Baseline points="784,1450 2708,1488"/>
+                <TextEquiv conf="0.45057195">
+                    <Unicode>Neelles heritaublement por prendre son droit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="781,1662 933,1632 1062,1688 1132,1646 1443,1635 1964,1705 2019,1655 2215,1688 2444,1654 2566,1698 2777,1662 2779,1541 2637,1589 2495,1533 2197,1588 2003,1537 1949,1572 1731,1575 1635,1516 1549,1573 1153,1531 1016,1570 817,1524 784,1529 781,1662"/>
+                <Baseline points="796,1608 2764,1650"/>
+                <TextEquiv conf="0.4909444">
+                    <Unicode>an toux les biens celui Esteyne que il at et que il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="791,1798 1530,1837 1741,1800 1989,1819 2055,1859 2202,1813 2783,1836 2786,1687 2529,1725 2095,1683 2009,1742 1910,1686 1259,1711 1173,1680 942,1699 812,1650 791,1798"/>
+                <Baseline points="804,1764 2772,1800"/>
+                <TextEquiv conf="0.6009775">
+                    <Unicode>attent a avoir anvers touz les hoirs celui Esteine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="779,1967 974,1935 1203,2006 1611,1958 2594,2006 2725,1977 2728,1862 2646,1835 2350,1901 2300,1861 2187,1864 2012,1910 1881,1907 1755,1838 1251,1897 958,1838 885,1872 781,1857 779,1967"/>
+                <Baseline points="792,1926 2712,1964"/>
+                <TextEquiv conf="0.35782427">
+                    <Unicode>qui sunt et qui avenir sunt ; et at reconeu cil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="766,2113 897,2100 1060,2144 1361,2110 1419,2150 1486,2113 1562,2150 1642,2113 1985,2152 2203,2119 2267,2162 2367,2125 2636,2163 2710,2131 2713,1992 2644,1986 2509,2055 2310,2039 2239,1992 1846,2039 1696,1985 1636,2018 1337,1992 988,2040 858,2002 768,2021 766,2113"/>
+                <Baseline points="780,2080 2698,2110"/>
+                <TextEquiv conf="0.41418362">
+                    <Unicode>Esteines per devant nos que il at donei a celi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="771,2244 993,2295 1140,2247 1198,2282 2013,2257 2345,2321 2392,2289 2734,2307 2762,2213 2592,2145 2491,2212 2402,2174 2306,2215 2115,2152 1894,2193 1773,2126 1708,2171 1410,2189 773,2136 771,2244"/>
+                <Baseline points="784,2226 2748,2264"/>
+                <TextEquiv conf="0.53156763">
+                    <Unicode>Gertrui quatre vinz livrées de terre a dige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="780,2407 1717,2429 1762,2458 2183,2437 2400,2491 2449,2448 2720,2465 2722,2331 2386,2363 2282,2313 2225,2361 2033,2295 1787,2358 1578,2294 1449,2341 1365,2289 1234,2341 1104,2291 962,2320 812,2267 781,2274 780,2407"/>
+                <Baseline points="792,2392 2708,2412"/>
+                <TextEquiv conf="0.4815845">
+                    <Unicode>nois des queles il li doit asseoir maintenant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="765,2609 858,2572 1150,2567 1401,2617 1785,2594 1835,2559 1875,2595 2164,2616 2753,2616 2756,2473 2509,2507 2389,2481 2332,2521 2223,2460 2174,2490 1708,2472 1631,2504 1444,2464 1159,2503 793,2486 765,2609"/>
+                <Baseline points="780,2548 2740,2578"/>
+                <TextEquiv conf="0.655226">
+                    <Unicode>quarante livrées et les autres quarante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="690,2738 1100,2706 1138,2745 1533,2758 1576,2789 1743,2731 2178,2791 2260,2743 2578,2710 2721,2755 2762,2742 2763,2665 2594,2626 2394,2678 2246,2633 2169,2673 1918,2674 1729,2616 1639,2654 1526,2614 1421,2665 1362,2621 1262,2658 1145,2617 1103,2647 916,2625 860,2666 691,2644 690,2738"/>
+                <Baseline points="702,2712 2750,2716"/>
+                <TextEquiv conf="0.3757468">
+                    <Unicode>livrées a la premiere escheoite que venrat an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="772,2912 1167,2871 1233,2911 1647,2944 1942,2884 2026,2934 2383,2910 2487,2945 2682,2911 2769,2948 2770,2841 2571,2833 2425,2777 2189,2803 2026,2767 1931,2809 1829,2772 1689,2840 835,2772 773,2789 772,2912"/>
+                <Baseline points="784,2870 2756,2890"/>
+                <TextEquiv conf="0.4397689">
+                    <Unicode>descendant . Toutes ces choses cil Esteines at ou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="746,3040 1000,3076 1079,3041 1235,3076 1371,3044 1514,3109 1576,3063 1970,3057 2129,3118 2314,3060 2485,3116 2769,3075 2771,2952 2432,2995 2346,2943 1664,2970 1544,2927 1431,2967 1178,2947 1134,2982 747,2966 746,3040"/>
+                <Baseline points="760,3022 2756,3056"/>
+                <TextEquiv conf="0.5140683">
+                    <Unicode>troiiés et donées a sa fille heritaublement as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="1488,3485 1610,3407 1892,3417 1890,3263 1685,3237 1486,3301 1488,3485"/>
+                <Baseline points="1500,3402 1878,3404"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="3014,533 3014,3598 4978,3598 4978,533"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="3020,966 3396,918 3757,965 3955,917 4103,948 4362,923 4403,954 4459,923 4710,950 4759,921 4890,955 4890,817 4777,768 4426,823 4198,771 3965,822 3745,783 3640,834 3297,782 3020,792 3020,966"/>
+                <Baseline points="3034,898 4876,896"/>
+                <TextEquiv conf="0.48190033">
+                    <Unicode>bons us et as bones costumes de Borgoigne si cum il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="3036,1084 3221,1133 3280,1093 3418,1098 3482,1157 3672,1084 3771,1123 3992,1077 4173,1119 4261,1073 4488,1115 4681,1075 4888,1111 4904,970 4843,939 4707,990 4640,939 4302,935 4189,968 3992,924 3503,988 3360,947 3129,1015 3037,1002 3036,1084"/>
+                <Baseline points="3048,1054 4892,1042"/>
+                <TextEquiv conf="0.5562136">
+                    <Unicode>at reconeu devant nos . Apres cil diz Jehan at re</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="3021,1261 3807,1253 3981,1218 4063,1259 4734,1233 4893,1291 4939,1273 4938,1117 4882,1155 4810,1117 4713,1148 4592,1095 4411,1134 4354,1086 4288,1122 4101,1141 4016,1108 3978,1144 3809,1158 3629,1110 3486,1157 3404,1114 3038,1123 3021,1261"/>
+                <Baseline points="3034,1210 4926,1190"/>
+                <TextEquiv conf="0.49139902">
+                    <Unicode>coneu per devant nos que il at douhée celi Gertrui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="3023,1402 3343,1427 3420,1388 3712,1419 3824,1385 4119,1413 4647,1381 4811,1408 4936,1385 4936,1298 4844,1257 4365,1266 4283,1302 4042,1246 3804,1298 3740,1265 3335,1302 3271,1263 3022,1269 3023,1402"/>
+                <Baseline points="3036,1358 4924,1358"/>
+                <TextEquiv conf="0.3588625">
+                    <Unicode>sa femme as bons us et as bones costumes de Bor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="3014,1583 3634,1533 3693,1569 3808,1518 3875,1552 4162,1527 4310,1570 4454,1530 4707,1563 4910,1528 4910,1433 4812,1441 4646,1382 4567,1422 4449,1391 4257,1460 4172,1404 3995,1439 3937,1406 3568,1428 3450,1390 3204,1435 3117,1407 3015,1417 3014,1583"/>
+                <Baseline points="3028,1508 4896,1508"/>
+                <TextEquiv conf="0.62133175">
+                    <Unicode>goigne . El tesmoignaige de la quel chose per la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="3020,1687 3824,1711 3957,1683 4070,1717 4447,1661 4669,1707 4869,1697 4918,1690 4918,1551 4370,1597 4073,1527 3832,1601 3758,1570 3648,1603 3374,1549 3307,1593 3020,1608 3020,1687"/>
+                <Baseline points="3034,1660 4904,1654"/>
+                <TextEquiv conf="0.5036986">
+                    <Unicode>requeste de l’une partie et de l’autre nos avons</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="3012,1853 3665,1861 3784,1813 3955,1858 4239,1854 4557,1810 4821,1862 4936,1837 4937,1732 4660,1739 4583,1692 4317,1755 4194,1692 4099,1738 3935,1691 3866,1739 3408,1714 3192,1767 3054,1727 3013,1742 3012,1853"/>
+                <Baseline points="3026,1812 4924,1818"/>
+                <TextEquiv conf="0.68034303">
+                    <Unicode>fait metre nostre seel an cels presentes letres .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="3037,2036 3168,1991 3370,2023 3435,1993 3934,2021 4072,1991 4203,2026 4334,1965 4444,1997 4531,1952 4843,2001 4879,1993 4880,1870 4368,1861 4314,1896 3922,1905 3772,1842 3623,1836 3572,1871 3103,1872 3039,1890 3037,2036"/>
+                <Baseline points="3050,1956 4868,1958"/>
+                <TextEquiv conf="0.46326476">
+                    <Unicode>Ce fu fait an l’an de grace m . cc . et cin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="3005,2172 4055,2106 4229,2156 4349,2138 4470,2194 4605,2125 4854,2150 4853,2032 4677,2037 4602,1994 4398,2030 4280,1992 3893,2052 3734,1994 3432,2058 3168,2069 3076,2036 3004,2044 3005,2172"/>
+                <Baseline points="3018,2114 4842,2096"/>
+                <TextEquiv conf="0.41836149">
+                    <Unicode>quante quatre el mois de novembre .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:9;}">
+                <Coords points="3488,2283 3722,2323 4082,2309 4088,2235 3969,2201 3714,2248 3564,2198 3494,2211 3488,2283"/>
+                <Baseline points="3502,2262 4070,2320"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:10;}">
+                <Coords points="2978,2652 3477,2595 3715,2636 3774,2610 3861,2662 3946,2612 4291,2651 4561,2609 4960,2636 4961,2487 4879,2527 4677,2480 4487,2506 4434,2467 4257,2463 4128,2539 4009,2459 3824,2537 3742,2497 3534,2537 3432,2497 3317,2517 3044,2297 2981,2304 2978,2652"/>
+                <Baseline points="3022,2592 4948,2602"/>
+                <TextEquiv>
+                    <Unicode>In nomine Domini amen . Anno Incarnationis ejus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:11;}">
+                <Coords points="3012,2782 4165,2762 4469,2843 4603,2782 4908,2776 4908,2678 4742,2655 4662,2711 4447,2656 4263,2686 4104,2631 3830,2699 3753,2653 3697,2683 3602,2647 3489,2695 3338,2617 3218,2694 3013,2670 3012,2782"/>
+                <Baseline points="3026,2744 4896,2750"/>
+                <TextEquiv conf="0.5544979">
+                    <Unicode>dem millesimo ducentesimo quinquagesimo nono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:12;}">
+                <Coords points="3000,2965 3067,2982 3200,2938 3316,3000 3449,2927 3590,2968 3718,2945 3797,2998 3968,2928 4563,2978 4647,2944 4706,2980 4896,2946 4895,2816 4660,2855 4544,2814 4442,2850 4178,2769 4032,2880 3858,2775 3602,2776 3492,2830 3376,2797 3228,2851 3054,2813 3000,2821 3000,2965"/>
+                <Baseline points="3014,2916 4884,2914"/>
+                <TextEquiv conf="0.4181352">
+                    <Unicode>mense maii ego Stephanus Boujons miles no</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:13;}">
+                <Coords points="3004,3097 3224,3131 3286,3093 3690,3085 3800,3134 3849,3091 4110,3079 4256,3116 4605,3097 4656,3136 4884,3106 4884,3019 4751,3031 4493,2966 4231,3003 4065,2946 3847,3009 3632,2972 3511,3015 3353,2975 3004,3022 3004,3097"/>
+                <Baseline points="3016,3068 4872,3074"/>
+                <TextEquiv conf="0.56581134">
+                    <Unicode>tum facio omnibus presentes litteras inspecturis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:14;}">
+                <Coords points="4583,3572 4797,3550 4877,3599 4990,3590 4995,3449 4837,3429 4648,3463 4586,3482 4583,3572"/>
+                <Baseline points="4598,3548 4978,3560"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bons us et as bones costumes de Borgoigne si cum il&#13;
+at reconeu devant nos . Apres cil diz Jehan at re&#13;
+coneu per devant nos que il at douhée celi Gertrui&#13;
+sa femme as bons us et as bones costumes de Bor&#13;
+goigne . El tesmoignaige de la quel chose per la&#13;
+requeste de l’une partie et de l’autre nos avons&#13;
+fait metre nostre seel an cels presentes letres.&#13;
+Ce fu fait an l’an de grace m . cc . et cin&#13;
+quante quatre el mois de novembre.&#13;
+&#13;
+In nomine Domini amen . Anno Incarnationis ejus&#13;
+dem millesimo ducentesimo quinquagesimo nono,&#13;
+mense maii ego Stephanus Boujons miles no&#13;
+tum facio omnibus presentes litteras inspecturis&#13;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:2;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

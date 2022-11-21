@@ -1,0 +1,372 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:57:22.467+01:00</Created>
+        <LastChange>2020-02-06T16:00:07.890+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488543" pageNr="117" tsid="23490876" status="IN_PROGRESS" userId="52231" imgUrl="https://files.transkribus.eu/Get?id=MYBIKPVHPXTAZVQZWNBVLYSV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TNYURXCGEZSXLYLIPWOEJUZU" imageId="8769227"/>
+    </Metadata>
+    <Page imageFilename="116.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454472355" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="450,635 450,2034 2692,2034 2692,635"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="533,725 735,761 838,720 912,767 984,725 1056,770 1549,778 1897,693 1964,723 2163,712 2257,773 2381,715 2514,770 2583,746 2647,773 2705,748 2705,624 2445,618 2381,582 2232,613 2149,577 1942,607 1784,571 1715,610 1482,576 1397,631 1314,604 1128,659 987,642 838,573 771,623 650,579 534,637 533,725"/>
+                <Baseline points="548,698 2692,720"/>
+                <TextEquiv conf="0.066475675">
+                    <Unicode>Colins li fiz Gavart 12 d . dou mex au après Pasquet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="535,837 650,887 828,862 906,836 909,726 835,718 753,763 539,721 535,837"/>
+                <Baseline points="550,828 892,834"/>
+                <TextEquiv>
+                    <Unicode>la Foule .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="505,1062 588,1108 865,1081 1515,1116 1623,1051 1794,1086 2038,1065 2137,1100 2306,1069 2409,1110 2599,1108 2621,948 2510,996 2217,956 2145,984 2087,940 1755,973 1685,940 1392,939 1127,1002 833,924 648,994 529,923 504,932 505,1062"/>
+                <Baseline points="520,1050 2608,1046"/>
+                <TextEquiv>
+                    <Unicode>Henrioz li Betent 3 d . pour sa maison d’aisanne au prés</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="481,1215 582,1253 759,1247 927,1200 924,1120 769,1134 704,1094 639,1135 521,1062 477,1074 481,1215"/>
+                <Baseline points="494,1194 912,1176"/>
+                <TextEquiv>
+                    <Unicode>lou four .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="461,1466 594,1479 737,1445 840,1470 897,1435 961,1459 1153,1393 1370,1415 1448,1460 1541,1400 1722,1434 1796,1399 1857,1425 2044,1392 2184,1433 2301,1377 2429,1371 2556,1374 2598,1409 2684,1398 2681,1290 2471,1301 2293,1261 2233,1299 2143,1257 2051,1329 1921,1312 1791,1341 1699,1304 1553,1330 1503,1301 1262,1321 1220,1292 942,1368 873,1336 790,1350 705,1296 668,1333 609,1315 459,1380 461,1466"/>
+                <Baseline points="474,1418 2670,1364"/>
+                <TextEquiv>
+                    <Unicode>Miloz li Escuiers 6 d . pour son mex devant sa tour autre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="450,1540 802,1585 1310,1530 1693,1575 1786,1526 1924,1512 2074,1559 2368,1561 2447,1512 2580,1546 2665,1502 2663,1397 2567,1430 2427,1372 2297,1377 2224,1434 2149,1438 2035,1394 1948,1448 1859,1442 1805,1398 1662,1435 1540,1401 1466,1464 1369,1413 1140,1470 1043,1439 775,1475 722,1446 629,1487 495,1473 449,1496 450,1540"/>
+                <Baseline points="464,1536 2650,1486"/>
+                <TextEquiv conf="0.27735543">
+                    <Unicode>un mex du seignor de Nelles et la maison Colin un q . au</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="437,1657 717,1666 738,1582 635,1614 503,1590 435,1616 437,1657"/>
+                <Baseline points="450,1654 726,1642"/>
+                <TextEquiv>
+                    <Unicode>meus .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="466,1915 758,1877 831,1821 981,1835 1027,1875 1099,1825 1282,1810 1423,1813 1488,1853 1656,1830 1989,1859 2189,1785 2536,1817 2624,1800 2620,1698 2387,1678 2341,1708 2181,1653 2091,1695 2029,1669 1959,1719 1820,1705 1744,1744 1255,1678 1198,1706 1017,1698 912,1758 721,1759 686,1730 462,1796 466,1915"/>
+                <Baseline points="478,1854 2610,1772"/>
+                <TextEquiv>
+                    <Unicode>Gauchers une geline de son mex au prés lou mex ma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="467,2004 702,2027 990,1988 980,1836 906,1886 837,1860 712,1935 582,1899 492,1913 462,1929 467,2004"/>
+                <Baseline points="482,2002 974,1960"/>
+                <TextEquiv>
+                    <Unicode>dame Ysabaul .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Colins li fiz Gavart 12 d . dou mex au après Pasquet&#13;
+la Foule.&#13;
+Henrioz li Betent 3 d . pour sa maison d’aisanne au prés&#13;
+lou four.&#13;
+Miloz li Escuiers 6 d . pour son mex devant sa tour autre&#13;
+un mex du seignor de Nelles et la maison Colin un q . au&#13;
+meus.&#13;
+Gauchers une geline de son mex au prés lou mex ma&#13;
+dame Ysabaul .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2754,600 2754,3507 4966,3507 4966,600"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="4505,734 4707,724 4705,569 4504,629 4505,734"/>
+                <Baseline points="4518,674 4692,672"/>
+                <TextEquiv>
+                    <Unicode>Corbeton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="3087,710 3404,677 3527,699 3522,522 3143,521 3083,550 3087,710"/>
+                <Baseline points="3100,652 3510,640"/>
+                <TextEquiv>
+                    <Unicode>Ci commancent les censies de Corbeton que l’an doit chascun an lou jour de la Mar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="2754,839 2854,809 2909,849 3128,795 3783,842 4013,805 4106,848 4262,813 4361,855 4428,809 4510,856 4649,811 4909,854 4909,757 4730,745 4680,711 4611,760 4116,709 3944,744 3892,699 3513,718 3344,678 3145,701 3042,753 2943,755 2899,721 2755,753 2754,839"/>
+                <Baseline points="2768,806 4896,820"/>
+                <TextEquiv>
+                    <Unicode>reinche .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="2752,900 2855,929 2927,900 2926,850 2801,819 2751,839 2752,900"/>
+                <Baseline points="2766,888 2912,886"/>
+                <TextEquiv>
+                    <Unicode>Bucheriz de Montbart por sa vigne assise es Fahis que touche d’une part a la vigne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="2755,1009 2940,983 2976,1008 3082,973 3350,1000 3455,971 3743,979 3792,1010 4005,987 4110,1024 4191,986 4337,1014 4373,987 4586,1014 4805,994 4923,1033 4951,1028 4952,929 4852,955 4756,916 4708,951 4377,904 4094,921 3995,890 3926,920 3597,883 3527,922 3422,904 3323,934 3210,872 3101,934 3046,895 2852,930 2756,901 2755,1009"/>
+                <Baseline points="2770,984 3745,966 4938,994"/>
+                <TextEquiv>
+                    <Unicode>Jannet Corberant et d’autre part a la vigne Guillaume Espallart doit sex deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="2761,1084 3099,1060 3181,1119 3503,1091 3629,1126 3685,1090 3876,1120 3906,1092 4263,1132 4418,1089 4553,1132 4662,1092 4922,1108 4922,1031 4798,996 4657,1020 4629,994 4549,1030 4469,998 4366,1031 4320,1000 4112,1025 4010,986 3769,1019 3694,985 3487,1005 3382,974 3183,1005 3080,974 2978,1011 2942,981 2762,1001 2761,1084"/>
+                <Baseline points="2776,1068 3522,1048 4908,1078"/>
+                <TextEquiv>
+                    <Unicode>Héhez li Fructiers por la vigne essise el platial que touche d’une part a la vigne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="2761,1205 2874,1232 3024,1182 3300,1201 3447,1164 4128,1196 4293,1170 4332,1209 4376,1181 4816,1177 4880,1208 4963,1194 4963,1130 4703,1081 4595,1131 4551,1106 4498,1134 4351,1107 4097,1129 4050,1096 4003,1124 3831,1100 3782,1133 3693,1100 3483,1123 3322,1095 3129,1137 2938,1069 2761,1083 2761,1205"/>
+                <Baseline points="2776,1192 3645,1162 4950,1176"/>
+                <TextEquiv>
+                    <Unicode>Odot lou Boitous et d’autre part a la vigne Lambelin Brunet doit dous deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="2757,1281 3125,1254 3310,1295 3521,1277 3593,1315 3789,1275 4542,1304 4644,1279 4749,1314 4821,1283 4915,1305 4914,1205 4737,1176 4660,1209 4444,1183 4364,1214 4187,1176 4015,1205 3136,1182 3017,1219 2912,1197 2879,1231 2757,1204 2757,1281"/>
+                <Baseline points="2772,1272 4902,1248"/>
+                <TextEquiv>
+                    <Unicode>Odez li Boitous por cele vigne que touche d’une part a la vigne Hehet lou Fruc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="2748,1407 3425,1356 3486,1380 3613,1359 3672,1392 3785,1360 3838,1390 3970,1347 4037,1380 4368,1351 4449,1392 4695,1353 4928,1379 4961,1370 4960,1326 4644,1279 4495,1317 3867,1276 3795,1313 3673,1289 3452,1314 3352,1282 3162,1331 2769,1307 2748,1407"/>
+                <Baseline points="2762,1380 4946,1354"/>
+                <TextEquiv>
+                    <Unicode>tier et d’autre part au clox au seignor de Neelles doit nuef deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="2754,1507 4035,1496 4115,1466 4218,1501 4478,1493 4557,1459 4781,1452 4780,1369 4434,1395 4362,1365 4274,1395 4179,1355 4069,1393 3966,1369 3937,1400 3753,1370 3685,1408 3612,1359 3419,1393 3355,1366 3295,1409 3230,1371 3195,1408 3096,1418 2816,1401 2753,1421 2754,1507"/>
+                <Baseline points="2766,1462 4766,1430"/>
+                <TextEquiv>
+                    <Unicode>Lambelins Brunez por sa vigne del platial que toche d’une part a la vigne Symon de Cor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="2740,1624 2946,1649 3060,1591 3222,1626 3390,1592 3531,1616 3636,1580 3924,1612 3965,1580 4093,1599 4202,1552 4256,1590 4393,1556 4699,1599 4792,1560 4980,1578 4979,1509 4807,1502 4737,1459 4630,1523 4484,1515 4447,1480 4207,1508 4103,1469 4032,1499 3705,1484 3648,1516 3088,1488 3037,1539 2898,1512 2841,1558 2738,1516 2740,1624"/>
+                <Baseline points="2754,1612 4081,1556 4966,1562"/>
+                <TextEquiv>
+                    <Unicode>beton et d’autre part au clox au seignor de Neelles doit un denier .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="2760,1708 4172,1654 4351,1705 4581,1707 4674,1690 4672,1607 4347,1564 4229,1609 3965,1580 3911,1615 3805,1579 3709,1626 3601,1601 3419,1626 3368,1599 3206,1640 3158,1608 2813,1651 2757,1622 2760,1708"/>
+                <Baseline points="2774,1694 4660,1652"/>
+                <TextEquiv>
+                    <Unicode>Li abbés de Fontenoy por la vigne qui fu Durant L’Escallier assise au champ Raont</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="2749,1854 2992,1851 3019,1823 3435,1850 3520,1806 3606,1846 3830,1805 3910,1830 4142,1792 4245,1814 4357,1773 4433,1804 4610,1792 4666,1832 4748,1803 4962,1826 4968,1751 4851,1704 4774,1730 4286,1683 4083,1752 3950,1746 3905,1711 3612,1751 3327,1725 3256,1771 3142,1743 3104,1780 2868,1744 2799,1773 2763,1746 2749,1854"/>
+                <Baseline points="2762,1832 4188,1783 4956,1796"/>
+                <TextEquiv>
+                    <Unicode>que toche d’une part a la vigne Regnaut lou Boitous et d’autre part a la vigne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="2744,1940 2973,1909 3419,1920 3470,1883 3551,1912 3791,1875 4218,1900 4344,1864 4475,1905 4557,1873 4782,1908 4917,1883 4916,1819 4356,1789 4136,1833 4052,1802 3917,1828 3831,1805 3765,1837 3681,1809 3621,1846 3295,1854 3242,1825 3187,1860 2833,1836 2742,1857 2744,1940"/>
+                <Baseline points="2758,1906 4258,1858 4902,1870"/>
+                <TextEquiv>
+                    <Unicode>Girart Touchet doit un denier .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="2741,2005 3330,1985 3398,1938 3515,1975 3720,1964 3769,1946 3767,1907 3468,1888 3436,1917 2976,1913 2833,1944 2738,1922 2741,2005"/>
+                <Baseline points="2754,1984 3754,1948"/>
+                <TextEquiv>
+                    <Unicode>Et por un autre vigne assise an la coste de Marmaingne qui fu Meline dou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="2753,2105 4221,2036 4274,2065 4373,2038 4443,2065 4473,2037 4811,2086 4897,2071 4896,2007 4768,1982 4705,2016 4635,1968 4405,1963 3673,2012 2776,2019 2753,2105"/>
+                <Baseline points="2766,2074 4142,2030 4884,2068"/>
+                <TextEquiv>
+                    <Unicode>Perier et toche d’une part a une vigne del caillier et d’autre part aus lor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="2747,2187 3131,2149 3200,2184 3537,2130 3643,2160 3808,2122 4066,2149 4328,2107 4389,2145 4442,2119 4910,2177 4957,2171 4956,2085 4771,2099 4380,2040 4272,2066 4228,2036 3650,2088 3536,2064 3385,2094 3318,2064 3108,2108 2746,2099 2747,2187"/>
+                <Baseline points="2760,2140 4287,2109 4942,2158"/>
+                <TextEquiv>
+                    <Unicode>vignes de Fontenoy doit dous deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="2760,2254 2993,2288 3953,2252 3991,2240 3989,2146 3575,2163 3533,2136 3179,2185 3057,2151 2759,2185 2760,2254"/>
+                <Baseline points="2774,2222 3976,2204"/>
+                <TextEquiv>
+                    <Unicode>Et por une autre vigne assise an la coste de Corbeton que fu Bernart Bozuele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="2760,2365 2859,2330 2917,2359 3221,2320 3703,2339 4114,2295 4405,2300 4436,2330 4747,2291 4798,2340 4858,2308 4970,2334 4968,2232 4880,2255 4782,2218 4724,2244 4607,2197 4539,2234 4384,2240 4294,2184 4155,2247 4030,2258 3615,2244 2841,2292 2758,2268 2760,2365"/>
+                <Baseline points="2774,2332 4082,2292 4954,2302"/>
+                <TextEquiv>
+                    <Unicode>et toche d’une part a la vigne Michial Pahu et d’autre part a la vigne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="2765,2420 2890,2418 2938,2450 3039,2403 3200,2425 3279,2387 3565,2411 3628,2385 3734,2427 3822,2394 4019,2406 4081,2363 4112,2390 4214,2363 4370,2399 4513,2357 4907,2423 4908,2326 4686,2331 4592,2294 4520,2326 4404,2301 4177,2320 4135,2293 4028,2334 3953,2300 3699,2342 3165,2326 3099,2358 3010,2337 2786,2367 2765,2420"/>
+                <Baseline points="2778,2416 4047,2365 4894,2374"/>
+                <TextEquiv>
+                    <Unicode>Robert Filebert doit trois deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="2769,2514 3330,2468 3451,2519 3646,2492 3885,2514 3881,2393 3735,2428 3280,2398 3126,2431 3042,2401 2933,2450 2891,2418 2767,2445 2769,2514"/>
+                <Baseline points="2782,2498 3868,2460"/>
+                <TextEquiv>
+                    <Unicode>Et por une piece de terre qui fu Bernart Bozuele assise sux la riviere de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="2755,2630 3056,2582 3192,2622 3515,2563 3665,2597 3723,2566 4262,2599 4298,2568 4356,2595 4622,2567 4926,2599 4948,2516 4568,2451 4499,2491 4153,2467 4107,2515 3138,2517 2821,2563 2787,2538 2754,2552 2755,2630"/>
+                <Baseline points="2770,2606 3852,2558 4934,2582"/>
+                <TextEquiv>
+                    <Unicode>Corbeton et toche d’une part a la vigne Symont de Valgimois et d’autre part</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="2762,2709 2906,2686 2978,2727 3572,2635 3805,2680 3860,2652 4314,2670 4465,2640 4723,2660 4765,2693 4961,2672 4960,2575 4855,2615 4299,2567 4263,2595 4025,2570 3187,2620 2919,2594 2761,2632 2762,2709"/>
+                <Baseline points="2776,2684 3752,2640 4946,2662"/>
+                <TextEquiv>
+                    <Unicode>a la terre Michial Pahu doit trois deniers .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="2763,2777 3140,2783 3497,2720 3557,2756 3603,2728 3856,2749 3933,2734 3929,2653 3822,2673 3687,2646 3482,2685 3366,2655 2982,2719 2831,2693 2760,2711 2763,2777"/>
+                <Baseline points="2778,2768 3918,2720"/>
+                <TextEquiv>
+                    <Unicode>Filippes li Tointuriers por une piece de terre que Boillez vendit que toche d’une</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="2742,2920 2875,2927 2957,2874 2993,2901 3372,2899 3466,2862 3638,2885 3779,2853 3895,2879 3969,2851 4017,2883 4097,2852 4175,2893 4232,2848 4313,2875 4462,2845 4545,2897 4650,2862 4714,2892 4769,2858 4919,2873 4918,2807 4533,2819 4400,2774 4342,2800 4123,2763 3659,2791 3609,2822 3081,2803 3045,2834 2970,2788 2899,2830 2815,2795 2741,2804 2742,2920"/>
+                <Baseline points="2756,2892 3830,2850 4904,2870"/>
+                <TextEquiv>
+                    <Unicode>part a la terre mon seignor Colin del Pastiz et d’autre part a la bone del Foullon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="2748,2993 3051,2956 3099,2986 3140,2958 3605,2968 3696,2942 4056,2971 4086,2940 4166,2964 4277,2929 4396,2952 4512,2929 4587,2969 4714,2954 4847,2996 4892,2985 4890,2885 4771,2859 4730,2895 4646,2863 4547,2898 4467,2857 4165,2881 4099,2851 4035,2888 3830,2857 3640,2888 3540,2861 3385,2899 2943,2888 2880,2925 2747,2916 2748,2993"/>
+                <Baseline points="2760,2966 4029,2924 4876,2946"/>
+                <TextEquiv>
+                    <Unicode>doit un denier .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="2757,3051 2978,3013 3017,3043 3313,3048 3349,3044 3348,2997 3273,2960 3140,2957 3102,2988 3054,2956 2836,2994 2756,2974 2757,3051"/>
+                <Baseline points="2770,3040 3334,3036"/>
+                <TextEquiv>
+                    <Unicode>Robelins diz Moines de Marmaigne por sa vigne de champ Reont que toche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="2755,3182 2930,3190 3021,3156 3062,3184 3178,3151 3320,3186 3544,3136 3638,3183 3690,3147 3815,3183 3867,3144 3981,3138 4067,3177 4116,3146 4327,3185 4379,3146 4559,3143 4789,3192 4902,3150 4902,3078 4647,3101 4354,3041 3981,3102 3914,3064 3687,3086 3626,3056 3123,3112 2971,3071 2838,3101 2755,3077 2755,3182"/>
+                <Baseline points="2768,3148 4888,3154"/>
+                <TextEquiv>
+                    <Unicode>d’une part a la Henriot Masine et d’autre part a la vigne Adelinete de Cor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:28;}">
+                <Coords points="2750,3235 2927,3269 3027,3230 3195,3272 3295,3222 3895,3257 3959,3226 4047,3246 4200,3218 4285,3254 4681,3219 4897,3275 4897,3195 4734,3164 4678,3186 4562,3144 4413,3172 4344,3136 4277,3174 4117,3146 4050,3174 3973,3140 3904,3176 3868,3143 3821,3182 3699,3151 3663,3184 3464,3154 3245,3186 3168,3153 3054,3189 2983,3156 2930,3189 2750,3175 2750,3235"/>
+                <Baseline points="2764,3226 4884,3246"/>
+                <TextEquiv>
+                    <Unicode>beton doit un denier .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:29;}">
+                <Coords points="2758,3318 3533,3328 3569,3318 3569,3265 3354,3224 3176,3274 3025,3230 2928,3268 2759,3235 2758,3318"/>
+                <Baseline points="2772,3306 3556,3318"/>
+                <TextEquiv>
+                    <Unicode>Adelinete de Corbeton por celi vigne a la dite vigne Robelin et d’autre part</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:30;}">
+                <Coords points="2742,3430 3035,3421 3185,3454 3326,3418 3442,3449 3550,3399 3650,3443 4084,3404 4117,3437 4264,3401 4322,3434 4629,3414 4715,3447 4759,3414 4878,3436 4927,3414 4927,3361 4504,3362 4346,3318 4247,3351 4117,3326 3945,3360 3802,3338 3708,3365 2950,3369 2742,3317 2742,3430"/>
+                <Baseline points="2756,3410 4266,3400 4914,3426"/>
+                <TextEquiv>
+                    <Unicode>a la vigne Perrin lou Vaicher doit un denier .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:31;}">
+                <Coords points="2741,3494 3087,3523 3350,3497 3654,3538 3798,3493 3856,3518 4091,3501 4179,3478 4179,3431 4080,3407 3936,3446 3715,3419 3361,3453 3269,3420 3192,3448 2879,3446 2777,3416 2741,3430 2741,3494"/>
+                <Baseline points="2754,3482 4166,3482"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Corbeton&#13;
+Ci commancent les censies de Corbeton que l’an doit chascun an lou jour de la Mar&#13;
+reinche.&#13;
+Bucheriz de Montbart por sa vigne assise es Fahis que touche d’une part a la vigne&#13;
+Jannet Corberant et d’autre part a la vigne Guillaume Espallart doit sex deniers.&#13;
+Héhez li Fructiers por la vigne essise el platial que touche d’une part a la vigne&#13;
+Odot lou Boitous et d’autre part a la vigne Lambelin Brunet doit dous deniers.&#13;
+Odez li Boitous por cele vigne que touche d’une part a la vigne Hehet lou Fruc&#13;
+tier et d’autre part au clox au seignor de Neelles doit nuef deniers.&#13;
+Lambelins Brunez por sa vigne del platial que toche d’une part a la vigne Symon de Cor&#13;
+beton et d’autre part au clox au seignor de Neelles doit un denier.&#13;
+Li abbés de Fontenoy por la vigne qui fu Durant L’Escallier assise au champ Raont&#13;
+que toche d’une part a la vigne Regnaut lou Boitous et d’autre part a la vigne&#13;
+Girart Touchet doit un denier.&#13;
+Et por un autre vigne assise an la coste de Marmaingne qui fu Meline dou&#13;
+Perier et toche d’une part a une vigne del caillier et d’autre part aus lor&#13;
+vignes de Fontenoy doit dous deniers.&#13;
+Et por une autre vigne assise an la coste de Corbeton que fu Bernart Bozuele&#13;
+et toche d’une part a la vigne Michial Pahu et d’autre part a la vigne&#13;
+Robert Filebert doit trois deniers.&#13;
+Et por une piece de terre qui fu Bernart Bozuele assise sux la riviere de&#13;
+Corbeton et toche d’une part a la vigne Symont de Valgimois et d’autre part&#13;
+a la terre Michial Pahu doit trois deniers.&#13;
+Filippes li Tointuriers por une piece de terre que Boillez vendit que toche d’une&#13;
+part a la terre mon seignor Colin del Pastiz et d’autre part a la bone del Foullon&#13;
+doit un denier.&#13;
+Robelins diz Moines de Marmaigne por sa vigne de champ Reont que toche&#13;
+d’une part a la Henriot Masine et d’autre part a la vigne Adelinete de Cor&#13;
+beton doit un denier.&#13;
+Adelinete de Corbeton por celi vigne a la dite vigne Robelin et d’autre part&#13;
+a la vigne Perrin lou Vaicher doit un denier.&#13;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="4968,587 4968,1260 5054,1260 5054,587"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:3;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

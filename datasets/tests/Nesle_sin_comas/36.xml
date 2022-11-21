@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:58:07.238+01:00</Created>
+        <LastChange>2020-02-04T15:39:39.591+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488453" pageNr="37" tsid="23361739" status="IN_PROGRESS" userId="52231" imgUrl="https://files.transkribus.eu/Get?id=NUTAUBXEXGOLYBMNKTEETAQB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LFIAACAUFPNPNNHAMDWZWFZV" imageId="8769144"/>
+    </Metadata>
+    <Page imageFilename="36.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454338561" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="642,694 642,3215 2658,3215 2658,694"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="696,841 1312,810 1401,847 1450,816 1665,854 1840,836 1919,877 2197,839 2570,908 2646,894 2653,735 2573,709 2354,780 2162,732 2077,763 1958,728 1667,750 1448,700 1348,734 726,684 696,841"/>
+                <Baseline points="712,766 2636,844"/>
+                <TextEquiv conf="0.24827217">
+                    <Unicode>lou Voisons Acelin son frere Martin lou fil Viart lou Gouz Agnès</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="697,967 852,991 924,948 1059,974 1138,949 1360,1006 1445,967 1520,1023 1741,976 1979,1021 2222,995 2603,1036 2636,1022 2640,931 2448,883 2252,921 2140,891 2036,915 1972,887 1752,909 1685,873 1345,885 1193,848 1002,889 722,842 697,967"/>
+                <Baseline points="710,920 2624,992"/>
+                <TextEquiv conf="0.5439285">
+                    <Unicode>la femme Estevenin lou fil Viart lou Gouz Constant et Bernart</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="676,1131 1165,1113 1254,1150 1346,1121 1425,1162 1670,1149 1734,1185 1806,1142 2524,1197 2658,1183 2661,1112 2388,1030 2280,1071 2224,1041 2043,1072 1962,1025 1916,1056 1887,1027 1632,1045 1490,1008 1327,1040 1283,1007 1146,1040 760,988 682,995 676,1131"/>
+                <Baseline points="692,1070 2648,1154"/>
+                <TextEquiv conf="0.5429611">
+                    <Unicode>filz Mengeart Remei lou Bruson Arembor Borget fenme Thiebaut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="678,1295 931,1256 1026,1289 1170,1276 1234,1321 1300,1286 1357,1311 1444,1283 1513,1319 1796,1290 1905,1335 2143,1307 2285,1360 2384,1316 2562,1350 2610,1331 2616,1173 2466,1223 2250,1200 2183,1236 2076,1197 1844,1224 1659,1172 1520,1200 1352,1164 1190,1189 1126,1149 881,1191 730,1171 682,1177 678,1295"/>
+                <Baseline points="694,1232 2600,1290"/>
+                <TextEquiv conf="0.55489266">
+                    <Unicode>Grate Renaut Calon Vibour la fenme Renaut Calon et lou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="678,1454 761,1477 889,1421 1018,1449 1397,1424 1667,1467 2108,1457 2281,1496 2433,1466 2668,1513 2673,1377 2569,1396 2476,1329 2403,1385 2324,1344 1988,1383 1822,1374 1713,1317 1558,1357 1419,1314 1271,1350 1008,1317 854,1337 812,1308 683,1339 678,1454"/>
+                <Baseline points="694,1378 2658,1444"/>
+                <TextEquiv conf="0.60458153">
+                    <Unicode>mex Renaut Calon et sa fenme et lou mex Renaut Calon et Letier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="678,1583 767,1556 1352,1606 1464,1574 2042,1585 2242,1637 2369,1606 2618,1620 2620,1539 2396,1537 2305,1491 1786,1504 1732,1464 1375,1508 1027,1454 920,1491 821,1452 682,1458 678,1583"/>
+                <Baseline points="692,1530 2606,1588"/>
+                <TextEquiv conf="0.40906307">
+                    <Unicode>son frere qui siet devant la maison Colas lou fil dan Renaut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="679,1725 905,1748 992,1718 1061,1761 1279,1729 1343,1762 1376,1738 1864,1773 2020,1824 2162,1751 2301,1804 2458,1757 2601,1788 2604,1689 2508,1643 2423,1695 2336,1659 2126,1685 2055,1642 1842,1672 1678,1630 1565,1666 1247,1630 1070,1651 984,1600 793,1646 684,1596 679,1725"/>
+                <Baseline points="694,1676 2590,1744"/>
+                <TextEquiv conf="0.5584313">
+                    <Unicode>lou mex Viart Calon amprés lou mex Milot Culpalei ; lou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="675,1890 1711,1917 1763,1889 2262,1936 2442,1912 2518,1946 2620,1917 2623,1836 2386,1852 2305,1806 1997,1825 1556,1762 1464,1809 1251,1776 1056,1801 957,1747 863,1786 680,1761 675,1890"/>
+                <Baseline points="690,1826 2608,1898"/>
+                <TextEquiv conf="0.5912502">
+                    <Unicode>mex Thiebaut Grate et Pariset son frere qui siet devant la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="670,2039 1337,2043 1849,2094 2056,2052 2344,2111 2461,2074 2606,2091 2609,1996 2130,1944 1948,1966 1864,1921 1802,1977 1578,1980 1472,1901 1382,1939 1308,1914 984,1968 774,1908 673,1938 670,2039"/>
+                <Baseline points="684,1990 2596,2046"/>
+                <TextEquiv conf="0.5404545">
+                    <Unicode>maison Renaut Bodot ; un motteon de avoine de rente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="666,2184 990,2213 1250,2181 1375,2229 1648,2185 1682,2222 1831,2207 1895,2242 1970,2204 2141,2205 2253,2247 2334,2224 2497,2255 2570,2235 2574,2140 2426,2117 2176,2146 2054,2096 1912,2129 1563,2092 1502,2117 1423,2077 1321,2116 1222,2062 1125,2094 930,2047 861,2080 819,2050 748,2088 670,2068 666,2184"/>
+                <Baseline points="680,2134 2560,2196"/>
+                <TextEquiv conf="0.49205154">
+                    <Unicode>que Perrins Millerei doit sus son mex ; un moiteon de a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="667,2285 942,2340 1073,2319 1170,2371 1342,2346 1589,2396 1707,2352 1969,2409 2071,2377 2572,2388 2627,2372 2631,2281 2479,2296 2415,2256 2351,2279 2123,2248 1855,2274 1733,2239 1558,2279 1366,2224 1093,2260 1004,2206 742,2232 668,2252 667,2285"/>
+                <Baseline points="680,2282 2616,2358"/>
+                <TextEquiv conf="0.34101427">
+                    <Unicode>voine de rente sus lou mex Vincent lou fil Crestien Tyrel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="688,2555 932,2500 1011,2531 1181,2510 1305,2553 1729,2536 1841,2566 2145,2531 2637,2574 2658,2487 2355,2447 2208,2473 2099,2418 1835,2460 1667,2397 1473,2452 1417,2407 847,2307 765,2332 699,2291 688,2555"/>
+                <Baseline points="706,2456 2644,2534"/>
+                <TextEquiv conf="0.5039111">
+                    <Unicode>un moiteon de avoine de rente sus lou mex Margue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="641,2656 823,2635 894,2688 1068,2694 1124,2663 1477,2668 1739,2720 1801,2682 1957,2685 2307,2741 2397,2706 2595,2721 2600,2595 2482,2588 2369,2640 2270,2578 2150,2622 2089,2589 1989,2621 1546,2547 1238,2592 1131,2550 1037,2580 849,2543 795,2581 718,2546 645,2551 641,2656"/>
+                <Baseline points="654,2614 2584,2682"/>
+                <TextEquiv conf="0.24554595">
+                    <Unicode>rithe la Bisaude et Adeline la fenme Girart lou Bisaut ; lou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="644,2823 801,2860 937,2815 1476,2864 1751,2839 1964,2868 2051,2838 2298,2893 2584,2869 2587,2797 2465,2746 2388,2786 2252,2738 2061,2768 1951,2703 1702,2762 1282,2743 1243,2703 1065,2744 944,2679 792,2721 649,2697 644,2823"/>
+                <Baseline points="660,2762 2572,2840"/>
+                <TextEquiv conf="0.4331806">
+                    <Unicode>mex Hobert que li genres Martin lou Crosié tient ; lou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="627,2990 829,2981 934,3014 1167,2984 1316,3031 1468,2992 1739,3030 1831,3003 2033,3040 2211,2995 2547,3045 2582,3042 2588,2909 2295,2936 2110,2900 1924,2935 1838,2890 1591,2905 1449,2860 1296,2907 1017,2882 884,2830 778,2883 632,2884 627,2990"/>
+                <Baseline points="642,2924 2572,3004"/>
+                <TextEquiv conf="0.50728434">
+                    <Unicode>mex Lietier et Germain lou Basclois que il tienent ; lou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="630,3164 697,3182 858,3132 964,3197 1202,3145 1420,3197 1809,3158 1908,3200 2033,3167 2132,3211 2233,3182 2318,3216 2427,3187 2597,3214 2671,3199 2675,3088 2548,3121 2335,3080 2261,3115 2183,3057 2052,3044 1761,3086 1620,3035 1550,3068 1344,3010 1062,3067 913,3001 635,3028 630,3164"/>
+                <Baseline points="646,3104 2658,3178"/>
+                <TextEquiv conf="0.56186515">
+                    <Unicode>mex que danz Meinars li convers tient ; lou mex Huguenin</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2920,596 2920,3241 4908,3241 4908,596"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="2951,903 3217,922 3425,874 3600,926 3727,898 3835,955 3998,905 4108,947 4240,914 4750,953 4818,937 4821,847 4672,789 4500,828 4292,785 4164,841 3754,760 3644,807 3418,806 3384,775 3292,797 3010,741 2956,754 2951,903"/>
+                <Baseline points="2966,856 4806,918"/>
+                <TextEquiv conf="0.4813538">
+                    <Unicode>lou convers ; lou mex Thiebaut la Grate ; lou mex Briceon lou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="2969,1051 3019,1075 3204,1030 3290,1083 3357,1048 3568,1072 3677,1047 4146,1094 4278,1060 4487,1069 4588,1112 4866,1083 4870,972 4817,956 4740,1001 4576,933 4414,971 4277,937 3734,971 3590,916 3493,951 3177,906 3103,952 2972,943 2969,1051"/>
+                <Baseline points="2982,1004 4854,1062"/>
+                <TextEquiv conf="0.43185037">
+                    <Unicode>Pelletier ; lou mex Huot lou Fol devant la maison Naudin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="2963,1181 3148,1224 3202,1195 3590,1195 3787,1249 4012,1202 4114,1260 4186,1219 4366,1237 4529,1193 4864,1258 4889,1165 4632,1110 4429,1138 4159,1090 4087,1126 3990,1088 3813,1118 3590,1072 3489,1110 3341,1080 3162,1106 3112,1074 2965,1105 2963,1181"/>
+                <Baseline points="2976,1158 4876,1216"/>
+                <TextEquiv conf="0.4047205">
+                    <Unicode>lou fil Lambert ; lou mex Huot lou Loup ; trois deniers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="2971,1336 3307,1376 3917,1359 4117,1394 4229,1361 4291,1398 4518,1367 4751,1405 4819,1394 4822,1291 4390,1256 4298,1295 4055,1249 3961,1287 3897,1243 3780,1276 3559,1236 3070,1268 2996,1241 2971,1336"/>
+                <Baseline points="2984,1304 4808,1352"/>
+                <TextEquiv conf="0.37386775">
+                    <Unicode>de censive sus lou mex Martin Coscan ; trois deniers de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="2974,1492 3082,1487 3202,1537 3319,1492 3487,1504 3579,1553 3630,1509 4808,1534 4841,1519 4843,1403 4722,1436 4677,1402 4534,1401 4349,1443 4187,1378 3957,1431 3797,1382 3466,1418 3067,1378 2976,1404 2974,1492"/>
+                <Baseline points="2988,1462 4828,1502"/>
+                <TextEquiv conf="0.16138858">
+                    <Unicode>censive sus lou mex dan Meinart ; lou fié que mes sires</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="2972,1645 3151,1634 3266,1677 3453,1643 3585,1679 4195,1654 4398,1706 4535,1656 4664,1707 4715,1670 4778,1700 4884,1684 4886,1566 4263,1552 4184,1581 4127,1544 3915,1565 3833,1520 3656,1562 3253,1563 3078,1519 2974,1534 2972,1645"/>
+                <Baseline points="2986,1608 4872,1640"/>
+                <TextEquiv conf="0.6501624">
+                    <Unicode>Miles de Sancy chevaliers tient de lui an la vile de Colon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="2961,1772 3276,1770 3495,1831 3766,1795 3893,1838 4080,1814 4257,1858 4326,1825 4678,1848 4855,1829 4859,1706 4706,1758 4589,1726 4473,1745 4364,1686 4169,1722 4062,1678 3924,1733 3760,1674 3684,1702 3576,1673 3406,1725 3073,1673 2964,1701 2961,1772"/>
+                <Baseline points="2974,1762 4844,1814"/>
+                <TextEquiv conf="0.3678595">
+                    <Unicode>miers lou Soc et as apertenences ; lou fié Jaquete damoisele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="2953,1971 3168,1945 3532,1978 3646,1955 3743,1990 3817,1963 3989,2007 4124,1969 4291,2006 4373,1974 4780,2008 4818,1988 4820,1883 4722,1851 4654,1887 4566,1855 4440,1888 4358,1848 4153,1890 3983,1826 3700,1858 3545,1825 3469,1871 3034,1835 2956,1848 2953,1971"/>
+                <Baseline points="2966,1920 4806,1956"/>
+                <TextEquiv conf="0.6333643">
+                    <Unicode>fille mon signour Huede de Retei chevalier tient de lui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="2951,2128 3222,2078 3349,2119 3672,2106 3744,2138 4021,2121 4307,2155 4487,2126 4586,2171 4814,2126 4816,2033 4632,2059 4492,2008 4340,2050 4268,2016 4073,2037 3853,1994 3749,2035 3470,1996 3353,2039 3226,1990 3047,1994 2954,2020 2951,2128"/>
+                <Baseline points="2964,2068 4802,2108"/>
+                <TextEquiv conf="0.6016194">
+                    <Unicode>an la vile dite de Colonmiers et as apertenences c’est a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="2933,2257 3464,2261 3569,2292 3832,2253 3985,2288 4093,2268 4190,2316 4315,2279 4802,2304 4823,2171 4304,2206 4182,2162 4115,2196 3943,2151 3861,2191 3829,2158 3565,2176 3329,2142 3255,2168 3188,2136 2936,2154 2933,2257"/>
+                <Baseline points="2946,2220 4808,2262"/>
+                <TextEquiv conf="0.53180885">
+                    <Unicode>savoir lou huitiesme de la justise grant et petite de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="2942,2419 4812,2446 4814,2348 4570,2355 4452,2320 4396,2353 4304,2321 4086,2354 3889,2308 3777,2344 3189,2287 3065,2331 2945,2303 2942,2419"/>
+                <Baseline points="2956,2368 4800,2408"/>
+                <TextEquiv conf="0.6380488">
+                    <Unicode>dite vile et des apertenences et trenchiement toutes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="2938,2591 3049,2580 3101,2612 3198,2573 3410,2633 3509,2595 3811,2586 4014,2638 4136,2587 4236,2627 4332,2594 4551,2623 4768,2592 4770,2471 4694,2515 4483,2493 4354,2526 4023,2446 3911,2495 3804,2445 3534,2469 3414,2437 3235,2451 3184,2488 2979,2443 2941,2447 2938,2591"/>
+                <Baseline points="2952,2550 4756,2584"/>
+                <TextEquiv conf="0.5721009">
+                    <Unicode>les autres choses et les autres proffiz que li diz Guil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="2922,2747 3159,2742 3234,2784 3383,2747 3924,2761 3998,2723 4361,2791 4548,2762 4786,2795 4920,2773 4922,2675 4718,2688 4551,2611 4361,2673 4185,2646 4029,2678 3788,2627 3559,2653 3492,2613 3017,2658 2925,2606 2922,2747"/>
+                <Baseline points="2936,2710 4908,2750"/>
+                <TextEquiv conf="0.5916889">
+                    <Unicode>laumes avoit et devoit avoir an la dite vile de Colonmiers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="2919,2898 3324,2898 3376,2930 3452,2899 3655,2953 3752,2907 3887,2943 4169,2908 4312,2951 4494,2922 4770,2950 4836,2926 4839,2803 4735,2844 4438,2800 4297,2833 4016,2782 3955,2828 3840,2783 3753,2819 3667,2759 3500,2801 3382,2746 3057,2805 2955,2743 2922,2747 2919,2898"/>
+                <Baseline points="2932,2864 4824,2902"/>
+                <TextEquiv conf="0.63615865">
+                    <Unicode>et as apertenences a dix livrées de terre a viennois que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="2928,3064 3247,3102 3371,3058 3572,3097 3940,3049 4068,3089 4516,3063 4677,3103 4788,3075 4789,2972 4681,2995 4485,2964 4391,3001 4324,2962 4205,3011 3929,2964 3817,3002 3521,2952 3088,2953 2931,2903 2928,3064"/>
+                <Baseline points="2942,3034 4776,3062"/>
+                <TextEquiv conf="0.5225928">
+                    <Unicode>li diz Jehanz avoit chescun an en la mise de Talant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:15;}">
+                <Coords points="2908,3219 3049,3246 3130,3213 3328,3225 3489,3284 3696,3223 3912,3232 4027,3276 4093,3241 4370,3264 4423,3229 4747,3234 4818,3270 4848,3263 4849,3112 4325,3145 4069,3083 3986,3142 3847,3154 3762,3110 3646,3135 3558,3089 3246,3129 3201,3086 3022,3079 2909,3093 2908,3219"/>
+                <Baseline points="2920,3188 4836,3204"/>
+                <TextEquiv conf="0.65302074">
+                    <Unicode>lou duc les quels dix livrées il tient del chief Gertrui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lou convers ; lou mex Thiebaut la Grate ; lou mex Briceon lou&#13;
+Pelletier ; lou mex Huot lou Fol devant la maison Naudin&#13;
+lou fil Lambert ; lou mex Huot lou Loup ; trois deniers&#13;
+de censive sus lou mex Martin Coscan ; trois deniers de&#13;
+censive sus lou mex dan Meinart ; lou fié que mes sires&#13;
+Miles de Sancy chevaliers tient de lui an la vile de Colon&#13;
+miers lou Soc et as apertenences ; lou fié Jaquete damoisele,&#13;
+fille mon signour Huede de Retei chevalier tient de lui&#13;
+an la vile dite de Colonmiers et as apertenences c’est a&#13;
+savoir lou huitiesme de la justise grant et petite de la&#13;
+dite vile et des apertenences et trenchiement toutes&#13;
+les autres choses et les autres proffiz que li diz Guil&#13;
+laumes avoit et devoit avoir an la dite vile de Colonmiers&#13;
+et as apertenences a dix livrées de terre a viennois que&#13;
+li diz Jehanz avoit chescun an en la mise de Talant&#13;
+lou duc les quels dix livrées il tient del chief Gertrui</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:2;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

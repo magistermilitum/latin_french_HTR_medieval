@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=T2I(thresh=0.0;skip_bl=0.2;hyphen=4.0;ig_lb=true):v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.5
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.5
+Transkribus</Creator>
+        <Created>2020-01-29T22:57:39.850+01:00</Created>
+        <LastChange>2020-11-19T14:56:28.397+01:00</LastChange>
+        <TranskribusMetadata docId="316147" pageId="12488434" pageNr="18" tsid="49189693" status="GT" userId="52517" imgUrl="https://files.transkribus.eu/Get?id=ASUQHOCVVGCRMFOENEAUMPRQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WYOFAPRGQRHMKNYYZOKHHHFO" imageId="8769125"/>
+    </Metadata>
+    <Page imageFilename="17.jpg" imageWidth="5436" imageHeight="4080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1616454314629" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="region_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="586,719 586,3093 2700,3093 2700,719"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="655,835 762,868 794,838 956,853 1054,811 1338,801 1483,856 1748,842 1891,874 2023,847 2436,914 2521,872 2631,898 2635,746 2493,789 2291,745 2200,771 2124,726 1938,772 1692,709 1604,738 1507,694 1445,729 1332,700 1187,751 1091,697 992,728 826,692 658,719 655,835"/>
+                <Baseline points="668,796 2620,832"/>
+                <TextEquiv conf="0.36716053">
+                    <Unicode>finagio de Poix et nemoribus de Poix . Quam terram et quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="659,998 810,1023 1171,985 1491,1036 1567,1000 1663,1044 2194,1011 2422,1057 2688,1029 2690,941 2450,908 2325,941 2170,879 1986,910 1885,873 1809,917 1753,884 1320,900 1232,863 1135,904 984,871 742,905 681,870 659,998"/>
+                <Baseline points="672,956 2676,1014"/>
+                <TextEquiv conf="0.41617718">
+                    <Unicode>nemus predictus Milo et uxor ejus Haalis de consensu Milonis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="638,1134 727,1177 1106,1128 1440,1153 1478,1185 2118,1207 2190,1181 2233,1211 2447,1193 2585,1228 2683,1215 2688,1056 2570,1107 2515,1064 2290,1094 1929,1032 1820,1081 1752,1035 1465,1079 1404,1039 1195,1074 1124,1034 861,1063 743,1039 640,1049 638,1134"/>
+                <Baseline points="652,1120 2672,1178"/>
+                <TextEquiv>
+                    <Unicode>filii sui dederunt et concesserunt domine Hermeniarde Sumbernonis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="630,1291 985,1284 1117,1342 1372,1314 1629,1351 1743,1310 1901,1356 1943,1326 2519,1332 2710,1398 2714,1236 2417,1209 2256,1243 1958,1218 1886,1250 1335,1172 1190,1210 957,1168 632,1209 630,1291"/>
+                <Baseline points="644,1274 2700,1320"/>
+                <TextEquiv conf="0.7485042">
+                    <Unicode>et domino Andree de Naelles et Matheo et Hugoni fratribus ejusdem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="628,1480 1398,1445 1508,1502 1624,1461 1747,1498 2176,1516 2226,1487 2381,1560 2537,1482 2680,1516 2682,1432 2497,1417 2347,1359 2235,1405 1910,1348 1513,1384 1375,1347 1210,1376 1105,1335 955,1382 848,1339 777,1386 632,1346 628,1480"/>
+                <Baseline points="642,1432 2668,1476"/>
+                <TextEquiv conf="0.5627711">
+                    <Unicode>sicuti et mere de consensu partium posite dividunt . Preterea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="623,1608 805,1643 1063,1606 1324,1659 1703,1632 1830,1674 2106,1632 2252,1675 2327,1643 2574,1667 2677,1647 2680,1516 2118,1571 2014,1532 1859,1552 1765,1523 1443,1541 1358,1513 1317,1543 1259,1495 874,1545 626,1479 623,1608"/>
+                <Baseline points="636,1586 2664,1634"/>
+                <TextEquiv conf="0.56143653">
+                    <Unicode>adhuc remanet sepedicto Miloni et uxori sue et heredibus suis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="624,1752 821,1775 897,1749 1196,1814 1639,1778 1995,1824 2161,1788 2286,1835 2472,1812 2573,1854 2687,1826 2690,1716 2650,1694 2585,1731 2480,1689 2400,1720 2298,1691 1736,1717 1549,1680 1389,1699 1175,1639 1025,1681 904,1657 721,1690 627,1656 624,1752"/>
+                <Baseline points="638,1740 2674,1802"/>
+                <TextEquiv conf="0.46052134">
+                    <Unicode>omnis villa de Corbeton cum appenditiis tam in feodis quam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="612,1922 718,1909 865,1985 1154,1923 1352,1948 1497,1913 1665,1959 1877,1941 1994,1983 2129,1945 2498,1980 2664,1951 2665,1894 2515,1831 2434,1871 2199,1826 1956,1863 1785,1815 1290,1859 1137,1819 1053,1851 877,1797 776,1838 631,1765 612,1922"/>
+                <Baseline points="626,1894 2650,1940"/>
+                <TextEquiv conf="0.63528734">
+                    <Unicode>rebus aliis et tercia pars Guidonis burgensis de Montebarro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="605,2083 718,2107 932,2079 1029,2112 1107,2086 1167,2124 1276,2083 1496,2145 1657,2085 1915,2140 1970,2111 2268,2134 2366,2100 2517,2140 2657,2118 2659,2018 2186,1998 2129,2035 1865,1982 1811,2014 1615,2001 1562,1967 1471,2008 1027,1968 787,2003 634,1956 605,2083"/>
+                <Baseline points="620,2050 2644,2106"/>
+                <TextEquiv conf="0.53191704">
+                    <Unicode>cognomine Flameryot et heredum suorum et proventus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="606,2256 818,2232 994,2284 1280,2238 1619,2262 1721,2310 1807,2245 2059,2299 2296,2246 2522,2263 2580,2303 2611,2296 2613,2198 2547,2164 1945,2158 1700,2202 1619,2146 1490,2172 1296,2104 1143,2161 910,2115 842,2166 608,2141 606,2256"/>
+                <Baseline points="620,2218 2600,2256"/>
+                <TextEquiv conf="0.60882074">
+                    <Unicode>molendini quod est situm apud Montembarrum et terra de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="598,2407 789,2375 1017,2418 1544,2416 1593,2448 1676,2396 2570,2461 2650,2426 2652,2329 2477,2356 2323,2301 2086,2350 1760,2289 1554,2331 1354,2278 1140,2343 974,2278 632,2269 601,2278 598,2407"/>
+                <Baseline points="612,2360 2638,2412"/>
+                <TextEquiv conf="0.47494397">
+                    <Unicode>Colommers et terra de Averunia et de Bainois et de Noirs cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="602,2576 708,2543 1083,2577 1172,2533 1312,2583 1400,2562 1537,2623 1662,2575 2525,2617 2569,2598 2573,2467 2323,2488 2188,2438 2115,2482 2013,2443 1924,2487 1863,2465 1749,2495 1706,2458 1389,2503 1358,2476 1204,2490 1092,2425 767,2483 621,2440 602,2576"/>
+                <Baseline points="616,2520 2556,2572"/>
+                <TextEquiv conf="0.6411028">
+                    <Unicode>hominibus et feodis et rebus aliis et vineis et pedagium de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="585,2698 761,2731 970,2701 1725,2744 2048,2704 2126,2768 2214,2743 2270,2783 2371,2747 2449,2796 2618,2752 2622,2608 2421,2625 2366,2665 2125,2637 2077,2667 1938,2611 1788,2635 1635,2595 1495,2632 1377,2590 1286,2638 977,2555 877,2632 588,2574 585,2698"/>
+                <Baseline points="598,2676 2606,2740"/>
+                <TextEquiv conf="0.30996323">
+                    <Unicode>Belna . Siquidem domine Sumbernionis et domino Andree et Matheo et Hu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="572,2898 753,2846 1081,2895 1445,2876 1536,2915 1952,2861 2133,2925 2368,2882 2655,2938 2657,2819 2496,2808 2371,2748 2109,2826 1573,2779 1300,2801 1137,2747 950,2789 772,2725 673,2785 575,2787 572,2898"/>
+                <Baseline points="586,2832 2642,2886"/>
+                <TextEquiv conf="0.30830142">
+                    <Unicode>goni fratribus ejusdem Andree remanet omnis villa de Attez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="583,3024 664,3008 819,3084 923,3022 1035,3071 1288,3023 1416,3060 1479,3020 2141,3068 2271,3032 2336,3080 2605,3043 2607,2958 2472,2981 2263,2932 2066,2968 1978,2912 1822,2959 1656,2919 1591,2961 1399,2928 1187,2962 805,2908 586,2939 583,3024"/>
+                <Baseline points="596,3002 2592,3056"/>
+                <TextEquiv conf="0.39815062">
+                    <Unicode>cum appenditiis tam terris quam hominibus nemoribus feodis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>finagio de Poix et nemoribus de Poix . Quam terram et quod&#13;
+nemus predictus Milo et uxor ejus Haalis de consensu Milonis,&#13;
+filii sui dederunt et concesserunt domine Hermeniarde Sumbernonis&#13;
+et domino Andree de Naelles et Matheo et Hugoni fratribus ejusdem,&#13;
+sicuti et mere de consensu partium posite dividunt . Preterea&#13;
+adhuc remanet sepedicto Miloni et uxori sue et heredibus suis&#13;
+omnis villa de Corbeton cum appenditiis tam in feodis quam&#13;
+rebus aliis et tercia pars Guidonis burgensis de Montebarro&#13;
+cognomine Flameryot et heredum suorum et proventus&#13;
+molendini quod est situm apud Montembarrum et terra de&#13;
+Colommers et terra de Averunia et de Bainois et de Noirs cum&#13;
+hominibus et feodis et rebus aliis et vineis et pedagium de&#13;
+Belna . Siquidem domine Sumbernionis et domino Andree et Matheo et Hu&#13;
+goni fratribus ejusdem Andree remanet omnis villa de Attez&#13;
+cum appenditiis tam terris quam hominibus nemoribus feodis</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2838,460 2838,2585 4888,2585 4888,460"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="4529,587 4602,576 4735,658 4749,466 4622,439 4537,474 4529,587"/>
+                <Baseline points="4546,540 4730,544"/>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="2837,890 3077,917 3362,867 3485,900 3784,878 3830,909 4190,871 4437,909 4496,870 4730,892 4830,876 4829,693 4778,676 4621,782 4130,732 3788,731 3747,768 3580,781 3518,743 3259,788 2994,750 2837,782 2837,890"/>
+                <Baseline points="2850,862 4816,846"/>
+                <TextEquiv conf="0.63212574">
+                    <Unicode>et rebus aliis et fortericia cum crescentia predicte terre et predicti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="2836,1050 3353,1055 3497,1009 3558,1053 3813,1055 3851,1027 4006,1058 4237,1014 4420,1079 4574,1032 4654,1061 4703,1022 4826,1061 4826,912 4741,927 4661,891 4502,922 4407,886 4335,940 4147,950 4057,901 3862,947 3772,914 3615,942 3564,909 3474,955 3270,952 3222,919 3129,950 3072,906 2985,932 2921,906 2836,947 2836,1050"/>
+                <Baseline points="2848,1022 4814,1004"/>
+                <TextEquiv conf="0.50678736">
+                    <Unicode>nemoris sicuti et mere dividunt que sunt in finagio de Poiz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="2853,1206 3311,1221 3625,1169 3720,1215 3915,1179 4011,1215 4581,1186 4720,1221 4823,1193 4823,1062 4671,1049 4579,1098 4067,1040 3905,1074 3766,1043 3640,1087 3545,1043 3177,1095 2902,1080 2853,1086 2853,1206"/>
+                <Baseline points="2866,1178 4810,1164"/>
+                <TextEquiv conf="0.5330787">
+                    <Unicode>et omnis villa de Vilebarni cum omnibus feodis et rebus aliis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="2843,1388 2927,1375 2961,1405 3097,1342 3259,1336 3416,1350 3457,1386 3506,1347 3655,1369 3696,1343 3778,1378 3917,1336 4087,1355 4313,1314 4509,1362 4858,1315 4857,1246 4173,1197 4129,1236 3990,1204 3775,1244 3648,1214 3430,1257 3070,1206 2841,1242 2843,1388"/>
+                <Baseline points="2854,1322 4846,1298"/>
+                <TextEquiv conf="0.6968328">
+                    <Unicode>et terra de Corbleichie et de Charantois cum appenditiis feo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="2846,1514 3921,1519 4011,1472 4175,1468 4356,1512 4420,1478 4698,1519 4870,1499 4869,1396 4576,1407 4336,1371 4283,1402 4190,1370 4115,1399 4043,1369 3971,1398 3899,1362 3833,1407 3650,1383 3529,1412 3367,1355 3287,1394 3009,1374 2961,1405 2845,1388 2846,1514"/>
+                <Baseline points="2858,1476 4856,1454"/>
+                <TextEquiv conf="0.68714345">
+                    <Unicode>dis et rebus aliis et due partes Guidonis burgensis de Montebar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="2840,1647 3722,1661 3882,1632 4401,1667 4656,1629 4746,1671 4902,1611 4901,1521 4721,1541 4546,1494 4400,1544 4127,1521 3981,1556 3867,1513 3608,1526 3529,1566 2901,1503 2839,1509 2840,1647"/>
+                <Baseline points="2854,1622 4888,1592"/>
+                <TextEquiv conf="0.6424741">
+                    <Unicode>ro cognomine Flameryot et heredum suorum ; et terra de Noigent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="2828,1813 2967,1799 3021,1830 3222,1796 3327,1829 3448,1795 3535,1826 3569,1795 3880,1815 3967,1786 4294,1824 4618,1766 4798,1799 4823,1671 4713,1684 4651,1645 4515,1715 4343,1723 4142,1652 3995,1696 3913,1653 3800,1692 3656,1687 3592,1648 3484,1708 3435,1669 3206,1670 3124,1717 2951,1676 2828,1720 2828,1813"/>
+                <Baseline points="2842,1774 4810,1760"/>
+                <TextEquiv conf="0.54508984">
+                    <Unicode>et de Flavigney et de Chancerose et de Saiterone cum feodis et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="2836,1940 3016,1930 3098,1981 3219,1947 3356,2001 3471,1926 3669,1916 3780,1957 3962,1918 4042,1967 4271,1923 4381,1964 4559,1925 4813,1961 4867,1935 4867,1804 4785,1847 4641,1822 4507,1858 4435,1858 4356,1802 4080,1859 3906,1805 3646,1854 3548,1816 3474,1870 3270,1819 3106,1868 2967,1829 2916,1873 2836,1871 2836,1940"/>
+                <Baseline points="2850,1920 4854,1904"/>
+                <TextEquiv conf="0.67798907">
+                    <Unicode>omnibus appenditiis et rebus aliis . Ut autem hoc ratum et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="2830,2117 3383,2095 3612,2132 3805,2097 3993,2137 4034,2101 4178,2089 4307,2163 4432,2093 4782,2124 4846,2087 4846,1995 4339,1970 4290,2014 4185,1976 4074,2021 3868,1978 3804,2015 3663,1964 3323,2018 3187,1975 2912,2034 2855,2004 2830,2117"/>
+                <Baseline points="2842,2078 4834,2058"/>
+                <TextEquiv conf="0.60315526">
+                    <Unicode>firmum in perpetuum habeatur ad petitionem utrarumque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="2833,2259 2952,2295 3003,2256 3196,2287 3301,2248 3725,2232 4001,2285 4235,2282 4291,2248 4582,2268 4656,2232 4741,2263 4823,2250 4823,2144 4718,2116 4630,2173 4291,2153 4170,2182 4067,2143 3820,2182 3555,2134 3388,2178 3345,2148 3262,2179 2833,2146 2833,2259"/>
+                <Baseline points="2846,2228 4810,2218"/>
+                <TextEquiv conf="0.42226422">
+                    <Unicode>partiium presentibus litteris sigillum meum apposui .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="2826,2423 3461,2444 3777,2396 3913,2452 4335,2381 4484,2424 4852,2433 4851,2297 4424,2270 4347,2314 4116,2266 3751,2335 3599,2333 3514,2274 3455,2313 3270,2295 3206,2324 2840,2282 2826,2423"/>
+                <Baseline points="2838,2390 4840,2374"/>
+                <TextEquiv conf="0.60723203">
+                    <Unicode>Actum anno Verbi incarnati millesimo ducentesimo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="2837,2586 2939,2551 3053,2611 3217,2567 3356,2599 3387,2570 4829,2537 4828,2440 3334,2494 3264,2438 3139,2499 3054,2459 2979,2491 2835,2473 2837,2586"/>
+                <Baseline points="2850,2542 3406,2532"/>
+                <TextEquiv>
+                    <Unicode>tricesimo nono mense maii .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+et rebus aliis et fortericia cum crescentia predicte terre et predicti&#13;
+nemoris sicuti et mere dividunt que sunt in finagio de Poiz,&#13;
+et omnis villa de Vilebarni cum omnibus feodis et rebus aliis,&#13;
+et terra de Corbleichie et de Charantois cum appenditiis feo&#13;
+dis et rebus aliis et due partes Guidonis burgensis de Montebar&#13;
+ro cognomine Flameryot et heredum suorum ; et terra de Noigent&#13;
+et de Flavigney et de Chancerose et de Saiterone cum feodis et&#13;
+omnibus appenditiis et rebus aliis . Ut autem hoc ratum et&#13;
+firmum in perpetuum habeatur ad petitionem utrarumque&#13;
+partiium presentibus litteris sigillum meum apposui.&#13;
+Actum anno Verbi incarnati millesimo ducentesimo&#13;
+tricesimo nono mense maii .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1" custom="readingOrder {index:2;}">
+            <Coords points="0,0 5436,0 5436,4080 0,4080"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
