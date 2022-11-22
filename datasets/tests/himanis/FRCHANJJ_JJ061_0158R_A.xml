@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:49:17.023+07:00</Created>
+        <LastChange>2018-10-09T16:54:11.627+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3597959" pageNr="496" tsid="5556228" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=PYWXUTUDDTTTUDWDSMEBUGKW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WZVRZYJXLKCSCDVLINXWCBFD" imageId="1969699"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ061_0158R_A.jpg" imageWidth="3579" imageHeight="5247">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632851055849" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538463564455_489"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538463564455_489" custom="readingOrder {index:0;}">
+            <Coords points="32,1426 1643,1426 1643,1584 1610,1584 1610,1728 1661,1728 1661,1852 638,1852 638,1793 32,1793"/>
+            <TextLine id="line_1539078503479_402" custom="readingOrder {index:0;}">
+                <Coords points="83,2880 755,2880 1850,2889 3244,2909 3243,2959 1849,2939 755,2930 83,2930"/>
+                <Baseline points="83,2925 755,2925 1849,2934 3243,2954"/>
+                <TextEquiv>
+                    <Unicode>Karolus, Dei gratia, Francorum et Navarre rex. Notum facimus universis, tam presentibus quam futuris, quod nos dilectorum nostrorum episcopi et capituli ecclesie de Luxonio Sancti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539078512120_403" custom="readingOrder {index:1;}">
+                <Coords points="80,2940 548,2946 1462,2953 2289,2960 2881,2971 3255,2986 3253,3036 2880,3021 2288,3010 1462,3003 548,2996 79,2990"/>
+                <Baseline points="79,2985 548,2991 1462,2998 2288,3005 2880,3016 3253,3031"/>
+                <TextEquiv>
+                    <Unicode>Benedicti supplicacioni favorabiliter annuentes, et ut ipsi tanto liberius et fervencius intendere valeant et vaccare ad divinum servicium faciendum, quanto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539078520183_404" custom="readingOrder {index:2;}">
+                <Coords points="84,3013 325,3018 732,3015 1028,3009 1697,3020 2809,3040 3283,3049 3282,3099 2808,3090 1696,3070 1028,3059 733,3065 325,3068 83,3063"/>
+                <Baseline points="83,3058 325,3063 733,3060 1028,3054 1696,3065 2808,3085 3282,3094"/>
+                <TextEquiv>
+                    <Unicode>melius et selerius per regie protectionis presidium defendi poterunt et tueri ab oppressionibus, injuriis et violenciis malignorum, satagencium nonnunquam ecclesias</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539078528012_405" custom="readingOrder {index:3;}">
+                <Coords points="80,3074 683,3087 880,3074 1961,3087 3274,3111 3273,3161 1960,3137 881,3124 684,3137 79,3124"/>
+                <Baseline points="79,3119 684,3132 881,3119 1960,3132 3273,3156"/>
+                <TextEquiv>
+                    <Unicode>et ecclesiasticas gravare personas, ac eorum res et bona violenter et alias minus racionabiliter usurpare, prefatos episcopum et capitulum, eorumque familiam, homines, mansionarios</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539078534918_406" custom="readingOrder {index:4;}">
+                <Coords points="88,3141 388,3143 858,3152 1312,3134 2023,3154 3240,3179 3239,3229 2022,3204 1312,3184 858,3202 387,3193 88,3191"/>
+                <Baseline points="88,3186 387,3188 858,3197 1312,3179 2022,3199 3239,3224"/>
+                <TextEquiv>
+                    <Unicode>et subditos, tam in capite quam in membris, cum ipsorum possessionibus, rebus et bonis quibus cunque, que in presenti juste possident ac imposterum possidebunt, in nostra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539078541059_407" custom="readingOrder {index:5;}">
+                <Coords points="79,3208 490,3212 1024,3210 1882,3214 2845,3237 3218,3246 3217,3296 2844,3287 1881,3264 1024,3260 490,3262 79,3258"/>
+                <Baseline points="79,3253 490,3257 1024,3255 1881,3259 2844,3282 3217,3291"/>
+                <TextEquiv>
+                    <Unicode>protectione regia et gardia speciali pro nobis, successoribusque nostris, Francorum regibus, graciose recepimus per presentes, quibus damus in mandatis Xanctonensi et Pictavensi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539078556670_409" custom="readingOrder {index:6;}">
+                <Coords points="2172,3247 2250,3260 2242,3309 2164,3296"/>
+                <Baseline points="2165,3291 2243,3304"/>
+                <TextEquiv>
+                    <Unicode>dicti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539078552138_408" custom="readingOrder {index:7;}">
+                <Coords points="73,3297 240,3283 861,3277 1836,3290 2522,3297 3239,3297 3239,3347 2522,3347 1835,3340 861,3327 242,3333 77,3347"/>
+                <Baseline points="77,3342 242,3328 861,3322 1835,3335 2522,3342 3239,3342"/>
+                <TextEquiv>
+                    <Unicode>senescallis, ac ballivo Turonensi, presentibus et futuris, eorumque loca tenentibus, et ceteris justiciariis regni, quatinus supranominatos manuteneant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539078582921_410" custom="readingOrder {index:8;}">
+                <Coords points="85,3353 624,3342 1397,3348 2048,3350 2597,3366 3233,3368 3233,3418 2596,3416 2047,3400 1397,3398 624,3392 86,3403"/>
+                <Baseline points="86,3398 624,3387 1397,3393 2047,3395 2596,3411 3233,3413"/>
+                <TextEquiv>
+                    <Unicode>et conservent in suis juribus et justis possessionibus et saisinis, et defendant ab injuriis, violenciis, oppressionibus, vi armorum et novitatibus indebitis quibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539078611111_411" custom="readingOrder {index:9;}">
+                <Coords points="63,3406 365,3406 823,3404 1466,3404 2557,3413 3225,3426 3224,3476 2556,3463 1466,3454 823,3454 365,3456 63,3456"/>
+                <Baseline points="63,3451 365,3451 823,3449 1466,3449 2556,3458 3224,3471"/>
+                <TextEquiv>
+                    <Unicode>cunque, et si quas eis factas invenerint, eas ad statum pristinum et debitum sine mandati alterius expectacione reducant. quod ut ratum et stabile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539078621908_412" custom="readingOrder {index:10;}">
+                <Coords points="70,3476 502,3478 851,3458 1279,3462 2086,3476 3280,3482 3280,3532 2085,3526 1278,3512 852,3508 503,3528 70,3526"/>
+                <Baseline points="70,3521 503,3523 852,3503 1278,3507 2085,3521 3280,3527"/>
+                <TextEquiv>
+                    <Unicode>permaneat in futurum, nostrum presentibus litteris fecimus apponi sigillum. Nostro in aliis et alieno in omnibus jure salvo. Actum apud Fontem de Besu, anno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539078624331_413" custom="readingOrder {index:11;}">
+                <Coords points="83,3538 1140,3534 1140,3584 83,3588"/>
+                <Baseline points="83,3583 1140,3579"/>
+                <TextEquiv>
+                    <Unicode>Domini millesimo trecentesimo vicesimo tercio, mense julii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539078627081_414" custom="readingOrder {index:12;}">
+                <Coords points="1280,3563 1912,3552 1913,3602 1281,3613"/>
+                <Baseline points="1281,3608 1913,3597"/>
+                <TextEquiv>
+                    <Unicode>Per Dominimi regem, ad relacionem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539078629565_415" custom="readingOrder {index:13;}">
+                <Coords points="1300,3619 1885,3612 1886,3662 1301,3669"/>
+                <Baseline points="1301,3664 1886,3657"/>
+                <TextEquiv>
+                    <Unicode>Domini Alfonsi. Barriere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Karolus, Dei gratia, Francorum et Navarre rex. Notum facimus universis, tam presentibus quam futuris, quod nos dilectorum nostrorum episcopi et capituli ecclesie de Luxonio Sancti
+Benedicti supplicacioni favorabiliter annuentes, et ut ipsi tanto liberius et fervencius intendere valeant et vaccare ad divinum servicium faciendum, quanto
+melius et selerius per regie protectionis presidium defendi poterunt et tueri ab oppressionibus, injuriis et violenciis malignorum, satagencium nonnunquam ecclesias
+et ecclesiasticas gravare personas, ac eorum res et bona violenter et alias minus racionabiliter usurpare, prefatos episcopum et capitulum, eorumque familiam, homines, mansionarios
+et subditos, tam in capite quam in membris, cum ipsorum possessionibus, rebus et bonis quibus cunque, que in presenti juste possident ac imposterum possidebunt, in nostra
+protectione regia et gardia speciali pro nobis, successoribusque nostris, Francorum regibus, graciose recepimus per presentes, quibus damus in mandatis Xanctonensi et Pictavensi
+dicti
+senescallis, ac ballivo Turonensi, presentibus et futuris, eorumque loca tenentibus, et ceteris justiciariis regni, quatinus supranominatos manuteneant
+et conservent in suis juribus et justis possessionibus et saisinis, et defendant ab injuriis, violenciis, oppressionibus, vi armorum et novitatibus indebitis quibus
+cunque, et si quas eis factas invenerint, eas ad statum pristinum et debitum sine mandati alterius expectacione reducant. quod ut ratum et stabile
+permaneat in futurum, nostrum presentibus litteris fecimus apponi sigillum. Nostro in aliis et alieno in omnibus jure salvo. Actum apud Fontem de Besu, anno
+Domini millesimo trecentesimo vicesimo tercio, mense julii.
+Per Dominimi regem, ad relacionem
+Domini Alfonsi. Barriere</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

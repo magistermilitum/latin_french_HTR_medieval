@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:49:25.977+07:00</Created>
+        <LastChange>2018-09-27T16:43:11.289+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3597981" pageNr="518" tsid="5556252" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=PLOVRVHNGZVGDREZJBAXRLNW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PWJESAQZSFZPONNEVPEBKJYS" imageId="1969721"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ064_0075V_A.jpg" imageWidth="3639" imageHeight="4435">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632851142629" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538041060160_493"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538041060160_493" custom="readingOrder {index:0;}">
+            <Coords points="486,3096 3506,3096 3506,4150 486,4150"/>
+            <TextLine id="line_1538041162122_494" custom="readingOrder {index:0;}">
+                <Coords points="528,3260 1740,3256 2516,3256 3419,3254 3419,3304 2516,3306 1740,3306 528,3310"/>
+                <Baseline points="528,3305 1740,3301 2516,3301 3419,3299"/>
+                <TextEquiv>
+                    <Unicode>Karolus, Dei gratia, Francorum et Navarre rex. Notum facimus universis, tam presentibus quam futuris, quod inter curas et urgentes solicitudines quibus in re</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538041166156_495" custom="readingOrder {index:1;}">
+                <Coords points="540,3374 1850,3362 3454,3360 3454,3410 1850,3412 540,3424"/>
+                <Baseline points="540,3419 1850,3407 3454,3405"/>
+                <TextEquiv>
+                    <Unicode>gendis subditis nobis plebibus frequenter distrahimur et animus noster afficitur, ad hec precipuè nostre mentis aspirat affectus, per que status ecclesiasticus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538041169471_496" custom="readingOrder {index:2;}">
+                <Coords points="545,3465 3464,3441 3464,3491 545,3515"/>
+                <Baseline points="545,3510 3464,3486"/>
+                <TextEquiv>
+                    <Unicode>nostris temporibus sub commisso nobis regimine in transquilitate manuteneatur et pace, et ipsius regni ecclesie, quarum servitores sub devote religionis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538041172723_497" custom="readingOrder {index:3;}">
+                <Coords points="536,3565 3481,3548 3481,3598 536,3615"/>
+                <Baseline points="536,3610 3481,3593"/>
+                <TextEquiv>
+                    <Unicode>observancia nocte dieque insistunt obsequiis, sub protectione regia à suis releventur pressuris et per regalem potenciam à noxiis deffendantur,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538041175913_498" custom="readingOrder {index:4;}">
+                <Coords points="524,3673 3423,3656 3423,3706 524,3723"/>
+                <Baseline points="524,3718 3423,3701"/>
+                <TextEquiv>
+                    <Unicode>ut eo liberius et fervencius circa divinum cultum vacare valeant, quo habundancius per nos senserint se adjutos. Sanè ex par</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538041196887_502" custom="readingOrder {index:5;}">
+                <Coords points="534,3775 1981,3771 3445,3754 3446,3804 1981,3821 534,3825"/>
+                <Baseline points="534,3820 1981,3816 3446,3799"/>
+                <TextEquiv>
+                    <Unicode>tereligiosorum virorum, dilectorum nostrorum abbatis et conventus monasterii de Anglia, Pictavensis dyocesis, à nonnullis emulis suis ne eisdem in personis aut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538041183258_500" custom="readingOrder {index:6;}">
+                <Coords points="518,3880 3425,3866 3425,3916 518,3930"/>
+                <Baseline points="518,3925 3425,3911"/>
+                <TextEquiv>
+                    <Unicode>bonis eorum quomodolibet injuriari presumant sibi verissimiliter timere asserencium, nobis fuit humiliter supplicatum ut ab injuriis, vio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538041186087_501" custom="readingOrder {index:7;}">
+                <Coords points="531,3988 3432,3955 3433,4005 532,4038"/>
+                <Baseline points="532,4033 3433,4000"/>
+                <TextEquiv>
+                    <Unicode>lenciis, molestiis, gravaminibus et jacturis deffendi valeant et tueri, ac pace et securitate pleniori gaudere, nos ipsos in et sub nostra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Karolus, Dei gratia, Francorum et Navarre rex. Notum facimus universis, tam presentibus quam futuris, quod inter curas et urgentes solicitudines quibus in re
+gendis subditis nobis plebibus frequenter distrahimur et animus noster afficitur, ad hec precipuè nostre mentis aspirat affectus, per que status ecclesiasticus
+nostris temporibus sub commisso nobis regimine in transquilitate manuteneatur et pace, et ipsius regni ecclesie, quarum servitores sub devote religionis
+observancia nocte dieque insistunt obsequiis, sub protectione regia à suis releventur pressuris et per regalem potenciam à noxiis deffendantur,
+ut eo liberius et fervencius circa divinum cultum vacare valeant, quo habundancius per nos senserint se adjutos. Sanè ex par
+tereligiosorum virorum, dilectorum nostrorum abbatis et conventus monasterii de Anglia, Pictavensis dyocesis, à nonnullis emulis suis ne eisdem in personis aut
+bonis eorum quomodolibet injuriari presumant sibi verissimiliter timere asserencium, nobis fuit humiliter supplicatum ut ab injuriis, vio
+lenciis, molestiis, gravaminibus et jacturis deffendi valeant et tueri, ac pace et securitate pleniori gaudere, nos ipsos in et sub nostra</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

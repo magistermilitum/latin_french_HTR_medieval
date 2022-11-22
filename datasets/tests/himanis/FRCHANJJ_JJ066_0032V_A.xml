@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:52:06.755+07:00</Created>
+        <LastChange>2018-10-10T09:49:52.275+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3598021" pageNr="558" tsid="5556295" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=ZIQXTUCDWVSQOORMBVEBZRKN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PIDDIQASKKGBLKLLKNHETCTC" imageId="1969762"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ066_0032V_A.jpg" imageWidth="3575" imageHeight="5056">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632851321259" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538987285744_316"/>
+                <RegionRefIndexed index="1" regionRef="region_1538987365683_317"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538987285744_316" custom="readingOrder {index:0;}">
+            <Coords points="197,1097 1349,1097 1349,1134 1655,1134 1655,1603 1083,1603 1083,1525 913,1525 913,1502 197,1502"/>
+            <TextLine id="line_1539139388476_79" custom="readingOrder {index:0;}">
+                <Coords points="459,3167 1311,3192 2301,3245 2705,3275 3260,3279 3260,3329 2703,3325 2298,3295 1309,3242 458,3217"/>
+                <Baseline points="458,3212 1309,3237 2298,3290 2703,3320 3260,3324"/>
+                <TextEquiv>
+                    <Unicode>Phelippe, par la grace de Dieu, rois de France. Savoir faisons à touz presens et avenir que, comme nostre escuier, Guion de Velort ait fondé ou entencion de fonder une</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539139398648_80" custom="readingOrder {index:1;}">
+                <Coords points="476,3229 1372,3266 1843,3272 2438,3335 2994,3364 3077,3355 3294,3364 3292,3414 3078,3405 2995,3414 2434,3385 1840,3322 1371,3316 474,3279"/>
+                <Baseline points="474,3274 1371,3311 1840,3317 2434,3380 2995,3409 3078,3400 3292,3409"/>
+                <TextEquiv>
+                    <Unicode>chapellenie, pour le salu de same et de ses bienfaiteurs à Saint-Pierre du Bochet, en la chastellenie de Lodun, ou dyocese de Poytiers, et de la douer de vint sextiers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539139409633_81" custom="readingOrder {index:2;}">
+                <Coords points="465,3295 1191,3328 2090,3374 2843,3429 3293,3443 3292,3493 2841,3479 2087,3424 1189,3378 463,3345"/>
+                <Baseline points="463,3340 1189,3373 2087,3419 2841,3474 3292,3488"/>
+                <TextEquiv>
+                    <Unicode>de froment assis sus terres et prés en la parroisse de Saint-Pierre devant dit, prisiez les vint sextiers à assise de païs cent soulz ou environ de annuel et perpetuel rente,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539139418430_82" custom="readingOrder {index:3;}">
+                <Coords points="470,3390 923,3392 1541,3411 2146,3445 2757,3489 3255,3530 3251,3580 2754,3539 2143,3495 1539,3461 922,3442 470,3440"/>
+                <Baseline points="470,3435 922,3437 1539,3456 2143,3490 2754,3534 3251,3575"/>
+                <TextEquiv>
+                    <Unicode>nous, à la supplicacion de nostre dit escuier, et pour ce que nous soiens participanz en touz les biensfaiz qui en la dite chapellenie se feront, avons octroié et octroions,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539139427634_83" custom="readingOrder {index:4;}">
+                <Coords points="475,3450 1248,3473 2215,3525 2776,3561 3165,3582 3227,3580 3228,3630 3164,3632 2773,3611 2212,3575 1246,3523 474,3500"/>
+                <Baseline points="474,3495 1246,3518 2212,3570 2773,3606 3164,3627 3228,3625"/>
+                <TextEquiv>
+                    <Unicode>de grace especial, par ces lettres, que le chapellain de la dicte chapellenie, qui pour le temps y sera establiz, puisse tenir et tiegne à touz jours paisiblement, en nom et pour</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539139443541_84" custom="readingOrder {index:5;}">
+                <Coords points="469,3529 994,3544 1419,3552 1914,3567 2346,3607 3158,3661 3255,3659 3256,3709 3157,3711 2342,3657 1911,3617 1418,3602 993,3594 468,3579"/>
+                <Baseline points="468,3574 993,3589 1418,3597 1911,3612 2342,3652 3157,3706 3256,3704"/>
+                <TextEquiv>
+                    <Unicode>cause de la dicte chapellenie, les diz vint sextiers de froment, sanz estre constrains. à les vendre ou mettre hors de sa main, et sanz paier finance quelle que elle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539139450353_85" custom="readingOrder {index:6;}">
+                <Coords points="448,3611 1030,3619 1794,3644 2397,3680 2992,3726 3252,3734 3251,3784 2990,3776 2394,3730 1792,3694 1029,3669 447,3661"/>
+                <Baseline points="447,3656 1029,3664 1792,3689 2394,3725 2990,3771 3251,3779"/>
+                <TextEquiv>
+                    <Unicode>soit. Et que ce soit ferme et estable à touz jours, nous avons fait mettre nostre seel en ces lettres. Sauve nostre droit en autres choses et l'autrui en toutes. Donné</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539139457916_86" custom="readingOrder {index:7;}">
+                <Coords points="459,3688 1155,3697 1532,3715 1967,3730 1965,3780 1530,3765 1154,3747 458,3738"/>
+                <Baseline points="458,3733 1154,3742 1530,3760 1965,3775"/>
+                <TextEquiv>
+                    <Unicode>à Arcies en Champaigne, l'an de grace mil ccc. vint et neuf, ou mois de janvier.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539139462276_87" custom="readingOrder {index:8;}">
+                <Coords points="2129,3753 2711,3791 2884,3801 2881,3851 2708,3841 2126,3803"/>
+                <Baseline points="2126,3798 2708,3836 2881,3846"/>
+                <TextEquiv>
+                    <Unicode>Par le roy, à la relacion mons. Drue de Roye.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539139464901_88" custom="readingOrder {index:9;}">
+                <Coords points="2604,3887 2805,3866 2811,3916 2610,3937"/>
+                <Baseline points="2609,3932 2810,3911"/>
+                <TextEquiv>
+                    <Unicode>Barrière.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Phelippe, par la grace de Dieu, rois de France. Savoir faisons à touz presens et avenir que, comme nostre escuier, Guion de Velort ait fondé ou entencion de fonder une
+chapellenie, pour le salu de same et de ses bienfaiteurs à Saint-Pierre du Bochet, en la chastellenie de Lodun, ou dyocese de Poytiers, et de la douer de vint sextiers
+de froment assis sus terres et prés en la parroisse de Saint-Pierre devant dit, prisiez les vint sextiers à assise de païs cent soulz ou environ de annuel et perpetuel rente,
+nous, à la supplicacion de nostre dit escuier, et pour ce que nous soiens participanz en touz les biensfaiz qui en la dite chapellenie se feront, avons octroié et octroions,
+de grace especial, par ces lettres, que le chapellain de la dicte chapellenie, qui pour le temps y sera establiz, puisse tenir et tiegne à touz jours paisiblement, en nom et pour
+cause de la dicte chapellenie, les diz vint sextiers de froment, sanz estre constrains. à les vendre ou mettre hors de sa main, et sanz paier finance quelle que elle
+soit. Et que ce soit ferme et estable à touz jours, nous avons fait mettre nostre seel en ces lettres. Sauve nostre droit en autres choses et l'autrui en toutes. Donné
+à Arcies en Champaigne, l'an de grace mil ccc. vint et neuf, ou mois de janvier.
+Par le roy, à la relacion mons. Drue de Roye.
+Barrière.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1538987365683_317" custom="readingOrder {index:1;}">
+            <Coords points="204,167 1668,167 1668,1127 1152,1127 1152,1035 204,1152"/>
+            <TextLine id="line_1539137562772_47" custom="readingOrder {index:0;}">
+                <Coords points="489,385 831,392 1110,395 1916,409 2969,420 3272,439 3269,489 2967,470 1915,459 1109,445 830,442 488,435"/>
+                <Baseline points="488,430 830,437 1109,440 1915,454 2967,465 3269,484"/>
+                <TextEquiv>
+                    <Unicode>quatre cenz livres à la saint Remy ensuivant. Et à ce s'est acordée par devant nous la fame du dit Pierre. Pour quoy nous vous mandons que la dicte finance</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137575336_48" custom="readingOrder {index:1;}">
+                <Coords points="485,465 940,486 1187,474 2002,488 3129,509 3240,514 3238,564 3128,559 2001,538 1188,524 940,536 483,515"/>
+                <Baseline points="483,510 940,531 1188,519 2001,533 3128,554 3238,559"/>
+                <TextEquiv>
+                    <Unicode>et composicion vous perfaciez et acomplissiez avec le dit Pierre et ses amis, et ycelle parfaite et acomplie, et receue bonne seurté et caucion du dit Pierre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137586039_49" custom="readingOrder {index:2;}">
+                <Coords points="492,549 878,568 1329,556 2521,580 2861,601 3037,591 3261,603 3259,653 3037,641 2861,651 2519,630 1329,606 877,618 490,599"/>
+                <Baseline points="490,594 877,613 1329,601 2519,625 2861,646 3037,636 3259,648"/>
+                <TextEquiv>
+                    <Unicode>de paier la dicte somme d'argent aus termes assignez, delivrez son corps et ses biens, et sus les dictes finance et delivrance li octroyez voz lettres pendans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137599822_50" custom="readingOrder {index:3;}">
+                <Coords points="482,636 919,645 1267,641 1476,657 1842,659 2391,662 3121,699 3276,692 3278,742 3121,749 2390,712 1842,709 1474,707 1266,691 919,695 481,686"/>
+                <Baseline points="481,681 919,690 1266,686 1474,702 1842,704 2390,707 3121,744 3278,737"/>
+                <TextEquiv>
+                    <Unicode>et ouvertes et les nous envoiez pour estre confermées souz le seel du roy. Toutevois faites bien mencion en voz dictes lettres que parmi ceste finance l'en remet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137613557_51" custom="readingOrder {index:4;}">
+                <Coords points="492,720 746,730 1017,730 1906,748 2231,758 2390,751 3128,781 3296,777 3297,827 3128,831 2390,801 2231,808 1905,798 1017,780 745,780 490,770"/>
+                <Baseline points="490,765 745,775 1017,775 1905,793 2231,803 2390,796 3128,826 3297,822"/>
+                <TextEquiv>
+                    <Unicode>au dit Pierre le cas criminel à civile tant seulement, sauf le droit à ceus qui aucune chose li vodront demander civilement, les quieux vous oyez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137626699_52" custom="readingOrder {index:5;}">
+                <Coords points="484,812 1492,823 1834,828 2268,840 2666,844 3000,858 3282,875 3279,925 2998,908 2665,894 2267,890 1833,878 1491,873 484,862"/>
+                <Baseline points="484,857 1491,868 1833,873 2267,885 2665,889 2998,903 3279,920"/>
+                <TextEquiv>
+                    <Unicode>diligemment et leur faites raison. Donné à Paris, le xvije jour d'octembre l'an xxix. Les queles lettres receues et leur teneur veu et diligemment con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137635559_53" custom="readingOrder {index:6;}">
+                <Coords points="473,896 1223,908 2077,922 2708,922 3277,959 3274,1009 2707,972 2077,972 1222,958 472,946"/>
+                <Baseline points="472,941 1222,953 2077,967 2707,967 3274,1004"/>
+                <TextEquiv>
+                    <Unicode>sideré, eue deliberacion aveques le conseil du roy de la seneschaucie de Poito, considerées les choses dessus dictes, consideré ausi que les cas dont il estoit ap</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137646184_54" custom="readingOrder {index:7;}">
+                <Coords points="480,985 991,973 1416,999 2676,1018 2819,1008 3037,1015 3320,1034 3317,1084 3035,1065 2820,1058 2677,1068 1414,1049 990,1023 481,1035"/>
+                <Baseline points="481,1030 990,1018 1414,1044 2677,1063 2820,1053 3035,1060 3317,1079"/>
+                <TextEquiv>
+                    <Unicode>prochiez estoient viex et anciens, obscurs et doubteus, et que l'en n'en puet mie avoir pleine prove, avons receu la dicte finance et tourné les cas dessus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137663264_55" custom="readingOrder {index:8;}">
+                <Coords points="480,1067 786,1071 1097,1064 1392,1081 1712,1083 3148,1100 3296,1109 3293,1159 3146,1150 1712,1133 1391,1131 1096,1114 786,1121 479,1117"/>
+                <Baseline points="479,1112 786,1116 1096,1109 1391,1126 1712,1128 3146,1145 3293,1154"/>
+                <TextEquiv>
+                    <Unicode>diz, se aucuns en y avoit, criminels à civiles, et ausi l'avons absoulz et absolons par la teneur de ces lettres de touz les fais, cas, forfaitures dessus diz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137672030_56" custom="readingOrder {index:9;}">
+                <Coords points="491,1142 1108,1144 2177,1172 2931,1191 3139,1177 3336,1189 3333,1239 3139,1227 2932,1241 2176,1222 1107,1194 491,1192"/>
+                <Baseline points="491,1187 1107,1189 2176,1217 2932,1236 3139,1222 3333,1234"/>
+                <TextEquiv>
+                    <Unicode>et de touz autres criminels et civiles, des quieux le dit Pierre peust estre ensuivy d'office pour tout le temps passé juques au jour de la date de ces presentes lettres,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137686030_57" custom="readingOrder {index:10;}">
+                <Coords points="481,1207 1052,1228 1488,1233 2477,1266 3083,1271 3225,1259 3306,1264 3303,1314 3225,1309 3085,1321 2476,1316 1487,1283 1051,1278 479,1257"/>
+                <Baseline points="479,1252 1051,1273 1487,1278 2476,1311 3085,1316 3225,1304 3303,1309"/>
+                <TextEquiv>
+                    <Unicode>retenue la volanté du roy nostre seigneur et sauf ausi le droit à touz ceuls qui aucune chose li vodront demander pour les choses dessus dictes à fin civile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137710123_58" custom="readingOrder {index:11;}">
+                <Coords points="482,1278 1657,1330 2682,1346 3322,1348 3322,1398 2682,1396 1656,1380 480,1328"/>
+                <Baseline points="480,1323 1656,1375 2682,1391 3322,1393"/>
+                <TextEquiv>
+                    <Unicode>tant seulement. En tesmoing de ce, nous avons mis nostre propre seel en ces lettres, en l'absence du seel de la dite seneschaucie de Poito. Données lan de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137717013_59" custom="readingOrder {index:12;}">
+                <Coords points="470,1360 1779,1414 2683,1426 3285,1442 3284,1492 2682,1476 1778,1464 468,1410"/>
+                <Baseline points="468,1405 1778,1459 2682,1471 3284,1487"/>
+                <TextEquiv>
+                    <Unicode>grace mil ccc. vint et neuf, le lundi après les huitievés de la Purification Nostre-Dame. Nos autem omnia et singula in dictis litteris contenta, presertim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137731449_60" custom="readingOrder {index:13;}">
+                <Coords points="477,1447 1222,1477 1875,1496 2954,1517 3311,1512 3312,1562 2954,1567 1874,1546 1220,1527 475,1497"/>
+                <Baseline points="475,1492 1220,1522 1874,1541 2954,1562 3312,1557"/>
+                <TextEquiv>
+                    <Unicode>financiam de qua in litteris predictis fit mencio, factam per senescallum nostrum Pictavensem cum predicto Petro Prepositi, de Germonte, modo et forma in eisdem litteris comprehensis,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137741245_61" custom="readingOrder {index:14;}">
+                <Coords points="474,1538 1016,1550 1727,1583 2579,1592 3214,1599 3323,1597 3324,1647 3214,1649 2579,1642 1726,1633 1014,1600 473,1588"/>
+                <Baseline points="473,1583 1014,1595 1726,1628 2579,1637 3214,1644 3324,1642"/>
+                <TextEquiv>
+                    <Unicode>ratam et gratam habentes, eam volumus, laudamus, approbamus, ratificamus et tenore presentium, auctoritate nostra regia, confirmamus, et eidem Petro omnem penam crimina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137752354_62" custom="readingOrder {index:15;}">
+                <Coords points="460,1622 1027,1634 1911,1674 2044,1669 2802,1669 3330,1676 3329,1726 2802,1719 2045,1719 1911,1724 1026,1684 459,1672"/>
+                <Baseline points="459,1667 1026,1679 1911,1719 2045,1714 2802,1714 3329,1721"/>
+                <TextEquiv>
+                    <Unicode>lem et civilem, quam, occasione delictorum et casuum impositorum sibi de et super omnibus et singulis contentis in dictis litteris, incurrisse dicitur, et omnem quam incurrisse potuit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137762166_63" custom="readingOrder {index:16;}">
+                <Coords points="470,1705 1036,1707 1839,1749 2528,1759 3069,1754 3306,1756 3306,1806 3069,1804 2528,1809 1837,1799 1035,1757 470,1755"/>
+                <Baseline points="470,1750 1035,1752 1837,1794 2528,1804 3069,1799 3306,1801"/>
+                <TextEquiv>
+                    <Unicode>quoquo modo et forma in ipsis litteris contentis, de nostra benignitate regia, ex certa sciencia, remittimus, et ipsum ab eisdem absolvimus de gracia speciali. No</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137770353_64" custom="readingOrder {index:17;}">
+                <Coords points="472,1775 1584,1813 2458,1841 2968,1845 3266,1848 3266,1898 2968,1895 2457,1891 1583,1863 470,1825"/>
+                <Baseline points="470,1820 1583,1858 2457,1886 2968,1890 3266,1893"/>
+                <TextEquiv>
+                    <Unicode>lentes quod propter hoc aliquam infamie maculam incurrat, quin ymo famam eidem integram, premissis non obstantibus, de nostre regie majestatis plenitudine, reservamus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137777618_65" custom="readingOrder {index:18;}">
+                <Coords points="465,1841 1274,1871 2323,1918 2837,1928 3263,1928 3263,1978 2837,1978 2322,1968 1272,1921 463,1891"/>
+                <Baseline points="463,1886 1272,1916 2322,1963 2837,1973 3263,1973"/>
+                <TextEquiv>
+                    <Unicode>et eciam, si opus fuerit, ipsum restituimus ad eandem. Nostro in aliis et alieno in omnibus jure salvo. quod ut firmum et stabile permaneat in futurum, presentibus litteris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137788773_66" custom="readingOrder {index:19;}">
+                <Coords points="481,1928 899,1956 1174,1956 1888,1977 2441,2002 2439,2052 1886,2027 1173,2006 897,2006 478,1978"/>
+                <Baseline points="478,1973 897,2001 1173,2001 1886,2022 2439,2047"/>
+                <TextEquiv>
+                    <Unicode>nostrum fecimus apponi sigillum. Datum Parisius, anno Domini millesimo ccc. vicesimo nono, mense februarii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137793664_67" custom="readingOrder {index:20;}">
+                <Coords points="2555,2021 2976,2026 2975,2076 2554,2071"/>
+                <Baseline points="2554,2066 2975,2071"/>
+                <TextEquiv>
+                    <Unicode>Per Cameram Compotorum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539137796679_68" custom="readingOrder {index:21;}">
+                <Coords points="2745,2157 3077,2150 3078,2200 2746,2207"/>
+                <Baseline points="2746,2202 3078,2195"/>
+                <TextEquiv>
+                    <Unicode>Julianus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>quatre cenz livres à la saint Remy ensuivant. Et à ce s'est acordée par devant nous la fame du dit Pierre. Pour quoy nous vous mandons que la dicte finance
+et composicion vous perfaciez et acomplissiez avec le dit Pierre et ses amis, et ycelle parfaite et acomplie, et receue bonne seurté et caucion du dit Pierre
+de paier la dicte somme d'argent aus termes assignez, delivrez son corps et ses biens, et sus les dictes finance et delivrance li octroyez voz lettres pendans
+et ouvertes et les nous envoiez pour estre confermées souz le seel du roy. Toutevois faites bien mencion en voz dictes lettres que parmi ceste finance l'en remet
+au dit Pierre le cas criminel à civile tant seulement, sauf le droit à ceus qui aucune chose li vodront demander civilement, les quieux vous oyez
+diligemment et leur faites raison. Donné à Paris, le xvije jour d'octembre l'an xxix. Les queles lettres receues et leur teneur veu et diligemment con
+sideré, eue deliberacion aveques le conseil du roy de la seneschaucie de Poito, considerées les choses dessus dictes, consideré ausi que les cas dont il estoit ap
+prochiez estoient viex et anciens, obscurs et doubteus, et que l'en n'en puet mie avoir pleine prove, avons receu la dicte finance et tourné les cas dessus
+diz, se aucuns en y avoit, criminels à civiles, et ausi l'avons absoulz et absolons par la teneur de ces lettres de touz les fais, cas, forfaitures dessus diz
+et de touz autres criminels et civiles, des quieux le dit Pierre peust estre ensuivy d'office pour tout le temps passé juques au jour de la date de ces presentes lettres,
+retenue la volanté du roy nostre seigneur et sauf ausi le droit à touz ceuls qui aucune chose li vodront demander pour les choses dessus dictes à fin civile
+tant seulement. En tesmoing de ce, nous avons mis nostre propre seel en ces lettres, en l'absence du seel de la dite seneschaucie de Poito. Données lan de
+grace mil ccc. vint et neuf, le lundi après les huitievés de la Purification Nostre-Dame. Nos autem omnia et singula in dictis litteris contenta, presertim
+financiam de qua in litteris predictis fit mencio, factam per senescallum nostrum Pictavensem cum predicto Petro Prepositi, de Germonte, modo et forma in eisdem litteris comprehensis,
+ratam et gratam habentes, eam volumus, laudamus, approbamus, ratificamus et tenore presentium, auctoritate nostra regia, confirmamus, et eidem Petro omnem penam crimina
+lem et civilem, quam, occasione delictorum et casuum impositorum sibi de et super omnibus et singulis contentis in dictis litteris, incurrisse dicitur, et omnem quam incurrisse potuit
+quoquo modo et forma in ipsis litteris contentis, de nostra benignitate regia, ex certa sciencia, remittimus, et ipsum ab eisdem absolvimus de gracia speciali. No
+lentes quod propter hoc aliquam infamie maculam incurrat, quin ymo famam eidem integram, premissis non obstantibus, de nostre regie majestatis plenitudine, reservamus,
+et eciam, si opus fuerit, ipsum restituimus ad eandem. Nostro in aliis et alieno in omnibus jure salvo. quod ut firmum et stabile permaneat in futurum, presentibus litteris
+nostrum fecimus apponi sigillum. Datum Parisius, anno Domini millesimo ccc. vicesimo nono, mense februarii.
+Per Cameram Compotorum.
+Julianus,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

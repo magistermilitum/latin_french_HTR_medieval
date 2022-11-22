@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:54:08.685+07:00</Created>
+        <LastChange>2018-10-08T08:50:07.000+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3598264" pageNr="801" tsid="5556618" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=KPWLLNSAAVUGIIOLZOMAULVN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DAWHXWXVRILUNEFHMPNDUBGT" imageId="1970005"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ080_0462R_A.jpg" imageWidth="3761" imageHeight="4784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632852507380" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538734327772_497"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538734327772_497" custom="readingOrder {index:0;}">
+            <Coords points="420,3206 3386,3206 3386,4278 420,4278"/>
+            <TextLine id="line_1538735503468_507" custom="readingOrder {index:0;}">
+                <Coords points="438,3256 1628,3251 2313,3259 2905,3249 3271,3254 3270,3304 2905,3299 2313,3309 1628,3301 438,3306"/>
+                <Baseline points="438,3301 1628,3296 2313,3304 2905,3294 3270,3299"/>
+                <TextEquiv>
+                    <Unicode>Johannes, Dei gratia, Francorum rex. Ad honorem cedit et gloriam regnancium et regnorum, si viri conspicui,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538735510129_508" custom="readingOrder {index:1;}">
+                <Coords points="457,3323 1328,3330 1438,3321 2051,3323 3258,3328 3258,3378 2051,3373 1440,3371 1330,3380 457,3373"/>
+                <Baseline points="457,3368 1330,3375 1440,3366 2051,3368 3258,3373"/>
+                <TextEquiv>
+                    <Unicode>regum lateribus assistentes, nominibus intitulati magnificis, inclitis honoribus preferantur. Ex hoc enim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538735515433_509" custom="readingOrder {index:2;}">
+                <Coords points="457,3395 2292,3404 3241,3395 3241,3445 2292,3454 457,3445"/>
+                <Baseline points="457,3440 2292,3449 3241,3440"/>
+                <TextEquiv>
+                    <Unicode>crescit vigor devocionis in subditis, si viri preclari virtutibus congruis afferantur honoribus et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538735522562_510" custom="readingOrder {index:3;}">
+                <Coords points="440,3461 986,3466 2285,3476 2736,3473 3251,3476 3251,3526 2736,3523 2285,3526 986,3516 440,3511"/>
+                <Baseline points="440,3506 986,3511 2285,3521 2736,3518 3251,3521"/>
+                <TextEquiv>
+                    <Unicode>condignis retribucionum premiis prosequntur, ut et ipsi pro sue strenuitatis meritis sibi honoris titulos acrevisse con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538735528552_511" custom="readingOrder {index:4;}">
+                <Coords points="448,3531 1898,3550 3129,3552 3281,3564 3277,3614 3127,3602 1898,3600 447,3581"/>
+                <Baseline points="447,3576 1898,3595 3127,3597 3277,3609"/>
+                <TextEquiv>
+                    <Unicode>gaudeant, et alii exemplo eorum ad virtutum exercicia fortius excitentur. Eapropter notum facimus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538735538021_512" custom="readingOrder {index:5;}">
+                <Coords points="416,3619 1609,3621 2418,3631 3229,3617 3230,3667 2418,3681 1609,3671 416,3669"/>
+                <Baseline points="416,3664 1609,3666 2418,3676 3230,3662"/>
+                <TextEquiv>
+                    <Unicode>universis, tam presentibus quam futuris, quod nos, attendentes devocionis, fìdei et fidelitatis probate constanciam,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538735545494_513" custom="readingOrder {index:6;}">
+                <Coords points="450,3698 1621,3707 2390,3702 3197,3693 3198,3743 2390,3752 1621,3757 450,3748"/>
+                <Baseline points="450,3743 1621,3752 2390,3747 3198,3738"/>
+                <TextEquiv>
+                    <Unicode>necnon prudenciam et provide cir conspectionis industriam carissimi consanguinei nostri Karoli de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538735552670_514" custom="readingOrder {index:7;}">
+                <Coords points="450,3767 1531,3776 1848,3769 2714,3769 3205,3760 3206,3810 2714,3819 1848,3819 1531,3826 450,3817"/>
+                <Baseline points="450,3812 1531,3821 1848,3814 2714,3814 3206,3805"/>
+                <TextEquiv>
+                    <Unicode>Yspania , qui de stirpe regalium predecessorum nostrorum noscitur descendisse, et nobiscum puericie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538735563028_515" custom="readingOrder {index:8;}">
+                <Coords points="457,3848 749,3850 1037,3860 1188,3853 2125,3850 3057,3843 3293,3836 3294,3886 3058,3893 2125,3900 1189,3903 1037,3910 748,3900 457,3898"/>
+                <Baseline points="457,3893 748,3895 1037,3905 1189,3898 2125,3895 3058,3888 3294,3881"/>
+                <TextEquiv>
+                    <Unicode>nutrimenta suscepit, grataque et accepta servicia, que nobis in nostris et regni nostri negocias probatis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538735584992_516" custom="readingOrder {index:9;}">
+                <Coords points="2973,3875 3103,3867 3106,3917 2976,3925"/>
+                <Baseline points="2976,3920 3106,3912"/>
+                <TextEquiv>
+                    <Unicode>ipsius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538735598751_517" custom="readingOrder {index:10;}">
+                <Coords points="452,3919 717,3905 944,3923 1540,3919 1698,3926 2380,3919 2901,3912 3177,3912 3177,3962 2901,3962 2381,3969 1697,3976 1539,3969 942,3973 716,3955 454,3969"/>
+                <Baseline points="454,3964 716,3950 942,3968 1539,3964 1697,3971 2381,3964 2901,3957 3177,3957"/>
+                <TextEquiv>
+                    <Unicode>effectibus impendit diucius et exhibet incessanter, ac labores immensos et onera que ad nostrum et regni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538735608267_518" custom="readingOrder {index:11;}">
+                <Coords points="446,3987 862,3978 1426,3992 2150,3996 2890,3974 3222,3983 3221,4033 2890,4024 2151,4046 1425,4042 862,4028 447,4037"/>
+                <Baseline points="447,4032 862,4023 1425,4037 2151,4041 2890,4019 3221,4028"/>
+                <TextEquiv>
+                    <Unicode>honorem subiisse dignoscitur, grata quoque obsequia que genitor suus, quondam consanguineus noster,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538735619343_519" custom="readingOrder {index:12;}">
+                <Coords points="423,4053 691,4038 874,4047 1425,4049 1923,4051 2377,4051 2690,4051 2894,4056 3165,4047 3166,4097 2894,4106 2689,4101 2377,4101 1923,4101 1425,4099 873,4097 691,4088 426,4103"/>
+                <Baseline points="426,4098 691,4083 873,4092 1425,4094 1923,4096 2377,4096 2689,4096 2894,4101 3166,4092"/>
+                <TextEquiv>
+                    <Unicode>impendit predecessoribus nostris regibus, et labores quos subiit pro regni juribus et honore persone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538735632338_520" custom="readingOrder {index:13;}">
+                <Coords points="432,4124 787,4117 1608,4129 1774,4115 1943,4129 2450,4136 2532,4120 3260,4138 3259,4188 2536,4170 2454,4186 1941,4179 1774,4165 1610,4179 787,4167 433,4174"/>
+                <Baseline points="433,4169 787,4162 1610,4174 1774,4160 1941,4174 2454,4181 2536,4165 3259,4183"/>
+                <TextEquiv>
+                    <Unicode>proprie, pericula et expensarum onera non vitando ; ac propterea volentes eundem Karolum, premissorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Johannes, Dei gratia, Francorum rex. Ad honorem cedit et gloriam regnancium et regnorum, si viri conspicui,
+regum lateribus assistentes, nominibus intitulati magnificis, inclitis honoribus preferantur. Ex hoc enim
+crescit vigor devocionis in subditis, si viri preclari virtutibus congruis afferantur honoribus et
+condignis retribucionum premiis prosequntur, ut et ipsi pro sue strenuitatis meritis sibi honoris titulos acrevisse con
+gaudeant, et alii exemplo eorum ad virtutum exercicia fortius excitentur. Eapropter notum facimus
+universis, tam presentibus quam futuris, quod nos, attendentes devocionis, fìdei et fidelitatis probate constanciam,
+necnon prudenciam et provide cir conspectionis industriam carissimi consanguinei nostri Karoli de
+Yspania , qui de stirpe regalium predecessorum nostrorum noscitur descendisse, et nobiscum puericie
+nutrimenta suscepit, grataque et accepta servicia, que nobis in nostris et regni nostri negocias probatis
+ipsius
+effectibus impendit diucius et exhibet incessanter, ac labores immensos et onera que ad nostrum et regni
+honorem subiisse dignoscitur, grata quoque obsequia que genitor suus, quondam consanguineus noster,
+impendit predecessoribus nostris regibus, et labores quos subiit pro regni juribus et honore persone
+proprie, pericula et expensarum onera non vitando ; ac propterea volentes eundem Karolum, premissorum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

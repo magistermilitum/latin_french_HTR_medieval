@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:52:18.190+07:00</Created>
+        <LastChange>2018-10-09T14:46:01.938+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3598045" pageNr="582" tsid="5556322" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=WUBGAYDGJJENQVYUGQKMNVKW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EJFGOLFVPGBKURREKPWYRAOX" imageId="1969786"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ066_0332V_A.jpg" imageWidth="3707" imageHeight="5072">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632851433279" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538376272372_8"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538376272372_8" custom="readingOrder {index:0;}">
+            <Coords points="174,80 1820,80 1820,358 1283,358 1283,344 984,344 984,276 174,276 "/>
+            <TextLine id="line_1539070999191_274" custom="readingOrder {index:0;}">
+                <Coords points="447,208 660,193 1226,199 1737,215 2234,202 3038,204 3619,223 3618,273 3037,254 2235,252 1737,265 1225,249 661,243 450,258"/>
+                <Baseline points="450,253 661,238 1225,244 1737,260 2235,247 3037,249 3618,268"/>
+                <TextEquiv>
+                    <Unicode>partie des coustemenz du dit sel pour telle partie comme il y prendra, c'est assavoir la moitié, ou cas queles emolumenz du dit sel monteroient à</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539071013472_275" custom="readingOrder {index:1;}">
+                <Coords points="442,279 645,273 857,271 1156,280 1430,263 1503,283 1682,281 1773,291 2017,278 2834,270 3386,278 3607,298 3603,348 3384,328 2834,320 2018,328 1772,341 1680,331 1496,333 1424,313 1157,330 857,321 646,323 443,329"/>
+                <Baseline points="443,324 646,318 857,316 1157,325 1425,308 1497,328 1680,326 1772,336 2018,323 2834,315 3384,323 3603,343"/>
+                <TextEquiv>
+                    <Unicode>la dite somme de deux cens livres ou à moins, et ou cas que les emolumenz d'icelli sel monteroient à plus de deux cenz livres par an, aprez touz cous,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539071029065_276" custom="readingOrder {index:2;}">
+                <Coords points="446,349 692,339 838,344 1303,333 1634,352 1801,353 2165,339 2572,344 2973,340 3389,339 3619,368 3612,418 3386,389 2973,390 2572,394 2166,389 1802,403 1633,402 1302,383 838,394 692,389 448,399"/>
+                <Baseline points="448,394 692,384 838,389 1302,378 1633,397 1802,398 2166,384 2572,389 2973,385 3386,384 3613,413"/>
+                <TextEquiv>
+                    <Unicode>le dit chevalier ou ceus qui aront cause de li en ce partie, ara et prendra ou dit sel cent livres tant seulement, touz quittes venenz à sa main, et tout</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539071038050_277" custom="readingOrder {index:3;}">
+                <Coords points="440,420 648,422 1085,406 1718,422 2181,411 2693,420 3202,417 3616,435 3614,485 3201,467 2693,470 2181,461 1718,472 1085,456 649,472 440,470"/>
+                <Baseline points="440,465 649,467 1085,451 1718,467 2181,456 2693,465 3201,462 3614,480"/>
+                <TextEquiv>
+                    <Unicode>le residu sera à nouz et à noz successeurs, rois de France. Et que ce soit ferme et estable à perpetuité, nous avons fait mettre nostre seel en ces presentes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539071049768_278" custom="readingOrder {index:4;}">
+                <Coords points="447,495 751,491 1460,480 1687,502 2036,481 2891,489 3395,492 3395,542 2891,539 2037,531 1686,552 1458,530 752,541 448,545"/>
+                <Baseline points="448,540 752,536 1458,525 1686,547 2037,526 2891,534 3395,537"/>
+                <TextEquiv>
+                    <Unicode>lettres. Sauf nostre droit en autres choses et l'autrui en toutes. Donné à Bauquierville, l'an de grace mil ccc. trente et un, ou mois de may.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539071052018_279" custom="readingOrder {index:5;}">
+                <Coords points="2008,569 3048,560 3048,610 2008,619"/>
+                <Baseline points="2008,614 3048,605"/>
+                <TextEquiv>
+                    <Unicode>Par le roy, à la relacion de mons. Michel de Reccourt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539071053862_280" custom="readingOrder {index:6;}">
+                <Coords points="2591,660 2951,653 2952,703 2592,710"/>
+                <Baseline points="2592,705 2952,698"/>
+                <TextEquiv>
+                    <Unicode>H. Martin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>partie des coustemenz du dit sel pour telle partie comme il y prendra, c'est assavoir la moitié, ou cas queles emolumenz du dit sel monteroient à
+la dite somme de deux cens livres ou à moins, et ou cas que les emolumenz d'icelli sel monteroient à plus de deux cenz livres par an, aprez touz cous,
+le dit chevalier ou ceus qui aront cause de li en ce partie, ara et prendra ou dit sel cent livres tant seulement, touz quittes venenz à sa main, et tout
+le residu sera à nouz et à noz successeurs, rois de France. Et que ce soit ferme et estable à perpetuité, nous avons fait mettre nostre seel en ces presentes
+lettres. Sauf nostre droit en autres choses et l'autrui en toutes. Donné à Bauquierville, l'an de grace mil ccc. trente et un, ou mois de may.
+Par le roy, à la relacion de mons. Michel de Reccourt.
+H. Martin.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:48:00.692+07:00</Created>
+        <LastChange>2018-09-27T13:47:43.559+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3597805" pageNr="342" tsid="5556050" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=JNYJEZAHEKHYSDXTBCOYWNXY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CRUTMPILMNSHWDXPELIIHVIR" imageId="1969545"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ035_0107R_A.jpg" imageWidth="2619" imageHeight="3283">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632850355839" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538030572439_267"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538030572439_267" custom="readingOrder {index:0;}">
+            <Coords points="154,278 2258,278 2258,1484 154,1484"/>
+            <TextLine id="line_1538030690290_268" custom="readingOrder {index:0;}">
+                <Coords points="172,338 712,322 1700,293 2227,284 2228,334 1701,343 713,372 173,388"/>
+                <Baseline points="173,383 713,367 1701,338 2228,329"/>
+                <TextEquiv>
+                    <Unicode>Philippes, etc., au baillif de Chaumont. Comme nous vous avons escript par noz autres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538030699305_269" custom="readingOrder {index:1;}">
+                <Coords points="179,429 1011,408 2238,390 2239,440 1012,458 180,479"/>
+                <Baseline points="180,474 1012,453 2239,435"/>
+                <TextEquiv>
+                    <Unicode>lettres que vous, tantost iceles lettres veues, feissiez crier par arriere ban, par toute vostre ballie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538030704570_270" custom="readingOrder {index:2;}">
+                <Coords points="170,522 1054,505 1753,501 2165,496 2166,546 1753,551 1055,555 171,572"/>
+                <Baseline points="171,567 1055,550 1753,546 2166,541"/>
+                <TextEquiv>
+                    <Unicode>et ès ressorz dicele, tant en noz propres terres comme en noz fiez, arrière fiez et ès terres de noz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538030708773_271" custom="readingOrder {index:3;}">
+                <Coords points="166,619 1020,612 2210,594 2211,644 1021,662 166,669"/>
+                <Baseline points="166,664 1021,657 2211,639"/>
+                <TextEquiv>
+                    <Unicode>autres subgiez, que toutes manieres de genz tant nobles comme non nobles, tant de pié comme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538030711898_272" custom="readingOrder {index:4;}">
+                <Coords points="173,723 2212,703 2212,753 173,773"/>
+                <Baseline points="173,768 2212,748"/>
+                <TextEquiv>
+                    <Unicode>de cheval, de dis et huit anz jusques à sexante fussent à nous soufisanment apparelliez en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538030714913_273" custom="readingOrder {index:5;}">
+                <Coords points="180,819 2150,798 2150,848 180,869"/>
+                <Baseline points="180,864 2150,843"/>
+                <TextEquiv>
+                    <Unicode>armes et en chevaus, chascuns selonc son estat, le jour de la Magdelaine prochaine venant, au</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538030718101_274" custom="readingOrder {index:6;}">
+                <Coords points="182,925 2171,903 2171,953 182,975"/>
+                <Baseline points="182,970 2171,948"/>
+                <TextEquiv>
+                    <Unicode>plus tart, quelque part que nous soions, ès marches de Flandres, seur quanque il sepuent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538030722038_275" custom="readingOrder {index:7;}">
+                <Coords points="169,1014 2196,1002 2196,1052 169,1064"/>
+                <Baseline points="169,1059 2196,1047"/>
+                <TextEquiv>
+                    <Unicode>meffaire de cors et d'avoir, nous vous mandons que vous toute maniere de genz, qui par la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538030725725_276" custom="readingOrder {index:8;}">
+                <Coords points="177,1120 2177,1095 2178,1145 178,1170"/>
+                <Baseline points="178,1165 2178,1140"/>
+                <TextEquiv>
+                    <Unicode>teneur du dit arriere ban sont tenuz de venir en nostre ost, hastez de venir à nous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538030732256_277" custom="readingOrder {index:9;}">
+                <Coords points="174,1220 1151,1206 1987,1199 2205,1197 2205,1247 1987,1249 1152,1256 175,1270"/>
+                <Baseline points="175,1265 1152,1251 1987,1244 2205,1242"/>
+                <TextEquiv>
+                    <Unicode>au plus tost que vous pourrez, et en toutes manieres les contraingniez à venir, gardée</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538030735818_278" custom="readingOrder {index:10;}">
+                <Coords points="189,1320 2207,1306 2207,1356 189,1370"/>
+                <Baseline points="189,1365 2207,1351"/>
+                <TextEquiv>
+                    <Unicode>en toutes choses la fourme de noz dites lettres. Donné à Arraz, le mercredi eu jour</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538030738818_279" custom="readingOrder {index:11;}">
+                <Coords points="191,1422 1427,1417 1427,1467 191,1472"/>
+                <Baseline points="191,1467 1427,1462"/>
+                <TextEquiv>
+                    <Unicode>de la Magdelaine, l'an de grace mil troiscenz et quatre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Philippes, etc., au baillif de Chaumont. Comme nous vous avons escript par noz autres
+lettres que vous, tantost iceles lettres veues, feissiez crier par arriere ban, par toute vostre ballie
+et ès ressorz dicele, tant en noz propres terres comme en noz fiez, arrière fiez et ès terres de noz
+autres subgiez, que toutes manieres de genz tant nobles comme non nobles, tant de pié comme
+de cheval, de dis et huit anz jusques à sexante fussent à nous soufisanment apparelliez en
+armes et en chevaus, chascuns selonc son estat, le jour de la Magdelaine prochaine venant, au
+plus tart, quelque part que nous soions, ès marches de Flandres, seur quanque il sepuent
+meffaire de cors et d'avoir, nous vous mandons que vous toute maniere de genz, qui par la
+teneur du dit arriere ban sont tenuz de venir en nostre ost, hastez de venir à nous
+au plus tost que vous pourrez, et en toutes manieres les contraingniez à venir, gardée
+en toutes choses la fourme de noz dites lettres. Donné à Arraz, le mercredi eu jour
+de la Magdelaine, l'an de grace mil troiscenz et quatre.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:48:32.001+07:00</Created>
+        <LastChange>2018-10-02T11:36:37.489+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3597865" pageNr="402" tsid="5556127" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=HVMXEZDOCWIPINSEPJXINNPK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YLLNERJMSROVACLQLUTZDEIK" imageId="1969605"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ046_0107V_A.jpg" imageWidth="2687" imageHeight="3567">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632850570759" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538451757236_244"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538451757236_244" custom="readingOrder {index:0;}">
+            <Coords points="304,226 2598,226 2598,902 304,902"/>
+            <TextLine id="line_1538452670745_275" custom="readingOrder {index:0;}">
+                <Coords points="1602,194 1693,196 1692,246 1601,244"/>
+                <Baseline points="1601,239 1692,241"/>
+                <TextEquiv>
+                    <Unicode>nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538452690183_277" custom="readingOrder {index:1;}">
+                <Coords points="347,250 768,240 1496,247 1972,231 2324,231 2467,242 2579,266 2569,315 2460,292 2322,281 1973,281 1497,297 768,290 348,300"/>
+                <Baseline points="348,295 768,285 1497,292 1973,276 2322,276 2461,287 2570,310"/>
+                <TextEquiv>
+                    <Unicode>quem, prout et cum illis castris, feodis, terris et locis, quos duxerimus designandos et assignandos. Nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538452701167_278" custom="readingOrder {index:2;}">
+                <Coords points="370,328 851,318 1194,310 1475,325 1925,324 2135,322 2310,315 2508,328 2585,356 2568,403 2498,377 2309,365 2136,372 1925,374 1474,375 1193,360 852,368 371,378"/>
+                <Baseline points="371,373 852,363 1193,355 1474,370 1925,369 2136,367 2309,360 2499,372 2570,398"/>
+                <TextEquiv>
+                    <Unicode>enim de comitatu ipso Pictavensi nobis retinemus, retinebimus et retinere poterimus loca, castra, feoda et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538452713637_279" custom="readingOrder {index:3;}">
+                <Coords points="361,399 776,403 1062,396 1602,398 1820,403 2088,395 2390,387 2492,402 2581,417 2572,466 2484,451 2387,437 2089,445 1820,453 1601,448 1062,446 776,453 361,449"/>
+                <Baseline points="361,444 776,448 1062,441 1601,443 1820,448 2089,440 2387,432 2485,446 2573,461"/>
+                <TextEquiv>
+                    <Unicode>terras, quos et quas duxerimus designandas, dictumque comitatum designabimus et limitabimus, prout nobis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538452725887_280" custom="readingOrder {index:4;}">
+                <Coords points="355,481 508,470 749,480 1128,480 1736,483 2314,474 2462,477 2525,479 2594,510 2573,556 2514,528 2461,527 2314,524 1736,533 1128,530 748,530 509,520 358,531"/>
+                <Baseline points="358,526 509,515 748,525 1128,525 1736,528 2314,519 2461,522 2515,523 2575,551"/>
+                <TextEquiv>
+                    <Unicode>placebit. Et residuum complementi dictarum viginti milium libratarum terre in locis et terris aliis asside</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538452733762_281" custom="readingOrder {index:5;}">
+                <Coords points="359,549 683,557 973,568 1423,566 1809,571 2410,559 2566,575 2560,625 2408,609 1809,621 1423,616 972,618 682,607 358,599"/>
+                <Baseline points="358,594 682,602 972,613 1423,611 1809,616 2408,604 2561,620"/>
+                <TextEquiv>
+                    <Unicode>bimus Philippo predicto, prout nobis videbitur faciendum. Quos civitatem, comitatum et terras Philippus pre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538452742044_282" custom="readingOrder {index:6;}">
+                <Coords points="352,634 708,643 1269,653 1725,650 2173,639 2484,653 2571,668 2563,717 2478,703 2173,689 1726,700 1269,703 707,693 351,684"/>
+                <Baseline points="351,679 707,688 1269,698 1726,695 2173,684 2479,698 2564,712"/>
+                <TextEquiv>
+                    <Unicode>dictus, heredes et successores sui tenebunt à nobis et successoribus nostris in feodum ad homagium, ressorto et su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538452749794_283" custom="readingOrder {index:7;}">
+                <Coords points="348,707 734,710 1331,727 1704,731 2390,724 2570,739 2566,789 2388,774 1704,781 1330,777 733,760 348,757"/>
+                <Baseline points="348,752 733,755 1330,772 1704,776 2388,769 2566,784"/>
+                <TextEquiv>
+                    <Unicode>perioritate nobis salvis in eis. quod ut ratum et stabile perseveret, nostrum presentibus fecimus apponi sigillum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538452758232_284" custom="readingOrder {index:8;}">
+                <Coords points="337,810 457,806 645,796 913,795 1049,812 1301,824 1950,813 1951,863 1300,874 1045,862 910,845 646,846 459,856 338,860"/>
+                <Baseline points="338,855 459,851 646,841 910,840 1045,857 1300,869 1951,858"/>
+                <TextEquiv>
+                    <Unicode>Actum apud Fontembliaudi, anno Domini m. ccc. undecimo, mense decembris.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nos
+quem, prout et cum illis castris, feodis, terris et locis, quos duxerimus designandos et assignandos. Nos
+enim de comitatu ipso Pictavensi nobis retinemus, retinebimus et retinere poterimus loca, castra, feoda et
+terras, quos et quas duxerimus designandas, dictumque comitatum designabimus et limitabimus, prout nobis
+placebit. Et residuum complementi dictarum viginti milium libratarum terre in locis et terris aliis asside
+bimus Philippo predicto, prout nobis videbitur faciendum. Quos civitatem, comitatum et terras Philippus pre
+dictus, heredes et successores sui tenebunt à nobis et successoribus nostris in feodum ad homagium, ressorto et su
+perioritate nobis salvis in eis. quod ut ratum et stabile perseveret, nostrum presentibus fecimus apponi sigillum.
+Actum apud Fontembliaudi, anno Domini m. ccc. undecimo, mense decembris.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

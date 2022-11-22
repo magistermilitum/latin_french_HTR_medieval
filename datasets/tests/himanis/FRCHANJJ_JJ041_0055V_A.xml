@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:48:15.808+07:00</Created>
+        <LastChange>2018-10-01T10:20:02.493+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3597833" pageNr="370" tsid="5556086" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=FDHGZCYMCEDCEVZZTUUIMTVL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GKFBLGOVKHVGPCTWEKOFTJQU" imageId="1969573"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ041_0055V_A.jpg" imageWidth="2740" imageHeight="3575">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632850455592" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538355173651_6"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538355173651_6" custom="readingOrder {index:0;}">
+            <Coords points="414,2528 2612,2528 2612,3102 414,3102"/>
+            <TextLine id="line_1538358771538_145" custom="readingOrder {index:0;}">
+                <Coords points="415,3042 435,2732 448,2647 618,2638 626,2562 1056,2553 1533,2548 2400,2553 2607,2543 2609,2593 2401,2603 1533,2598 1056,2603 659,2599 652,2675 484,2681 485,2733 465,3045"/>
+                <Baseline points="460,3045 480,2733 480,2678 649,2671 656,2595 1056,2598 1533,2593 2401,2598 2609,2588"/>
+                <TextEquiv>
+                    <Unicode>Philippus etc. Notum etc.,quod, cum magistri forestarumnostrarum et alie gentes nostre dicerent quodreligiosi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538358778012_146" custom="readingOrder {index:1;}">
+                <Coords points="691,2631 1767,2631 2419,2628 2591,2616 2594,2666 2421,2678 1767,2681 691,2681"/>
+                <Baseline points="691,2676 1767,2676 2421,2673 2594,2661"/>
+                <TextEquiv>
+                    <Unicode>viri, abbas et conventus Monasterii Novi Pictavensis, et prior prioratus de Boeto ad dictum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538358783051_147" custom="readingOrder {index:2;}">
+                <Coords points="503,2711 2121,2709 2593,2694 2594,2744 2122,2759 503,2761"/>
+                <Baseline points="503,2756 2122,2754 2594,2739"/>
+                <TextEquiv>
+                    <Unicode>monasteriumpertinentis, usagio quo ipsi, racionedicti prioratus, habebant ethabent in foresta nostra de Benaon,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538358787778_148" custom="readingOrder {index:3;}">
+                <Coords points="488,2794 2503,2789 2590,2766 2603,2814 2510,2839 488,2844"/>
+                <Baseline points="488,2839 2509,2834 2602,2809"/>
+                <TextEquiv>
+                    <Unicode>ad edificandum, reedificandum, ardendumet ad omnia alia neccessaria facienda, multipliciter abusi fuerant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538358792520_149" custom="readingOrder {index:4;}">
+                <Coords points="483,2877 2251,2872 2608,2862 2609,2912 2252,2922 483,2927"/>
+                <Baseline points="483,2922 2252,2917 2609,2907"/>
+                <TextEquiv>
+                    <Unicode>illudque usagiumpropter hoc ad manumnostram posuissent. Nos, attendentes quodips abbas et conventusnos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538358797481_150" custom="readingOrder {index:5;}">
+                <Coords points="488,2952 2000,2952 2607,2930 2609,2980 2001,3002 488,3002"/>
+                <Baseline points="488,2997 2001,2997 2609,2975"/>
+                <TextEquiv>
+                    <Unicode>trum, cum de nobis humanitus contigerit, et quondam carissime consortis nostre Johanne, olim Francie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538358802317_151" custom="readingOrder {index:6;}">
+                <Coords points="463,3040 1822,3040 2560,3025 2561,3075 1822,3090 463,3090"/>
+                <Baseline points="463,3085 1822,3085 2561,3070"/>
+                <TextEquiv>
+                    <Unicode>et Navarre regine , anniversaria annuatim in eorummonasterio facere librealiter concesserunt, et propter ea volentes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Philippus etc. Notum etc.,quod, cum magistri forestarumnostrarum et alie gentes nostre dicerent quodreligiosi
+viri, abbas et conventus Monasterii Novi Pictavensis, et prior prioratus de Boeto ad dictum
+monasteriumpertinentis, usagio quo ipsi, racionedicti prioratus, habebant ethabent in foresta nostra de Benaon,
+ad edificandum, reedificandum, ardendumet ad omnia alia neccessaria facienda, multipliciter abusi fuerant
+illudque usagiumpropter hoc ad manumnostram posuissent. Nos, attendentes quodips abbas et conventusnos
+trum, cum de nobis humanitus contigerit, et quondam carissime consortis nostre Johanne, olim Francie
+et Navarre regine , anniversaria annuatim in eorummonasterio facere librealiter concesserunt, et propter ea volentes</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

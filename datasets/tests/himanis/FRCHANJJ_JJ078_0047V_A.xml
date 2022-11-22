@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:53:55.331+07:00</Created>
+        <LastChange>2018-10-08T13:21:19.539+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3598238" pageNr="775" tsid="5556575" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=EMSZVAOPHVZXTSSHOBEETNMW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SRYDXFUXKCILBQOEWNTSYVIT" imageId="1969979"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ078_0047V_A.jpg" imageWidth="3571" imageHeight="4580">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632852396592" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538971525651_162"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538971525651_162" custom="readingOrder {index:0;}">
+            <Coords points="346,3600 3454,3600 3454,4090 346,4090"/>
+            <TextLine id="line_1538978926430_234" custom="readingOrder {index:0;}">
+                <Coords points="357,3660 965,3703 1832,3720 2179,3720 2696,3741 3234,3752 3426,3735 3430,3785 3235,3802 2695,3791 2178,3770 1832,3770 963,3753 354,3710"/>
+                <Baseline points="354,3705 963,3748 1832,3765 2178,3765 2695,3786 3235,3797 3430,3780"/>
+                <TextEquiv>
+                    <Unicode>Philippes, par la grace de Dieu, roys de France. Savoir faisons à touz, presenz et avenir, que, comme Bauduin de Couloignes , escuier, soit et ait </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538978939197_235" custom="readingOrder {index:1;}">
+                <Coords points="360,3752 833,3770 1198,3789 1636,3806 2442,3812 3008,3833 3437,3844 3436,3894 3007,3883 2441,3862 1635,3856 1196,3839 831,3820 358,3802"/>
+                <Baseline points="358,3797 831,3815 1196,3834 1635,3851 2441,3857 3007,3878 3436,3889"/>
+                <TextEquiv>
+                    <Unicode>esté en possession et saisine d’avoir garenne de connins appellée l’Espinaye, près de Vihers, et pour ce que il vint à sa cognoissance que il y avoit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538978959855_236" custom="readingOrder {index:2;}">
+                <Coords points="356,3827 1133,3861 1691,3884 2384,3900 2935,3913 3108,3925 3374,3919 3375,3969 3107,3975 2933,3963 2383,3950 1690,3934 1131,3911 354,3877"/>
+                <Baseline points="354,3872 1131,3906 1690,3929 2383,3945 2933,3958 3107,3970 3375,3964"/>
+                <TextEquiv>
+                    <Unicode>certains malfaiteurs en la dicte garenne, il et Bauduin de Couloignes, son neveu, fussent alez en la dicte garenne, et quant il y furent, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538978966777_237" custom="readingOrder {index:3;}">
+                <Coords points="357,3890 907,3932 1579,3955 2235,3984 2929,3997 3350,3997 3350,4047 2929,4047 2234,4034 1577,4005 905,3982 354,3940"/>
+                <Baseline points="354,3935 905,3977 1577,4000 2234,4029 2929,4042 3350,4042"/>
+                <TextEquiv>
+                    <Unicode>il se départirent l'un de l'autre bien loing pour espier se il trouveroient iceulz malfaiteurs, et assez tost après leur departement, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Philippes, par la grace de Dieu, roys de France. Savoir faisons à touz, presenz et avenir, que, comme Bauduin de Couloignes , escuier, soit et ait 
+esté en possession et saisine d’avoir garenne de connins appellée l’Espinaye, près de Vihers, et pour ce que il vint à sa cognoissance que il y avoit 
+certains malfaiteurs en la dicte garenne, il et Bauduin de Couloignes, son neveu, fussent alez en la dicte garenne, et quant il y furent, 
+il se départirent l'un de l'autre bien loing pour espier se il trouveroient iceulz malfaiteurs, et assez tost après leur departement, </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

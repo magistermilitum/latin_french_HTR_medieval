@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:48:37.492+07:00</Created>
+        <LastChange>2018-10-02T13:37:17.437+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3597872" pageNr="409" tsid="5556137" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=SWCZEFRJWGXKDEBNSGKGPQDR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VXNZTABMBARFAAGXIXTXEODE" imageId="1969612"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ048_0128V_A.jpg" imageWidth="2915" imageHeight="3847">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632850599106" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538452338589_255"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538452338589_255" custom="readingOrder {index:0;}">
+            <Coords points="358,1310 2808,1310 2808,3562 358,3562"/>
+            <TextLine id="line_1538453862341_415" custom="readingOrder {index:0;}">
+                <Coords points="416,1367 770,1370 1334,1372 2702,1407 2701,1457 1333,1422 770,1420 416,1417"/>
+                <Baseline points="416,1412 770,1415 1333,1417 2701,1452"/>
+                <TextEquiv>
+                    <Unicode>Philippus Dei gratia, etc. Notum facimus etc., nos infrascriptas vidisse litteras, formam que sequitur continentes :A touz ceus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538453867637_416" custom="readingOrder {index:1;}">
+                <Coords points="419,1459 973,1459 1685,1485 2697,1498 2696,1548 1684,1535 972,1509 419,1509"/>
+                <Baseline points="419,1504 972,1504 1684,1530 2696,1543"/>
+                <TextEquiv>
+                    <Unicode>qui ces presentes lettres verront et orront, Pierres de Villeblouain, chevalier le roy de France et son se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538453873824_417" custom="readingOrder {index:2;}">
+                <Coords points="428,1543 1101,1551 2404,1576 2693,1587 2691,1637 2403,1626 1100,1601 427,1593"/>
+                <Baseline points="427,1588 1100,1596 2403,1621 2691,1632"/>
+                <TextEquiv>
+                    <Unicode>neschal en Poitou et en Lemozin, salut en nostre Seigneur. Comme Guillaume de Montruillon nous ait</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538453879574_418" custom="readingOrder {index:3;}">
+                <Coords points="416,1626 907,1634 1500,1652 2695,1666 2694,1716 1499,1702 906,1684 415,1676"/>
+                <Baseline points="415,1671 906,1679 1499,1697 2694,1711"/>
+                <TextEquiv>
+                    <Unicode>par pluseurs fois requis que nous li ballissens, à li et à ses hoirs à perpetuauté, pour le roy, un appen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538453894369_419" custom="readingOrder {index:4;}">
+                <Coords points="438,1708 762,1716 1269,1731 2113,1749 2694,1755 2694,1805 2112,1799 1268,1781 761,1766 437,1758"/>
+                <Baseline points="437,1753 761,1761 1268,1776 2112,1794 2694,1800"/>
+                <TextEquiv>
+                    <Unicode>tiz qui tient as bans où l'on vent le pain et as bans où l'on vent le poisson, d'une part,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538453908321_420" custom="readingOrder {index:5;}">
+                <Coords points="432,1804 1124,1807 1891,1821 2009,1836 2685,1829 2685,1879 2006,1886 1888,1871 1123,1857 432,1854"/>
+                <Baseline points="432,1849 1123,1852 1888,1866 2006,1881 2685,1874"/>
+                <TextEquiv>
+                    <Unicode>et la voie par où l'on passe entre la maison Pierres Sarrasin et le dit appentiz, d'autre part,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538453923022_421" custom="readingOrder {index:6;}">
+                <Coords points="429,1881 849,1884 1133,1896 1924,1914 2676,1926 2675,1976 1923,1964 1132,1946 848,1934 429,1931"/>
+                <Baseline points="429,1926 848,1929 1132,1941 1923,1959 2675,1971"/>
+                <TextEquiv>
+                    <Unicode>pour quarante solz d'annuel cens, à estre renduz chascun an à nostre seigneur le roy ; et nous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538453929881_422" custom="readingOrder {index:7;}">
+                <Coords points="437,1968 829,1975 1402,1996 2057,2006 2675,2006 2675,2056 2057,2056 1401,2046 828,2025 436,2018"/>
+                <Baseline points="436,2013 828,2020 1401,2041 2057,2051 2675,2051"/>
+                <TextEquiv>
+                    <Unicode>seur ce regardans et considerans, pour nostre povair, le pourfit le roy, aions mandé et comman</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538453935427_423" custom="readingOrder {index:8;}">
+                <Coords points="437,2061 682,2061 1386,2078 2689,2098 2688,2148 1385,2128 681,2111 437,2111"/>
+                <Baseline points="437,2106 681,2106 1385,2123 2688,2143"/>
+                <TextEquiv>
+                    <Unicode>dé au prevost de Niort et à Pierres Engot, sergant le roy ou dit lieu, et à chascun de eus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538453940848_424" custom="readingOrder {index:9;}">
+                <Coords points="427,2151 1072,2163 1889,2171 2660,2180 2659,2230 1889,2221 1071,2213 426,2201"/>
+                <Baseline points="426,2196 1071,2208 1889,2216 2659,2225"/>
+                <TextEquiv>
+                    <Unicode>que il feissent crier et preconizer par les eglises et par les marchiez, en la ville de Niort, que se il y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538453947332_425" custom="readingOrder {index:10;}">
+                <Coords points="448,2247 1131,2255 2670,2260 2670,2310 1131,2305 447,2297"/>
+                <Baseline points="447,2292 1131,2300 2670,2305"/>
+                <TextEquiv>
+                    <Unicode>avoit nul qui plus vousist donner au roy du dit appentiz, que il venist avant et preist le dit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538453960097_426" custom="readingOrder {index:11;}">
+                <Coords points="453,2332 901,2340 1328,2350 2312,2348 2745,2360 2744,2410 2311,2398 1328,2400 900,2390 452,2382"/>
+                <Baseline points="452,2377 900,2385 1328,2395 2311,2393 2744,2405"/>
+                <TextEquiv>
+                    <Unicode>marchié ; et le dit prevost et sergant eurent fait crier par pluseurs foiz as foires et as marchiez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538453965096_427" custom="readingOrder {index:12;}">
+                <Coords points="438,2426 1040,2434 1993,2441 2691,2450 2690,2500 1993,2491 1040,2484 437,2476"/>
+                <Baseline points="437,2471 1040,2479 1993,2486 2690,2495"/>
+                <TextEquiv>
+                    <Unicode>publiement, si comme il nous ont fait relacion tant par lettres que par vive voiz. Nous, eu conseil seur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538453973095_428" custom="readingOrder {index:13;}">
+                <Coords points="454,2510 1106,2526 2692,2544 2691,2594 1105,2576 453,2560"/>
+                <Baseline points="453,2555 1105,2571 2691,2589"/>
+                <TextEquiv>
+                    <Unicode>ce et deliberacion pleniere, le profit le roy regardans et considerans touz jours, si comme dessus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538453978501_429" custom="readingOrder {index:14;}">
+                <Coords points="450,2591 1002,2614 2750,2638 2749,2688 1001,2664 448,2641"/>
+                <Baseline points="448,2636 1001,2659 2749,2683"/>
+                <TextEquiv>
+                    <Unicode>est dit, pour ce que nous ne poions trouver qui riens outre en vosist donner du dit appentiz, pour</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538453982329_430" custom="readingOrder {index:15;}">
+                <Coords points="443,2682 952,2698 2700,2724 2699,2774 951,2748 442,2732"/>
+                <Baseline points="442,2727 951,2743 2699,2769"/>
+                <TextEquiv>
+                    <Unicode>nostre sire le roy et en lieu de li, comme son seneschal, au dit Guillaume et à ses hoirs le dit appentiz,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538453987109_431" custom="readingOrder {index:16;}">
+                <Coords points="438,2769 860,2777 2721,2809 2720,2859 859,2827 437,2819"/>
+                <Baseline points="437,2814 859,2822 2720,2854"/>
+                <TextEquiv>
+                    <Unicode>si comme il est dessus-devisé, baillames et otroiasmes à tenir et à esploitier de lui et des siens,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538454001061_432" custom="readingOrder {index:17;}">
+                <Coords points="442,2857 1016,2873 1755,2884 2687,2892 2687,2942 1754,2934 1015,2923 441,2907"/>
+                <Baseline points="441,2902 1015,2918 1754,2929 2687,2937"/>
+                <TextEquiv>
+                    <Unicode>à perpetuité, pour les diz quarante solz de cens annuaus, à estre renduz de lui et des siens,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538454066804_433" custom="readingOrder {index:18;}">
+                <Coords points="455,2951 997,2968 2669,2970 2669,3020 996,3018 454,3001"/>
+                <Baseline points="454,2996 996,3013 2669,3015"/>
+                <TextEquiv>
+                    <Unicode>en chascune feste de saint Michel, au roy nostre sire, sauve et retenu toutevoies le droit le roy.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538454074507_434" custom="readingOrder {index:19;}">
+                <Coords points="462,3041 1160,3048 2187,3061 2668,3051 2669,3101 2187,3111 1159,3098 462,3091"/>
+                <Baseline points="462,3086 1159,3093 2187,3106 2669,3096"/>
+                <TextEquiv>
+                    <Unicode>En tesmoing des queles choses, nous avons donné au dit Guillaume et as siens ces presentes lettres,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538454082631_435" custom="readingOrder {index:20;}">
+                <Coords points="451,3128 1186,3140 1619,3139 2741,3152 2740,3202 1619,3189 1186,3190 450,3178"/>
+                <Baseline points="450,3173 1186,3185 1619,3184 2740,3197"/>
+                <TextEquiv>
+                    <Unicode>de nostre seel seelées, en tesmoing de la verité. Donné à Niort, le samedi emprès la saint Remy, l'an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538454093349_436" custom="readingOrder {index:21;}">
+                <Coords points="455,3208 1145,3225 1488,3225 2074,3229 2709,3234 2709,3284 2074,3279 1488,3275 1144,3275 454,3258"/>
+                <Baseline points="454,3253 1144,3270 1488,3270 2074,3274 2709,3279"/>
+                <TextEquiv>
+                    <Unicode>m. ccc. et sept. Nos autem predicta omnia et singula rata et grata habentes, ea volumus, laudamus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538454098457_437" custom="readingOrder {index:22;}">
+                <Coords points="466,3296 860,3305 1839,3310 2675,3307 2675,3357 1839,3360 859,3355 465,3346"/>
+                <Baseline points="465,3341 859,3350 1839,3355 2675,3352"/>
+                <TextEquiv>
+                    <Unicode>approbamus et auctoritate nostra regia, tenore presentium, confirmamus. Salvo in aliis, etc. quod ut firmum,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538454103926_438" custom="readingOrder {index:23;}">
+                <Coords points="469,3386 1248,3401 1916,3394 2631,3377 2632,3427 1917,3444 1248,3451 468,3436"/>
+                <Baseline points="468,3431 1248,3446 1917,3439 2632,3422"/>
+                <TextEquiv>
+                    <Unicode>etc. Actum Parisius, anno Domini m. ccc. duodecimo, mense marcii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538454106894_439" custom="readingOrder {index:24;}">
+                <Coords points="2632,3409 2798,3399 2801,3449 2635,3459"/>
+                <Baseline points="2635,3454 2801,3444"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538454108706_440" custom="readingOrder {index:25;}">
+                <Coords points="2181,3477 2393,3462 2396,3512 2184,3527"/>
+                <Baseline points="2184,3522 2396,3507"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Philippus Dei gratia, etc. Notum facimus etc., nos infrascriptas vidisse litteras, formam que sequitur continentes :A touz ceus
+qui ces presentes lettres verront et orront, Pierres de Villeblouain, chevalier le roy de France et son se
+neschal en Poitou et en Lemozin, salut en nostre Seigneur. Comme Guillaume de Montruillon nous ait
+par pluseurs fois requis que nous li ballissens, à li et à ses hoirs à perpetuauté, pour le roy, un appen
+tiz qui tient as bans où l'on vent le pain et as bans où l'on vent le poisson, d'une part,
+et la voie par où l'on passe entre la maison Pierres Sarrasin et le dit appentiz, d'autre part,
+pour quarante solz d'annuel cens, à estre renduz chascun an à nostre seigneur le roy ; et nous
+seur ce regardans et considerans, pour nostre povair, le pourfit le roy, aions mandé et comman
+dé au prevost de Niort et à Pierres Engot, sergant le roy ou dit lieu, et à chascun de eus,
+que il feissent crier et preconizer par les eglises et par les marchiez, en la ville de Niort, que se il y
+avoit nul qui plus vousist donner au roy du dit appentiz, que il venist avant et preist le dit
+marchié ; et le dit prevost et sergant eurent fait crier par pluseurs foiz as foires et as marchiez
+publiement, si comme il nous ont fait relacion tant par lettres que par vive voiz. Nous, eu conseil seur
+ce et deliberacion pleniere, le profit le roy regardans et considerans touz jours, si comme dessus
+est dit, pour ce que nous ne poions trouver qui riens outre en vosist donner du dit appentiz, pour
+nostre sire le roy et en lieu de li, comme son seneschal, au dit Guillaume et à ses hoirs le dit appentiz,
+si comme il est dessus-devisé, baillames et otroiasmes à tenir et à esploitier de lui et des siens,
+à perpetuité, pour les diz quarante solz de cens annuaus, à estre renduz de lui et des siens,
+en chascune feste de saint Michel, au roy nostre sire, sauve et retenu toutevoies le droit le roy.
+En tesmoing des queles choses, nous avons donné au dit Guillaume et as siens ces presentes lettres,
+de nostre seel seelées, en tesmoing de la verité. Donné à Niort, le samedi emprès la saint Remy, l'an
+m. ccc. et sept. Nos autem predicta omnia et singula rata et grata habentes, ea volumus, laudamus,
+approbamus et auctoritate nostra regia, tenore presentium, confirmamus. Salvo in aliis, etc. quod ut firmum,
+etc. Actum Parisius, anno Domini m. ccc. duodecimo, mense marcii.
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:48:51.532+07:00</Created>
+        <LastChange>2018-10-04T09:41:07.870+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3597905" pageNr="442" tsid="5556171" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=VGOQNTRMTRIGXKCHWJKPAIAF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LWLRLOXEFLBZKCDRHZOQERMO" imageId="1969645"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ053_0114R_A.jpg" imageWidth="2931" imageHeight="4011">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632850723433" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538616610692_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538616610692_3" custom="readingOrder {index:0;}">
+            <Coords points="38,1406 2230,1406 2230,2946 38,2946"/>
+            <TextLine id="line_1538618736902_32" custom="readingOrder {index:0;}">
+                <Coords points="56,1769 240,1754 453,1755 974,1742 1409,1719 1789,1719 2271,1695 2687,1685 2688,1735 2273,1745 1790,1769 1410,1769 976,1792 453,1805 242,1804 60,1819"/>
+                <Baseline points="60,1814 242,1799 453,1800 976,1787 1410,1764 1790,1764 2273,1740 2688,1730"/>
+                <TextEquiv>
+                    <Unicode>Philippus, etc. Notum facimus universis, tam presentibus quam futuris, nos infrascriptas vidisse litteras, formam que sequitur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538618751106_34" custom="readingOrder {index:1;}">
+                <Coords points="985,1780 1077,1778 1078,1828 986,1830"/>
+                <Baseline points="986,1825 1078,1823"/>
+                <TextEquiv>
+                    <Unicode>des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538618748575_33" custom="readingOrder {index:2;}">
+                <Coords points="79,1830 208,1840 340,1839 602,1830 854,1821 1208,1814 1915,1783 2668,1761 2669,1811 1917,1833 1209,1864 855,1871 604,1880 341,1889 206,1890 76,1880"/>
+                <Baseline points="76,1875 206,1885 341,1884 604,1875 855,1866 1209,1859 1917,1828 2669,1806"/>
+                <TextEquiv>
+                    <Unicode>continentes : Memoires est que comme contenz et debaz esmeuz et pendanz en l'assise de Fontenay, entre l'abbé</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538618768592_35" custom="readingOrder {index:3;}">
+                <Coords points="71,1896 240,1904 358,1913 740,1892 1475,1883 2038,1864 2660,1835 2662,1885 2040,1914 1476,1933 742,1942 358,1963 237,1954 69,1946"/>
+                <Baseline points="69,1941 237,1949 358,1958 742,1937 1476,1928 2040,1909 2662,1880"/>
+                <TextEquiv>
+                    <Unicode>et le convent de Mallezays et les parrochiens de la parroiche de Chaillei, d'une partie, et l'abbé et le convent de More</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538618777280_36" custom="readingOrder {index:4;}">
+                <Coords points="68,1973 259,1977 481,1984 899,1965 1595,1946 2660,1904 2662,1954 1597,1996 901,2015 481,2034 258,2027 67,2023"/>
+                <Baseline points="67,2018 258,2022 481,2029 901,2010 1597,1991 2662,1949"/>
+                <TextEquiv>
+                    <Unicode>le, d'autre, sus debat d'avoir voie par terre et par eaue en certains leus, appelez le Bot de la Vandée, autrefoiz monstrez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538618797766_37" custom="readingOrder {index:5;}">
+                <Coords points="76,2041 249,2053 525,2053 849,2037 918,2041 1093,2037 1378,2024 1864,2022 2674,1994 2676,2044 1865,2072 1379,2074 1095,2087 917,2091 849,2087 526,2103 247,2103 73,2091"/>
+                <Baseline points="73,2086 247,2098 526,2098 849,2082 917,2086 1095,2082 1379,2069 1865,2067 2676,2039"/>
+                <TextEquiv>
+                    <Unicode>et declariez, selon les enquestes sur ce faites et publiées, fust compromis des dites parties en nous, Jehans sires</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538620843275_140" custom="readingOrder {index:6;}">
+                <Coords points="58,2116 390,2124 894,2114 1391,2109 1926,2091 2696,2061 2698,2111 1928,2141 1392,2159 895,2164 390,2174 57,2166"/>
+                <Baseline points="57,2161 390,2169 895,2159 1392,2154 1928,2136 2698,2106"/>
+                <TextEquiv>
+                    <Unicode>de Vauceles, chevalier, jadis ballis de Touraine, comme en nostre persone, sanz office de ballif, haut et bas, à nostre volenté,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538618838175_39" custom="readingOrder {index:7;}">
+                <Coords points="69,2200 358,2202 945,2191 1719,2176 2675,2146 2676,2196 1720,2226 946,2241 358,2252 69,2250"/>
+                <Baseline points="69,2245 358,2247 946,2236 1720,2221 2676,2191"/>
+                <TextEquiv>
+                    <Unicode>à ordener et à sentencier une foiz ou pluseurs, si comme nous voudriens et là où il nous plairoit, appelez les diz re</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538618845285_40" custom="readingOrder {index:8;}">
+                <Coords points="67,2269 313,2271 702,2273 1248,2262 1905,2250 2679,2224 2681,2274 1906,2300 1249,2312 702,2323 313,2321 67,2319"/>
+                <Baseline points="67,2314 313,2316 702,2318 1249,2307 1906,2295 2681,2269"/>
+                <TextEquiv>
+                    <Unicode>ligieus et les diz parrossiens, ou leur procureur, si comme il est plus plainement contenu en compromis fait sur ce,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538618856098_41" custom="readingOrder {index:9;}">
+                <Coords points="71,2337 273,2345 728,2354 1296,2344 2144,2313 2694,2304 2695,2354 2145,2363 1297,2394 728,2404 272,2395 69,2387"/>
+                <Baseline points="69,2382 272,2390 728,2399 1297,2389 2145,2358 2695,2349"/>
+                <TextEquiv>
+                    <Unicode>et, par vertu du dit compromis, nous eussiens pris et receu en nous le fais et la charge, selon la fourme et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538618865037_42" custom="readingOrder {index:10;}">
+                <Coords points="70,2413 246,2418 430,2427 1060,2428 1808,2418 2661,2392 2662,2442 1809,2468 1060,2478 429,2477 244,2468 69,2463"/>
+                <Baseline points="69,2458 244,2463 429,2472 1060,2473 1809,2463 2662,2437"/>
+                <TextEquiv>
+                    <Unicode>la manere à nous balliées des dites parties, nous aions veu diligenment les enquestes faites sur ce et les</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538618897664_43" custom="readingOrder {index:11;}">
+                <Coords points="105,2479 201,2489 403,2501 712,2501 1152,2498 1612,2498 2199,2498 2667,2481 2669,2531 2200,2548 1612,2548 1152,2548 712,2551 402,2551 197,2539 99,2529"/>
+                <Baseline points="100,2524 197,2534 402,2546 712,2546 1152,2543 1612,2543 2200,2543 2669,2526"/>
+                <TextEquiv>
+                    <Unicode>raisons d'une partie et d'autre, et nous, à la fin de plus seurement procedier et determinier du dit debat, nous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538618908009_44" custom="readingOrder {index:12;}">
+                <Coords points="88,2551 152,2567 365,2572 1243,2577 2318,2570 2685,2562 2686,2612 2319,2620 1243,2627 364,2622 145,2617 76,2600"/>
+                <Baseline points="77,2595 146,2612 364,2617 1243,2622 2319,2615 2686,2607"/>
+                <TextEquiv>
+                    <Unicode>aions appelé les dites parties sus les lieus contencieus, et, les parties presentes sus les diz leus par devant nous, à nous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538618916712_45" custom="readingOrder {index:13;}">
+                <Coords points="83,2618 171,2637 290,2648 809,2659 1458,2659 2161,2652 2676,2641 2677,2691 2162,2702 1458,2709 809,2709 287,2698 163,2686 73,2667"/>
+                <Baseline points="74,2662 164,2681 287,2693 809,2704 1458,2704 2162,2697 2677,2686"/>
+                <TextEquiv>
+                    <Unicode>plus plainement enfourmer, aiens enquis diligenment du droit des possessions et des esploiz d'une partie et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538618925776_46" custom="readingOrder {index:14;}">
+                <Coords points="77,2694 170,2714 554,2730 1432,2737 1924,2737 2709,2719 2710,2769 1925,2787 1432,2787 553,2780 163,2764 66,2743"/>
+                <Baseline points="67,2738 164,2759 553,2775 1432,2782 1925,2782 2710,2764"/>
+                <TextEquiv>
+                    <Unicode>d'autre, et o les religieus de Morelle et o les religieus de Mallezais, et o pluseurs autres persones à nous bal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538618934386_47" custom="readingOrder {index:15;}">
+                <Coords points="84,2765 205,2790 760,2809 1529,2807 1972,2801 2676,2802 2676,2852 1972,2851 1529,2857 759,2859 199,2840 74,2814"/>
+                <Baseline points="75,2809 200,2835 759,2854 1529,2852 1972,2846 2676,2847"/>
+                <TextEquiv>
+                    <Unicode>liées et administrées sur ce des procureurs d'une partie et d'autre, et du procureur des diz hommes, nous, enquis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538618954684_48" custom="readingOrder {index:16;}">
+                <Coords points="99,2833 130,2851 335,2870 879,2887 1459,2885 2497,2875 2684,2877 2684,2927 2497,2925 1459,2935 878,2937 332,2920 116,2899 75,2876"/>
+                <Baseline points="77,2872 117,2894 332,2915 878,2932 1459,2930 2497,2920 2684,2922"/>
+                <TextEquiv>
+                    <Unicode>diligenment et parfaitement sus toutes les choses dessus dites, et oïes les raisons d'une partie et d'autre, appelées les di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538618982077_49" custom="readingOrder {index:17;}">
+                <Coords points="84,2911 240,2942 643,2951 795,2958 1388,2975 1451,2967 2061,2956 2244,2968 2677,2951 2679,3001 2243,3018 2060,3006 1454,3017 1390,3025 793,3008 641,3001 234,2992 74,2960"/>
+                <Baseline points="75,2955 235,2987 641,2996 793,3003 1390,3020 1454,3012 2060,3001 2243,3013 2679,2996"/>
+                <TextEquiv>
+                    <Unicode>tes parties par devant nous par pluseurs jourz et par pluseurs foiz sollennelment et deuement à oïr nostre dit et nostre or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538619039097_52" custom="readingOrder {index:18;}">
+                <Coords points="104,2983 143,3007 229,3015 598,3027 1135,3060 1537,3046 1947,3032 2319,3046 2547,3034 2692,3031 2693,3081 2549,3084 2319,3096 1947,3082 1539,3096 1134,3110 596,3077 226,3065 127,3055 78,3026"/>
+                <Baseline points="81,3022 129,3050 226,3060 596,3072 1134,3105 1539,3091 1947,3077 2319,3091 2549,3079 2693,3076"/>
+                <TextEquiv>
+                    <Unicode>dinacion, après pluseurs assignacions de jourz faites de nous aus dites parties, consideranz et resgardanz les granz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538619058301_53" custom="readingOrder {index:19;}">
+                <Coords points="94,3058 164,3082 242,3093 504,3105 743,3102 879,3112 1157,3134 1331,3121 1824,3121 2237,3124 2363,3126 2656,3110 2658,3160 2364,3176 2236,3174 1824,3171 1333,3171 1157,3184 876,3162 742,3152 503,3155 238,3143 152,3131 77,3105"/>
+                <Baseline points="79,3100 153,3126 238,3138 503,3150 742,3147 876,3157 1157,3179 1333,3166 1824,3166 2236,3169 2364,3171 2658,3155"/>
+                <TextEquiv>
+                    <Unicode>dilacions qui ont esté en la dite cause avant le dit compromis, c'est assavoir de trente cinc ans et de plus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538619078224_54" custom="readingOrder {index:20;}">
+                <Coords points="84,3135 173,3160 252,3169 484,3181 902,3188 1518,3205 1678,3200 1943,3192 2092,3190 2177,3204 2682,3197 2683,3247 2174,3254 2089,3240 1944,3242 1679,3250 1518,3255 901,3238 482,3231 248,3219 163,3209 71,3183"/>
+                <Baseline points="72,3178 164,3204 248,3214 482,3226 901,3233 1518,3250 1679,3245 1944,3237 2089,3235 2174,3249 2683,3242"/>
+                <TextEquiv>
+                    <Unicode>nous aions fait ajourner l'abbé et le convent de Morelle et les diz religieus de Maillezais, et le procureur des diz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538619105444_55" custom="readingOrder {index:21;}">
+                <Coords points="97,3209 172,3243 361,3249 638,3261 701,3254 776,3250 1112,3271 1478,3288 1591,3273 1782,3276 2125,3280 2384,3273 2687,3264 2688,3314 2385,3323 2125,3330 1781,3326 1594,3323 1480,3338 1110,3321 776,3300 705,3304 639,3311 359,3299 161,3292 77,3255"/>
+                <Baseline points="79,3250 162,3287 359,3294 639,3306 705,3299 776,3295 1110,3316 1480,3333 1594,3318 1781,3321 2125,3325 2385,3318 2688,3309"/>
+                <TextEquiv>
+                    <Unicode>hommes, au samedi avant la Trinité, par devant nous arbitre dessus dit, à Fontenay, par Guillaume le Begues, lequiel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538619119288_56" custom="readingOrder {index:22;}">
+                <Coords points="88,3280 166,3309 287,3327 689,3334 1173,3337 1427,3361 1920,3353 2281,3358 2691,3339 2693,3389 2282,3408 1920,3403 1425,3411 1171,3387 688,3384 283,3377 154,3358 70,3327"/>
+                <Baseline points="72,3322 155,3353 283,3372 688,3379 1171,3382 1425,3406 1920,3398 2282,3403 2693,3384"/>
+                <TextEquiv>
+                    <Unicode>nous avons establi, commis et donné pooir de les ajourner en lieu de nous, selon nostre pooir dessus dit, lequel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538619138227_57" custom="readingOrder {index:23;}">
+                <Coords points="85,3347 184,3385 401,3417 808,3401 1310,3422 1780,3425 2664,3427 2664,3477 1780,3475 1309,3472 808,3451 399,3467 172,3434 67,3394"/>
+                <Baseline points="69,3389 173,3429 399,3462 808,3446 1309,3467 1780,3470 2664,3472"/>
+                <TextEquiv>
+                    <Unicode>dit Guillaume ajourna le dit abbé et convent de Morelle à l'abbeye en la persone de prieurs de cloistre et de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538619178198_58" custom="readingOrder {index:24;}">
+                <Coords points="84,3428 167,3463 471,3486 883,3488 1063,3495 1480,3505 2079,3508 2647,3501 2648,3551 2079,3558 1479,3555 1062,3545 882,3538 469,3536 156,3512 65,3475"/>
+                <Baseline points="67,3470 157,3507 469,3531 882,3533 1062,3540 1479,3550 2079,3553 2648,3546"/>
+                <TextEquiv>
+                    <Unicode>souprieurs de la dite abbeye, à proceder et aler avant en la cause ou en negoce dessus diz, selon procès,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Philippus, etc. Notum facimus universis, tam presentibus quam futuris, nos infrascriptas vidisse litteras, formam que sequitur
+des
+continentes : Memoires est que comme contenz et debaz esmeuz et pendanz en l'assise de Fontenay, entre l'abbé
+et le convent de Mallezays et les parrochiens de la parroiche de Chaillei, d'une partie, et l'abbé et le convent de More
+le, d'autre, sus debat d'avoir voie par terre et par eaue en certains leus, appelez le Bot de la Vandée, autrefoiz monstrez
+et declariez, selon les enquestes sur ce faites et publiées, fust compromis des dites parties en nous, Jehans sires
+de Vauceles, chevalier, jadis ballis de Touraine, comme en nostre persone, sanz office de ballif, haut et bas, à nostre volenté,
+à ordener et à sentencier une foiz ou pluseurs, si comme nous voudriens et là où il nous plairoit, appelez les diz re
+ligieus et les diz parrossiens, ou leur procureur, si comme il est plus plainement contenu en compromis fait sur ce,
+et, par vertu du dit compromis, nous eussiens pris et receu en nous le fais et la charge, selon la fourme et
+la manere à nous balliées des dites parties, nous aions veu diligenment les enquestes faites sur ce et les
+raisons d'une partie et d'autre, et nous, à la fin de plus seurement procedier et determinier du dit debat, nous
+aions appelé les dites parties sus les lieus contencieus, et, les parties presentes sus les diz leus par devant nous, à nous
+plus plainement enfourmer, aiens enquis diligenment du droit des possessions et des esploiz d'une partie et
+d'autre, et o les religieus de Morelle et o les religieus de Mallezais, et o pluseurs autres persones à nous bal
+liées et administrées sur ce des procureurs d'une partie et d'autre, et du procureur des diz hommes, nous, enquis
+diligenment et parfaitement sus toutes les choses dessus dites, et oïes les raisons d'une partie et d'autre, appelées les di
+tes parties par devant nous par pluseurs jourz et par pluseurs foiz sollennelment et deuement à oïr nostre dit et nostre or
+dinacion, après pluseurs assignacions de jourz faites de nous aus dites parties, consideranz et resgardanz les granz
+dilacions qui ont esté en la dite cause avant le dit compromis, c'est assavoir de trente cinc ans et de plus,
+nous aions fait ajourner l'abbé et le convent de Morelle et les diz religieus de Maillezais, et le procureur des diz
+hommes, au samedi avant la Trinité, par devant nous arbitre dessus dit, à Fontenay, par Guillaume le Begues, lequiel
+nous avons establi, commis et donné pooir de les ajourner en lieu de nous, selon nostre pooir dessus dit, lequel
+dit Guillaume ajourna le dit abbé et convent de Morelle à l'abbeye en la persone de prieurs de cloistre et de
+souprieurs de la dite abbeye, à proceder et aler avant en la cause ou en negoce dessus diz, selon procès,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

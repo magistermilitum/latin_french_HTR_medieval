@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:53:06.706+07:00</Created>
+        <LastChange>2018-10-09T10:24:36.932+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3598136" pageNr="673" tsid="5556428" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=FTASSXFAHGCPCUXZJVXCKTQO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CNQKOETZZIBQSVGKWXQMSJZM" imageId="1969877"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ073_0044V_A.jpg" imageWidth="3219" imageHeight="4591">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632851890559" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538989270396_712"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538989270396_712" custom="readingOrder {index:0;}">
+            <Coords points="634,2302 2856,2302 2856,3704 634,3704"/>
+            <TextLine id="line_1538990090770_767" custom="readingOrder {index:0;}">
+                <Coords points="1037,2383 1450,2376 2466,2337 2759,2334 2759,2384 2467,2387 1451,2426 1038,2433"/>
+                <Baseline points="1038,2428 1451,2421 2467,2382 2759,2379"/>
+                <TextEquiv>
+                    <Unicode>Philippes, par la grace de Dieu, roys de France. Savoir faisons à touz, presenz et avenir, que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990095926_768" custom="readingOrder {index:1;}">
+                <Coords points="737,2455 1075,2461 1598,2439 2120,2431 2784,2400 2786,2450 2121,2481 1599,2489 1076,2511 736,2505"/>
+                <Baseline points="736,2500 1076,2506 1599,2484 2121,2476 2786,2445"/>
+                <TextEquiv>
+                    <Unicode>nous, eu consideracion et regart aus bons et agreables services que nostre amé Guillaume Gormont, à present</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990107066_769" custom="readingOrder {index:2;}">
+                <Coords points="747,2527 1009,2527 1607,2527 2323,2489 2775,2480 2776,2530 2325,2539 1608,2577 1009,2577 747,2577"/>
+                <Baseline points="747,2572 1009,2572 1608,2572 2325,2534 2776,2525"/>
+                <TextEquiv>
+                    <Unicode>nostre prevost de Paris, nous a faiz en noz presentes guerres et fait encore de jour en jour, tant en l'office</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990111815_770" custom="readingOrder {index:3;}">
+                <Coords points="731,2607 1105,2607 1628,2603 2752,2565 2754,2615 1629,2653 1105,2657 731,2657"/>
+                <Baseline points="731,2652 1105,2652 1629,2648 2754,2610"/>
+                <TextEquiv>
+                    <Unicode>de la dite prevosté comme autrement, des quelz services nous nous tenons pour enfourmez à plain, avons</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990118049_771" custom="readingOrder {index:4;}">
+                <Coords points="731,2678 1046,2683 1967,2673 2316,2655 2830,2651 2830,2701 2317,2705 1968,2723 1046,2733 730,2728"/>
+                <Baseline points="730,2723 1046,2728 1968,2718 2317,2700 2830,2696"/>
+                <TextEquiv>
+                    <Unicode>donné et octroyé, donnons et octroions par la teneur de ces presentes lettres, de nostre plain povoir et auctorité</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990124048_772" custom="readingOrder {index:5;}">
+                <Coords points="734,2757 980,2757 1294,2758 1686,2752 2243,2733 2813,2719 2814,2769 2244,2783 1687,2802 1294,2808 980,2807 734,2807"/>
+                <Baseline points="734,2802 980,2802 1294,2803 1687,2797 2244,2778 2814,2764"/>
+                <TextEquiv>
+                    <Unicode>royal, de grace especial et certaine science, au dit Guillaume, à ses hoirs et à ceulx qui auront cause de luy, à touz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990132126_773" custom="readingOrder {index:6;}">
+                <Coords points="746,2842 1306,2831 2090,2826 2595,2809 2827,2810 2827,2860 2596,2859 2091,2876 1307,2881 747,2892"/>
+                <Baseline points="747,2887 1307,2876 2091,2871 2596,2854 2827,2855"/>
+                <TextEquiv>
+                    <Unicode>jours mais perpetuelment et hereditablement, une maison assise à Lodun, appellée Champherbeus, tenant à la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990137219_774" custom="readingOrder {index:7;}">
+                <Coords points="749,2915 1130,2911 2020,2915 2778,2891 2779,2941 2021,2965 1130,2961 749,2965"/>
+                <Baseline points="749,2960 1130,2956 2021,2960 2779,2936"/>
+                <TextEquiv>
+                    <Unicode>maison Thomas le Queuls, et une autre maison tenant à la porte de la Cerclerie de Lodun, avecques vint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990144484_775" custom="readingOrder {index:8;}">
+                <Coords points="746,2995 1146,3012 1587,2995 1923,2999 2550,2988 2770,2988 2770,3038 2550,3038 1923,3049 1588,3045 1146,3062 744,3045"/>
+                <Baseline points="744,3040 1146,3057 1588,3040 1923,3044 2550,3033 2770,3033"/>
+                <TextEquiv>
+                    <Unicode>sextiers de froument, à la mesure de Lodun, et les cens qui y apartiennent, de annuelle et perpetuele rente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990150265_776" custom="readingOrder {index:9;}">
+                <Coords points="750,3060 982,3066 1085,3080 1599,3072 2286,3073 2778,3069 2778,3119 2286,3123 1599,3122 1082,3130 978,3116 749,3110"/>
+                <Baseline points="749,3105 978,3111 1082,3125 1599,3117 2286,3118 2778,3114"/>
+                <TextEquiv>
+                    <Unicode>ou moison, à prendre seur certains moissonniers en la chastellerie de Lodun ; les quels moisons, cens et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990155858_777" custom="readingOrder {index:10;}">
+                <Coords points="747,3139 971,3153 1442,3158 2230,3158 2815,3157 2815,3207 2230,3208 1442,3208 969,3203 744,3189"/>
+                <Baseline points="744,3184 969,3198 1442,3203 2230,3203 2815,3202"/>
+                <TextEquiv>
+                    <Unicode>autres choses furent jadis Perrot le changeur de Lodun, et sont appropriées et appliquées à nostre demaine,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990161185_778" custom="readingOrder {index:11;}">
+                <Coords points="731,3226 1209,3231 2005,3244 2823,3231 2824,3281 2005,3294 1208,3281 731,3276"/>
+                <Baseline points="731,3271 1208,3276 2005,3289 2824,3276"/>
+                <TextEquiv>
+                    <Unicode>pour et en recompensacion et paiement de cent livres ou environ, ès quelles le dit Perrot avoit esté tenuz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990166622_779" custom="readingOrder {index:12;}">
+                <Coords points="744,3294 998,3313 1780,3321 2758,3319 2758,3369 1780,3371 996,3363 741,3344"/>
+                <Baseline points="741,3339 996,3358 1780,3366 2758,3364"/>
+                <TextEquiv>
+                    <Unicode>à nous pour certaine cause. Toutes lesquelles choses ne excedent ne ne valent pas plus de la somme des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990171450_780" custom="readingOrder {index:13;}">
+                <Coords points="733,3384 1077,3381 1867,3400 2811,3425 2810,3475 1866,3450 1077,3431 733,3434"/>
+                <Baseline points="733,3429 1077,3426 1866,3445 2810,3470"/>
+                <TextEquiv>
+                    <Unicode>dites cent livres ou environ, si comme l'en dit. Si donnons en mandement au bailli et receveur de Touraine,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990176590_781" custom="readingOrder {index:14;}">
+                <Coords points="753,3454 1214,3474 1973,3483 2754,3491 2754,3541 1973,3533 1213,3524 751,3504"/>
+                <Baseline points="751,3499 1213,3519 1973,3528 2754,3536"/>
+                <TextEquiv>
+                    <Unicode>qui à present sont et seront pour le temps, et à Jehan Cortchapiau, nagaires lieu tenant du dit receveur,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990181465_782" custom="readingOrder {index:15;}">
+                <Coords points="745,3537 1190,3546 2215,3554 2813,3564 2812,3614 2214,3604 1189,3596 744,3587"/>
+                <Baseline points="744,3582 1189,3591 2214,3599 2812,3609"/>
+                <TextEquiv>
+                    <Unicode>et à chascun d'euls, que le dit Guillaume, ses hoirs ou ceuls qui de lui auront cause, ils laissent et facent user et joir </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Philippes, par la grace de Dieu, roys de France. Savoir faisons à touz, presenz et avenir, que
+nous, eu consideracion et regart aus bons et agreables services que nostre amé Guillaume Gormont, à present
+nostre prevost de Paris, nous a faiz en noz presentes guerres et fait encore de jour en jour, tant en l'office
+de la dite prevosté comme autrement, des quelz services nous nous tenons pour enfourmez à plain, avons
+donné et octroyé, donnons et octroions par la teneur de ces presentes lettres, de nostre plain povoir et auctorité
+royal, de grace especial et certaine science, au dit Guillaume, à ses hoirs et à ceulx qui auront cause de luy, à touz
+jours mais perpetuelment et hereditablement, une maison assise à Lodun, appellée Champherbeus, tenant à la
+maison Thomas le Queuls, et une autre maison tenant à la porte de la Cerclerie de Lodun, avecques vint
+sextiers de froument, à la mesure de Lodun, et les cens qui y apartiennent, de annuelle et perpetuele rente
+ou moison, à prendre seur certains moissonniers en la chastellerie de Lodun ; les quels moisons, cens et
+autres choses furent jadis Perrot le changeur de Lodun, et sont appropriées et appliquées à nostre demaine,
+pour et en recompensacion et paiement de cent livres ou environ, ès quelles le dit Perrot avoit esté tenuz
+à nous pour certaine cause. Toutes lesquelles choses ne excedent ne ne valent pas plus de la somme des
+dites cent livres ou environ, si comme l'en dit. Si donnons en mandement au bailli et receveur de Touraine,
+qui à present sont et seront pour le temps, et à Jehan Cortchapiau, nagaires lieu tenant du dit receveur,
+et à chascun d'euls, que le dit Guillaume, ses hoirs ou ceuls qui de lui auront cause, ils laissent et facent user et joir </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

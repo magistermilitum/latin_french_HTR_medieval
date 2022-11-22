@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:49:22.374+07:00</Created>
+        <LastChange>2018-10-03T08:09:35.553+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3597972" pageNr="509" tsid="5556242" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=JMFLRQEJZYQSEIQPZQBPVFMP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YBBMYIVQQVEFLGXUMEBGEVHG" imageId="1969712"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ062_0103R_A.jpg" imageWidth="3063" imageHeight="4359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632851102709" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538469224240_642"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538469224240_642" custom="readingOrder {index:0;}">
+            <Coords points="190,288 2710,288 2710,1534 190,1534"/>
+            <TextLine id="line_1538470806434_807" custom="readingOrder {index:0;}">
+                <Coords points="193,380 489,334 1309,313 2692,291 2693,341 1310,363 493,384 201,429"/>
+                <Baseline points="200,424 493,379 1310,358 2693,336"/>
+                <TextEquiv>
+                    <Unicode>Charles, par la grace de Dieu, roy de France et de Navarre. Nous faisons savoir à touz presens et avenir que, comme nostre amé et feal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538470812356_808" custom="readingOrder {index:1;}">
+                <Coords points="207,455 455,407 1212,379 2661,374 2661,424 1213,429 461,457 217,504"/>
+                <Baseline points="216,499 460,452 1213,424 2661,419"/>
+                <TextEquiv>
+                    <Unicode>Almaurri, sire de Craon, nous ait supplié que, comme d'ancien temps toute sa chastelerie et sa terre de Marcillac eust esté du res</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538470818434_809" custom="readingOrder {index:2;}">
+                <Coords points="211,536 421,490 928,473 2666,448 2667,498 929,523 428,540 222,585"/>
+                <Baseline points="221,580 427,535 929,518 2667,493"/>
+                <TextEquiv>
+                    <Unicode>sort de Poitiers, et les seneschaus qui pour le temps ont esté aient fait pour leur volenté ressortir partie de la dicte chastelerie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538470824387_810" custom="readingOrder {index:3;}">
+                <Coords points="200,611 356,580 992,556 2669,526 2670,576 993,606 362,630 210,660"/>
+                <Baseline points="209,655 361,625 993,601 2670,571"/>
+                <TextEquiv>
+                    <Unicode>par devant euls à Niort et partie à Poitiers, pour quoy li subgiet de sa dite chastelerie ont esté ça en arrieres mout grevé, que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538470872150_813" custom="readingOrder {index:4;}">
+                <Coords points="208,693 389,669 783,644 1467,622 2332,611 2701,610 2701,660 2332,661 1468,672 785,694 393,719 215,743"/>
+                <Baseline points="214,738 393,714 785,689 1468,667 2332,656 2701,655"/>
+                <TextEquiv>
+                    <Unicode>nous toute la dite chastelerie vousissons mettre du tout du ressort de Poitiers tant seulement ; nous, oye sa dite supplica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538470882431_814" custom="readingOrder {index:5;}">
+                <Coords points="205,782 370,754 883,735 1396,722 2672,709 2672,759 1397,772 884,785 376,804 213,831"/>
+                <Baseline points="212,826 375,799 884,780 1397,767 2672,754"/>
+                <TextEquiv>
+                    <Unicode>cion et voulans nous à li rendre gracieus en ceste partie, et eue seur ce deliberacion avec nostre conseil, considerans adecertes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538470888259_815" custom="readingOrder {index:6;}">
+                <Coords points="214,863 334,863 1205,828 2662,811 2663,861 1206,878 335,913 214,913"/>
+                <Baseline points="214,908 335,908 1206,873 2663,856"/>
+                <TextEquiv>
+                    <Unicode>que en ce nul dommage ne nous en puet venir, au devant dit seigneur de Craon otroions, par la teneur de ces lettres, que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538470896540_816" custom="readingOrder {index:7;}">
+                <Coords points="215,964 454,934 1372,917 2681,898 2682,948 1373,967 457,984 222,1014"/>
+                <Baseline points="221,1009 457,979 1373,962 2682,943"/>
+                <TextEquiv>
+                    <Unicode>toute sa chastelerie et sa terre de Marcillac dessus dite soit toute dès ores en avant souz le ressort et du ressort de Poitiers,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538470918429_817" custom="readingOrder {index:8;}">
+                <Coords points="218,1045 592,1022 1157,1019 1724,1000 2646,996 2646,1046 1725,1050 1158,1069 594,1072 221,1095"/>
+                <Baseline points="221,1090 594,1067 1158,1064 1725,1045 2646,1041"/>
+                <TextEquiv>
+                    <Unicode>sans point de moyen, et ycelle chastelerie et terre de nostre grace especial mettons, de nostre auctorité real, souz le dit ressort de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538470924601_818" custom="readingOrder {index:9;}">
+                <Coords points="216,1144 462,1127 1412,1106 2644,1102 2644,1152 1413,1156 464,1177 219,1194"/>
+                <Baseline points="219,1189 464,1172 1413,1151 2644,1147"/>
+                <TextEquiv>
+                    <Unicode>Poitiers à demourer perpetuelment à touz jours. Et mandons aus seneschaus de Poitiers, qui pour le temps seront, que dès ores en a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538470932694_819" custom="readingOrder {index:10;}">
+                <Coords points="216,1228 447,1218 1017,1199 1986,1197 2661,1187 2662,1237 1986,1247 1018,1249 449,1268 218,1278"/>
+                <Baseline points="218,1273 449,1263 1018,1244 1986,1242 2662,1232"/>
+                <TextEquiv>
+                    <Unicode>vant il ne contraingnent ou facent contraindre le dit seigneur de Craon, ses hoirs ou ceus qui de lui auront cause, ne les</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538470939522_820" custom="readingOrder {index:11;}">
+                <Coords points="210,1317 580,1298 1282,1303 1822,1287 2664,1284 2664,1334 1823,1337 1283,1353 581,1348 212,1367"/>
+                <Baseline points="212,1362 581,1343 1283,1348 1823,1332 2664,1329"/>
+                <TextEquiv>
+                    <Unicode>subgiez de la dite chastelerie pour cause d'icelle ressortissent que à Poitiers. Et pour ce que ce soit ferme chose et estable</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538470945787_821" custom="readingOrder {index:12;}">
+                <Coords points="212,1404 596,1395 1330,1386 2123,1383 2676,1383 2676,1433 2123,1433 1330,1436 597,1445 213,1454"/>
+                <Baseline points="213,1449 597,1440 1330,1431 2123,1428 2676,1428"/>
+                <TextEquiv>
+                    <Unicode>à touz jours, nous avons'fait mettre en ces presentes lettres nostre seel. Sauf en tout nostre droit et l'autrui. Ce fu fait et donné</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538470950897_822" custom="readingOrder {index:13;}">
+                <Coords points="207,1485 704,1478 2057,1468 2057,1518 704,1528 208,1535"/>
+                <Baseline points="208,1530 704,1523 2057,1513"/>
+                <TextEquiv>
+                    <Unicode>à Chastiaunuef sus Laire, l'an de grace mil ccc. vint et quatre, ou moys de septembre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538470970380_823" custom="readingOrder {index:14;}">
+                <Coords points="1058,1584 2001,1575 2001,1625 1058,1634"/>
+                <Baseline points="1058,1629 2001,1620"/>
+                <TextEquiv>
+                    <Unicode>Per dominum regem, ad relacionem Domini Thome de Marfontaines.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538470973239_824" custom="readingOrder {index:15;}">
+                <Coords points="1070,1668 1543,1668 1543,1718 1070,1718"/>
+                <Baseline points="1070,1713 1543,1713"/>
+                <TextEquiv>
+                    <Unicode>J. de Templo scripsit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Charles, par la grace de Dieu, roy de France et de Navarre. Nous faisons savoir à touz presens et avenir que, comme nostre amé et feal
+Almaurri, sire de Craon, nous ait supplié que, comme d'ancien temps toute sa chastelerie et sa terre de Marcillac eust esté du res
+sort de Poitiers, et les seneschaus qui pour le temps ont esté aient fait pour leur volenté ressortir partie de la dicte chastelerie
+par devant euls à Niort et partie à Poitiers, pour quoy li subgiet de sa dite chastelerie ont esté ça en arrieres mout grevé, que
+nous toute la dite chastelerie vousissons mettre du tout du ressort de Poitiers tant seulement ; nous, oye sa dite supplica
+cion et voulans nous à li rendre gracieus en ceste partie, et eue seur ce deliberacion avec nostre conseil, considerans adecertes
+que en ce nul dommage ne nous en puet venir, au devant dit seigneur de Craon otroions, par la teneur de ces lettres, que
+toute sa chastelerie et sa terre de Marcillac dessus dite soit toute dès ores en avant souz le ressort et du ressort de Poitiers,
+sans point de moyen, et ycelle chastelerie et terre de nostre grace especial mettons, de nostre auctorité real, souz le dit ressort de
+Poitiers à demourer perpetuelment à touz jours. Et mandons aus seneschaus de Poitiers, qui pour le temps seront, que dès ores en a
+vant il ne contraingnent ou facent contraindre le dit seigneur de Craon, ses hoirs ou ceus qui de lui auront cause, ne les
+subgiez de la dite chastelerie pour cause d'icelle ressortissent que à Poitiers. Et pour ce que ce soit ferme chose et estable
+à touz jours, nous avons'fait mettre en ces presentes lettres nostre seel. Sauf en tout nostre droit et l'autrui. Ce fu fait et donné
+à Chastiaunuef sus Laire, l'an de grace mil ccc. vint et quatre, ou moys de septembre.
+Per dominum regem, ad relacionem Domini Thome de Marfontaines.
+J. de Templo scripsit.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

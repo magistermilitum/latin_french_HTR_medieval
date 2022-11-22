@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:48:13.687+07:00</Created>
+        <LastChange>2018-10-01T10:04:02.202+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3597829" pageNr="366" tsid="5556080" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=XSGOEZHKMRGIECEKFFKGWHNO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UTFYQENIXOAZCALJCWBXOSEE" imageId="1969569"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ040_0049V_A.jpg" imageWidth="2885" imageHeight="3822">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632850441764" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538354820467_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538354820467_2" custom="readingOrder {index:0;}">
+            <Coords points="264,278 2674,278 2674,1122 264,1122"/>
+            <TextLine id="line_1538356939967_94" custom="readingOrder {index:0;}">
+                <Coords points="322,344 1665,333 2676,326 2676,376 1665,383 322,394"/>
+                <Baseline points="322,389 1665,378 2676,371"/>
+                <TextEquiv>
+                    <Unicode>receptum bladum ad molendinum. Et promittimus, nomine quo supra, dictis religiosisdicta accensata et affirmata defendere et garen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538356947330_95" custom="readingOrder {index:1;}">
+                <Coords points="294,437 1525,426 1762,420 2673,413 2673,463 1763,470 1526,476 294,487"/>
+                <Baseline points="294,482 1526,471 1763,465 2673,458"/>
+                <TextEquiv>
+                    <Unicode>tizare ab omnibus, et etiam contraomnes, ad censam et firmampredictas de cetero imperpetuum quiete, libre et in pace, et predictam accen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538356957205_96" custom="readingOrder {index:2;}">
+                <Coords points="302,513 1033,524 1723,507 2667,502 2667,552 1724,557 1033,574 301,563"/>
+                <Baseline points="301,558 1033,569 1724,552 2667,547"/>
+                <TextEquiv>
+                    <Unicode>sacionem et affirmacionem et omnia alia premissa tenere firmiter et inviolabiliter observare, et contrapremissa uel aliquodpremi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538356966861_97" custom="readingOrder {index:3;}">
+                <Coords points="301,606 1162,613 1486,600 2294,600 2525,591 2676,609 2670,659 2523,641 2295,650 1487,650 1163,663 301,656"/>
+                <Baseline points="301,651 1163,658 1487,645 2295,645 2523,636 2671,654"/>
+                <TextEquiv>
+                    <Unicode>ssorum de cetero non facere nec venire. Datum et sigillo nostro sigillatum, in testimoniumpremissorum, die martis post festumbea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538356977547_98" custom="readingOrder {index:4;}">
+                <Coords points="294,700 970,706 1786,696 2193,691 2658,693 2658,743 2193,741 1787,746 970,756 294,750"/>
+                <Baseline points="294,745 970,751 1787,741 2193,736 2658,738"/>
+                <TextEquiv>
+                    <Unicode>ti Barnabe apostoli, anno ab incarnacione domini m. ccc. octavo. Constat nobis de interlineari uel altero, et est sub</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538356986580_99" custom="readingOrder {index:5;}">
+                <Coords points="293,806 1212,791 2191,778 2697,780 2697,830 2191,828 1213,841 294,856"/>
+                <Baseline points="294,851 1213,836 2191,823 2697,825"/>
+                <TextEquiv>
+                    <Unicode>sigillo datum, ut supra. Nous autempremissa omnia et singula rata, grata et firma habentes, ea volumus, laudamus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538356999855_100" custom="readingOrder {index:6;}">
+                <Coords points="302,893 1083,882 2054,876 2669,880 2669,930 2054,926 1083,932 303,943"/>
+                <Baseline points="303,938 1083,927 2054,921 2669,925"/>
+                <TextEquiv>
+                    <Unicode>approbamus et tenore presencium confirmamus. Salvo, et cetera. quod ut firmum, et cetera. Actum Pictavis,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538363012032_155" custom="readingOrder {index:7;}">
+                <Coords points="308,988 1661,978 1661,1028 308,1038"/>
+                <Baseline points="308,1033 1661,1023"/>
+                <TextEquiv>
+                    <Unicode>anno domini millesimo trecentesimo octavo, mense julii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>receptum bladum ad molendinum. Et promittimus, nomine quo supra, dictis religiosisdicta accensata et affirmata defendere et garen
+tizare ab omnibus, et etiam contraomnes, ad censam et firmampredictas de cetero imperpetuum quiete, libre et in pace, et predictam accen
+sacionem et affirmacionem et omnia alia premissa tenere firmiter et inviolabiliter observare, et contrapremissa uel aliquodpremi
+ssorum de cetero non facere nec venire. Datum et sigillo nostro sigillatum, in testimoniumpremissorum, die martis post festumbea
+ti Barnabe apostoli, anno ab incarnacione domini m. ccc. octavo. Constat nobis de interlineari uel altero, et est sub
+sigillo datum, ut supra. Nous autempremissa omnia et singula rata, grata et firma habentes, ea volumus, laudamus,
+approbamus et tenore presencium confirmamus. Salvo, et cetera. quod ut firmum, et cetera. Actum Pictavis,
+anno domini millesimo trecentesimo octavo, mense julii.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

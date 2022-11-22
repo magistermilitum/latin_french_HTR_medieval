@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:49:09.909+07:00</Created>
+        <LastChange>2018-10-08T14:33:42.770+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3597943" pageNr="480" tsid="5556211" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=DODXFEEODNWWCCYPKYEQEJOA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KCUBBOVERTFVPBTVNMJWTZAX" imageId="1969683"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ059_0347R_A.jpg" imageWidth="3187" imageHeight="3919">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632850961639" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538983666499_362"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538983666499_362" custom="readingOrder {index:0;}">
+            <Coords points="164,2522 3054,2522 3054,3850 164,3850"/>
+            <TextLine id="line_1538983940018_363" custom="readingOrder {index:0;}">
+                <Coords points="225,2573 610,2566 1424,2575 2192,2577 2756,2573 2883,2569 2884,2619 2757,2623 2192,2627 1424,2625 610,2616 226,2623"/>
+                <Baseline points="226,2618 610,2611 1424,2620 2192,2622 2757,2618 2884,2614"/>
+                <TextEquiv>
+                    <Unicode>Philippus, etc. universis presentes litteras inspecturis salutem. Notum facimus nos vidisse quasdam litteras regias in hec verba :Philippus, Dei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538983944626_364" custom="readingOrder {index:1;}">
+                <Coords points="226,2650 658,2648 1544,2661 2342,2662 2876,2646 2877,2696 2343,2712 1544,2711 658,2698 226,2700"/>
+                <Baseline points="226,2695 658,2693 1544,2706 2343,2707 2877,2691"/>
+                <TextEquiv>
+                    <Unicode>gracia Francorum rex, universis presentes litteras inspecturis salutem. Notum facimus quod cum, juxta ordinacionem clare memorie,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538983949422_365" custom="readingOrder {index:2;}">
+                <Coords points="223,2714 861,2712 1843,2723 2418,2730 2891,2717 2892,2767 2418,2780 1842,2773 861,2762 223,2764"/>
+                <Baseline points="223,2759 861,2757 1842,2768 2418,2775 2892,2762"/>
+                <TextEquiv>
+                    <Unicode>carissimi patrui nostri Alfonsi, quondam comitis Pictavensis et Tholose, executores sui testamenti decreverint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538983954328_366" custom="readingOrder {index:3;}">
+                <Coords points="230,2776 1161,2780 2027,2778 3005,2778 3005,2828 2027,2828 1161,2830 230,2826"/>
+                <Baseline points="230,2821 1161,2825 2027,2823 3005,2823"/>
+                <TextEquiv>
+                    <Unicode>assignari abbacie de Charrous xl. solidos turonensium annui redditus pro anniversario dicti comitis in dicta abbacia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538983961952_367" custom="readingOrder {index:4;}">
+                <Coords points="224,2828 1284,2848 2350,2870 3052,2886 3051,2936 2349,2920 1283,2898 223,2878"/>
+                <Baseline points="223,2873 1283,2893 2349,2915 3051,2931"/>
+                <TextEquiv>
+                    <Unicode>annuatim celebrando ; nos ipsius patrui nostri piam ordinacionem cupientes salubriter adimpleri, volumus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538983967232_368" custom="readingOrder {index:5;}">
+                <Coords points="220,2917 1107,2946 1953,2968 2797,2981 3056,2997 3053,3047 2795,3031 1952,3018 1106,2996 219,2967"/>
+                <Baseline points="219,2962 1106,2991 1952,3013 2795,3026 3053,3042"/>
+                <TextEquiv>
+                    <Unicode>et precipimus ut quicunque pro tempore fuerit senescallus Pictavensis dictos quadraginta solidos turonensium annui redditus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538983973309_369" custom="readingOrder {index:6;}">
+                <Coords points="221,3014 892,3029 1173,3036 1464,3047 2024,3053 3055,3080 3054,3130 2023,3103 1463,3097 1172,3086 891,3079 220,3064"/>
+                <Baseline points="220,3059 891,3074 1172,3081 1463,3092 2023,3098 3054,3125"/>
+                <TextEquiv>
+                    <Unicode>in termino Ascensionis Domini, dicte abbacie monasterio, vel ejus mandato, sine difficultate reddat annuatim et persolvat,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538983977433_370" custom="readingOrder {index:7;}">
+                <Coords points="225,3097 963,3119 1888,3139 3040,3168 3039,3218 1887,3189 962,3169 224,3147"/>
+                <Baseline points="224,3142 962,3164 1887,3184 3039,3213"/>
+                <TextEquiv>
+                    <Unicode>nullo alio mandato super hoc expectato. In cujus rei testimonium, presentibus litteris sigillum nostrum fecimus apponi. Actum Parisius,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538983983776_371" custom="readingOrder {index:8;}">
+                <Coords points="206,3188 705,3204 1425,3224 2374,3244 3056,3266 3055,3316 2373,3294 1424,3274 704,3254 205,3238"/>
+                <Baseline points="205,3233 704,3249 1424,3269 2373,3289 3055,3311"/>
+                <TextEquiv>
+                    <Unicode>anno Domini millesimo cc. septuagesimo sexto, mense decembris. Nos autem premissa grata habentes, mandamus senescallo Pictavensi mo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538983987260_372" custom="readingOrder {index:9;}">
+                <Coords points="216,3272 1521,3317 3038,3361 3037,3411 1520,3367 214,3322"/>
+                <Baseline points="214,3317 1520,3362 3037,3406"/>
+                <TextEquiv>
+                    <Unicode>derno et qui pro tempore fuerit, quatinus dicto monasterio premissum debitum solvant, et ipsum de eodem redditu gaudere faciant et permittant,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538983991119_373" custom="readingOrder {index:10;}">
+                <Coords points="208,3368 1385,3399 2510,3430 2996,3443 2995,3493 2509,3480 1384,3449 207,3418"/>
+                <Baseline points="207,3413 1384,3444 2509,3475 2995,3488"/>
+                <TextEquiv>
+                    <Unicode>eo modo quo religiosi de dicto loco gavisi pacificè extiterunt nuncusque. In cujus rei testimonium, nostrum presentibus litteris fecimus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538983994603_374" custom="readingOrder {index:11;}">
+                <Coords points="207,3454 1396,3498 2419,3513 3035,3513 3035,3563 2419,3563 1395,3548 205,3504"/>
+                <Baseline points="205,3499 1395,3543 2419,3558 3035,3558"/>
+                <TextEquiv>
+                    <Unicode>apponi sigillum. Actum Parisius, anno Domini m. ccc. vicesimo, mense januarii rasuram, ergo sexto approbamus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538983998149_375" custom="readingOrder {index:12;}">
+                <Coords points="210,3548 747,3566 745,3616 208,3598"/>
+                <Baseline points="208,3593 745,3611"/>
+                <TextEquiv>
+                    <Unicode>actum ut supra.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538984000320_376" custom="readingOrder {index:13;}">
+                <Coords points="1196,3596 2203,3617 2202,3667 1195,3646"/>
+                <Baseline points="1195,3641 2202,3662"/>
+                <TextEquiv>
+                    <Unicode>Per dominum regem, ad relacionem thesaurarii Remensis,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538984001883_377" custom="readingOrder {index:14;}">
+                <Coords points="1362,3729 1675,3724 1676,3774 1363,3779"/>
+                <Baseline points="1363,3774 1676,3769"/>
+                <TextEquiv>
+                    <Unicode>Gervasii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Philippus, etc. universis presentes litteras inspecturis salutem. Notum facimus nos vidisse quasdam litteras regias in hec verba :Philippus, Dei
+gracia Francorum rex, universis presentes litteras inspecturis salutem. Notum facimus quod cum, juxta ordinacionem clare memorie,
+carissimi patrui nostri Alfonsi, quondam comitis Pictavensis et Tholose, executores sui testamenti decreverint
+assignari abbacie de Charrous xl. solidos turonensium annui redditus pro anniversario dicti comitis in dicta abbacia
+annuatim celebrando ; nos ipsius patrui nostri piam ordinacionem cupientes salubriter adimpleri, volumus
+et precipimus ut quicunque pro tempore fuerit senescallus Pictavensis dictos quadraginta solidos turonensium annui redditus,
+in termino Ascensionis Domini, dicte abbacie monasterio, vel ejus mandato, sine difficultate reddat annuatim et persolvat,
+nullo alio mandato super hoc expectato. In cujus rei testimonium, presentibus litteris sigillum nostrum fecimus apponi. Actum Parisius,
+anno Domini millesimo cc. septuagesimo sexto, mense decembris. Nos autem premissa grata habentes, mandamus senescallo Pictavensi mo¬
+derno et qui pro tempore fuerit, quatinus dicto monasterio premissum debitum solvant, et ipsum de eodem redditu gaudere faciant et permittant,
+eo modo quo religiosi de dicto loco gavisi pacificè extiterunt nuncusque. In cujus rei testimonium, nostrum presentibus litteris fecimus
+apponi sigillum. Actum Parisius, anno Domini m. ccc. vicesimo, mense januarii rasuram, ergo sexto approbamus
+actum ut supra.
+Per dominum regem, ad relacionem thesaurarii Remensis,
+Gervasii.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

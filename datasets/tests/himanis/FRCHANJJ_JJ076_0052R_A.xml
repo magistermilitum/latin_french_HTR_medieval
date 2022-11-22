@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:53:34.193+07:00</Created>
+        <LastChange>2018-10-09T10:50:42.397+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3598191" pageNr="728" tsid="5556500" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=CKTBVJBNLLAQCRLDYLFRKGKM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YARCSUNUVQPPXVYOBCBBLBXY" imageId="1969932"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ076_0052R_A.jpg" imageWidth="3859" imageHeight="5039">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632852166449" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1539056649744_171"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1539056649744_171" custom="readingOrder {index:0;}">
+            <Coords points="434,740 3508,740 3508,2648 434,2648"/>
+            <TextLine id="line_1539056940957_172" custom="readingOrder {index:0;}">
+                <Coords points="565,834 741,820 1524,847 2314,859 3210,902 3486,942 3478,992 3206,952 2313,909 1523,897 742,870 569,884"/>
+                <Baseline points="569,879 742,865 1523,892 2313,904 3206,947 3479,987"/>
+                <TextEquiv>
+                    <Unicode>haute, moienne et basse, et homages à yceulz appartenans, les quieux furent de Guyot Acarie et de son frere, à</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539056947300_173" custom="readingOrder {index:1;}">
+                <Coords points="559,908 864,910 1492,934 2079,946 2737,961 3192,987 3465,1012 3461,1062 3189,1037 2735,1011 2078,996 1491,984 863,960 559,958"/>
+                <Baseline points="559,953 863,955 1491,979 2078,991 2735,1006 3189,1032 3461,1057"/>
+                <TextEquiv>
+                    <Unicode>nous nagueres advenuz par la rebellion et forfaiture des diz freres, noz ennemis rebelles, les quelles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539056952768_174" custom="readingOrder {index:2;}">
+                <Coords points="560,993 739,995 1545,1018 2030,1022 2980,1055 3447,1106 3441,1156 2977,1105 2029,1072 1544,1068 738,1045 559,1043"/>
+                <Baseline points="559,1038 738,1040 1544,1063 2029,1067 2977,1100 3442,1151"/>
+                <TextEquiv>
+                    <Unicode>choses pevent bien valoir par an, si comme entendu avons, trente livres parisis de rente ou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539056958080_175" custom="readingOrder {index:3;}">
+                <Coords points="547,1081 1114,1091 1736,1095 2468,1124 3037,1138 3439,1183 3433,1233 3034,1188 2467,1174 1735,1145 1113,1141 546,1131"/>
+                <Baseline points="546,1126 1113,1136 1735,1140 2467,1169 3034,1183 3434,1228"/>
+                <TextEquiv>
+                    <Unicode>environ, à tenir, avoir et parcevoir yceulz par le dit Perrot, ses diz hoirs et successeurs, ou aians cause,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539056964017_176" custom="readingOrder {index:4;}">
+                <Coords points="544,1153 940,1168 1670,1172 2032,1188 3124,1231 3426,1263 3420,1313 3121,1281 2030,1238 1669,1222 939,1218 542,1203"/>
+                <Baseline points="542,1198 939,1213 1669,1217 2030,1233 3121,1276 3421,1308"/>
+                <TextEquiv>
+                    <Unicode>comme dit est, à touz jours perpetuelment. Donnanz en mandement, par ces presentes, aus seneschaus, procureurs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539056969578_177" custom="readingOrder {index:5;}">
+                <Coords points="529,1245 633,1241 1103,1255 1631,1255 2116,1267 3106,1314 3491,1343 3488,1393 3103,1364 2114,1317 1630,1305 1102,1305 633,1291 531,1295"/>
+                <Baseline points="531,1290 633,1286 1102,1300 1630,1300 2114,1312 3103,1359 3488,1388"/>
+                <TextEquiv>
+                    <Unicode>et receveur de Poitou et de Xanctonge, presens et avenir, ou à leurs lieux tenans, et à chascun d'eulz, que des diz heri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539056974921_178" custom="readingOrder {index:6;}">
+                <Coords points="540,1321 790,1319 1648,1336 2532,1368 3294,1407 3475,1425 3469,1475 3291,1457 2530,1418 1647,1386 790,1369 540,1371"/>
+                <Baseline points="540,1366 790,1364 1647,1381 2530,1413 3291,1452 3470,1470"/>
+                <TextEquiv>
+                    <Unicode>tages, herbergemens, juridicion et hommages, à nous advenuz, comme dit est, mettent ou facent mettre sanz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539056980436_179" custom="readingOrder {index:7;}">
+                <Coords points="525,1421 799,1423 1475,1423 2395,1456 3235,1507 3487,1511 3486,1561 3233,1557 2393,1506 1474,1473 799,1473 525,1471"/>
+                <Baseline points="525,1466 799,1468 1474,1468 2393,1501 3233,1552 3486,1556"/>
+                <TextEquiv>
+                    <Unicode>delay en possession et saisine le dit Perrot, ou son procureur pour li, et d'yceulz li, ses diz hoirs et successeurs,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539056985545_180" custom="readingOrder {index:8;}">
+                <Coords points="532,1488 861,1495 1550,1503 2354,1539 2927,1574 3442,1590 3441,1640 2925,1624 2352,1589 1549,1553 860,1545 531,1538"/>
+                <Baseline points="531,1533 860,1540 1549,1548 2352,1584 2925,1619 3441,1635"/>
+                <TextEquiv>
+                    <Unicode>ou aians cause, comme dessus est dit, facent, sueffrent et laissent joir et user paisiblement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539056989826_181" custom="readingOrder {index:9;}">
+                <Coords points="519,1556 864,1574 1663,1597 2746,1660 3443,1686 3441,1736 2744,1710 1661,1647 862,1624 517,1606"/>
+                <Baseline points="517,1601 862,1619 1661,1642 2744,1705 3441,1731"/>
+                <TextEquiv>
+                    <Unicode>et perpetuelment, comme de leur propre chose, cessant tout empeschement, non contrastant autres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539057001840_183" custom="readingOrder {index:10;}">
+                <Coords points="508,1651 1501,1678 2238,1717 2835,1759 3481,1794 3479,1844 2832,1809 2235,1767 1499,1728 507,1701"/>
+                <Baseline points="507,1696 1499,1723 2235,1762 2832,1804 3479,1839"/>
+                <TextEquiv>
+                    <Unicode>dons ou graces que faiz li avons, ordenances, mandemens ou deffances quelconques à ce contraires. Et pour</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539057006339_184" custom="readingOrder {index:11;}">
+                <Coords points="503,1735 1299,1763 1837,1800 2844,1831 3467,1871 3464,1921 2842,1881 1835,1850 1297,1813 501,1785"/>
+                <Baseline points="501,1780 1297,1808 1835,1845 2842,1876 3464,1916"/>
+                <TextEquiv>
+                    <Unicode>ce que ce soit chose ferme et estable à touz jours perpetuelment, nous avons fait mettre nostre seel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539057011198_185" custom="readingOrder {index:12;}">
+                <Coords points="496,1831 887,1831 2013,1871 2819,1924 3478,1951 3476,2001 2817,1974 2011,1921 886,1881 496,1881"/>
+                <Baseline points="496,1876 886,1876 2011,1916 2817,1969 3476,1996"/>
+                <TextEquiv>
+                    <Unicode>à ces presentes lettres. Sauf en autres choses nostre droit, et en toutes l'autrui. Donné à Paris, l'an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539057013870_186" custom="readingOrder {index:13;}">
+                <Coords points="493,1904 879,1914 2044,1957 2042,2007 878,1964 492,1954"/>
+                <Baseline points="492,1949 878,1959 2042,2002"/>
+                <TextEquiv>
+                    <Unicode>de grace mil ccc. xlvij., ou mois de decembre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539057018838_187" custom="readingOrder {index:14;}">
+                <Coords points="2450,2079 3441,2122 3439,2172 2448,2129"/>
+                <Baseline points="2448,2124 3439,2167"/>
+                <TextEquiv>
+                    <Unicode>Sine financia per consilium, presenti¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539057025321_188" custom="readingOrder {index:15;}">
+                <Coords points="2444,2149 3064,2179 3430,2191 3429,2241 3062,2229 2442,2199"/>
+                <Baseline points="2442,2194 3062,2224 3429,2236"/>
+                <TextEquiv>
+                    <Unicode>bus Dominis Rothomagensi, Laudunensi et de Meul¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539057026805_189" custom="readingOrder {index:16;}">
+                <Coords points="2451,2242 2641,2228 2644,2278 2454,2292"/>
+                <Baseline points="2454,2287 2644,2273"/>
+                <TextEquiv>
+                    <Unicode>lento.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1539057028227_190" custom="readingOrder {index:17;}">
+                <Coords points="2745,2340 3052,2349 3051,2399 2744,2390"/>
+                <Baseline points="2744,2385 3051,2394"/>
+                <TextEquiv>
+                    <Unicode>Vistrebec.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>haute, moienne et basse, et homages à yceulz appartenans, les quieux furent de Guyot Acarie et de son frere, à
+nous nagueres advenuz par la rebellion et forfaiture des diz freres, noz ennemis rebelles, les quelles
+choses pevent bien valoir par an, si comme entendu avons, trente livres parisis de rente ou
+environ, à tenir, avoir et parcevoir yceulz par le dit Perrot, ses diz hoirs et successeurs, ou aians cause,
+comme dit est, à touz jours perpetuelment. Donnanz en mandement, par ces presentes, aus seneschaus, procureurs
+et receveur de Poitou et de Xanctonge, presens et avenir, ou à leurs lieux tenans, et à chascun d'eulz, que des diz heri¬
+tages, herbergemens, juridicion et hommages, à nous advenuz, comme dit est, mettent ou facent mettre sanz
+delay en possession et saisine le dit Perrot, ou son procureur pour li, et d'yceulz li, ses diz hoirs et successeurs,
+ou aians cause, comme dessus est dit, facent, sueffrent et laissent joir et user paisiblement
+et perpetuelment, comme de leur propre chose, cessant tout empeschement, non contrastant autres
+dons ou graces que faiz li avons, ordenances, mandemens ou deffances quelconques à ce contraires. Et pour
+ce que ce soit chose ferme et estable à touz jours perpetuelment, nous avons fait mettre nostre seel
+à ces presentes lettres. Sauf en autres choses nostre droit, et en toutes l'autrui. Donné à Paris, l'an
+de grace mil ccc. xlvij., ou mois de decembre.
+Sine financia per consilium, presenti¬
+bus Dominis Rothomagensi, Laudunensi et de Meul¬
+lento.
+Vistrebec.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

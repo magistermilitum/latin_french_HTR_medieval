@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:52:42.869+07:00</Created>
+        <LastChange>2018-10-10T10:32:57.846+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3598087" pageNr="624" tsid="5556367" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=UYFENSOLUXDKTWALDLNEDKNY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SOVLASWUPKBZRZFZPVFHAPLX" imageId="1969828"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ068_0142V_A.jpg" imageWidth="3491" imageHeight="4535">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632851621359" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538634823750_153"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538634823750_153" custom="readingOrder {index:0;}">
+            <Coords points="316,240 3074,240 3074,2386 316,2386"/>
+            <TextLine id="line_1538636157548_227" custom="readingOrder {index:0;}">
+                <Coords points="389,277 680,290 1036,298 1882,317 2288,322 3014,330 3014,380 2287,372 1881,367 1035,348 678,340 387,327"/>
+                <Baseline points="387,322 678,335 1035,343 1881,362 2287,367 3014,375"/>
+                <TextEquiv>
+                    <Unicode>quelcunque lieu que il les volront prenre et asseoir en toute leur terre, acquise et à acquerre, sens fié et senz justice, il puissent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636164830_228" custom="readingOrder {index:1;}">
+                <Coords points="384,378 731,380 1484,386 2170,406 2990,412 2990,462 2169,456 1483,436 731,430 384,428"/>
+                <Baseline points="384,423 731,425 1483,431 2169,451 2990,457"/>
+                <TextEquiv>
+                    <Unicode>ordener à leur volenté tout à plain, et ycelles sexante livres de rente donner, octroier, transporter, bailler et delessier par </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636174361_229" custom="readingOrder {index:2;}">
+                <Coords points="385,473 950,468 1585,467 2027,469 2287,488 2952,491 2952,541 2285,538 2025,519 1585,517 950,518 385,523"/>
+                <Baseline points="385,518 950,513 1585,512 2025,514 2285,533 2952,536"/>
+                <TextEquiv>
+                    <Unicode>don fait entre vis, ou en testament, ou autrement, toutes fois et en quelque maniere qu'il leur plaira de cy en avant,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636182861_230" custom="readingOrder {index:3;}">
+                <Coords points="394,556 776,561 1273,565 1384,547 1919,562 2999,573 2999,623 1918,612 1387,597 1276,615 776,611 393,606"/>
+                <Baseline points="393,601 776,606 1276,610 1387,592 1918,607 2999,618"/>
+                <TextEquiv>
+                    <Unicode>pour funder et douer chappellenies, une ou deux, ou trois, ou tant comme il voldront, pour les causes dessus dictes. Et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636192049_231" custom="readingOrder {index:4;}">
+                <Coords points="370,653 829,647 1394,644 1792,634 2378,655 2788,657 3049,664 3048,714 2787,707 2377,705 1792,684 1395,694 829,697 371,703"/>
+                <Baseline points="371,698 829,692 1395,689 1792,679 2377,700 2787,702 3048,709"/>
+                <TextEquiv>
+                    <Unicode>volons et octroions, de nostre grace, plaine puissance et auctorité dessus dictes, que les chappellains, aus quels et pour les quiex</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636200111_232" custom="readingOrder {index:5;}">
+                <Coords points="383,737 631,729 1264,738 1783,724 2430,735 2960,741 2959,791 2429,785 1783,774 1264,788 631,779 384,787"/>
+                <Baseline points="384,782 631,774 1264,783 1783,769 2429,780 2959,786"/>
+                <TextEquiv>
+                    <Unicode>le dit Geffroy et sa dicte femme ordeneront les dictes lx. livres de rente, et leurs successeurs, tout aussi comme le dit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636208315_233" custom="readingOrder {index:6;}">
+                <Coords points="378,818 603,827 1052,824 1633,818 2230,820 3022,823 3022,873 2230,870 1633,868 1052,874 602,877 376,868"/>
+                <Baseline points="376,863 602,872 1052,869 1633,863 2230,865 3022,868"/>
+                <TextEquiv>
+                    <Unicode>Geffroy et sa dicte femme en voiront ordener, ensemble ou par parties, puissent avoir et tenir les dictes lx. livres de rente, et que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636221237_234" custom="readingOrder {index:7;}">
+                <Coords points="374,913 631,906 987,904 1506,897 1883,891 2042,906 2137,898 2442,910 2782,898 3047,922 3043,972 2781,948 2442,960 2138,948 2042,956 1881,941 1507,947 987,954 632,956 375,963"/>
+                <Baseline points="375,958 632,951 987,949 1507,942 1881,936 2042,951 2138,943 2442,955 2781,943 3043,967"/>
+                <TextEquiv>
+                    <Unicode>elles leur demeurent à perpetuité et en puissent joir et user entierement, et paisiblement, senz aucun empeschement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636230346_235" custom="readingOrder {index:8;}">
+                <Coords points="352,1009 573,1002 1093,987 1597,978 1999,992 2542,988 2978,993 2977,1043 2542,1038 1998,1042 1597,1028 1094,1037 574,1052 353,1059"/>
+                <Baseline points="353,1054 574,1047 1094,1032 1597,1023 1998,1037 2542,1033 2977,1038"/>
+                <TextEquiv>
+                    <Unicode>et senz ce qu'il soient tenus ou puissent estre contrains à les mettre hors de leurs mainz, comment que ce soit, et senz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636238424_236" custom="readingOrder {index:9;}">
+                <Coords points="377,1092 624,1089 1044,1080 1443,1060 2094,1065 3018,1063 3018,1113 2094,1115 1444,1110 1046,1130 625,1139 378,1142"/>
+                <Baseline points="378,1137 625,1134 1046,1125 1444,1105 2094,1110 3018,1108"/>
+                <TextEquiv>
+                    <Unicode>paier pour ce à nous ne à nos successeurs aucune finance, quele que elle soit, jamaiz à nul jour, car la dite finance nous,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636248925_237" custom="readingOrder {index:10;}">
+                <Coords points="358,1205 872,1191 1302,1159 1811,1153 2254,1153 2693,1169 2961,1138 2967,1188 2695,1219 2253,1203 1811,1203 1304,1209 874,1241 359,1255"/>
+                <Baseline points="359,1250 874,1236 1304,1204 1811,1198 2253,1198 2695,1214 2966,1183"/>
+                <TextEquiv>
+                    <Unicode>de nostre grace et liberalité dessus dictes, par la teneur de ces lettres, donnons, quittonz et octroions au dit Geffroy et à sa dicte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636257737_238" custom="readingOrder {index:11;}">
+                <Coords points="361,1284 575,1285 878,1278 1323,1258 1834,1243 2442,1259 2915,1260 3030,1248 3036,1298 2917,1310 2441,1309 1834,1293 1325,1308 880,1328 575,1335 361,1334"/>
+                <Baseline points="361,1329 575,1330 880,1323 1325,1303 1834,1288 2441,1304 2917,1305 3035,1293"/>
+                <TextEquiv>
+                    <Unicode>femme, pour euls et pour ceulz qui d'eulz auront cause à tous jours. Et volonz et octroionz au dit Geffroy et à</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636264284_239" custom="readingOrder {index:12;}">
+                <Coords points="367,1379 655,1373 1182,1346 1930,1341 3020,1355 3019,1405 1930,1391 1183,1396 657,1423 368,1429"/>
+                <Baseline points="368,1424 657,1418 1183,1391 1930,1386 3019,1400"/>
+                <TextEquiv>
+                    <Unicode>sa dicte femme, pour euls et pour ceulz qui d'euls auront cause, que ces lettres et toutes les choses qui y sont contenues</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636271722_240" custom="readingOrder {index:13;}">
+                <Coords points="363,1480 1020,1444 1968,1422 2956,1447 2955,1497 1968,1472 1022,1494 365,1530"/>
+                <Baseline points="365,1525 1022,1489 1968,1467 2955,1492"/>
+                <TextEquiv>
+                    <Unicode>soient valables et aient leur plain effect et demeurent en leur vertu tout à plain perpetuelment, non obstans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636281456_241" custom="readingOrder {index:14;}">
+                <Coords points="357,1588 582,1569 1131,1543 1510,1521 2168,1512 2984,1542 2982,1592 2167,1562 1512,1571 1133,1593 585,1619 361,1638"/>
+                <Baseline points="361,1633 585,1614 1133,1588 1512,1566 2167,1557 2982,1587"/>
+                <TextEquiv>
+                    <Unicode>quelcunques autres dons et graces que nous ou nos predecesseurs aiens fais au dit Geffroy, à sa dicte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636291691_242" custom="readingOrder {index:15;}">
+                <Coords points="357,1682 502,1677 1158,1641 1859,1603 2516,1613 3030,1620 3029,1670 2515,1663 1860,1653 1160,1691 504,1727 359,1732"/>
+                <Baseline points="359,1727 504,1722 1160,1686 1860,1648 2515,1658 3029,1665"/>
+                <TextEquiv>
+                    <Unicode>femme, ou à leurs predecesseurs, en tout le temps passé, les quiex dons et graces nous tenons et reputons et volons</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636301269_243" custom="readingOrder {index:16;}">
+                <Coords points="352,1773 874,1753 1185,1723 1625,1719 2037,1703 2290,1696 2941,1706 2940,1756 2290,1746 2038,1753 1626,1769 1187,1773 877,1803 354,1823"/>
+                <Baseline points="354,1818 877,1798 1187,1768 1626,1764 2038,1748 2290,1741 2940,1751"/>
+                <TextEquiv>
+                    <Unicode>estre tenuz et reputez pour tous esclarcis, tout ainsi comme s'il fussent expressement contenuz et escrips en ces lettres,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636312707_244" custom="readingOrder {index:17;}">
+                <Coords points="372,1875 614,1857 1092,1830 1642,1798 2351,1782 2980,1790 2979,1840 2351,1832 1644,1848 1095,1880 617,1907 375,1925"/>
+                <Baseline points="375,1920 617,1902 1095,1875 1644,1843 2351,1827 2979,1835"/>
+                <TextEquiv>
+                    <Unicode>non obstant qu'il n'y soient pas contenus Et non obstanz quelcunques ordenances et deffenses, generauls et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636321300_245" custom="readingOrder {index:18;}">
+                <Coords points="337,1953 685,1932 1112,1928 1551,1905 2205,1873 2975,1864 2976,1914 2206,1923 1553,1955 1113,1978 687,1982 340,2003"/>
+                <Baseline points="340,1998 687,1977 1113,1973 1553,1950 2206,1918 2976,1909"/>
+                <TextEquiv>
+                    <Unicode>especiauls, à ce contraires, les queles se aucune en y a, nous ostons, rappellons, abolissons et messons du tout au nyent quant </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636330144_246" custom="readingOrder {index:19;}">
+                <Coords points="338,2035 772,2017 1008,2009 1690,1994 2232,1963 2985,1950 2986,2000 2234,2013 1692,2044 1009,2059 774,2067 340,2085"/>
+                <Baseline points="340,2080 774,2062 1009,2054 1692,2039 2234,2008 2986,1995"/>
+                <TextEquiv>
+                    <Unicode>à ce que elles ne vaillent en aucune maniere contre les choses dessus dites ou contre aucune d'ycelles. Et pour ce que ces </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636338551_247" custom="readingOrder {index:20;}">
+                <Coords points="340,2120 684,2118 1108,2100 1352,2087 2061,2075 2260,2058 2961,2046 2962,2096 2262,2108 2063,2125 1354,2137 1110,2150 685,2168 340,2170"/>
+                <Baseline points="340,2165 685,2163 1110,2145 1354,2132 2063,2120 2262,2103 2962,2091"/>
+                <TextEquiv>
+                    <Unicode>choses soient fermes et valables à perpetuité, nous avons fait seeller ces lettres de nostre seel. Sauf en autres choses nostre </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636345941_248" custom="readingOrder {index:21;}">
+                <Coords points="362,2222 1184,2198 1514,2174 2247,2157 2990,2135 2991,2185 2248,2207 1516,2224 1186,2248 363,2272"/>
+                <Baseline points="363,2267 1186,2243 1516,2219 2248,2202 2991,2180"/>
+                <TextEquiv>
+                    <Unicode>droit et en toutes l'autruy. Donné au Moncel emprez Pont Sainte Maxence, l'an de grace mil ccc. quarante et six,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636348816_249" custom="readingOrder {index:22;}">
+                <Coords points="344,2310 909,2308 909,2358 344,2360"/>
+                <Baseline points="344,2355 909,2353"/>
+                <TextEquiv>
+                    <Unicode>ou moiz de septembre .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538636351270_250" custom="readingOrder {index:23;}">
+                <Coords points="1184,2290 1918,2275 1919,2325 1185,2340"/>
+                <Baseline points="1185,2335 1919,2320"/>
+                <TextEquiv>
+                    <Unicode>Parle roy. Verrière.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>quelcunque lieu que il les volront prenre et asseoir en toute leur terre, acquise et à acquerre, sens fié et senz justice, il puissent
+ordener à leur volenté tout à plain, et ycelles sexante livres de rente donner, octroier, transporter, bailler et delessier par 
+don fait entre vis, ou en testament, ou autrement, toutes fois et en quelque maniere qu'il leur plaira de cy en avant,
+pour funder et douer chappellenies, une ou deux, ou trois, ou tant comme il voldront, pour les causes dessus dictes. Et
+volons et octroions, de nostre grace, plaine puissance et auctorité dessus dictes, que les chappellains, aus quels et pour les quiex
+le dit Geffroy et sa dicte femme ordeneront les dictes lx. livres de rente, et leurs successeurs, tout aussi comme le dit 
+Geffroy et sa dicte femme en voiront ordener, ensemble ou par parties, puissent avoir et tenir les dictes lx. livres de rente, et que
+elles leur demeurent à perpetuité et en puissent joir et user entierement, et paisiblement, senz aucun empeschement
+et senz ce qu'il soient tenus ou puissent estre contrains à les mettre hors de leurs mainz, comment que ce soit, et senz
+paier pour ce à nous ne à nos successeurs aucune finance, quele que elle soit, jamaiz à nul jour, car la dite finance nous,
+de nostre grace et liberalité dessus dictes, par la teneur de ces lettres, donnons, quittonz et octroions au dit Geffroy et à sa dicte
+femme, pour euls et pour ceulz qui d'eulz auront cause à tous jours. Et volonz et octroionz au dit Geffroy et à
+sa dicte femme, pour euls et pour ceulz qui d'euls auront cause, que ces lettres et toutes les choses qui y sont contenues
+soient valables et aient leur plain effect et demeurent en leur vertu tout à plain perpetuelment, non obstans
+quelcunques autres dons et graces que nous ou nos predecesseurs aiens fais au dit Geffroy, à sa dicte
+femme, ou à leurs predecesseurs, en tout le temps passé, les quiex dons et graces nous tenons et reputons et volons
+estre tenuz et reputez pour tous esclarcis, tout ainsi comme s'il fussent expressement contenuz et escrips en ces lettres,
+non obstant qu'il n'y soient pas contenus Et non obstanz quelcunques ordenances et deffenses, generauls et
+especiauls, à ce contraires, les queles se aucune en y a, nous ostons, rappellons, abolissons et messons du tout au nyent quant 
+à ce que elles ne vaillent en aucune maniere contre les choses dessus dites ou contre aucune d'ycelles. Et pour ce que ces 
+choses soient fermes et valables à perpetuité, nous avons fait seeller ces lettres de nostre seel. Sauf en autres choses nostre 
+droit et en toutes l'autruy. Donné au Moncel emprez Pont Sainte Maxence, l'an de grace mil ccc. quarante et six,
+ou moiz de septembre .
+Parle roy. Verrière.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

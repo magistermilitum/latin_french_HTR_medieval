@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-09-18T14:52:51.418+07:00</Created>
+        <LastChange>2018-10-08T16:19:41.876+07:00</LastChange>
+        <TranskribusMetadata docId="87767" pageId="3598103" pageNr="640" tsid="5556385" status="NEW" userId="206" imgUrl="https://files.transkribus.eu/Get?id=MQRNVTDSBVSWSDZBJVUSCWTO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IFYOQAXIUJRDMTGTRVHMBHCN" imageId="1969844"/>
+    </Metadata>
+    <Page imageFilename="FRCHANJJ_JJ070_0040R_A.jpg" imageWidth="3723" imageHeight="5827">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1632851704229" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1538990123553_52"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1538990123553_52" custom="readingOrder {index:0;}">
+            <Coords points="212,4830 3424,4830 3424,5356 212,5356"/>
+            <TextLine id="line_1538990319123_53" custom="readingOrder {index:0;}">
+                <Coords points="281,4967 1013,4938 2096,4904 2156,4920 2679,4904 3340,4855 3343,4905 2681,4954 2150,4970 2090,4954 1015,4988 283,5017"/>
+                <Baseline points="283,5012 1015,4983 2091,4949 2151,4965 2681,4949 3343,4900"/>
+                <TextEquiv>
+                    <Unicode>Philippes, par la grace de Dieu, roys de France. Savoir faisons à tous, presens et avenir, que, comme pour ce que Estienne Hervé</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990323388_54" custom="readingOrder {index:1;}">
+                <Coords points="309,5065 1067,5042 2110,5013 3176,4980 3334,4978 3335,5028 3177,5030 2111,5063 1068,5092 310,5115"/>
+                <Baseline points="310,5110 1068,5087 2111,5058 3177,5025 3335,5023"/>
+                <TextEquiv>
+                    <Unicode>nous estoit tenuz en une certeinne somme d'argent, de la quelle il ne nous povoit satisfaire, nostre receveur de Tours ait fait</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990328606_55" custom="readingOrder {index:2;}">
+                <Coords points="291,5160 1470,5131 2874,5091 3336,5062 3339,5112 2876,5141 1471,5181 292,5210"/>
+                <Baseline points="292,5205 1471,5176 2876,5136 3339,5107"/>
+                <TextEquiv>
+                    <Unicode>mettre et crier en vente, pour nous poier de la dite somme, une maison que le dit Estienne avoit en la ville de Lodun, ou bourc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1538990331871_56" custom="readingOrder {index:3;}">
+                <Coords points="289,5249 1503,5234 2659,5209 3332,5171 3335,5221 2661,5259 1504,5284 290,5299"/>
+                <Baseline points="290,5294 1504,5279 2661,5254 3335,5216"/>
+                <TextEquiv>
+                    <Unicode>Sainte Croiz, tenant, d'une part, à la maison feu Perrequin et, d'autre part, à la maison Estienne le Huger, mouvant du chapitre de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Philippes, par la grace de Dieu, roys de France. Savoir faisons à tous, presens et avenir, que, comme pour ce que Estienne Hervé
+nous estoit tenuz en une certeinne somme d'argent, de la quelle il ne nous povoit satisfaire, nostre receveur de Tours ait fait
+mettre et crier en vente, pour nous poier de la dite somme, une maison que le dit Estienne avoit en la ville de Lodun, ou bourc
+Sainte Croiz, tenant, d'une part, à la maison feu Perrequin et, d'autre part, à la maison Estienne le Huger, mouvant du chapitre de</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
